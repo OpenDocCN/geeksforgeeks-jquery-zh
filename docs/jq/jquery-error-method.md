@@ -8,13 +8,13 @@ jQuery 中的 **error()方法**用于当一个元素遇到一个错误，即元�
 
 *   **在错误事件中增加功能:**
 
-    ```
+    ```html
     $(selector).error(function)
     ```
 
 *   **某些选定元素触发错误事件:**
 
-    ```
+    ```html
     $(selector).error()
     ```
 
@@ -24,7 +24,7 @@ jQuery 中的 **error()方法**用于当一个元素遇到一个错误，即元�
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ jQuery 中的 **error()方法**用于当一个元素遇到一个错误，即元�
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

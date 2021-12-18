@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge({
   values: [array],
   values: []
@@ -26,7 +26,7 @@ $('.selector').jqxBarGauge({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

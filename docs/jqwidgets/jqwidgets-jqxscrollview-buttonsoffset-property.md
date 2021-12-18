@@ -10,13 +10,13 @@
 
 *   设置*按钮设置*属性。
 
-    ```
+    ```html
     $('selector').jqxScrollView({ buttonsOffset: Number/String });
     ```
 
 *   返回*按钮设置*属性。
 
-    ```
+    ```html
     var buttonsOffset = 
         $('selector').jqxScrollView('buttonsOffset');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

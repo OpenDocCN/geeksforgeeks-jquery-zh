@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxValidator').on('validationSuccess', 
     function (event) { // Code section });
 ```
@@ -23,7 +23,7 @@ $('#jqxValidator').on('validationSuccess',
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxSplitter').on('expanded',  
 function (event) {        
    var panels = event.args.panels;
@@ -34,7 +34,7 @@ function (event) {
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

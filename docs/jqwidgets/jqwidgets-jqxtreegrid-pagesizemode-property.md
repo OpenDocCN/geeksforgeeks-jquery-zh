@@ -12,13 +12,13 @@
 
 *   设置**页面大小模式**属性:
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({pageSizeMode: "root" });  
     ```
 
 *   获取**页面大小模式**属性:
 
-    ```
+    ```html
     var pagerMode = $('#treeGrid').jqxTreeGrid('pagerMode'); 
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

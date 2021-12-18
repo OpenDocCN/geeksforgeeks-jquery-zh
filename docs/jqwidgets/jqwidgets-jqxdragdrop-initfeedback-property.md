@@ -10,7 +10,7 @@
 
 *   设置*初始化反馈*属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ initFeedback: function(feedback) { 
         feedback.width(300); 
     } });
@@ -18,7 +18,7 @@
 
 *   返回*初始化反馈*属性。
 
-    ```
+    ```html
     var initFeedback = $('selector').jqxDragDrop('initFeedback');
     ```
 
@@ -32,7 +32,7 @@
 
 ## <u>超文本标记语言</u>
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var getItemCoord = chartInstance.getItemCoord(0, 1, position);
 ```
 
@@ -23,7 +23,7 @@ var getItemCoord = chartInstance.getItemCoord(0, 1, position);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

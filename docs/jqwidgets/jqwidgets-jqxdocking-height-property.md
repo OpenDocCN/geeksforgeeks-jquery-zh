@@ -10,13 +10,13 @@
 
 *   **用于设置*高度*属性:**
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({height: 140});
     ```
 
 *   **对于获得*高度**T2***属性:**
 
-    ```
+    ```html
     var height = $('#jqxDocking').jqxDocking('height');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

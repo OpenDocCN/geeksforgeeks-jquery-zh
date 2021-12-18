@@ -10,13 +10,13 @@ showStrength 属性用于设置或返回显示密码强度的工具提示。它�
 
 设置“显示强度”属性。
 
-```
+```html
 $('selector').jqxPasswordInput({ showStrength: Boolean });
 ```
 
 返回 showStrength 属性。
 
-```
+```html
 var showStrength = $('selector').jqxPasswordInput('showStrength');
 ```
 
@@ -33,7 +33,7 @@ var showStrength = $('selector').jqxPasswordInput('showStrength');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

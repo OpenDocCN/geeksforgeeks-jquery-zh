@@ -8,19 +8,19 @@
 
 *   **返回文本语法:**
 
-    ```
+    ```html
     $(selector).text()
     ```
 
 *   **设置文本语法:**
 
-    ```
+    ```html
     $(selector).text(content)
     ```
 
 *   **使用功能设置文本:**
 
-    ```
+    ```html
     $(selector).text(function(index, currentcontent))
     ```
 
@@ -33,7 +33,7 @@
 
 **示例-1:** 设置文本语法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -74,7 +74,7 @@
 
 **示例-2:** 返回文本语法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -115,7 +115,7 @@
 
 **示例-3:** 使用函数设置文本。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

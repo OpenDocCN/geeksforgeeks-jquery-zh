@@ -5,7 +5,7 @@
 JQuery 中的这个**delivered . notifywith()**方法用于调用 delivered 对象上的 progress 回调以及提供的上下文和参数。
 **语法:**
 
-```
+```html
 deferred.notifyWith(context[, args])
 
 ```
@@ -20,7 +20,7 @@ deferred.notifyWith(context[, args])
 下面讨论两个例子:
 **例子-1:** 在这个例子中，我们用两个参数通知延迟对象，并在拒绝它之前处理任何 process 回调。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html>  
 <head> 
@@ -64,7 +64,7 @@ this, ['notifyWith() is called with arguments. <br />', '#GFG_DOWN']);
 
 **示例-2:** 在本例中，我们仅用一个参数通知延迟对象，并在解析它之前处理任何 process 回调。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html>  
 <head> 

@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxTagCloud').jqxTagCloud('updateAt', index, tagItem);
 ```
 
@@ -29,7 +29,7 @@ $('#jqxTagCloud').jqxTagCloud('updateAt', index, tagItem);
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

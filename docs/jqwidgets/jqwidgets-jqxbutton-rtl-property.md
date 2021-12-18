@@ -10,13 +10,13 @@
 
 设置 *rtl* 属性。
 
-```
+```html
 $('#jqxButton').jqxButton({rtl : true});  
 ```
 
 获得 *rtl* 房产。
 
-```
+```html
 var rtl = $('#jqxButton').jqxButton('rtl'); 
 ```
 
@@ -33,7 +33,7 @@ var rtl = $('#jqxButton').jqxButton('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

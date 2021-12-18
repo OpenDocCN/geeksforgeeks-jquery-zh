@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#dataTable").jqxDataTable('applyFilters');
 ```
 
@@ -23,7 +23,7 @@ $("#dataTable").jqxDataTable('applyFilters');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

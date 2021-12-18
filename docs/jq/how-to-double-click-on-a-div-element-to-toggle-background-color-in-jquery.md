@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).dblclick(function() {
     $(selector).toggleClass("element");
 })
@@ -16,7 +16,7 @@ $(selector).dblclick(function() {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

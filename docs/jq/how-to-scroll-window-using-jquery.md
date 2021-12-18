@@ -11,7 +11,7 @@
 
 **示例 1:** 本示例使用 **scrollTop()方法**滚动 HTML 文档。
 
-```
+```html
 <!DOCTYPE HTML>  
 <html>  
 
@@ -75,7 +75,7 @@
 
 **示例 2:** 本示例使用 **scrollTo()方法**滚动 HTML 文档。
 
-```
+```html
 <!DOCTYPE HTML>  
 <html>  
 

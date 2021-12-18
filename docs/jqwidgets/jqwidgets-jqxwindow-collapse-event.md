@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxWindow').on('collapse', function (event) { 
   // Some code here
 }); 
@@ -25,7 +25,7 @@ $('#jqxWindow').on('collapse', function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

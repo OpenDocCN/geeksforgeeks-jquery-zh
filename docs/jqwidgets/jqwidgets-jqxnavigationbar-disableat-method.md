@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxNavigationBar').jqxNavigationBar('disableAt', Index);
 ```
 
@@ -29,7 +29,7 @@ $('#jqxNavigationBar').jqxNavigationBar('disableAt', Index);
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

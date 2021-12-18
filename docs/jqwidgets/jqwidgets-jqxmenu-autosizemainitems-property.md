@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置自动设置维护项目属性。
 
-```
+```html
 $('selector').jqxMenu({ autoSizeMainItems: Boolean });
 ```
 
 返回 autoSizeMainItems 属性。
 
-```
+```html
 var itemsSize = $('selector').jqxMenu('autoSizeMainItems');
 ```
 
@@ -33,7 +33,7 @@ var itemsSize = $('selector').jqxMenu('autoSizeMainItems');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

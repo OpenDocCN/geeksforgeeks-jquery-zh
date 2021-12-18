@@ -5,7 +5,7 @@
 **兄弟()**是 jQuery 中的一个内置方法，用于查找所选元素的所有兄弟元素。兄弟元素是那些在 DOM 树中有相同父元素的元素。文档对象模型是一个万维网联盟标准。这是访问 DOM 树中元素的定义。
 **语法:**
 
-```
+```html
 $(selector).siblings(function)
 
 ```
@@ -19,7 +19,7 @@ $(selector).siblings(function)
 **Code #1:**
 In the below code, no parameter is passed to the siblings() function.
 
-```
+```html
 <html>
 
 <head>
@@ -64,7 +64,7 @@ In the below code, no parameter is passed to the siblings() function.
 **代码#2:**
 在下面的代码中，函数的一个可选参数用于过滤对兄弟的搜索。
 
-```
+```html
 <html>
 
 <head>

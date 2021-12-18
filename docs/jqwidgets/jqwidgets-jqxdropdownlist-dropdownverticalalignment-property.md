@@ -15,13 +15,13 @@ dropDownVerticalAlignment 属性用于设置或返回下拉列表的垂直对齐
 
 设置 dropDownVerticalAlignment 属性。
 
-```
+```html
 $('selector').jqxDropDownList({ dropDownVerticalAlignment: String });
 ```
 
 返回 dropDownVerticalAlignment 属性。
 
-```
+```html
 var DDVA = $('selector').jqxDropDownList('dropDownVerticalAlignment');
 ```
 
@@ -38,7 +38,7 @@ var DDVA = $('selector').jqxDropDownList('dropDownVerticalAlignment');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

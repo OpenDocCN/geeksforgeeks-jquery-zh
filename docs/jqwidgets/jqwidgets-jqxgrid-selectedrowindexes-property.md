@@ -10,13 +10,13 @@
 
 *   设置**selectedroundexes**属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ selectedrowindexes: [1, 2, 3]});
     ```
 
 *   返回**selectedroundexes**属性。
 
-    ```
+    ```html
     var selectedrowindexes = 
         $('#Selector').jqxGrid('selectedrowindexes');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

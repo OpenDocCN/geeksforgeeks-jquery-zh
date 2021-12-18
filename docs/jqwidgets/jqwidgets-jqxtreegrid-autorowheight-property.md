@@ -10,13 +10,13 @@
 
 要设置自动高度属性:
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({autoRowHeight: true});  
 ```
 
 要获取自动高度属性:
 
-```
+```html
 var autoRowHeight = $('#treeGrid').jqxTreeGrid('autoRowHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var autoRowHeight = $('#treeGrid').jqxTreeGrid('autoRowHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@ animationHideDuration 属性用于设置或返回隐藏动画的持续时间。�
 
 设置动画隐藏持续时间属性。
 
-```
+```html
 $('selector').jqxMenu({ animationHideDuration: Number });
 ```
 
 返回 animationHideDuration 属性。
 
-```
+```html
 var dur = $('selector').jqxMenu('animationHideDuration');
 ```
 
@@ -33,7 +33,7 @@ var dur = $('selector').jqxMenu('animationHideDuration');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

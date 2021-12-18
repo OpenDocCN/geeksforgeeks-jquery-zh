@@ -10,13 +10,13 @@
 
 设置*自动切换名称*属性。
 
-```
+```html
 $('selector').jqxTimePicker({ autoSwitchToMinutes: false });
 ```
 
 返回*自动切换名称*属性。
 
-```
+```html
 var autoSwitchToMinutes = $('selector').jqxTimePicker('autoSwitchToMinutes');
 ```
 
@@ -31,7 +31,7 @@ var autoSwitchToMinutes = $('selector').jqxTimePicker('autoSwitchToMinutes');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

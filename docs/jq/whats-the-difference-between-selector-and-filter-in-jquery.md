@@ -6,7 +6,7 @@
 
 **语法:**选择按钮标签的语法如下
 
-```
+```html
 $("button") 
 ```
 
@@ -14,7 +14,7 @@ $("button")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -52,7 +52,7 @@ $("button")
 
 **语法:**
 
-```
+```html
 $(selector).filter(criteria, function(index))
 ```
 
@@ -60,7 +60,7 @@ $(selector).filter(criteria, function(index))
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

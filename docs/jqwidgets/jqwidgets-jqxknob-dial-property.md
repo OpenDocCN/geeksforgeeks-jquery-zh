@@ -10,7 +10,7 @@
 
 *   **要设置*拨盘*属性:**
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({dial: {
         innerRadius: '5%',
         outerRadius: '50%',
@@ -29,7 +29,7 @@
 
 *   **要获取*拨号*属性:**
 
-    ```
+    ```html
     var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('dial');
     ```
 
@@ -43,7 +43,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

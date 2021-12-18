@@ -6,7 +6,7 @@ scroll()是 jQuery 中的一个内置方法，用于用户在指定的元素中�
 
 **语法:**
 
-```
+```html
 $(selector).scroll(function)
 ```
 
@@ -17,7 +17,7 @@ $(selector).scroll(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

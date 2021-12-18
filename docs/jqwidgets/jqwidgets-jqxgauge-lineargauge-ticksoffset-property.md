@@ -10,13 +10,13 @@
 
 *   它用于设置 ticksOffset 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ rangeSize: array });
 ```
 
 *   它用于返回 ticksOffset 属性。
 
-```
+```html
 var ticksOffset = $('Selector').jqxLinearGauge('ticksOffset ');
 ```
 
@@ -31,7 +31,7 @@ var ticksOffset = $('Selector').jqxLinearGauge('ticksOffset ');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

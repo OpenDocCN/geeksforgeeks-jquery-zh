@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```html
 (selector).animate({styles}, para1, para2, para3);
 ```
 
@@ -21,7 +21,7 @@
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -102,7 +102,7 @@
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

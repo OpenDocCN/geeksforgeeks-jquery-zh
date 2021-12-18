@@ -10,7 +10,7 @@
 
 *   用于设置 ***onSuccess*** 属性。
 
-    ```
+    ```html
     $('#jqxValidator').jqxValidator({ 
       onSuccess: function () {
         $("#log").html('The form has been filled correctly.');
@@ -20,7 +20,7 @@
 
 *   获得 ***成功*** 属性。
 
-    ```
+    ```html
     var onError = 
         $('#jqxValidator').jqxValidator('onSuccess');
     ```
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

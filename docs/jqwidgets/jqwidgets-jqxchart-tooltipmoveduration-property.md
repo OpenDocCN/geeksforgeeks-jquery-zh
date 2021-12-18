@@ -10,12 +10,12 @@
 
 *   **设置*工具提示移动持续时间*属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ toolTipMoveDuration : number});
     ```** 
 *   **返回*工具提示移动持续时间*属性。
 
-    ```
+    ```html
     var toolTipMoveDuration = 
         $('Selector').jqxChart('toolTipMoveDuration');
     ```** 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

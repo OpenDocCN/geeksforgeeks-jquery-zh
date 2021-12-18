@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```html
 $.fn.myFunction = function(){}
 ```
 
@@ -15,7 +15,7 @@ $.fn.myFunction = function(){}
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 
@@ -67,7 +67,7 @@ $.fn.myFunction = function(){}
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 

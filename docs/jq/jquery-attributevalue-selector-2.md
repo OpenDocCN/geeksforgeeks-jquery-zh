@@ -5,7 +5,7 @@
 **$(“[属性* =值]”)**用于选择属性参数指定的属性包含值参数指定的词的所有元素。
 **语法:**
 
-```
+```html
 $("[attribute*='value']")
 ```
 
@@ -19,7 +19,7 @@ $("[attribute*='value']")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -88,7 +88,7 @@ $("[attribute*='value']")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

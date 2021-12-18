@@ -10,13 +10,13 @@
 
 设置*显示文本*属性。
 
-```
+```html
 $('selector').jqxProgressBar({ showText: Boolean });
 ```
 
 返回*显示文本*属性。
 
-```
+```html
 var showText = $('selector').jqxProgressBar('showText');
 ```
 
@@ -28,7 +28,7 @@ var showText = $('selector').jqxProgressBar('showText');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

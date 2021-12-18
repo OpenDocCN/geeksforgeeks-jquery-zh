@@ -8,7 +8,7 @@ jQuery UI disable()方法用于禁用日期选择器。
 
 **语法:**
 
-```
+```html
 $( ".selector" ).datepicker( "disable" )
 ```
 
@@ -24,7 +24,7 @@ $( ".selector" ).datepicker( "disable" )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

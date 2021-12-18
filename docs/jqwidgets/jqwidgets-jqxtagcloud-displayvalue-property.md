@@ -10,12 +10,12 @@
 
 *   **用于设置*显示值*属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ displayValue: true });
     ```** 
 *   **用于获取*显示值*属性。
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'displayValue' });
     ```** 
 
@@ -29,7 +29,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

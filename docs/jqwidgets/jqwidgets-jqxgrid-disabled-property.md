@@ -10,13 +10,13 @@
 
 *   设置**禁用**属性。
 
-```
+```html
 $('#Selector').jqxGrid({ disabled: true});
 ```
 
 *   返回**禁用的**属性。
 
-```
+```html
 var disabled = $('#Selector').jqxGrid('disabled');
 ```
 
@@ -33,7 +33,7 @@ var disabled = $('#Selector').jqxGrid('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的这个 **isNumeric()** 方法用来确定它的参数是否代表�
 
 **语法:**
 
-```
+```html
 jQuery.isNumeric( value )
 
 ```
@@ -21,7 +21,7 @@ jQuery.isNumeric( value )
 
 **示例 1:** 在本例中， **isNumeric()方法**检查一个值，看它是否是数字。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -60,7 +60,7 @@ jQuery.isNumeric( value )
 
 **示例 2:** 在本例中， **isNumeric()方法**还会检查一个值，看它是否是数字。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

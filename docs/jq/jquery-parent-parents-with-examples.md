@@ -5,7 +5,7 @@
 **parent()** 是 jQuery 中的一个内置方法，用于查找与所选元素相关的父元素。jQuery 中的 parent()方法遍历所选元素的单个层次并返回该元素。
 **语法:**
 
-```
+```html
 $(selector).parent()
 
 ```
@@ -15,7 +15,7 @@ $(selector).parent()
 **返回值:**返回所选元素的父元素。
 **显示该功能工作的 jQuery 代码:**
 
-```
+```html
 <html>
 
 <head>
@@ -65,7 +65,7 @@ $(selector).parent()
 **parents()** 是 jQuery 中的一个内置方法，用于查找与所选元素相关的所有父元素。jQuery 中的 parents()方法遍历所选元素的所有级别，并返回所有元素。
 **语法:**
 
-```
+```html
 $(selector).parents()
 
 ```
@@ -75,7 +75,7 @@ $(selector).parents()
 **返回值:**返回所选元素的所有父元素。
 **显示该功能工作的 jQuery 代码:**
 
-```
+```html
 <html>
 
 <head>

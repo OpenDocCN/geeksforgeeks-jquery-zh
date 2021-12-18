@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#Selector").on('cellbeginedit', function (event) {
    // Arguments of the event
    var args = event.args;
@@ -38,7 +38,7 @@ $("#Selector").on('cellbeginedit', function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $(selector).live(event,function)
 ```
 
@@ -21,7 +21,7 @@ $(selector).live(event,function)
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 
 <head>
@@ -64,7 +64,7 @@ live()方法**
 
 ****语法:****
 
-```
+```html
 $(selector).bind(event,function)
 ```
 
@@ -77,7 +77,7 @@ $(selector).bind(event,function)
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 
 <head>
@@ -119,7 +119,7 @@ $(selector).bind(event,function)
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 
 <head>

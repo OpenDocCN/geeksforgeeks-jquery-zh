@@ -10,7 +10,7 @@ snapToTicks 属性用于设置或返回滑块是否会与主要刻度和次要�
 
 设置快照打包属性。
 
-```
+```html
 $('selector').jqxRangeSelector({ 
     snapToTicks: Boolean 
 });
@@ -18,7 +18,7 @@ $('selector').jqxRangeSelector({
 
 返回快照打包属性。
 
-```
+```html
 var snapToTicks = $('selector')
     .jqxRangeSelector('snapToTicks');
 ```
@@ -36,7 +36,7 @@ var snapToTicks = $('selector')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

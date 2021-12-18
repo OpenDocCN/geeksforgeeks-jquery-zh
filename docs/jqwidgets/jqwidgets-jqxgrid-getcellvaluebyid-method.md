@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var value = $("#Selector").jqxGrid(
     'getcellvaluebyid', rowID, "dataField");
 ```
@@ -33,7 +33,7 @@ var value = $("#Selector").jqxGrid(
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -22,13 +22,13 @@
 
 *   设置*搜索模式*属性。
 
-    ```
+    ```html
     $('selector').jqxTextArea({ searchMode: String });
     ```
 
 *   返回*搜索模式*属性。
 
-    ```
+    ```html
     var searchMode = $('selector').jqxTextArea('searchMode');
     ```
 
@@ -45,7 +45,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

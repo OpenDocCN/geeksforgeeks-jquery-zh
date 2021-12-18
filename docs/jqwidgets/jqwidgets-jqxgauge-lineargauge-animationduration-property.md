@@ -10,13 +10,13 @@
 
 设置动画持续时间属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ animationDuration : number });  
 ```
 
 返回动画持续时间属性。
 
-```
+```html
 var anDur = $('Selector').jqxLinearGauge('animationDuration');
 ```
 
@@ -31,7 +31,7 @@ var anDur = $('Selector').jqxLinearGauge('animationDuration');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 要设置 *allowDrop* 属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({allowDrop:true}); 
 ```
 
 要获取 *allowDrop* 属性:
 
-```
+```html
 var allowDrop = $('#jqxListBox').jqxListBox('allowDrop'); 
 ```
 
@@ -33,7 +33,7 @@ var allowDrop = $('#jqxListBox').jqxListBox('allowDrop');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

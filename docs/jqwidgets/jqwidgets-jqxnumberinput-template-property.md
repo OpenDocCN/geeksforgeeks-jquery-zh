@@ -19,13 +19,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置模板属性。
 
-```
+```html
 $('selector').jqxNumberInput({ template: String });
 ```
 
 返回模板属性。
 
-```
+```html
 var template = $('selector').jqxNumberInput('template');
 ```
 
@@ -42,7 +42,7 @@ var template = $('selector').jqxNumberInput('template');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

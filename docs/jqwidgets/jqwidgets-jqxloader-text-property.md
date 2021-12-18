@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置文本属性。
 
-```
+```html
 $('selector').jqxLoader({ text: String });
 ```
 
 返回文本属性。
 
-```
+```html
 var text = $('selector').jqxLoader('text');
 ```
 
@@ -33,7 +33,7 @@ var text = $('selector').jqxLoader('text');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

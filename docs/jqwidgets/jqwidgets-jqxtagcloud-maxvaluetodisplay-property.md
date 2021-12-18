@@ -10,13 +10,13 @@
 
 *   设置 *maxValueToDisplay* 属性:
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ maxValueToDisplay: 15 });
     ```
 
 *   要获取 *maxValueToDisplay* 属性:
 
-    ```
+    ```html
     var value = $('#jqxTagCloud')
         .jqxTagCloud({ 'maxValueToDisplay' });
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

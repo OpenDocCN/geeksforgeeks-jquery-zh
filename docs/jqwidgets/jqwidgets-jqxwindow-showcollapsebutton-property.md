@@ -10,13 +10,13 @@
 
 *   设置*显示折叠按钮*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ showCollapseButton: true });  
 ```
 
 *   获取*显示折叠按钮*属性。
 
-```
+```html
 var showCollapseButton = $('#jqxWindow').jqxWindow('showCollapseButton'); 
 ```
 
@@ -31,7 +31,7 @@ var showCollapseButton = $('#jqxWindow').jqxWindow('showCollapseButton');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

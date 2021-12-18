@@ -6,7 +6,7 @@ jQuery 中的**参数()方法**用于创建对象的序列化表示。
 
 **语法:**
 
-```
+```html
 $.param( object, trad )
 ```
 
@@ -17,7 +17,7 @@ $.param( object, trad )
 
 **示例 1:** 本示例使用 param()方法创建对象的序列化表示。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -72,7 +72,7 @@ $.param( object, trad )
 
 **示例 2:** 本示例使用 param()方法创建对象的序列化表示。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

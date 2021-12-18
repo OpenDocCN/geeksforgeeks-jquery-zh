@@ -10,13 +10,13 @@
 
 设置标签的*属性。*
 
-```
+```html
 *$('Selector').jqxSwitchButton({ offLabel:'OFF' });* 
 ```
 
 *获取标签属性的*。**
 
-```
+```html
 *var offLabel = $('Selector').jqxSwitchButton('offLabel');*
 ```
 
@@ -30,7 +30,7 @@
 
 ## *超文本标记语言*
 
-```
+```html
 *<!DOCTYPE html>
 <html lang="en">
   <head>

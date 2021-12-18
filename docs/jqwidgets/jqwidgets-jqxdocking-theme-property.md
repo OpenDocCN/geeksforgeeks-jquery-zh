@@ -10,13 +10,13 @@
 
 *   用于设置 ***主题*** 属性:
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({theme: 'energyblue'});  
     ```
 
 *   获取 ***主题*** 属性:
 
-    ```
+    ```html
     var rtl = $('#jqxDocking').jqxDocking('theme');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

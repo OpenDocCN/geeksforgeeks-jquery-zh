@@ -22,7 +22,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxTree({ source: Object_data });
 ```
 
@@ -39,7 +39,7 @@ $('selector').jqxTree({ source: Object_data });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

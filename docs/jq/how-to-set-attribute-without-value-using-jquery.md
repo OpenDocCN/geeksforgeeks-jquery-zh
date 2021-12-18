@@ -7,7 +7,7 @@
 
 *   **语法:**
 
-```
+```html
 .attr(attribute-name, value to be passed)
 ```
 
@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -63,7 +63,7 @@
 
 *   **语法:**
 
-```
+```html
 prop(para1, para2)
 ```
 
@@ -71,7 +71,7 @@ prop(para1, para2)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -156,7 +156,7 @@ prop(para1, para2)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

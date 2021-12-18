@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*多选*属性。
 
-```
+```html
 $('selector').jqxComboBox({ multiSelect: Boolean });
 ```
 
 返回*多选*属性。
 
-```
+```html
 var multiSelect = $('selector').jqxComboBox('multiSelect');
 ```
 
@@ -34,7 +34,7 @@ var multiSelect = $('selector').jqxComboBox('multiSelect');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

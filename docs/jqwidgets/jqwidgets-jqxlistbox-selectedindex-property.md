@@ -10,13 +10,13 @@
 
 要设置*选择索引*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({selectedIndex: 2 }); 
 ```
 
 要获取*选择索引*属性:
 
-```
+```html
 var selectedIndex = $('#jqxListBox').jqxListBox('selectedIndex'); 
 ```
 
@@ -33,7 +33,7 @@ var selectedIndex = $('#jqxListBox').jqxListBox('selectedIndex');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

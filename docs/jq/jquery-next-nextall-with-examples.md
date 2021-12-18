@@ -7,7 +7,7 @@
 **next()** 是 jQuery 中的一个内置函数，用于返回所选元素的下一个同级。兄弟是那些在 DOM 树中有相同父元素的元素。文档对象模型是一个万维网联盟标准。这定义了访问 DOM 树中的元素。
 **语法:**
 
-```
+```html
 $(selector).next()
 
 ```
@@ -19,7 +19,7 @@ $(selector).next()
 
 **Code #1:**
 
-```
+```html
 <html>
 
 <head>
@@ -68,7 +68,7 @@ $(selector).next()
 **nextAll()** 是 jQuery 中的一个内置方法，用于返回所选元素的所有下一个兄弟元素。
 **语法:**
 
-```
+```html
 $(selector).nextAll()
 
 ```
@@ -80,7 +80,7 @@ $(selector).nextAll()
 
 **Code #2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

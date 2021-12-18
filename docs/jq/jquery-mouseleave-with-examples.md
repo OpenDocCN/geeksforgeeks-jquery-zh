@@ -6,7 +6,7 @@ mouseleave()方法是 jQuery 中的一个内置方法，当鼠标指针离开所
 
 **语法:**
 
-```
+```html
 $(selector).mouseleave(function)
 ```
 
@@ -18,7 +18,7 @@ $(selector).mouseleave(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

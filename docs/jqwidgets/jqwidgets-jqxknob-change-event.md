@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqx_Knob').on('change', function(event) {
     $("#log").html("Changed value is " 
     + event.args.value);
@@ -26,7 +26,7 @@ $('#jqx_Knob').on('change', function(event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

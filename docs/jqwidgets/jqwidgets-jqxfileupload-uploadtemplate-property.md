@@ -10,13 +10,13 @@
 
 *   设置*上传模板*属性:
 
-    ```
+    ```html
     $('Selector').jqxFileUpload({ uploadTemplate : string });
     ```
 
 *   返回*上传模板*属性:
 
-    ```
+    ```html
     var uploadTemplate = 
         $('Selector').jqxFileUpload('uploadTemplate');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

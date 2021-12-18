@@ -6,7 +6,7 @@ jQuery 中的这个 **trim()** 方法用于删除字符串开头和结尾的空�
 
 **语法:**
 
-```
+```html
 jQuery.trim( str )
 ```
 
@@ -19,7 +19,7 @@ jQuery.trim( str )
 下面的示例说明了 **trim()方法**在 jQuery 中的使用:
 **示例 1:** 在本示例中， **trim()方法**删除了字符串开头和结尾的制表符和空格。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ jQuery.trim( str )
 
 **示例 2:** 在本例中，**修剪()方法**从多折线中移除空白。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

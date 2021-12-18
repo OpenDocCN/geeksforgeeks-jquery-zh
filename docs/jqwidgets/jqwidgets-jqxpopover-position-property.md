@@ -10,13 +10,13 @@
 
 *   设置*位置*属性:
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({position: 'right'});
     ```
 
 *   获取*位置*属性:
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover').jqxPopover('position');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

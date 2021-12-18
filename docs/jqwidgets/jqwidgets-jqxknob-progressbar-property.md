@@ -10,7 +10,7 @@
 
 *   设置*进度栏*属性:
 
-```
+```html
 $('#jqxKnob').jqxKnob({progressBar: {
     style: {
         fill: 'yellow',
@@ -24,7 +24,7 @@ $('#jqxKnob').jqxKnob({progressBar: {
 
 *   要获取 *progressBar* 属性:
 
-```
+```html
 var allowValueChangeOnClick = 
     $('#jqxKnob').jqxKnob('progressBar');
 ```
@@ -48,7 +48,7 @@ var allowValueChangeOnClick =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

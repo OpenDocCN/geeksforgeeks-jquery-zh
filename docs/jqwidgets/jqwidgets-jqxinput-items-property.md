@@ -10,13 +10,13 @@
 
 设置*项*属性。
 
-```
+```html
 $('selector').jqxInput({ items: Number });
 ```
 
 返回*项*属性。
 
-```
+```html
 var items = $('selector').jqxInput('items');
 ```
 
@@ -31,7 +31,7 @@ var items = $('selector').jqxInput('items');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

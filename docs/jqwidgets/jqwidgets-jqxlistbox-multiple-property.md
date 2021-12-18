@@ -10,13 +10,13 @@
 
 要设置*多个*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({multiple: true}); 
 ```
 
 要获得多个属性:
 
-```
+```html
 var multiple = $('#jqxListBox').jqxListBox('multiple'); 
 ```
 
@@ -33,7 +33,7 @@ var multiple = $('#jqxListBox').jqxListBox('multiple');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

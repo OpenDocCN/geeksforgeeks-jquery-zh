@@ -10,13 +10,13 @@
 
 *   设置 *dropAction* 属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ dropAction: 'none' });
     ```
 
 *   返回 *dropAction* 属性。
 
-    ```
+    ```html
     var dropAction = $('selector').jqxDragDrop('dropAction');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

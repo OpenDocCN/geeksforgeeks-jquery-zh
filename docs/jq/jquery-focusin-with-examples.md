@@ -5,7 +5,7 @@
 **focusin()** 是 jQuery 中的一个内置方法，用于获得对所选元素的关注。
 **语法:**
 
-```
+```html
 $(selector).focusin(function);
 ```
 
@@ -17,7 +17,7 @@ $(selector).focusin(function);
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 
 <head>
@@ -73,7 +73,7 @@ $(selector).focusin(function);
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 
 <head>

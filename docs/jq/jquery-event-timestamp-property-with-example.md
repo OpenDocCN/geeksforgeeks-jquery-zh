@@ -5,7 +5,7 @@
 **事件.时间戳**是 jQuery 中的一个内置属性，用于测量浏览器创建的事件时间和 1970 年 1 月 1 日之间的毫秒差。
 **语法:**
 
-```
+```html
 event.timeStamp
 
 ```
@@ -15,7 +15,7 @@ event.timeStamp
 
 **显示事件工作的 jQuery 代码. timeStamp 属性:**
 
-```
+```html
 <html>
 
 <head>

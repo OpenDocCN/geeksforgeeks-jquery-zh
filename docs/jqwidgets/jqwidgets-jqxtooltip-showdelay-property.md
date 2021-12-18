@@ -10,13 +10,13 @@
 
 设置*显示延迟*属性。
 
-```
+```html
 $('Selector').jqxTooltip({ showDelay: Number });
 ```
 
 返回*显示延迟*属性。
 
-```
+```html
 var showDelay = $('Selector').jqxTooltip('showDelay');
 ```
 
@@ -32,7 +32,7 @@ var showDelay = $('Selector').jqxTooltip('showDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

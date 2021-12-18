@@ -10,13 +10,13 @@
 
 设置 value 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ value : number});
 ```
 
 返回 value 属性。
 
-```
+```html
 var value = $('Selector').jqxLinearGauge('value ');
 ```
 
@@ -31,7 +31,7 @@ var value = $('Selector').jqxLinearGauge('value ');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

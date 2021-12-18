@@ -10,13 +10,13 @@
 
 *   **设置 *showSplitBar* 属性:**
 
-    ```
+    ```html
     $('#jqxSplitter').jqxSplitter({ showSplitBar: true });
     ```
 
 *   **要获取 *showSplitBar* 属性:**
 
-    ```
+    ```html
     var disabled = $('#jqxSplitter').jqxSplitter('showSplitBar');
     ```
 
@@ -30,7 +30,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

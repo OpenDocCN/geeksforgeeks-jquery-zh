@@ -10,13 +10,13 @@
 
 *   设置**描述**属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ description: string });
     ```
 
 *   返回**描述**属性。
 
-    ```
+    ```html
     var description = $('Selector').jqxChart('description');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

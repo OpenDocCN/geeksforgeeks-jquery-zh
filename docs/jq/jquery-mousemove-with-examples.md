@@ -5,7 +5,7 @@
 mousemove()方法是 jQuery 中的一个内置方法，当鼠标指针移动到所选元素上时使用。
 **语法:**
 
-```
+```html
 $(selector).mousemove(function)
 ```
 
@@ -17,7 +17,7 @@ $(selector).mousemove(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

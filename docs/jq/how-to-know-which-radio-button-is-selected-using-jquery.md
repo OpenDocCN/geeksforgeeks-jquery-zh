@@ -8,14 +8,14 @@
 
 **语法:**
 
-```
+```html
 $('input[name=option]:checked', 'formName').val()
 ```
 
 这在下面的示例中显示。
 **例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

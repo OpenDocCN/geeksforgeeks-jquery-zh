@@ -10,13 +10,13 @@
 
 *   它用于设置 xAxis 属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ xAxis : array});
     ```
 
 *   它用于返回 xAxis 属性。
 
-    ```
+    ```html
     var xAxis = $('Selector').jqxHeatMap('xAxis');
     ```
 
@@ -37,7 +37,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

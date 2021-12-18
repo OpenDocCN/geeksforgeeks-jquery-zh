@@ -10,13 +10,13 @@
 
 设置*打开延迟*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ openDelay: Number });
 ```
 
 返回 *openDelay* 属性。
 
-```
+```html
 var openDelay = $('selector').jqxDropDownList('openDelay');
 ```
 
@@ -31,7 +31,7 @@ var openDelay = $('selector').jqxDropDownList('openDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@
 
 ****语法:****
 
-```
+```html
 functionName();
 ```
 
@@ -19,7 +19,7 @@ functionName();
 
 ****示例 1:** 在本例中，我们将在函数一的末尾修复(硬编码)一个回调函数。**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -85,7 +85,7 @@ functionName();
 ![](img/d446a60d209de89f125aa5d700c520dc.png)
 **在控制台点击按钮后:****
 
-```
+```html
 Button clicked!
 First Function start
 First Function end
@@ -95,7 +95,7 @@ Second Function end
 
 ****示例 2:** 在这个示例中，我们将一个回调函数作为参数传递给函数一，这样它就可以在执行结束时调用这个新的回调函数。任务是先执行 callbackSecond 函数，然后执行 callback second 函数。首先将 callbackSecond 作为参数传递给回调。**
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -153,7 +153,7 @@ Second Function end
 ![](img/32a3361f9b8dc0aec01872b22cab7636.png)
 **在控制台点击按钮后:****
 
-```
+```html
 Button clicked!
 First Function start
 First Function end

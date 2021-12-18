@@ -10,13 +10,13 @@
 
 *   用于设置*拖动开始角度*属性。
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({dragStartAngle: 60 });
     ```
 
 *   获取*dragstarangle*房产。
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('dragStartAngle');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

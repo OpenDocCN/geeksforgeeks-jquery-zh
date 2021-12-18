@@ -5,7 +5,7 @@
 **removeData()** 是 jQuery 中的一个内置方法，用于**移除之前用 Data()方法设置的那些数据。**
 **语法:**
 
-```
+```html
 $(selector).removeData(args);
 
 ```
@@ -19,7 +19,7 @@ $(selector).removeData(args);
 **Code #1:**
 In the below code, the data get removed by removeData() method set by the data() method.
 
-```
+```html
 <html>
 
 <head>

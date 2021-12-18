@@ -6,7 +6,7 @@ prependTo()方法是 jQuery 中的一个内置方法，用于**在所选元素�
 
 **语法:**
 
-```
+```html
 $(content).prepend(selector)
 ```
 
@@ -21,7 +21,7 @@ $(content).prepend(selector)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

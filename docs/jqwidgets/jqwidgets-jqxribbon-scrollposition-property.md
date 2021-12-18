@@ -16,13 +16,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 scrollPosition 属性。
 
-```
+```html
 $('selector').jqxRibbon({ scrollPosition: String });
 ```
 
 返回 scrollPosition 属性。
 
-```
+```html
 var scrollPosition = $('selector').jqxRibbon('scrollPosition');
 ```
 
@@ -39,7 +39,7 @@ var scrollPosition = $('selector').jqxRibbon('scrollPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

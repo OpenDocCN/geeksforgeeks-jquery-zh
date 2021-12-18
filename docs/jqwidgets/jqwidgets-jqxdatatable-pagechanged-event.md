@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#dataTable').on('pageChanged',  
 function (event)
 {
@@ -34,7 +34,7 @@ function (event)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

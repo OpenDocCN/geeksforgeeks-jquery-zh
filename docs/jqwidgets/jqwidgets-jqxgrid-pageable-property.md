@@ -10,13 +10,13 @@
 
 设置*可分页*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ pageable: true});
 ```
 
 返回*可分页*属性:
 
-```
+```html
 var pageable = $('#Selector').jqxGrid('pageable');
 ```
 
@@ -31,7 +31,7 @@ var pageable = $('#Selector').jqxGrid('pageable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

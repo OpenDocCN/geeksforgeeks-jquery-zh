@@ -15,13 +15,13 @@ dropDownHorizontalAlignment 属性用于设置或返回下拉列表的对齐方�
 
 设置 dropDownHorizontalAlignment 属性。
 
-```
+```html
 $('selector').jqxDropDownList({ dropDownHorizontalAlignment: String });
 ```
 
 返回 dropDownHorizontalAlignment 属性。
 
-```
+```html
 var DDHA = $('selector').jqxDropDownList('dropDownHorizontalAlignment');
 ```
 
@@ -38,7 +38,7 @@ var DDHA = $('selector').jqxDropDownList('dropDownHorizontalAlignment');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

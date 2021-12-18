@@ -10,14 +10,14 @@
 
 设置值:
 
-```
+```html
 $("Selector").jqxRating('val', Number);
 $("Selector").val(Number);
 ```
 
 返回值:
 
-```
+```html
 var value = $("Selector").jqxRating('val');
 var value = $("Selector").val();
 ```
@@ -35,7 +35,7 @@ var value = $("Selector").val();
 
 ## 超文本标记语言
 
-```
+```html
 <html>
   <head>
     <link rel="stylesheet" 

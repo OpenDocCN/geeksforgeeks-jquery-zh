@@ -6,13 +6,13 @@
 
 **逼近**:首先，我们需要获取一个页面中所有的复选框元素。我们可以使用以下 jQuery 调用获得所有复选框:
 
-```
+```html
 $('input[type=checkbox]')
 ```
 
 接下来，我们可以使用 jQuery 每个函数来迭代每个复选框，
 
-```
+```html
 each(function (index, checkbox){
      if (index != 0) {
      checkbox.checked = false;
@@ -26,7 +26,7 @@ each(function (index, checkbox){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

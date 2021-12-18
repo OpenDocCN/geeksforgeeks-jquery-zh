@@ -10,13 +10,13 @@
 
 设置*源*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ source: array });
 ```
 
 返回*源*属性。
 
-```
+```html
 var source = $('selector').jqxDropDownList('source');
 ```
 
@@ -31,7 +31,7 @@ var source = $('selector').jqxDropDownList('source');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

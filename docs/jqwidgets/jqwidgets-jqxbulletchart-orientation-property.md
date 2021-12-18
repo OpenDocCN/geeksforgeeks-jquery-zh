@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBulletChart({
     orientation: string
 });

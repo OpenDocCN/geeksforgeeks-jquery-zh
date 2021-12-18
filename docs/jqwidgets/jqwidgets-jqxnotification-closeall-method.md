@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxNotification('closeAll');
 ```
 
@@ -23,7 +23,7 @@ $('Selector').jqxNotification('closeAll');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

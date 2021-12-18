@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).die(event, function) 
 ```
 
@@ -17,7 +17,7 @@ $(selector).die(event, function)
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -75,7 +75,7 @@ $(selector).die(event, function)
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

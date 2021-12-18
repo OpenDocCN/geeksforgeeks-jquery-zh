@@ -11,7 +11,7 @@ jQuery 开发人员面临的最常见错误之一是“$未定义”错误。起
 
 ## java 描述语言
 
-```
+```html
 // ReferenceError: num is not defined
 num;
 
@@ -34,7 +34,7 @@ data;
 
 ## java 描述语言
 
-```
+```html
 //reference error
 process();
 
@@ -60,7 +60,7 @@ process();
 
 ## java 描述语言
 
-```
+```html
 <script src="/lib/jquery.min.js"></script>
 <script src="/lib/jquery.plugin.js"></script>
 ```
@@ -73,7 +73,7 @@ process();
 
 ## java 描述语言
 
-```
+```html
 //an external CDN link
 <script src=
 "https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">

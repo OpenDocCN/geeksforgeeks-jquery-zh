@@ -10,13 +10,13 @@ scrollsstep 属性用于设置或返回滚动步骤。它接受数字类型值�
 
 设置 scrollStep 属性。
 
-```
+```html
 $('selector').jqxRibbon({ scrollStep: Number });
 ```
 
 返回 scrollStep 属性。
 
-```
+```html
 var scrollStep = $('selector').jqxRibbon('scrollStep');
 ```
 
@@ -33,7 +33,7 @@ var scrollStep = $('selector').jqxRibbon('scrollStep');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置高度属性。
 
-```
+```html
 $('selector').jqxTextArea({ height: Number/String });
 ```
 
 返回高度属性。
 
-```
+```html
 var height = $('selector').jqxTextArea('height');
 ```
 
@@ -35,7 +35,7 @@ var height = $('selector').jqxTextArea('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,7 +10,7 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 Query JavaScript 库实现�
 
 *   **用 out 回调函数初始化可排序小部件:**
 
-    ```
+    ```html
     $(".selector").selectable({
         out: function( event, ui ) {}
     });
@@ -18,7 +18,7 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 Query JavaScript 库实现�
 
 *   **将事件侦听器绑定到排序事件:**
 
-    ```
+    ```html
     $( ".selector" ).on( "sortout", function( event, ui ) {} );
     ```
 
@@ -43,7 +43,7 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 Query JavaScript 库实现�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

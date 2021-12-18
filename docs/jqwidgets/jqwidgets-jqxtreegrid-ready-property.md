@@ -10,13 +10,13 @@
 
 *   要设置**就绪**属性:
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({ready:function()});
     ```
 
 *   为获取**准备好**属性:
 
-    ```
+    ```html
     var ready = $('#treeGrid').jqxTreeGrid('ready');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

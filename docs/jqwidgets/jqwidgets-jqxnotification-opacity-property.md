@@ -10,13 +10,13 @@
 
 设置不透明度属性。
 
-```
+```html
 $('Selector').jqxNotification({ opacity : number});
 ```
 
 返回不透明度属性。
 
-```
+```html
 var opacity = $('Selector').jqxNotification('opacity');
 ```
 
@@ -31,7 +31,7 @@ var opacity = $('Selector').jqxNotification('opacity');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

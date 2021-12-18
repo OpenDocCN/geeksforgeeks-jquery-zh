@@ -19,7 +19,7 @@
 
 **语法:**
 
-```
+```html
 var items = $('selector').jqxComboBox('getVisibleItems');
 ```
 
@@ -37,7 +37,7 @@ var items = $('selector').jqxComboBox('getVisibleItems');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

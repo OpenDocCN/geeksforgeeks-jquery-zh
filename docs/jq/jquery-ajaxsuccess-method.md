@@ -6,7 +6,7 @@ jQuery 中的 **ajaxSuccess()方法**用于指定当 **AJAX 请求成功完成�
 
 **语法:**
 
-```
+```html
 $(document).ajaxSuccess(function(event, xhr, options))
 ```
 
@@ -19,13 +19,13 @@ $(document).ajaxSuccess(function(event, xhr, options))
 存储在服务器上的 demo.txt 文件，点击**更改内容**按钮后加载。
 T3
 
-```
+```html
 This is GFG.
 ```
 
 **示例 1:** 本示例通过从服务器获取数据来更改< p >元素的内容。当 AJAX 请求成功完成时，页面显示 **AJAX 请求成功完成。**。
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -77,7 +77,7 @@ This is GFG.
 
 **示例 2:** 本示例通过从服务器获取数据来更改< h1 >元素的内容。当 AJAX 请求成功完成时，页面显示 **AJAX 请求成功完成。**。
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

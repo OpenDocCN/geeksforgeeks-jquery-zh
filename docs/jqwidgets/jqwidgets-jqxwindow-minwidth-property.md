@@ -10,13 +10,13 @@
 
 设置 minWidth 属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ minWidth: '65px' });  
 ```
 
 获取最小宽度属性。
 
-```
+```html
 var minWidth = $('#jqxWindow').jqxWindow('minWidth'); 
 ```
 
@@ -31,7 +31,7 @@ var minWidth = $('#jqxWindow').jqxWindow('minWidth');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

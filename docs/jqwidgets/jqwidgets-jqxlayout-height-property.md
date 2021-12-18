@@ -10,13 +10,13 @@
 
 *   **用于设置*高度*属性。**
 
-    ```
+    ```html
     $("#jqxLayout").jqxLayout({ height: 200 });
     ```
 
 *   **获取*高度*属性。**
 
-    ```
+    ```html
     var height = $('#jqxLayout').jqxLayout('height');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

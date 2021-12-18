@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxListBox').jqxListBox('clearFilter'); 
 ```
 
@@ -23,7 +23,7 @@ $('#jqxListBox').jqxListBox('clearFilter');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

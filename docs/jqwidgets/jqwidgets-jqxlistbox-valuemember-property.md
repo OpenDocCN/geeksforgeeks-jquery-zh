@@ -10,13 +10,13 @@
 
 要设置*值成员*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({valueMember: 'lastName'});
 ```
 
 要获取*值成员*属性:
 
-```
+```html
 var valueMember = $('#jqxListBox').jqxListBox('valueMember'); 
 ```
 
@@ -31,7 +31,7 @@ var valueMember = $('#jqxListBox').jqxListBox('valueMember');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

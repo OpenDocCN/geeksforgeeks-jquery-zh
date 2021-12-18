@@ -6,7 +6,7 @@ jQuery 是一个非常强大的工具，它可以帮助我们结合多种 DOM �
 **eq()方法**是 jQuery 中的一种内置方法，用于直接定位所选元素，并返回具有特定索引的元素。
 **语法:**
 
-```
+```html
 $(selector).eq(index)
 ```
 
@@ -22,7 +22,7 @@ T4【注:
 **Code #1:**
 Below code will select the specified elements.
 
-```
+```html
 <html>
 
 <head>
@@ -52,7 +52,7 @@ Below code will select the specified elements.
 **代码#2:**
 下面的代码会选择指定的负指数元素。
 
-```
+```html
 <html>
 
 <head>

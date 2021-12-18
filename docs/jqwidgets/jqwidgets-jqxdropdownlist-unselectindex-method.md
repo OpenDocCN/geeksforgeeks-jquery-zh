@@ -8,7 +8,7 @@ unselectIndex()方法用于通过使用索引号来取消选择项目。它接�
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('unselectIndex', index);
 ```
 
@@ -25,7 +25,7 @@ $("Selector").jqxDropDownList('unselectIndex', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

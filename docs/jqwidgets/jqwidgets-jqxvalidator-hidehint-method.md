@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxValidator').jqxValidator('hideHint', 'Input');
 ```
 
@@ -29,7 +29,7 @@ $('#jqxValidator').jqxValidator('hideHint', 'Input');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

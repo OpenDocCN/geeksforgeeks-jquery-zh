@@ -5,7 +5,7 @@
 **切片()**是 jQuery 中的一个内置方法，用于根据元素的索引选择元素的子集。子集是一个集合，它可能是一个大集合的一部分。
 **语法:**
 
-```
+```html
 $(selector).slice(para1, para2)
 
 ```
@@ -19,7 +19,7 @@ $(selector).slice(para1, para2)
 
 **显示 slice()方法工作情况的 jQuery 代码:**
 
-```
+```html
 <html>
 
 <head>

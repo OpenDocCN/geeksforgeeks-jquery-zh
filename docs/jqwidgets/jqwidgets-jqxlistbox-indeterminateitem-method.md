@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('indeterminateItem', item);
 ```
 
@@ -27,7 +27,7 @@ $("#jqxListBox").jqxListBox('indeterminateItem', item);
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

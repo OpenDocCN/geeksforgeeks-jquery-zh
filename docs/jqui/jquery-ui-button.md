@@ -5,21 +5,21 @@
 通过 jQuery UI 框架，让我们学习如何使用 jQuery UI **button()** 方法设计可操作的直观按钮，以及管理与之相关的选项、动作、事件和鼠标移动。这些按钮在网页设计项目中非常有用，在这些项目中，用户界面应该是高度交互的。
 **语法:**
 
-```
+```html
 $(selector, context).button(options)
 ```
 
 *选项*参数负责按钮的设计或外观及其行为。
 如果要提供多个选项，您可以使用逗号将它们分开，如下所示:
 
-```
+```html
 $(selector, context).button ({option1: value1, 
        option2: value2, option3: value3...})
 ```
 
 **按钮()**方法也可以处理按钮上的动作，如下所示:
 
-```
+```html
  $(selector, context).button ("action", [parameters]);
 ```
 
@@ -36,7 +36,7 @@ $(selector, context).button ({option1: value1,
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -90,7 +90,7 @@ $(selector, context).button ({option1: value1,
 
 ## java 描述语言
 
-```
+```html
 <script>
     $(function () {
         $("#buttonId, #submitId, #anchorId")
@@ -109,7 +109,7 @@ $(selector, context).button ({option1: value1,
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -169,7 +169,7 @@ $(selector, context).button ({option1: value1,
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -233,7 +233,7 @@ $(selector, context).button ({option1: value1,
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -304,7 +304,7 @@ $(selector, context).button ({option1: value1,
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -410,7 +410,7 @@ $(selector, context).button ({option1: value1,
 
     ## 超文本标记语言
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

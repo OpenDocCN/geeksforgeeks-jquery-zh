@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#treeGrid").jqxTreeGrid('addRow', rowKey, {rowData}, rowPosition);
 ```
 
@@ -31,7 +31,7 @@ $("#treeGrid").jqxTreeGrid('addRow', rowKey, {rowData}, rowPosition);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

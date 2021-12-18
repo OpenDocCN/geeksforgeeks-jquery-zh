@@ -10,13 +10,13 @@
 
 **要设置 altRows 属性:**
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({altRows: true}); 
 ```
 
 **要获得 altRows 属性:**
 
-```
+```html
 var altRows = $('#treeGrid').jqxTreeGrid('altRows'); 
 ```
 
@@ -30,7 +30,7 @@ var altRows = $('#treeGrid').jqxTreeGrid('altRows');
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

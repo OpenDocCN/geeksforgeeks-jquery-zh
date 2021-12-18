@@ -10,13 +10,13 @@
 
 设置*显示当前行*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ showeverpresentrow: true});
 ```
 
 返回*显示当前行*属性:
 
-```
+```html
 var showeverpresentrow = 
     $('#Selector').jqxGrid('showeverpresentrow');
 ```
@@ -32,7 +32,7 @@ var showeverpresentrow =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

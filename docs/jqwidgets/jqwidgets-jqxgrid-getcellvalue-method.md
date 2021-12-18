@@ -8,7 +8,7 @@ j **QWidgets** 是一个 JavaScript 框架，用于为 PC 和移动设备制作�
 
 **语法:**
 
-```
+```html
 var value = $("#Selector").jqxGrid(
     'getcellvalue', rowBoundIndex, "dataField");
 ```
@@ -31,7 +31,7 @@ var value = $("#Selector").jqxGrid(
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,7 +10,7 @@
 
 *   **设置*动画关闭延迟*属性。**
 
-    ```
+    ```html
     $('Selector').jqxNotification({ 
         animationCloseDelay: number/string
     });
@@ -18,7 +18,7 @@
 
 *   **返回*动画关闭延迟*属性。**
 
-    ```
+    ```html
     var animationCloseDelay = $('Selector')
         .jqxNotification('animationCloseDelay ');
     ```
@@ -33,7 +33,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置 *rtl* 属性。
 
-```
+```html
 $('#dataTable').jqxDataTable({rtl : true});  
 ```
 
 归还 *rtl* 房产。
 
-```
+```html
 var rtl = $('#dataTable').jqxDataTable('rtl'); 
 ```
 
@@ -31,7 +31,7 @@ var rtl = $('#dataTable').jqxDataTable('rtl');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

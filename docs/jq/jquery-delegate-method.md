@@ -6,7 +6,7 @@ jQuery 中的**委托()方法**用于向指定的元素添加一个或多个事�
 
 **语法**
 
-```
+```html
 $(selector).delegate( childSelector, event, data, function )
 ```
 
@@ -19,7 +19,7 @@ $(selector).delegate( childSelector, event, data, function )
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -68,7 +68,7 @@ $(selector).delegate( childSelector, event, data, function )
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

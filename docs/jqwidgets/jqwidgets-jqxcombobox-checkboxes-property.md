@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*复选框*属性。
 
-```
+```html
 $('selector').jqxComboBox({ checkboxes: Boolean });
 ```
 
 返回*复选框*属性。
 
-```
+```html
 var checkboxes = $('selector').jqxComboBox('checkboxes');
 ```
 
@@ -34,7 +34,7 @@ var checkboxes = $('selector').jqxComboBox('checkboxes');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

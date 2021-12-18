@@ -10,13 +10,13 @@
 
 ****设置 ***工具栏高度*** 属性:****
 
-```
+```html
 **$('#treeGrid').jqxTreeGrid({toolbarHeight: 25});** 
 ```
 
 ****返回 ***工具栏高度*** 属性:****
 
-```
+```html
 **var toolbarHeight = $('#treeGrid').jqxTreeGrid('toolbarHeight');** 
 ```
 
@@ -30,7 +30,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

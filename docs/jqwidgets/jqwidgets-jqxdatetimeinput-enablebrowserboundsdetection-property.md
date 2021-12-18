@@ -10,13 +10,13 @@ enableBrowserBoundsDetection 属性用于在输入字段上方打开弹出日历
 
 设置 enableBrowserBoundsDetection 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ enableBrowserBoundsDetection: Boolean });
 ```
 
 返回 enableBrowserBoundsDetection 属性。
 
-```
+```html
 var EBBD = $('selector').jqxDateTimeInput('enableBrowserBoundsDetection');
 ```
 
@@ -33,7 +33,7 @@ var EBBD = $('selector').jqxDateTimeInput('enableBrowserBoundsDetection');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

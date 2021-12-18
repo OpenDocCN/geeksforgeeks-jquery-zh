@@ -10,13 +10,13 @@
 
 设置*页面模式*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({pagerMode: "advanced"});
 ```
 
 获取*页面模式*属性:
 
-```
+```html
 var pagerMode = $('#dataTable').jqxDataTable('pagerMode');
 ```
 
@@ -31,7 +31,7 @@ var pagerMode = $('#dataTable').jqxDataTable('pagerMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

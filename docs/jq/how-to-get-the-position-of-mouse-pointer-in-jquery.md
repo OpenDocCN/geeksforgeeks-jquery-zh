@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 event.pageX
 event.pageY
 ```
@@ -17,7 +17,7 @@ event.pageY
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

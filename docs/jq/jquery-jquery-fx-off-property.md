@@ -6,7 +6,7 @@ jQuery 中的 **jQuery.fx.off 属性**用于全局禁用/启用所有动画。�
 
 **语法:**
 
-```
+```html
 jQuery.fx.off = true|false;
 ```
 
@@ -17,7 +17,7 @@ jQuery.fx.off = true|false;
 
 **示例:**本示例使用 jQuery.fx.off 属性禁用动画。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -86,7 +86,7 @@ jQuery.fx.off = true|false;
 
 **示例 2:** 本示例使用 jQuery.fx.off 属性来禁用和启用动画。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

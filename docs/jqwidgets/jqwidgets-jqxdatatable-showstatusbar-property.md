@@ -10,13 +10,13 @@
 
 设置 *showStatusbar* 属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({showStatusbar: true});  
 ```
 
 要获取 *showStatusbar* 属性:
 
-```
+```html
 var showStatusbar = $('#dataTable').jqxDataTable('showStatusbar'); 
 ```
 
@@ -31,7 +31,7 @@ var showStatusbar = $('#dataTable').jqxDataTable('showStatusbar');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的 **toArray()方法**用于将 jQuery 选择器匹配的元素作为
 
 **语法**
 
-```
+```html
 $(selector).toArray()
 ```
 
@@ -14,7 +14,7 @@ $(selector).toArray()
 
 **例 1:** 该方法使用 toArray()方法以数组的形式显示段落。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -70,7 +70,7 @@ $(selector).toArray()
 
 **示例 2:** 本示例使用 toArray()方法显示数组元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

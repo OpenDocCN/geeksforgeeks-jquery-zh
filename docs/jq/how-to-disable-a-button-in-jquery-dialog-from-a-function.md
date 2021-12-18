@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).dialog();
 $(selector).prop('disabled', true);
 ```
@@ -21,7 +21,7 @@ $(selector).prop('disabled', true);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -104,7 +104,7 @@ $(selector).prop('disabled', true);
 
 **语法:**
 
-```
+```html
 $(selector).dialog();
 $(selector).attr('disabled', true);
 ```
@@ -113,7 +113,7 @@ $(selector).attr('disabled', true);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

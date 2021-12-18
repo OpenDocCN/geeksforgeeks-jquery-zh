@@ -10,13 +10,13 @@
 
 *   用于设置**页面高度**属性:
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({ pagerHeight: 40 });  
     ```
 
 *   获取**页面高度**属性:
 
-    ```
+    ```html
     var pagerHeight = $('#treeGrid').jqxTreeGrid('pagerHeight'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

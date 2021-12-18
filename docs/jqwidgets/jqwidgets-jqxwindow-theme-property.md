@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxWindow').jqxWindow({ theme: 'energyblue' });  
 ```
 
@@ -23,7 +23,7 @@ $('#jqxWindow').jqxWindow({ theme: 'energyblue' });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

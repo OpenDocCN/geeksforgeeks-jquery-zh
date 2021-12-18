@@ -10,28 +10,28 @@ jQuery 方法用于更改**元素标识**，描述如下:
 
     *   **返回属性的值:**
 
-        ```
+        ```html
         $(selector).attr(attribute)
 
         ```
 
     *   **设置属性和值:**
 
-    ```
+    ```html
     $(selector).attr(attribute, value)
 
     ```
 
 *   **使用功能设置属性和值:**
 
-    ```
+    ```html
     $(selector).attr(attribute, function(index, currentvalue))
 
     ```
 
 *   **设置多个属性和值:**
 
-    ```
+    ```html
     $(selector).attr({attribute:value, attribute:value, ...})
 
     ```
@@ -50,28 +50,28 @@ jQuery 方法用于更改**元素标识**，描述如下:
 
     *   **返回房产价值:**
 
-        ```
+        ```html
         $(selector).prop(property)
 
         ```
 
     *   **设置属性和值:**
 
-        ```
+        ```html
         $(selector).prop(property, value)
 
         ```
 
     *   **使用函数设置属性和值:**
 
-    ```
+    ```html
     $(selector).prop(property, function(index, currentvalue))
 
     ```
 
     *   **Set multiple properties and values:**
 
-    ```
+    ```html
     $(selector).prop({property:value, property:value, ...})
 
     ```
@@ -86,7 +86,7 @@ jQuery 方法用于更改**元素标识**，描述如下:
 
     **示例 1:** 本示例使用 **attr()方法**更改元素的 **ID** 并将背景颜色更改为红色。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html> 
         <head> 
@@ -168,7 +168,7 @@ jQuery 方法用于更改**元素标识**，描述如下:
 
     **示例 2:** 本示例使用 **prop()方法**更改元素的 **ID** 并将背景颜色更改为红色。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html> 
         <head> 

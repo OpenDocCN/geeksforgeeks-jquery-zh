@@ -10,13 +10,13 @@
 
 设置 *imgSrc* 属性:
 
-```
+```html
 $('#jqxButton').jqxButton({ imgSrc: 'gfg.png' }); 
 ```
 
 获取 *imgSrc* 属性:
 
-```
+```html
 var imgSrc = $('#jqxButton').jqxButton('imgSrc');
 ```
 
@@ -31,7 +31,7 @@ var imgSrc = $('#jqxButton').jqxButton('imgSrc');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

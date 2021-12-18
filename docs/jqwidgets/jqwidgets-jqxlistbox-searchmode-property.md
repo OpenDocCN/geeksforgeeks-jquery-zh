@@ -22,13 +22,13 @@
 
 要设置*搜索模式*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({searchMode: 'contains' }); 
 ```
 
 要获取*搜索模式*属性:
 
-```
+```html
 var searchMode = $('#jqxListBox').jqxListBox('searchMode');  
 ```
 
@@ -43,7 +43,7 @@ var searchMode = $('#jqxListBox').jqxListBox('searchMode');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

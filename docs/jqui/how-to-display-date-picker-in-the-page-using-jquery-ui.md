@@ -8,13 +8,13 @@
 
 我们需要一个输入元素，然后我们将调用 jQuery 日期选择器函数。
 
-```
+```html
 <input type="text" id="dob">
 ```
 
 在代码的脚本部分，调用 **datepicker()** 函数来实例化 datepicker 小部件。
 
-```
+```html
 <script>
     $("#dob").datepicker();
 </script>
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -78,7 +78,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

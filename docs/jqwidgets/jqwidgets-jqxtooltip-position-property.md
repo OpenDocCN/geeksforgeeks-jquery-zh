@@ -25,13 +25,13 @@
 
 设置*位置*属性。
 
-```
+```html
 $('Selector').jqxTooltip({ position: String });
 ```
 
 返回*位置*属性。
 
-```
+```html
 var position = $('Selector').jqxTooltip('position');
 ```
 
@@ -47,7 +47,7 @@ var position = $('Selector').jqxTooltip('position');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 showFooter 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ showFooter: Boolean });
 ```
 
 返回 showFooter 属性。
 
-```
+```html
 var showFooter = $('selector').jqxDateTimeInput('showFooter');
 ```
 
@@ -33,7 +33,7 @@ var showFooter = $('selector').jqxDateTimeInput('showFooter');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

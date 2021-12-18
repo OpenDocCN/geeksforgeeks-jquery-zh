@@ -8,19 +8,19 @@ jQuery 中的 **html()方法**用于设置或返回选中元素的 innerHTML 内
 
 *   它返回第一个匹配元素的内容。
 
-    ```
+    ```html
     $(selector).html()
     ```
 
 *   它设置匹配元素的内容。
 
-    ```
+    ```html
     $(selector).html(content)
     ```
 
 *   它设置内容使用功能。
 
-    ```
+    ```html
     $(selector).html(function(index, currentcontent))
     ```
 
@@ -35,7 +35,7 @@ jQuery 中的 **html()方法**用于设置或返回选中元素的 innerHTML 内
 
 **示例 1:** 本示例将内容设置为元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -79,7 +79,7 @@ jQuery 中的 **html()方法**用于设置或返回选中元素的 innerHTML 内
 
 **示例 2:** 本示例返回元素的第一个匹配项。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -122,7 +122,7 @@ jQuery 中的 **html()方法**用于设置或返回选中元素的 innerHTML 内
 
 **示例 3:** 本示例使用功能设置内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

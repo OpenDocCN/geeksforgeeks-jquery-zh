@@ -10,13 +10,13 @@
 
 要设置*多重扩展*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({multipleextended: true}); 
 ```
 
 要获得*多重扩展*属性:
 
-```
+```html
 var multipleextended = 
     $('#jqxListBox').jqxListBox('multipleextended'); 
 ```
@@ -36,7 +36,7 @@ var multipleextended =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

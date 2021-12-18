@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxScrollBar').on('valueChanged', function (event)  
 {
    var currentValue = event.currentValue;  
@@ -27,7 +27,7 @@ $('#jqxScrollBar').on('valueChanged', function (event)
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

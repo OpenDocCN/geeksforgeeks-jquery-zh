@@ -14,7 +14,7 @@
 
 ****语法:****
 
-```
+```html
 columnGroups: [{
     name: "Group",
     align: "center",
@@ -32,7 +32,7 @@ columnGroups: [{
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

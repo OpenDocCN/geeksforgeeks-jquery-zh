@@ -17,13 +17,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 promptChar 属性。
 
-```
+```html
 $('selector').jqxNumberInput({ promptChar: Char });
 ```
 
 返回 promptChar 属性。
 
-```
+```html
 var promptChar = $('selector').jqxNumberInput('promptChar');
 ```
 
@@ -40,7 +40,7 @@ var promptChar = $('selector').jqxNumberInput('promptChar');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

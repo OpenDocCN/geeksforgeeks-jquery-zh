@@ -10,13 +10,13 @@ autoUpload 属性用于设置或返回文件在被选中时是否自动上传。
 
 设置自动上传属性。
 
-```
+```html
 $('Selector').jqxFileUpload({ autoUpload: boolean });
 ```
 
 返回自动上传属性。
 
-```
+```html
 var autoUpload = $('Selector').jqxFileUpload('autoUpload ');
 ```
 
@@ -31,7 +31,7 @@ var autoUpload = $('Selector').jqxFileUpload('autoUpload ');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

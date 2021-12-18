@@ -6,7 +6,7 @@ jQuery UI 可排序小部件禁用选项用于禁用可排序元素，如果它�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).sortable({
   disabled: true
 });
@@ -21,7 +21,7 @@ $( ".selector" ).sortable({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

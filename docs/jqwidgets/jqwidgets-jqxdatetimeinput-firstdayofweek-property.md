@@ -10,13 +10,13 @@ firstDayOfWeek 属性用于设置或返回第一天列中是否显示哪一天�
 
 设置 firstDayOfWeek 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ firstDayOfWeek: Number });
 ```
 
 返回 firstDayOfWeek 属性。
 
-```
+```html
 var firstDayOfWeek = $('selector').jqxDateTimeInput('firstDayOfWeek');
 ```
 
@@ -33,7 +33,7 @@ var firstDayOfWeek = $('selector').jqxDateTimeInput('firstDayOfWeek');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

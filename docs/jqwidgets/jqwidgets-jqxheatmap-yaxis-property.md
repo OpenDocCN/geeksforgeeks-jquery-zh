@@ -10,13 +10,13 @@
 
 *   它用于设置 yAxis 属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ yAxis : array});
     ```
 
 *   它是用来归还雅西的财产的。
 
-    ```
+    ```html
     var yAxis = $('Selector').jqxHeatMap('yAxis');
     ```
 
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

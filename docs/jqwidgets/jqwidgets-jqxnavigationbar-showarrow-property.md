@@ -10,13 +10,13 @@
 
 *   ****设置*显示箭头*属性:****
 
-    ```
+    ```html
     **$('Selector').jqxNavigationBar({ showArrow: false });** 
     ```
 
 *   ****获取*显示箭头*属性:****
 
-    ```
+    ```html
     **var showArrow = 
         $('Selector').jqxNavigationBar('showArrow');**
     ```
@@ -31,7 +31,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

@@ -18,7 +18,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('addItem', String );
 ```
 
@@ -33,7 +33,7 @@ $("Selector").jqxDropDownList('addItem', String );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,7 +10,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 tooltipFormatFunction 属性。
 
-```
+```html
 $('selector').jqxSlider({ 
     tooltipFormatFunction: function(value) {
         return new Number(value).toPrecision(2); 
@@ -20,7 +20,7 @@ $('selector').jqxSlider({
 
 返回 tooltipFormatFunction 属性。
 
-```
+```html
 var tooltipFormatFunction = 
     $('selector').jqxSlider('tooltipFormatFunction');
 ```
@@ -38,7 +38,7 @@ var tooltipFormatFunction =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

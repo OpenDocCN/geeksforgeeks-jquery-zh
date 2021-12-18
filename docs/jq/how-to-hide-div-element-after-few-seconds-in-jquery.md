@@ -11,7 +11,7 @@
 
 **示例 1:** 在本例中， **setTimeOut()方法**用于为 **fadeOut()方法提供延迟。**
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
     <head> 
@@ -82,7 +82,7 @@
 
 **示例 2:** 在本例中，**延迟()方法**用于向**淡出()方法提供延迟。**
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
     <head> 

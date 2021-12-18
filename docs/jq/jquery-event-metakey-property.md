@@ -5,7 +5,7 @@
 jQuery 中的**事件元键**属性用于识别元键是否被按下。下面讨论两个例子。
 **语法:**
 
-```
+```html
 event.metaKey
 ```
 
@@ -13,7 +13,7 @@ event.metaKey
 
 **示例 1:** 在本示例中，键入<输入>元素并查看结果。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -65,7 +65,7 @@ event.metaKey
 
 **示例 2:** 从文档中的任意位置按下任意按钮，查看结果。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

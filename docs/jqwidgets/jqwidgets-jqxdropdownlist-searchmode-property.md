@@ -22,13 +22,13 @@
 
 设置*搜索模式*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ searchMode: String });
 ```
 
 返回*搜索模式*属性。
 
-```
+```html
 var searchMode = $('selector').jqxDropDownList('searchMode');
 ```
 
@@ -43,7 +43,7 @@ var searchMode = $('selector').jqxDropDownList('searchMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@ jqxBarGauge 表示一个 jQuery 条形图工具，它为给定的值绘制条形
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge({
     values: [array], 
     max: number,
@@ -29,7 +29,7 @@ $('.selector').jqxBarGauge({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

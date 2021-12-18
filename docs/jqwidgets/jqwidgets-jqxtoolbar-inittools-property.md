@@ -10,7 +10,7 @@
 
 *   设置*初始化工具*属性。
 
-    ```
+    ```html
     $('#Selector').jqxToolBar({
         initTools: function (type, index, tool, menuToolIninitialization) {}
     });
@@ -18,7 +18,7 @@
 
 *   返回*初始化工具*属性。
 
-    ```
+    ```html
     var displayFormat = $('#Selector').jqxToolBar('initTools');
     ```
 
@@ -42,7 +42,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

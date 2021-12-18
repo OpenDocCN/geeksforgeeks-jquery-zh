@@ -10,13 +10,13 @@
 
 设置*列大小*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({columnsResize: true });
 ```
 
 获取*列大小*属性:
 
-```
+```html
 var columnsResize = $('#dataTable').jqxDataTable('columnsResize');
 ```
 
@@ -31,7 +31,7 @@ var columnsResize = $('#dataTable').jqxDataTable('columnsResize');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

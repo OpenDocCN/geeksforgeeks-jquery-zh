@@ -10,14 +10,14 @@
 
 设置*拖动区域*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ dragArea: { 
     left:300, top:300, width:600, height:600 }});  
 ```
 
 获取*拖动区域*属性:
 
-```
+```html
 var dragArea = $('#jqxWindow').jqxWindow('dragArea'); 
 ```
 
@@ -32,7 +32,7 @@ var dragArea = $('#jqxWindow').jqxWindow('dragArea');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

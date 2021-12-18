@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 ("parent > child")
 ```
 
@@ -19,7 +19,7 @@
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <h1><center>Geeks </center></h1>
@@ -68,7 +68,7 @@
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 
 <html>

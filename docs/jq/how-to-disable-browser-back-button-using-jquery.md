@@ -10,7 +10,7 @@
 
 ## index.html
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -48,7 +48,7 @@
 
 ## test2.html
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

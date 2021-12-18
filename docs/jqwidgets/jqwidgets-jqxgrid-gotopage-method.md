@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxGrid('gotopage', pageNumber);
 ```
 
@@ -29,7 +29,7 @@ $('#Selector').jqxGrid('gotopage', pageNumber);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   用于设置宽松属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ easing : string});
 ```
 
 *   用于归还宽松财产。
 
-```
+```html
 var easing = $('Selector').jqxLinearGauge('easing');
 ```
 
@@ -40,7 +40,7 @@ var easing = $('Selector').jqxLinearGauge('easing');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

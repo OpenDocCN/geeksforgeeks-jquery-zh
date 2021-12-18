@@ -10,13 +10,13 @@
 
 设置复选框属性。
 
-```
+```html
 $('selector').jqxDropDownList({ checkboxes: Boolean });
 ```
 
 返回复选框属性。
 
-```
+```html
 var checkboxes = $('selector').jqxDropDownList('checkboxes');
 ```
 
@@ -33,7 +33,7 @@ var checkboxes = $('selector').jqxDropDownList('checkboxes');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

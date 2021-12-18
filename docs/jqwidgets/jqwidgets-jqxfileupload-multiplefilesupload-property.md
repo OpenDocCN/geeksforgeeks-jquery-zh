@@ -10,13 +10,13 @@
 
 *   设置*多文件上传*属性。
 
-    ```
+    ```html
     $('Selector').jqxFileUpload({ multipleFilesUpload : boolean });
     ```
 
 *   返回*多文件上传*属性。
 
-    ```
+    ```html
     var multipleFilesUpload = 
         $('Selector').jqxFileUpload('multipleFilesUpload');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

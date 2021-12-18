@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置工具提示属性。
 
-```
+```html
 $('selector').jqxSlider({ tooltip: Boolean });
 ```
 
 返回工具提示属性。
 
-```
+```html
 var tooltip = $('selector').jqxSlider('tooltip');
 ```
 
@@ -33,7 +33,7 @@ var tooltip = $('selector').jqxSlider('tooltip');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   它用于设置 dropOnEmpty 属性。
 
-    ```
+    ```html
     $('Selector').jqxSortable({ dropOnEmpty : boolean });
     ```
 
 *   它用于返回 dropOnEmpty 属性。
 
-    ```
+    ```html
     var dropOnEmpty = $('Selector').jqxSortable('dropOnEmpty');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

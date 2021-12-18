@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("p").on("mouseover", function() {
     $(this).css("color", "red");
 });
@@ -18,7 +18,7 @@ $("p").on("mouseover", function() {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <script src=

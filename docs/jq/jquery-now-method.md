@@ -6,7 +6,7 @@ jQuery 中的这个 **now()** 方法用来返回一个代表当前时间的数�
 
 **语法:**
 
-```
+```html
 jQuery.now()
 
 ```
@@ -17,7 +17,7 @@ jQuery.now()
 
 **例 1:** 在本例中， **now()方法** a 用 **innerHTML** 功能显示毫秒数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -55,7 +55,7 @@ jQuery.now()
 
 **例 2:** 在本例中， **now()方法** a 用**提醒**功能显示毫秒数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

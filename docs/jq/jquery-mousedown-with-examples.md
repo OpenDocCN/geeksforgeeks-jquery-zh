@@ -5,7 +5,7 @@
 mousedown()方法是 jQuery 中的一个内置方法，当鼠标左键在选定的元素上按下时，该方法工作。
 **语法:**
 
-```
+```html
 $(selector).mousedown(function)
 ```
 
@@ -17,7 +17,7 @@ $(selector).mousedown(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

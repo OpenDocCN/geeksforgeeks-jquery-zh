@@ -12,21 +12,21 @@
     **语法:**
     *   **返回文字内容:**
 
-        ```
+        ```html
         $(selector).text()
 
         ```
 
     *   **设置文字内容:**
 
-```
+```html
 $(selector).text(content)
 
 ```
 
 *   **Set text content using a function:**
 
-    ```
+    ```html
     $(selector).text(function(index, curContent))
 
     ```
@@ -40,7 +40,7 @@ $(selector).text(content)
     This method gradually changes the opacity, for selected elements, from visible to hidden (fading effect).
     **Syntax:**
 
-    ```
+    ```html
     $(selector).fadeOut(speed, easing, callback)
 
     ```
@@ -60,7 +60,7 @@ $(selector).text(content)
     This method adds one or more event handlers for the selected elements and child elements.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).on(event, childSelector, data, function, map)
 
     ```
@@ -76,7 +76,7 @@ $(selector).text(content)
     This method removes the selected elements, including all text and child nodes along with the data and events of the selected elements.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).remove(selector)
 
     ```
@@ -87,7 +87,7 @@ $(selector).text(content)
 
     **示例 1:** 在本示例中， **div 元素**在**淡出效果**持续 300 毫秒后被移除。
 
-    ```
+    ```html
     <!DOCTYPE HTML>
     <html>
 
@@ -151,7 +151,7 @@ $(selector).text(content)
 
     **例 2:** 本例与前面类似。在本例中， **div 元素**在**淡出效果**300 毫秒后以不同的方式被移除。
 
-    ```
+    ```html
     <!DOCTYPE HTML>
     <html>
 

@@ -6,13 +6,13 @@
 
 **语法**
 
-```
+```html
 $().jquery
 ```
 
 **示例:**返回版本号。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

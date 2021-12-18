@@ -10,13 +10,13 @@
 
 *   用于设置*禁用*属性。
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({disabled: true });
     ```
 
 *   获得*禁用*属性。
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('disabled');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

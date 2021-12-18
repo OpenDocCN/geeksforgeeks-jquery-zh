@@ -10,13 +10,13 @@
 
 *   设置“显示工具栏”属性。
 
-    ```
+    ```html
     $('Selector').jqxScheduler({ showToolbar: false });
     ```
 
 *   返回“显示工具栏”属性。
 
-    ```
+    ```html
     var showToolbar = $('Selector').jqxScheduler('showToolbar');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

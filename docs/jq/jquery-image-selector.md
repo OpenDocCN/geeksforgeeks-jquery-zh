@@ -5,7 +5,7 @@
 **:图像选择器**用于选择类型等于图像的输入元素。
 **语法:**
 
-```
+```html
 $(":image")
 ```
 
@@ -14,7 +14,7 @@ $(":image")
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -45,7 +45,7 @@ $(document).ready(function(){
 ![](img/908baed324a261160b6841f9aa4f2b4b.png)
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

@@ -7,7 +7,7 @@ jQuery 中的 **unload()** 方法用于用户尝试导航离开当前网页时�
 
 **语法:**
 
-```
+```html
 $(selector).unload(function)
 
 ```
@@ -18,7 +18,7 @@ $(selector).unload(function)
 
 **示例-1:** 本示例描述了点击链接时卸载事件的触发。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -67,7 +67,7 @@ $(selector).unload(function)
 
 **示例-2:** 本示例描述了点击链接时卸载事件的触发。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

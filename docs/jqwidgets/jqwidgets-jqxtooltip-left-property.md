@@ -10,13 +10,13 @@
 
 *设置*左侧*属性。*
 
-```
+```html
 *$('Selector').jqxTooltip({ left: Number/String });*
 ```
 
 *返回左侧*属性。**
 
-```
+```html
 **var left = $('Selector').jqxTooltip('left');**
 ```
 
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

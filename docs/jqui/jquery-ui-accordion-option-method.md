@@ -6,7 +6,7 @@ jQuery UI option()方法用于检查方法是否返回一个布尔值，该值�
 
 **语法:**
 
-```
+```html
 var a = $( ".selector" ).accordion( "option" )
 ```
 
@@ -22,7 +22,7 @@ var a = $( ".selector" ).accordion( "option" )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

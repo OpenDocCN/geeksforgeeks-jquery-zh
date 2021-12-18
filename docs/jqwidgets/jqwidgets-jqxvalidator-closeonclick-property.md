@@ -10,13 +10,13 @@
 
 *   用于设置 ***收尾点击*** 属性。
 
-    ```
+    ```html
     $('#jqxValidator').jqxValidator({ closeOnClick: true });
     ```
 
 *   为获得***收尾点击*** 属性。
 
-    ```
+    ```html
     var closeOnClick = 
         $('#jqxValidator').jqxValidator('closeOnClick');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxWindow').on('resizing', function (event) {
     // Some code here
 }); 
@@ -27,7 +27,7 @@ $('#jqxWindow').on('resizing', function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 
 <head>

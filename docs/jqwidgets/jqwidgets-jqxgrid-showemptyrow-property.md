@@ -10,13 +10,13 @@
 
 *   **设置 *showemptyrow* 属性。**
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ showemptyrow: false});
     ```
 
 *   **返回 *showemptyrow* 属性。**
 
-     **```
+     **```html
     var showemptyrow = $('#Selector').jqxGrid('showemptyrow');
     ```** 
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

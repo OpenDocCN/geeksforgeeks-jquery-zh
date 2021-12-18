@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).css(property)
 ```
 
@@ -18,7 +18,7 @@ $(selector).css(property)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

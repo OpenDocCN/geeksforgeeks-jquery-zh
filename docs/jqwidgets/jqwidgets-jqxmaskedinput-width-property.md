@@ -10,13 +10,13 @@ width 属性用于设置或返回 jqxMaskedInput 小部件的宽度。它接受�
 
 设置 width 属性。
 
-```
+```html
 $('selector').jqxMaskedInput({ width: Number/String });
 ```
 
 返回 width 属性。
 
-```
+```html
 var width = $('selector').jqxMaskedInput('width');
 ```
 
@@ -30,7 +30,7 @@ var width = $('selector').jqxMaskedInput('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

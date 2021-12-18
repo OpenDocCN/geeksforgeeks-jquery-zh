@@ -10,13 +10,13 @@
 
 *   设置**显示标题**属性。
 
-```
+```html
 $('#Selector').jqxGrid({ showheader: false});
 ```
 
 *   返回**显示标题**属性。
 
-```
+```html
 var showheader = $('#Selector').jqxGrid('showheader');
 ```
 
@@ -33,7 +33,7 @@ var showheader = $('#Selector').jqxGrid('showheader');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

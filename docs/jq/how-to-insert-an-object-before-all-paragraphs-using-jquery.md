@@ -14,7 +14,7 @@ jQuery 是一个 Javascript 库，用来减轻 web 开发人员的任务。开�
 
 **语法:**
 
-```
+```html
 $(target).before(contentToBeInserted).
 $(contentToBeInserted).insertBefore(target).
 ```
@@ -23,7 +23,7 @@ $(contentToBeInserted).insertBefore(target).
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

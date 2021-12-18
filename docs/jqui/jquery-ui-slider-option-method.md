@@ -6,21 +6,21 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 HTML、CSS 和 jQuery 实现
 
 **语法:**
 
-```
+```html
 option(optionName) Method
 $( ".selector" ).slider( "option", "disabled" );
 ```
 
 或者
 
-```
+```html
 option() Method
 $( ".selector" ).slider("option");
 ```
 
 或者
 
-```
+```html
 option(optionName, value) Method
 $( ".selector" ).slider( "option", "disabled", true );
 
@@ -28,7 +28,7 @@ $( ".selector" ).slider( "option", "disabled", true );
 
 或者
 
-```
+```html
 option(options) Method
 $( ".selector" ).slider( "option", { disabled: true } );
 ```
@@ -41,7 +41,7 @@ $( ".selector" ).slider( "option", { disabled: true } );
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 
@@ -82,7 +82,7 @@ $( ".selector" ).slider( "option", { disabled: true } );
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 
@@ -122,7 +122,7 @@ $( ".selector" ).slider( "option", { disabled: true } );
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 
@@ -163,7 +163,7 @@ $( ".selector" ).slider( "option", { disabled: true } );
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

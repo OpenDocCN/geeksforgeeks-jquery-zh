@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('ensureVisible', index);  
 $("#jqxListBox").jqxListBox('ensureVisible', "value of the Index");
 ```
@@ -28,7 +28,7 @@ $("#jqxListBox").jqxListBox('ensureVisible', "value of the Index");
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

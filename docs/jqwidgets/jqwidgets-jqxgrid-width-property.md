@@ -10,13 +10,13 @@
 
 *   设置**宽度**属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ width: 300});
     ```
 
 *   返回**宽度**属性。
 
-    ```
+    ```html
     var width = $('#Selector').jqxGrid('width');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

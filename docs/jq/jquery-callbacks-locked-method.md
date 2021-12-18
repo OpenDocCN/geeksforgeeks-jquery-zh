@@ -6,7 +6,7 @@ jQuery 中的**回调. locked()方法**用于回答回调列表是否被锁定�
 
 **语法:**
 
-```
+```html
 callbacks.locked()
 ```
 
@@ -16,7 +16,7 @@ callbacks.locked()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -78,7 +78,7 @@ callbacks.locked()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

@@ -10,13 +10,13 @@
 
 *   设置*主题*属性。
 
-    ```
+    ```html
     $('selector').jqxButtonGroup({ theme: String });
     ```
 
 *   获得*主题*房产。
 
-    ```
+    ```html
     var theme = $('selector').jqxButtonGroup('theme');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

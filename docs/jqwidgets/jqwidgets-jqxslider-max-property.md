@@ -10,13 +10,13 @@ max 属性用于设置或返回滑块小部件的最大值。它接受数字类�
 
 设置 max 属性。
 
-```
+```html
 $('selector').jqxSlider({ max: Number });
 ```
 
 返回 max 属性。
 
-```
+```html
 var max = $('selector').jqxSlider('max');
 ```
 
@@ -33,7 +33,7 @@ var max = $('selector').jqxSlider('max');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 用于设置 ***showStatusbar*** 属性。
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({showStatusbar: true});  
 ```
 
 获取 ***showStatusbar*** 属性。
 
-```
+```html
 var showStatusbar = 
     $('#treeGrid').jqxTreeGrid('showStatusbar'); 
 ```
@@ -32,7 +32,7 @@ var showStatusbar =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

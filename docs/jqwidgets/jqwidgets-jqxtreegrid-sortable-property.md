@@ -10,13 +10,13 @@
 
 **用于设置 ***可排序的*** 属性。**
 
-```
+```html
 $('Selector').jqxTreeGrid({sortable: true}); 
 ```
 
 **获取 ***可排序*** 属性。**
 
-```
+```html
 var sortable = $('Selector').jqxTreeGrid('sortable'); 
 ```
 
@@ -30,7 +30,7 @@ var sortable = $('Selector').jqxTreeGrid('sortable');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

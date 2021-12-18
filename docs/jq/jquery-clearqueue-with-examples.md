@@ -5,7 +5,7 @@
 clearQueue()方法从队列中移除所有尚未运行的项目。注意，当一个函数已经开始运行时，**它会一直运行到完成。**
 **语法:**
 
-```
+```html
 $(selector).clearQueue(name);
 
 ```
@@ -19,7 +19,7 @@ $(selector).clearQueue(name);
 **Code #1:**
 In the below code, animation method is cleared.
 
-```
+```html
 <html>
 
 <head>
@@ -94,7 +94,7 @@ In the below code, animation method is cleared.
 
 **代码#2:**
 
-```
+```html
 <html>
 
 <head>

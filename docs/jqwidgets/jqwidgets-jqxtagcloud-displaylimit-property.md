@@ -10,13 +10,13 @@
 
 *   设置*显示限制*属性:
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ displayLimit: 14 });
     ```
 
 *   要获取*显示限制*属性:
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'displayLimit' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

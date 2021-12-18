@@ -18,13 +18,13 @@
 
 *   设置*日名称格式*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ dayNameFormat: 'shortest' });
     ```
 
 *   返回*日名称格式*属性。
 
-    ```
+    ```html
     var dayNameFormat = 
         $('#Selector').jqxScheduler('dayNameFormat');
     ```
@@ -40,7 +40,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

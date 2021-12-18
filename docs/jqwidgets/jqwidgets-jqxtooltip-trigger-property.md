@@ -10,13 +10,13 @@
 
 设置*触发*属性。
 
-```
+```html
 $('Selector').jqxTooltip({ trigger: String });
 ```
 
 返回*触发*属性。
 
-```
+```html
 var trigger = $('Selector').jqxTooltip('trigger');
 ```
 
@@ -32,7 +32,7 @@ var trigger = $('Selector').jqxTooltip('trigger');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

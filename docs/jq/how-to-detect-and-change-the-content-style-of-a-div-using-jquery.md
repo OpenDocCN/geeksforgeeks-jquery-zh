@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(selector).on(event, childSelector, data, function, map)
 ```
 
 **示例 1:** 本示例使用 [jQuery on()方法](https://www.geeksforgeeks.org/jquery-on-with-examples/)更改< div >元素的文本。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ $(selector).on(event, childSelector, data, function, map)
 
 **示例 2:** 本示例使用 [jQuery on()方法](https://www.geeksforgeeks.org/jquery-on-with-examples/)更改< div >元素的样式。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 *   **用于设置*最大值*属性。**
 
-    ```
+    ```html
     $('#jqxScrollBar').jqxScrollBar({ max: 200 });
     ```
 
 *   **获取*最大*属性。**
 
-    ```
+    ```html
     var max = $('#jqxScrollBar').jqxScrollBar('max');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

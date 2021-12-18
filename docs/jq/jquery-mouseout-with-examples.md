@@ -5,7 +5,7 @@
 mouseout()方法是 jQuery 中的一个内置方法，当鼠标指针从所选元素移出时使用。
 **语法:**
 
-```
+```html
 $(selector).mouseout(function)
 ```
 
@@ -17,7 +17,7 @@ $(selector).mouseout(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

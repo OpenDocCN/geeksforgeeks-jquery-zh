@@ -15,13 +15,13 @@
 
 设置*方向*属性。
 
-```
+```html
 $('Selector').jqxSwitchButton({ orientation:vertical });  
 ```
 
 获取*方向*属性。
 
-```
+```html
 var orientation = $('Selector').jqxSwitchButton('orientation');
 ```
 
@@ -38,7 +38,7 @@ var orientation = $('Selector').jqxSwitchButton('orientation');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

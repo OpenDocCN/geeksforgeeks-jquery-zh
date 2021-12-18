@@ -10,13 +10,13 @@ height 属性用于设置或返回 height 属性，即用于 jqxGauge 的高度�
 
 设置高度属性。
 
-```
+```html
 $('Selector').jqxGauge({ height : number });  
 ```
 
 返回高度属性。
 
-```
+```html
 var height = $('Selector').jqxGauge('height');
 ```
 
@@ -33,7 +33,7 @@ var height = $('Selector').jqxGauge('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

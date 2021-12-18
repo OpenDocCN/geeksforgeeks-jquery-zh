@@ -15,13 +15,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置自旋模式属性。
 
-```
+```html
 $('selector').jqxNumberInput({ spinMode: String });
 ```
 
 返回自旋模式属性。
 
-```
+```html
 var spinMode = $('selector').jqxNumberInput('spinMode');
 ```
 
@@ -38,7 +38,7 @@ var spinMode = $('selector').jqxNumberInput('spinMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

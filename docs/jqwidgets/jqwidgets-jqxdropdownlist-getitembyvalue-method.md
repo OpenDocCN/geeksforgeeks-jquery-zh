@@ -19,7 +19,7 @@ getItemByValue()方法用于根据项的值获取项。它接受字符串类型�
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('getItemByValue', itemValue);
 ```
 
@@ -36,7 +36,7 @@ $("Selector").jqxDropDownList('getItemByValue', itemValue);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

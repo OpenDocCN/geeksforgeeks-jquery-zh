@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 var rowindex = 
     $('#Selector').jqxGrid('getselectedrowindex');
 ```
@@ -28,7 +28,7 @@ var rowindex =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -15,13 +15,13 @@
 
 设置*方向*属性。
 
-```
+```html
 $('selector').jqxProgressBar({ orientation: String });
 ```
 
 返回*方向*属性。
 
-```
+```html
 var orientation = $('selector').jqxProgressBar('orientation');
 ```
 
@@ -33,7 +33,7 @@ var orientation = $('selector').jqxProgressBar('orientation');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

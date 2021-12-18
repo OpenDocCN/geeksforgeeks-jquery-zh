@@ -10,7 +10,7 @@
 
 *   用于设置 ***窗口*** 属性:
 
-```
+```html
 $('#jqxDocking').jqxDocking({ 
     windowsMode: { 'Window': 'floating' } 
 });
@@ -18,7 +18,7 @@ $('#jqxDocking').jqxDocking({
 
 *   获取 ***窗口*** 属性:
 
-```
+```html
 var windowsMode = $('#jqxDocking')
         .jqxDocking('windowsMode');
 ```
@@ -34,7 +34,7 @@ var windowsMode = $('#jqxDocking')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

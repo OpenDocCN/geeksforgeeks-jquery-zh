@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#treeGrid").jqxTreeGrid('addFilter', dataField, filtergroup);
 ```
 
@@ -30,7 +30,7 @@ $("#treeGrid").jqxTreeGrid('addFilter', dataField, filtergroup);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

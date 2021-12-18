@@ -10,13 +10,13 @@
 
 设置*复选框*属性。
 
-```
+```html
 $("#jqxListBox").jqxListBox({checkboxes:true});  
 ```
 
 获取*复选框*属性。
 
-```
+```html
 var checkboxes = $('#jqxListBox').jqxListBox('checkboxes'); 
 ```
 
@@ -33,7 +33,7 @@ var checkboxes = $('#jqxListBox').jqxListBox('checkboxes');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

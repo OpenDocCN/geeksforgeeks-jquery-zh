@@ -21,7 +21,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <html>
 
     <head>
@@ -129,7 +129,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <html>
 
     <head>
@@ -238,7 +238,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <html>
 
     <head>
@@ -347,7 +347,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <html>
 
     <head>
@@ -457,7 +457,7 @@
 
 *   **程序:**
 
-    ```
+    ```html
     <html>
     <head>
         <link href=
@@ -565,7 +565,7 @@
 
 **Program:**
 
-*   ```
+*   ```html
     <html>
     <head>
         <link href=

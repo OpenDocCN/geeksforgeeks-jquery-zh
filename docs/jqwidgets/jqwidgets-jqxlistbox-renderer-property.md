@@ -10,7 +10,7 @@
 
 要设置*渲染器*属性:
 
-```
+```html
 $('#jqxListBox').jqxListBox({
     renderer: function (index, label, value) {
         var datarecord = data[index];
@@ -21,7 +21,7 @@ $('#jqxListBox').jqxListBox({
 
 要获取*渲染器*属性:
 
-```
+```html
 var renderer = $('#jqxListBox').jqxListBox('renderer'); 
 ```
 
@@ -36,7 +36,7 @@ var renderer = $('#jqxListBox').jqxListBox('renderer');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

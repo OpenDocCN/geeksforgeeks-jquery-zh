@@ -10,13 +10,13 @@
 
 *   设置*最大宽度*属性。
 
-    ```
+    ```html
     $('#Selector').jqxToolBar({ maxWidth: 500 });
     ```
 
 *   返回*最大宽度*属性。
 
-    ```
+    ```html
     var maxWidth = $('#Selector').jqxToolBar('maxWidth');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

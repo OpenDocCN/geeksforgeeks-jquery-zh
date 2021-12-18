@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 tooltipHideDelay 属性。
 
-```
+```html
 $('selector').jqxSlider({ tooltipHideDelay: Number });
 ```
 
 返回工具提示隐藏延迟属性。
 
-```
+```html
 var tooltipHideDelay = $('selector').jqxSlider('tooltipHideDelay');
 ```
 
@@ -33,7 +33,7 @@ var tooltipHideDelay = $('selector').jqxSlider('tooltipHideDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

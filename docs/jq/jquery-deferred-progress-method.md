@@ -6,7 +6,7 @@ jQuery 中的这个**delivered . progress()**方法用于添加当 delivered 对
 
 **语法:**
 
-```
+```html
 deferred.progress(progressCallbacks[, progressCallbacks])
 ```
 
@@ -21,7 +21,7 @@ deferred.progress(progressCallbacks[, progressCallbacks])
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -75,7 +75,7 @@ deferred.progress(progressCallbacks[, progressCallbacks])
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

@@ -10,13 +10,13 @@
 
 设置*显示箭头*属性。
 
-```
+```html
 $('selector').jqxExpander({ showArrow: String });
 ```
 
 返回*显示箭头*属性。
 
-```
+```html
 var showArrow = $('selector').jqxExpander('showArrow');
 ```
 
@@ -31,7 +31,7 @@ var showArrow = $('selector').jqxExpander('showArrow');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

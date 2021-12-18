@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 $(".btn").on("click", function () {
 
     // Select all the empty elements on
@@ -28,7 +28,7 @@ $(".btn").on("click", function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -106,7 +106,7 @@ $(".btn").on("click", function () {
 
 **语法:**
 
-```
+```html
 $(".btn").on("click", function () {
 
     // Select all the elements that
@@ -129,7 +129,7 @@ $(".btn").on("click", function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

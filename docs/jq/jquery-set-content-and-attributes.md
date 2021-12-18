@@ -10,7 +10,7 @@
 
 **示例:**本示例使用 set content 方法(text()、html()和 val()方法)设置内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -72,7 +72,7 @@
 
 **示例:**本示例使用 attr()方法设置和更改属性值。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

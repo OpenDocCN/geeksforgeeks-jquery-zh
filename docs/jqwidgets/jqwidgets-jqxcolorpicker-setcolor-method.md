@@ -8,7 +8,7 @@ setColor()方法用于以十六进制或 rgb 格式设置颜色。它接受包�
 
 **语法:**
 
-```
+```html
 $("selector").jqxColorPicker('setColor');
 ```
 
@@ -22,7 +22,7 @@ $("selector").jqxColorPicker('setColor');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

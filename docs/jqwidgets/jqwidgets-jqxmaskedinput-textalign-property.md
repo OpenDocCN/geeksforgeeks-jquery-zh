@@ -10,13 +10,13 @@ textAlign 属性用于设置或返回小部件的文本对齐方式。它接受�
 
 设置文本对齐属性。
 
-```
+```html
 $('selector').jqxMaskedInput({ textAlign: String });
 ```
 
 返回文本对齐属性。
 
-```
+```html
 var textAlign = $('selector').jqxMaskedInput('textAlign');
 ```
 
@@ -33,7 +33,7 @@ var textAlign = $('selector').jqxMaskedInput('textAlign');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

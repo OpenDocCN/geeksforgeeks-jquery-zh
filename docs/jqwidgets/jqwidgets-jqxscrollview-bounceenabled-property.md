@@ -10,13 +10,13 @@
 
 *   设置*弹性启用*属性。
 
-    ```
+    ```html
     $('selector').jqxScrollView({ bounceEnabled: Number/String });
     ```
 
 *   返回*弹性启用*属性。
 
-    ```
+    ```html
     var bounceEnabled = 
         $('selector').jqxScrollView('bounceEnabled');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

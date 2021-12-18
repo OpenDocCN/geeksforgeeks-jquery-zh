@@ -10,13 +10,13 @@
 
 *   设置*拇指大小*属性:
 
-    ```
+    ```html
     $('#jqxScrollBar').jqxScrollBar({ thumbMinSize: 10 });
     ```
 
 *   要获取*拇指大小*属性:
 
-    ```
+    ```html
     var thumbMinSize = $('#jqxScrollBar')
             .jqxScrollBar('thumbMinSize');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@ enableViews 属性用于检查是否启用了月、年和十年视图之间的�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxCalendar({
     enableViews: Boolean
 });
@@ -27,7 +27,7 @@ $('.selector').jqxCalendar({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

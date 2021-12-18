@@ -6,7 +6,7 @@ jQuery 中的 **preventDefault()方法**用于停止所选元素的默认动作�
 
 **语法:**
 
-```
+```html
 event.preventDefault()
 ```
 
@@ -16,7 +16,7 @@ event.preventDefault()
 
 **示例 1:** 本示例使用 preventDefault()方法停止打开新链接。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -67,7 +67,7 @@ event.preventDefault()
 
 **示例 2:** 本示例使用 event.preventDefault()方法停止提交表单。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

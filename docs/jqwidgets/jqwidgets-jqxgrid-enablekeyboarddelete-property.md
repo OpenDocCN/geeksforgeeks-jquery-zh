@@ -10,13 +10,13 @@
 
 *   设置**启用键盘删除**属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ enablekeyboarddelete: false});
     ```
 
 *   返回**启用键盘删除**属性。
 
-    ```
+    ```html
     var enablekeyboarddelete = 
         $('#Selector').jqxGrid('enablekeyboarddelete');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

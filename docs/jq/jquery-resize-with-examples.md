@@ -6,7 +6,7 @@ resize()方法是 jQuery 中的一个内置方法，在浏览器窗口改变大�
 
 **语法:**
 
-```
+```html
 $(selector).resize(function)
 ```
 
@@ -18,7 +18,7 @@ $(selector).resize(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

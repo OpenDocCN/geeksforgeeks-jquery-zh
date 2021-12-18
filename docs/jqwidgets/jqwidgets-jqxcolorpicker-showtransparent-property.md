@@ -10,13 +10,13 @@ show 通透属性用于设置或返回 show 通透属性。它接受布尔类型
 
 设置 showTransparent 属性。
 
-```
+```html
 $("selector").jqxColorPicker({ showTransparent: true });
 ```
 
 返回 showTransparent 属性。
 
-```
+```html
 var showTrans = $("selector").jqxColorPicker('showTransparent');
 ```
 
@@ -30,7 +30,7 @@ var showTrans = $("selector").jqxColorPicker('showTransparent');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ ready()方法是 jQuery 中的一个内置方法，它有助于加载整个页�
 
 **语法:**
 
-```
+```html
 $(document).ready(function)
 ```
 
@@ -17,7 +17,7 @@ $(document).ready(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYpe html>
 <html>
     <head>

@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 clickToOpen 属性。
 
-```
+```html
 $('selector').jqxMenu({ clickToOpen: Boolean });
 ```
 
 返回 clickToOpen 属性。
 
-```
+```html
 var clickToOpen = $('selector').jqxMenu('clickToOpen');
 ```
 
@@ -33,7 +33,7 @@ var clickToOpen = $('selector').jqxMenu('clickToOpen');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

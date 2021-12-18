@@ -10,13 +10,13 @@
 
 *   设置*工具栏高度*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ toolbarHeight: 40 });
     ```
 
 *   返回*工具栏高度*属性。
 
-    ```
+    ```html
     var toolbarHeight = 
         $('#Selector').jqxScheduler('toolbarHeight');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

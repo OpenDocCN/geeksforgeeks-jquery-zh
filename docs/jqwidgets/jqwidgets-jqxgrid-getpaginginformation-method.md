@@ -8,26 +8,26 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 **语法:**
 
-```
+```html
 var paginginformation = 
     $('#Selector').jqxGrid('getpaginginformation');
 ```
 
 返回页码。
 
-```
+```html
 var pagenum = paginginformation.pagenum;
 ```
 
 返回页面大小。
 
-```
+```html
 var pagesize = paginginformation.pagesize;
 ```
 
 返回所有页面的计数。
 
-```
+```html
 var pagescount = paginginformation.pagescount;
 ```
 
@@ -44,7 +44,7 @@ var pagescount = paginginformation.pagescount;
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

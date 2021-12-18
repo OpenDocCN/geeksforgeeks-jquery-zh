@@ -10,7 +10,7 @@
 
 ****设置 *initContent* 属性:****
 
-```
+```html
 **$("Selector").jqxNavigationBar({
     initContent: function (index) {
         $("#jqxButton").jqxButton({ 
@@ -26,7 +26,7 @@
 
 ****返回 *initContent* 属性:****
 
-```
+```html
 **var initContent = 
     $('Selector').jqxNavigationBar('initContent');**
 ```
@@ -41,7 +41,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置 width 属性。
 
-```
+```html
 $('selector').jqxProgressBar({ width: Number/String });
 ```
 
 返回 width 属性。
 
-```
+```html
 var width = $('selector').jqxProgressBar('width');
 ```
 
@@ -30,7 +30,7 @@ var width = $('selector').jqxProgressBar('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

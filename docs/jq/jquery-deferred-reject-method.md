@@ -6,7 +6,7 @@ jQuery 中的**delivered . reject()**方法用于拒绝一个 delivered 对象�
 
 **语法:**
 
-```
+```html
 deferred.reject( [args] )
 ```
 
@@ -20,7 +20,7 @@ deferred.reject( [args] )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -72,7 +72,7 @@ deferred.reject( [args] )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

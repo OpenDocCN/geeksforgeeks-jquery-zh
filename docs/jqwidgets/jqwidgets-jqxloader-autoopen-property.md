@@ -10,13 +10,13 @@
 
 设置*自动打开*属性。
 
-```
+```html
 $('selector').jqxLoader({ autoOpen: Boolean });
 ```
 
 返回*自动打开*属性。
 
-```
+```html
 var autoOpen = $('selector').jqxLoader('autoOpen');
 ```
 
@@ -33,7 +33,7 @@ var autoOpen = $('selector').jqxLoader('autoOpen');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

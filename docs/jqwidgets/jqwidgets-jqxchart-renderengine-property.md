@@ -10,13 +10,13 @@
 
 *   It is used to set the renderEngine property.
 
-    ```
+    ```html
     $('Selector').jqxChart({ renderEngine : string});
     ```
 
 *   它用于返回 renderEngine 属性。
 
-    ```
+    ```html
     var renderEngine = 
         $('Selector').jqxChart('renderEngine');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

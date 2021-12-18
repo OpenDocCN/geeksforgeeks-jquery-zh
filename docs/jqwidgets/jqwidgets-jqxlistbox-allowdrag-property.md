@@ -10,13 +10,13 @@
 
 要设置*允许拖动*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({allowDrag:true}); 
 ```
 
 要获取 *allowDrag* 属性:
 
-```
+```html
 var allowDrag = $('#jqxListBox').jqxListBox('allowDrag'); 
 ```
 
@@ -31,7 +31,7 @@ var allowDrag = $('#jqxListBox').jqxListBox('allowDrag');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

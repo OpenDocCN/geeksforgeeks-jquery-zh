@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*禁用*属性。
 
-```
+```html
 $('selector').jqxCheckBox({ disabled: Boolean });
 ```
 
 返回*禁用的*属性。
 
-```
+```html
 var disabled = $('selector').jqxCheckBox('disabled');
 ```
 
@@ -28,7 +28,7 @@ var disabled = $('selector').jqxCheckBox('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

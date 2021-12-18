@@ -10,13 +10,13 @@
 
 设置*拼贴动画持续时间*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ collapseAnimationDuration:500 });  
 ```
 
 获取*拼贴动画持续时间*属性。
 
-```
+```html
 var duration = $('#jqxWindow').jqxWindow('collapseAnimationDuration'); 
 ```
 
@@ -31,7 +31,7 @@ var duration = $('#jqxWindow').jqxWindow('collapseAnimationDuration');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

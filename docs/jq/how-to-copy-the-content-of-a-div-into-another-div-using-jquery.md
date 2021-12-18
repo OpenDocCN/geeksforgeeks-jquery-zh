@@ -12,7 +12,7 @@
 
 **示例:**本示例使用 [append()方法](https://www.geeksforgeeks.org/jquery-append-method/)将 div 元素复制到另一个 div 中。
 
-```
+```html
 <!DOCTYPE HTML>  
 <html>  
 
@@ -109,7 +109,7 @@
 
 **示例:**本示例使用 [appendTo()方法](https://www.geeksforgeeks.org/jquery-appendto-with-examples/)将 div 元素复制到另一个 div 中。
 
-```
+```html
 <!DOCTYPE HTML>  
 <html>  
 

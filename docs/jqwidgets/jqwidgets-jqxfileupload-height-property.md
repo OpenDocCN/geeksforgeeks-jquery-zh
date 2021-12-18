@@ -10,13 +10,13 @@
 
 *   设置*高度*属性:
 
-    ```
+    ```html
     $('Selector').jqxFileUpload({ height : string/number });
     ```
 
 *   返回*高度*属性:
 
-    ```
+    ```html
     var height = $('Selector').jqxFileUpload('height ');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

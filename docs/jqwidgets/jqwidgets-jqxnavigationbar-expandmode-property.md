@@ -10,7 +10,7 @@
 
 *   用于设置 *扩展模式*属性:
 
-    ```
+    ```html
     $('Selector').jqxNavigationBar({ 
         expandMode: "toggle" 
     });  
@@ -18,7 +18,7 @@
 
 *   获取*扩展码*属性:
 
-    ```
+    ```html
     var expandMode = 
         $('Selector').jqxNavigationBar('expandMode');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

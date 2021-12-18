@@ -7,7 +7,7 @@ jQuery 是一个免费的开源 JavaScript 库，旨在为 HTML 网页增加交�
 1.  **findIndex():** 该方法执行作为参数传递给数组中每个元素的函数。
     *   **语法:**
 
-        ```
+        ```html
         array.findIndex(function(curr, index, arr), thisVal)
         ```
 
@@ -24,7 +24,7 @@ jQuery 是一个免费的开源 JavaScript 库，旨在为 HTML 网页增加交�
 2.  **some():**arr . some()方法检查数组的至少一个元素是否满足参数方法检查的条件。
     *   **语法:**
 
-        ```
+        ```html
         array.some(function(curr, index, arr), thisval)
         ```
 
@@ -41,7 +41,7 @@ jQuery 是一个免费的开源 JavaScript 库，旨在为 HTML 网页增加交�
 
 **方法 1:** 在第一种方法中，我们展示了使用 jQuery 的 **findIndex()** 方法来查找数组中与给定条件匹配的对象的索引的过程。 **findIndex()** 方法将一个函数作为第一个参数。这个函数在数组的每个元素上执行，函数返回“真”的元素是符合指定条件的元素。因此，这个匹配元素的索引存储在索引变量中。索引变量值返回到控制台。类似地，对于 index1 变量，有多个对象具有 age =“20”。在这种情况下，返回第一个匹配对象的索引。如果不匹配，则输出为-1。
 
-```
+```html
 // Write JavaScript code here
 var arr = [
     { name: "ram", age: "20" }, 
@@ -73,7 +73,7 @@ console.log(index1); 
 
 **输出:**
 
-```
+```html
  2
  0
 
@@ -81,7 +81,7 @@ console.log(index1); 
 
 **方法 2:** 在第二种方法中，我们展示了使用 jQuery 的 **some()** 方法来查找数组中与给定条件匹配的对象的索引的过程。 **some()** 方法将函数作为第一个参数。这个函数在数组的每个元素上执行，函数返回“真”的元素是符合指定条件的元素。因此，这个匹配元素的索引存储在索引变量中。索引变量值返回到控制台。
 
-```
+```html
 // Write Javascript code here
 var arr = [
     { name: "ram", age: "20" }, 
@@ -104,7 +104,7 @@ console.log(index);
 
 **输出:**
 
-```
+```html
  2
 
 ```

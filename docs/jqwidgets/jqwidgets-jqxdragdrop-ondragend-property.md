@@ -10,13 +10,13 @@
 
 *   设置 *onDragEnd* 属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ onDragEnd: function() {} });
     ```
 
 *   返回 *onDragEnd* 属性。
 
-    ```
+    ```html
     var onDragEnd = $('selector').jqxDragDrop('onDragEnd');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

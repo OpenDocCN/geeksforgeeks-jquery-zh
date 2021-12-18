@@ -10,13 +10,13 @@
 
 *   它用于设置 toolTipShowDelay 属性。
 
-```
+```html
 $('Selector').jqxChart({ toolTipShowDelay : number});
 ```
 
 *   它用于返回 toolTipShowDelay 属性。
 
-```
+```html
 var toolTipShowDelay = 
     $('Selector').jqxChart('toolTipShowDelay');
 ```
@@ -32,7 +32,7 @@ var toolTipShowDelay =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

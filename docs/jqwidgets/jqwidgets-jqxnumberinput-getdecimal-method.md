@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxNumberInput('getDecimal');
 ```
 
@@ -23,7 +23,7 @@ $('Selector').jqxNumberInput('getDecimal');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -7,7 +7,7 @@ The **。jQuery 中的 delay()方法**，用于设置一个定时器来延迟队
 
 **语法:**
 
-```
+```html
 $(selector).delay(para1, para2);
 ```
 
@@ -20,7 +20,7 @@ $(selector).delay(para1, para2);
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -74,7 +74,7 @@ $(selector).delay(para1, para2);
 
 **例 2:** 连同报警方法
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

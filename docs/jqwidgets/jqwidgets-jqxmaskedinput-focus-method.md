@@ -8,7 +8,7 @@ focus()方法用于关注 jqxMaskedInput 小部件。它不接受任何参数，
 
 **语法:**
 
-```
+```html
 $('Selector').jqxMaskedInput('focus');
 ```
 
@@ -25,7 +25,7 @@ $('Selector').jqxMaskedInput('focus');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

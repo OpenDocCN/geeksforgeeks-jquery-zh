@@ -10,13 +10,13 @@
 
 *   对于设置**窗口设置** 属性:
 
-```
+```html
 $('#jqxDocking').jqxDocking({ windowsOffset: 1 });  
 ```
 
 *   要获取**窗口设置**属性:
 
-```
+```html
 var windowsOffset = 
     $('#jqxDocking').jqxDocking('windowsOffset');
 ```
@@ -32,7 +32,7 @@ var windowsOffset =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

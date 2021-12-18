@@ -10,13 +10,13 @@
 
 *   设置*分割条尺寸*属性:
 
-    ```
+    ```html
     $('#jqxSplitter').jqxSplitter({ splitBarSize: 20 });
     ```
 
 *   要获取 *splitBarSize* 属性:
 
-    ```
+    ```html
     var disabled = $('#jqxSplitter').jqxSplitter('splitBarSize');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

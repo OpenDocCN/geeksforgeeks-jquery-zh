@@ -6,7 +6,7 @@ jQuery **回调. fire()** 方法用于调用列表中给定参数的所有回调
 
 **语法:**
 
-```
+```html
 callbacks.fire( arguments )
 ```
 
@@ -18,7 +18,7 @@ callbacks.fire( arguments )
 
 **示例 1:** 本示例将 *fun1()* 添加到回调中，然后调用 **fire()** 方法，然后再次添加使用不同参数调用回调的相同方法。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -85,7 +85,7 @@ callbacks.fire( arguments )
 
 **示例 2:** 本示例将两个不同的函数相加，并用不同的参数调用它们。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

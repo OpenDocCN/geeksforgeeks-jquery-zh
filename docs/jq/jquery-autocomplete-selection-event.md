@@ -15,7 +15,7 @@
 
 **代码片段:**
 
-```
+```html
 $( ".selector" ).autocomplete({
     select: function( event, ui ) {}
 });
@@ -24,7 +24,7 @@ $( ".selector" ).autocomplete({
 
 **例 1:**
 
-```
+```html
 <!doctype html>
 <html>
 
@@ -69,7 +69,7 @@ $( ".selector" ).autocomplete({
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 

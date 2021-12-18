@@ -10,13 +10,13 @@
 
 *   设置*显示图例*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ showLegend: true });
     ```
 
 *   返回*显示图例*属性。
 
-    ```
+    ```html
     var showLegend = $('#Selector').jqxScheduler('showLegend');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

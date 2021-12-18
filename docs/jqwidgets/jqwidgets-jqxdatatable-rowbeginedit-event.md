@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#dataTable').on('rowBeginEdit', function (event) { });
 ```
 
@@ -23,7 +23,7 @@ $('#dataTable').on('rowBeginEdit', function (event) { });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

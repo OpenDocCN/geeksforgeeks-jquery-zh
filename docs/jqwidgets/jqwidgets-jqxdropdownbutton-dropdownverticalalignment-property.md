@@ -15,14 +15,14 @@
 
 设置*下拉垂直对齐*属性。
 
-```
+```html
 $('Selector').jqxDropDownButton({
     dropDownVerticalAlignment: 'top'});  
 ```
 
 获取*dropdowverticalalignment*属性。
 
-```
+```html
 var dropDownVerticalAlignment = $('#Selector')
     .jqxDropDownButton('dropDownVerticalAlignment');
 ```
@@ -38,7 +38,7 @@ var dropDownVerticalAlignment = $('#Selector')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -10,13 +10,13 @@
 
 设置*自动打开*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ autoOpen: Boolean });
 ```
 
 返回*自动打开*属性。
 
-```
+```html
 var autoOpen = $('selector').jqxDropDownList('autoOpen');
 ```
 
@@ -31,7 +31,7 @@ var autoOpen = $('selector').jqxDropDownList('autoOpen');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,13 +6,13 @@
 
 **方法:**使用以下 jQuery 调用可以找到 3×3 表的第六个单元格:
 
-```
+```html
 $('#table1 tr:nth-child(2) td:nth-child(3)').text();
 ```
 
 如果表有列标题，可以使用下面的调用找到第六个单元格。
 
-```
+```html
 $('#table1 tr:nth-child(3) td:nth-child(3)').text();
 ```
 
@@ -20,7 +20,7 @@ $('#table1 tr:nth-child(3) td:nth-child(3)').text();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,7 +10,7 @@
 
 设置 ***分层复选框*** 属性:
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({
     hierarchicalCheckboxes: true, 
     checkboxes: true
@@ -19,7 +19,7 @@ $('#treeGrid').jqxTreeGrid({
 
 获取 ***等级复选框*** 属性:
 
-```
+```html
 var hierarchicalCheckboxes = 
     $('#treeGrid').jqxTreeGrid('hierarchicalCheckboxes');
 ```
@@ -35,7 +35,7 @@ var hierarchicalCheckboxes =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

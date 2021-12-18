@@ -10,13 +10,13 @@
 
 *   设置 *filterrowheight* 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ filterrowheight: 20});
     ```
 
 *   返回 *filterrowheight* 属性。
 
-    ```
+    ```html
     var filterrowheight = 
         $('#Selector').jqxGrid('filterrowheight');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

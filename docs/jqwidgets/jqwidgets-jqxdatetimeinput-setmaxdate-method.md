@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxDateTimeInput('setMaxDate', Date);
 ```
 
@@ -23,7 +23,7 @@ $('Selector').jqxDateTimeInput('setMaxDate', Date);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

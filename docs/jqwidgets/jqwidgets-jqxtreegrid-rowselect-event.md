@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#treeGrid').on('rowSelect',  function (event)
 {
 // Arguments of the event
@@ -31,7 +31,7 @@ var key = args.key;
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

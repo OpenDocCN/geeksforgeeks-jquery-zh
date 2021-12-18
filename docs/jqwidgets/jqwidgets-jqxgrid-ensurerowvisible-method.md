@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxGrid('ensurerowvisible', rowBoundIndex);
 ```
 
@@ -27,7 +27,7 @@ $('#Selector').jqxGrid('ensurerowvisible', rowBoundIndex);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

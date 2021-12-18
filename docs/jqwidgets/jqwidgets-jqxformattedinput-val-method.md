@@ -10,13 +10,13 @@
 
 设置小部件的值。
 
-```
+```html
 $('Selector').jqxFormattedInput('val', value);  
 ```
 
 返回小部件的值。
 
-```
+```html
 var value = $('Selector').jqxFormattedInput('val', 'binary');
 ```
 
@@ -33,7 +33,7 @@ var value = $('Selector').jqxFormattedInput('val', 'binary');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

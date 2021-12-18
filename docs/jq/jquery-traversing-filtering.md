@@ -14,7 +14,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 
     **语法:**
 
-    ```
+    ```html
     $(selector).first()
     ```
 
@@ -24,7 +24,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -74,7 +74,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 
     **语法:**
 
-    ```
+    ```html
     $(selector).last()
     ```
 
@@ -84,7 +84,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -129,7 +129,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 *   **eq() method:** This method is used to select element with the specific index number.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).eq(index_number)
     ```
 
@@ -139,7 +139,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -185,7 +185,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 *   **filter() method:** This method is used to select element with some specific criteria.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).filter(parameter)
     ```
 
@@ -195,7 +195,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -241,7 +241,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 *   **not() method:** This method is used to select all the elements which are not meeting some criteria.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).not(parameter)
     ```
 
@@ -251,7 +251,7 @@ jQuery 中的遍历过滤用于根据 HTML 元素与其他元素的关系来查�
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

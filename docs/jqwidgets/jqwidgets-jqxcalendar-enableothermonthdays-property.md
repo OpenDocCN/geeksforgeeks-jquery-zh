@@ -8,7 +8,7 @@ enableOtherMonthDays 属性用于设置或返回一个值，该值指示是否�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxCalendar({
     enableOtherMonthDays: Boolean
 });
@@ -27,7 +27,7 @@ $('.selector').jqxCalendar({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

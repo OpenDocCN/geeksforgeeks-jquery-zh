@@ -13,7 +13,7 @@ ranges 属性用于设置或返回 bulletcharts 的范围。它接受数组类�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBulletChart({
     ranges: []
 });
@@ -32,7 +32,7 @@ $('.selector').jqxBulletChart({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

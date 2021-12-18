@@ -6,7 +6,7 @@ wrapAll()方法是 jQuery 中的一个内置方法，当指定的元素将针对
 
 **语法:**
 
-```
+```html
 $(selector).wrapAll(wrap_element)
 ```
 
@@ -18,7 +18,7 @@ $(selector).wrapAll(wrap_element)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

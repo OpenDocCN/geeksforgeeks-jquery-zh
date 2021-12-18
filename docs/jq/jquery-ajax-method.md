@@ -6,7 +6,7 @@ jQuery 中的 **ajax()方法**用于执行一个 ajax 请求或异步 HTTP 请�
 
 **语法:**
 
-```
+```html
 $.ajax({name:value, name:value, ... })
 ```
 
@@ -39,7 +39,7 @@ $.ajax({name:value, name:value, ... })
 
 **示例 1:** 本示例使用 ajax()方法，使用 ajax 请求添加文本内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -99,7 +99,7 @@ $.ajax({name:value, name:value, ... })
 
 **示例 2:** 这个示例说明了 jQuery 中的 ajax()方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

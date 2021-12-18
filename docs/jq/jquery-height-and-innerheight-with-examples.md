@@ -5,7 +5,7 @@
 **height()** 是 jQuery 中的一个内置方法，用于检查元素的高度，但不会检查元素的填充、边框和边距。
 **语法:**
 
-```
+```html
 $("param").height()
 
 ```
@@ -17,7 +17,7 @@ $("param").height()
 
 **Code #1:**
 
-```
+```html
 <html>
 
 <head>
@@ -63,7 +63,7 @@ $("param").height()
 **jQuery** 还包括 **innerHeight()** 方法，即用于检查包含填充的元素的内部高度。
 **语法:**
 
-```
+```html
 $("param").innerHeight()
 
 ```
@@ -72,7 +72,7 @@ $("param").innerHeight()
 **返回值:**返回所选元素的内部高度。
 **代码#2:**
 
-```
+```html
 <html>
 
 <head>

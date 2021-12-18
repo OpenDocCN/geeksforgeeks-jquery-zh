@@ -16,13 +16,13 @@
 
 设置*切换模式*属性。
 
-```
+```html
 $('selector').jqxExpander({ toggleMode: String });
 ```
 
 返回*至*属性。
 
-```
+```html
 var toggleMode = $('selector').jqxExpander('toggleMode');
 ```
 
@@ -37,7 +37,7 @@ var toggleMode = $('selector').jqxExpander('toggleMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

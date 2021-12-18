@@ -10,13 +10,13 @@
 
 调用 *endRowEdit* 方法。
 
-```
+```html
 $("#dataTable").jqxDataTable('endRowEdit', rowIndex);
 ```
 
 调用 *endRowEdit* 方法并取消更改。
 
-```
+```html
 $("#dataTable").jqxDataTable('endRowEdit', rowIndex, cancelChanges);
 ```
 
@@ -38,7 +38,7 @@ $("#dataTable").jqxDataTable('endRowEdit', rowIndex, cancelChanges);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

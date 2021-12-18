@@ -10,13 +10,13 @@
 
 *   它用于设置 titlePadding 属性。
 
-```
+```html
 $('Selector').jqxChart({ titlePadding : padding});
 ```
 
 *   它用于返回 titlePadding 属性。
 
-```
+```html
 var titlePadding = $('Selector').jqxChart('titlePadding');
 ```
 
@@ -31,7 +31,7 @@ var titlePadding = $('Selector').jqxChart('titlePadding');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

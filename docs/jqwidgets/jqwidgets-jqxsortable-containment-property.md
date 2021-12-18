@@ -10,13 +10,13 @@
 
 *   设置*包容*属性:
 
-    ```
+    ```html
     $('Selector').jqxSortable({ containment : boolean/string });
     ```
 
 *   返回*容器*属性:
 
-    ```
+    ```html
     var containment = $('Selector').jqxSortable('containment');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

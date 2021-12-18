@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var isCompleted = 
     $("#Selector").jqxGrid('isBindingCompleted');
 ```
@@ -26,7 +26,7 @@ var isCompleted =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

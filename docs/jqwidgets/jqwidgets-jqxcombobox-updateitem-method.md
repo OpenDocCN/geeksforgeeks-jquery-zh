@@ -19,7 +19,7 @@ updateItem()方法用于更新新项。它接受两个参数，第一个是新�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('updateItem', new_item, existing_item);
 ```
 
@@ -39,7 +39,7 @@ $('selector').jqxComboBox('updateItem', new_item, existing_item);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

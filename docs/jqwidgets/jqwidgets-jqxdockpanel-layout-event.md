@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $("#jqx_DockPanel").on('layout', function () {
    $("#log").html('layout event is raised.');
 });
@@ -24,7 +24,7 @@ $("#jqx_DockPanel").on('layout', function () {
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

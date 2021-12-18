@@ -8,7 +8,7 @@ animationDuration 属性用于确定动画时间(以毫秒为单位)。若要禁
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge({
   values: [array],
   animationDuration: 500
@@ -28,7 +28,7 @@ $('.selector').jqxBarGauge({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

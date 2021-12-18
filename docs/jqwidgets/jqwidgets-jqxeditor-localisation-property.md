@@ -10,13 +10,13 @@
 
 设置*本地化*属性。
 
-```
+```html
 $('Selector').jqxEditor({ localisation : object });  
 ```
 
 返回*本地化*属性。
 
-```
+```html
 var localisation = $('Selector').jqxEditor('localisation');
 ```
 
@@ -36,7 +36,7 @@ var localisation = $('Selector').jqxEditor('localisation');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

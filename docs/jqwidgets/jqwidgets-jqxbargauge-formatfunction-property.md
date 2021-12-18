@@ -8,7 +8,7 @@ formatFunction 属性设置或返回条形图的 formatFunction。它用于对�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge({
   values: [array],
   formatFunction: {
@@ -29,7 +29,7 @@ $('.selector').jqxBarGauge({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

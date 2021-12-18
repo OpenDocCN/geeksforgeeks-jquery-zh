@@ -10,7 +10,7 @@
 
 设置*autosowcolummsnumbutton*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ 
     autoshowcolumnsmenubutton: false
 });  
@@ -18,7 +18,7 @@ $('#Selector').jqxGrid({
 
 返回*autosowcolummsnumbutton*属性:
 
-```
+```html
 var autoshowcolumnsmenubutton = $('#Selector')
         .jqxGrid('autoshowcolumnsmenubutton');
 ```
@@ -34,7 +34,7 @@ var autoshowcolumnsmenubutton = $('#Selector')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

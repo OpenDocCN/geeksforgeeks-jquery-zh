@@ -10,13 +10,13 @@
 
 设置*关闭延迟*属性。
 
-```
+```html
 $('Selector').jqxDropDownButton({closeDelay: 200});
 ```
 
 要获得 *closeDelay* 属性。
 
-```
+```html
 var closeDelay = $('Selector').jqxDropDownButton('closeDelay');
 ```
 
@@ -31,7 +31,7 @@ var closeDelay = $('Selector').jqxDropDownButton('closeDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

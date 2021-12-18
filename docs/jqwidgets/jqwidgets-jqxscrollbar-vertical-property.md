@@ -10,13 +10,13 @@
 
 *   **用于设置*垂直*属性。**
 
-    ```
+    ```html
     $('#jqxScrollBar').jqxScrollBar({ vertical: true });
     ```
 
 *   **获取*垂直*属性。**
 
-    ```
+    ```html
     var vertical = $('#jqxScrollBar').jqxScrollBar('vertical');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

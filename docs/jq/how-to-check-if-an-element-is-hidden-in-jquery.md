@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(element).is(":hidden");
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

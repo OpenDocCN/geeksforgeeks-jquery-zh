@@ -10,13 +10,13 @@
 
 要设置*源*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({source: data});
 ```
 
 要获取*源*属性:
 
-```
+```html
 var source = $('#jqxListBox').jqxListBox('source'); 
 ```
 
@@ -31,7 +31,7 @@ var source = $('#jqxListBox').jqxListBox('source');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

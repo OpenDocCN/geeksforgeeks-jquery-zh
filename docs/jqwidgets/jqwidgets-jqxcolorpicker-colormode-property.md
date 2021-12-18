@@ -15,13 +15,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*颜色模式*属性。
 
-```
+```html
 $("selector").jqxColorPicker({colorMode: 'hue' });
 ```
 
 返回*颜色模式*属性。
 
-```
+```html
 var colorMode = $("selector").jqxColorPicker('colorMode');
 ```
 
@@ -33,7 +33,7 @@ var colorMode = $("selector").jqxColorPicker('colorMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

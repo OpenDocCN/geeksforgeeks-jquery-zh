@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#dataTable").jqxDataTable('goToPage', pageIndex);
 ```
 
@@ -25,7 +25,7 @@ $("#dataTable").jqxDataTable('goToPage', pageIndex);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

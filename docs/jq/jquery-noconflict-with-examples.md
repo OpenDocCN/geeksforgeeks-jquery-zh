@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $.noConflict();
 ```
 
@@ -15,7 +15,7 @@ $.noConflict();
 **冲突是如何产生的？**
 **例:**
 
-```
+```html
 src="prototype.js"
 src="jquery.js"
 ```
@@ -24,7 +24,7 @@ src="jquery.js"
 noConflict()方法释放对“{content}”的保留；快捷方式标识符，以便其他脚本可以使用它。
 **产生冲突的 jQuery 代码:**
 
-```
+```html
 <html>
 
 <head>
@@ -56,7 +56,7 @@ noConflict()方法释放对“{content}”的保留；快捷方式标识符，�
 此处输出与点击按钮前后相同，因此存在冲突。
 **jQuery 代码使用 noConflict()函数克服这样的冲突:**
 
-```
+```html
 <html>
 
 <head>

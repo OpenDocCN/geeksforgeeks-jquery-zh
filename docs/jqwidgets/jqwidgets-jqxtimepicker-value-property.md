@@ -10,13 +10,13 @@
 
 设置*值*属性。
 
-```
+```html
 $('selector').jqxTimePicker({ value: false });
 ```
 
 返回*值*属性。
 
-```
+```html
 var value = $('selector').jqxTimePicker('value');
 ```
 
@@ -31,7 +31,7 @@ var value = $('selector').jqxTimePicker('value');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

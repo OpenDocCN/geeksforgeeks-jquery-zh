@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $( "classOne, classTwo, classThree" )
       .css( "property name", "value" );
 ```
@@ -17,7 +17,7 @@ $( "classOne, classTwo, classThree" )
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

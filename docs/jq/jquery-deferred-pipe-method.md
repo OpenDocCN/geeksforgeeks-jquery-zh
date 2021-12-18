@@ -6,7 +6,7 @@ jQuery 中的**delivered . pipe()**方法用于添加实用方法进行过滤，
 
 **语法:**
 
-```
+```html
 deferred.pipe([doneFilter][, failFilter][, progressFilter])
 ```
 
@@ -22,7 +22,7 @@ deferred.pipe([doneFilter][, failFilter][, progressFilter])
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -74,7 +74,7 @@ deferred.pipe([doneFilter][, failFilter][, progressFilter])
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

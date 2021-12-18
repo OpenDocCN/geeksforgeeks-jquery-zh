@@ -6,7 +6,7 @@ Checkboxradio Widget disable()方法用于禁用 Checkboxradio 按钮功能。�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).checkboxradio( "disable" );
 ```
 
@@ -18,7 +18,7 @@ $( ".selector" ).checkboxradio( "disable" );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

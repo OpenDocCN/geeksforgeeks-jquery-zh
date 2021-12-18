@@ -10,13 +10,13 @@
 
 要设置*等于项目宽度*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({equalItemsWidth:false}); 
 ```
 
 要获取*等于项目宽度*属性:
 
-```
+```html
 var equalItemsWidth = 
     $('#jqxListBox').jqxListBox('equalItemsWidth'); 
 ```
@@ -34,7 +34,7 @@ var equalItemsWidth =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

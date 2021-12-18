@@ -4,7 +4,7 @@
 
 超文本标记语言 DOM 有一个**活动元素**属性。它可用于获取文档中当前聚焦的元素:
 
-```
+```html
 Syntax: var ele = document.activeElement;
 
 ```
@@ -12,7 +12,7 @@ Syntax: var ele = document.activeElement;
 **返回值:**返回文档中当前聚焦的元素。
 **示例代码片段:**
 
-```
+```html
 Example 1: var eleName = document.activeElement.tagName;
 Returns: The Tag Name of the active element.
 
@@ -23,7 +23,7 @@ Returns: The id of the active element, if any.
 
 **演示工作的示例代码:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -54,7 +54,7 @@ The active/focused DOM name will be displayed at the end</p>
 **以上代码的解释:**
 *脚本*内部主体标签将 id 为 *fun* 的 DOM 元素的 HTML Content 修改为当前活动或焦点所在的 DOM 元素的名称。这是由
 
-```
+```html
 document.activeElement.tagName
 ```
 

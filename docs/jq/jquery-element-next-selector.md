@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```html
 $("element + next")
 ```
 
@@ -23,7 +23,7 @@ $("element + next")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -76,7 +76,7 @@ $("element + next")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

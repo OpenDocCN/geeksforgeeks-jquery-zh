@@ -10,7 +10,7 @@
 
 *   **要设置*切换模式*属性:**
 
-    ```
+    ```html
     $('Selector').jqxNavigationBar({ 
         toggleMode: "dblclick" 
     }); 
@@ -18,7 +18,7 @@
 
 *   **获取*至*属性:**
 
-    ```
+    ```html
     var toggleMode = 
         $('Selector').jqxNavigationBar('toggleMode');
     ```
@@ -33,7 +33,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

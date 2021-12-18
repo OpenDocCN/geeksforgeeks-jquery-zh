@@ -10,13 +10,13 @@
 
 设置*页面模式*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ pagermode: "simple"});
 ```
 
 返回*页面模式*属性:
 
-```
+```html
 var pagermode = $('#Selector').jqxGrid('pagermode');
 ```
 
@@ -31,7 +31,7 @@ var pagermode = $('#Selector').jqxGrid('pagermode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

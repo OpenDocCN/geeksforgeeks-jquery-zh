@@ -6,7 +6,7 @@ jQuery 中的这个 **merge()** 方法用于将两个数组的内容合并到第
 
 **语法:**
 
-```
+```html
 jQuery.merge( first, second )
 
 ```
@@ -20,7 +20,7 @@ jQuery.merge( first, second )
 
     **例 1:** 在本例中， **merge()方法**只合并了两个数组。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -65,7 +65,7 @@ jQuery.merge( first, second )
 
     **例 2:** 在本例中，**合并()方法**合并了两个以上的数组。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

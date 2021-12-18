@@ -20,7 +20,7 @@
 
 *   **HTML 代码制作结构:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -66,7 +66,7 @@
 
 *   **CSS 代码的结构:**在这一节中，我们将设计布局添加一些必要的 CSS 配置来做同样的事情。在**容器**中应用的样式属性可确保图像不会溢出容器，也不会溢出指定的边界。更多细节请参考下面的例子。
 
-    ```
+    ```html
     <style>
         body {
             margin: 20px;
@@ -94,12 +94,12 @@
 
 *   **Adding jQuery script:** Now we will initialize the jQuery script. The syntax is highlighted below:
 
-    ```
+    ```html
     $([Selector to Parent element of Image]).zoom({Attributes});
     $([Image]).parent().zoom({attributes});
     ```
 
-    ```
+    ```html
     <script>
         $(document).ready(function() {
 
@@ -129,7 +129,7 @@
 
     **合并 HTML、CSS 和 jQuery 代码:**这是合并上述部分后的最终代码。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

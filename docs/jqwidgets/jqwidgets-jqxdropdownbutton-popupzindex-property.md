@@ -10,13 +10,13 @@
 
 *   它用于设置 popupZIndex 属性。
 
-```
+```html
 $("Selector").jqxDropDownButton({popupZIndex: 999999});
 ```
 
 *   它用于获取 popupZIndex 属性。
 
-```
+```html
 var zIndex = $('Selector').jqxDropDownButton('popupZIndex'); 
 ```
 
@@ -31,7 +31,7 @@ var zIndex = $('Selector').jqxDropDownButton('popupZIndex');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

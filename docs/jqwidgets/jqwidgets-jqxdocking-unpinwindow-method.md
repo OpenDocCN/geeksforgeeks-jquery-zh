@@ -10,7 +10,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxDocking').jqxDocking('unpinWindow', 'windowId');
 ```
 
@@ -30,7 +30,7 @@ $('#jqxDocking').jqxDocking('unpinWindow', 'windowId');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

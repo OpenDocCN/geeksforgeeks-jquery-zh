@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxGrid('unselectcell',
     rowBoundIndex, dataField);
 ```
@@ -31,7 +31,7 @@ $('#Selector').jqxGrid('unselectcell',
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

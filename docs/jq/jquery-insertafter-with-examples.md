@@ -5,7 +5,7 @@
 **insertAfter()** 是 jQuery 中的一个内置方法，用于在指定的元素后插入一些 HTML 内容。HTML 内容将在指定元素的每次出现后插入。
 **语法:**
 
-```
+```html
 $(content).insertAfter(target)
 
 ```
@@ -18,7 +18,7 @@ $(content).insertAfter(target)
 
 **Code #1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -50,7 +50,7 @@ $(content).insertAfter(target)
 **输出:**
 点击 div 内容前-
 
-```
+```html
 To learn jQuery :
 Click here to complete
 
@@ -58,7 +58,7 @@ Click here to complete
 
 **点击 div 内容后-**
 
-```
+```html
 To learn jQuery :
 You should follow GeeksForGeeks
 Click here to complete
@@ -67,7 +67,7 @@ Click here to complete
 
 **代码#2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -101,7 +101,7 @@ Click here to complete
 **输出:**
 点击 div 内容前-
 
-```
+```html
 To learn jQuery :
 To learn coding :
 Click here to complete
@@ -110,7 +110,7 @@ Click here to complete
 
 点击 div 内容后-
 
-```
+```html
 To learn jQuery :
 You should follow GeeksForGeeks
 To learn coding :

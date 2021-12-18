@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxRibbon').jqxRibbon('disableAt', index);
 ```
 
@@ -23,7 +23,7 @@ $('#jqxRibbon').jqxRibbon('disableAt', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

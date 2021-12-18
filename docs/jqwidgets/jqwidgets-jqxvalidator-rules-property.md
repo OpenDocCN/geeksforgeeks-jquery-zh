@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 { 
    input: 'selector-of-the-input',  
    message: 'Custom message on error',  
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,7 +10,7 @@ customColorScheme 属性用于设置条形图仪表的自定义配色方案。�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge({
     values: [array], 
     max: number,
@@ -31,7 +31,7 @@ $('.selector').jqxBarGauge({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

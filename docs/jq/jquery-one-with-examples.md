@@ -6,7 +6,7 @@ one()方法是 jQuery 中的一个内置方法，它为所选元素附加一个�
 
 **语法:**
 
-```
+```html
 $(selector).one(event, data, function)
 ```
 
@@ -20,7 +20,7 @@ $(selector).one(event, data, function)
 
 **程序:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

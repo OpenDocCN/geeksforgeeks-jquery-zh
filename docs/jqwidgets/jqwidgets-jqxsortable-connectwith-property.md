@@ -10,13 +10,13 @@
 
 *   设置*连接*属性:
 
-    ```
+    ```html
     $('jqxSortable').jqxSortable({ connectWith : boolean/string });
     ```
 
 *   返回带有属性的*连接:*
 
-    ```
+    ```html
     var connectWith = $('Selector').jqxSortable('connectWith');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

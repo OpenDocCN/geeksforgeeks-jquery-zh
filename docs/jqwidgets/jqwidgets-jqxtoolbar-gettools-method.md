@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var tools = $('#Selector').jqxToolBar('getTools');
 ```
 
@@ -23,7 +23,7 @@ var tools = $('#Selector').jqxToolBar('getTools');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

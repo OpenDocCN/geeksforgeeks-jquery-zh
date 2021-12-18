@@ -9,7 +9,7 @@ jQuery 为程序员提供了一个漂亮、轻量级、单页且响应迅速的*
 
 **示例 1:** 在下面的示例中， **verticalDotNav()** 方法的非常基本的调用是使用 jQuery 显示的。HTML 页面的不同部分提供了不同的页面内容。
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>
@@ -75,7 +75,7 @@ practice at the same time, simulating the feeling of a real placement
 
 **示例 2:** 在以下示例中， **verticalDotNav()** 方法的各种选项设置如下。只需注意图像输出中的点对齐和滚动速度，并根据要求在代码中进行相应的定制。
 
-```
+```html
 <!doctype html>
 
 <html lang="en">

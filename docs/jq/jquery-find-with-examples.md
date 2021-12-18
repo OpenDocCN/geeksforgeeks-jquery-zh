@@ -5,7 +5,7 @@
 **find()** 是 jQuery 中的一个内置方法，用于查找所选元素的所有后代元素。它将一直向下遍历到 DOM 树中所选元素的最后一片叶子。
 **语法:**
 
-```
+```html
 $(selector).find()
 
 ```
@@ -20,7 +20,7 @@ $(selector).find()
 **Code #1:**
 In the below code, all the “span” element connected to the “div” element get highlighted with the green color.
 
-```
+```html
 <html>
 
 <head>
@@ -68,7 +68,7 @@ In the below code, all the “span” element connected to the “div” element
 借助带有某些参数的 find()函数，还可以找到特定元素的所有子元素。
 **语法:**
 
-```
+```html
 $(selector1).children("selector2")
 
 ```
@@ -83,7 +83,7 @@ $(selector1).children("selector2")
     **代码#2:**
     在下面的代码中，“p”元素的所有“span”元素都被选中并以绿色突出显示。
 
-    ```
+    ```html
     <html>
 
     <head>

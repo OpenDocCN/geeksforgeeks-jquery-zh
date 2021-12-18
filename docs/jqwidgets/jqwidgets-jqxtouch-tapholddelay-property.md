@@ -10,13 +10,13 @@
 
 *   用于设置*点击保持延迟*属性:
 
-    ```
+    ```html
     $('#jqxTouch').jqxTouch({tapHoldDelay: 999});
     ```
 
 *   获取 *tapHoldDelay* 属性:
 
-    ```
+    ```html
     var swipeMin = $('#jqxTouch').jqxTouch('tapHoldDelay');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

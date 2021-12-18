@@ -8,7 +8,7 @@ getColor()方法用于返回十六进制或 rgb 格式的颜色。它不接受�
 
 **语法:**
 
-```
+```html
 $("selector").jqxColorPicker('getColor');
 ```
 
@@ -22,7 +22,7 @@ $("selector").jqxColorPicker('getColor');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

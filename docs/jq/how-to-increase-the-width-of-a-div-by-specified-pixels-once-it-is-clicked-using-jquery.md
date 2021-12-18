@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 // To return the width of the selected element
 $(selector).width()
 
@@ -20,7 +20,7 @@ $(selector).width(value)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

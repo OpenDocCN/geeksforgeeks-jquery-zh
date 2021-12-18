@@ -10,13 +10,13 @@
 
 *   它用于设置 altstep 属性。
 
-    ```
+    ```html
     $('Selector').jqxGrid({ altstep: 3});
     ```
 
 *   它用于返回 altstep 属性。
 
-    ```
+    ```html
     var altstep = $('Selector').jqxGrid('altstep');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

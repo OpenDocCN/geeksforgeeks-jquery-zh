@@ -19,13 +19,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 toggleMode 属性。
 
-```
+```html
 $('selector').jqxTabs({ toggleMode: String });
 ```
 
 返回 toggleMode 属性。
 
-```
+```html
 var toggleMode = $('selector').jqxTabs('toggleMode');
 ```
 
@@ -42,7 +42,7 @@ var toggleMode = $('selector').jqxTabs('toggleMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

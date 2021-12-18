@@ -6,7 +6,7 @@ jQuery **回调. remove()方法**用于从回调列表中移除单个回调或�
 
 **语法:**
 
-```
+```html
 callbacks.remove( callbacks )
 ```
 
@@ -20,7 +20,7 @@ callbacks.remove( callbacks )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -80,7 +80,7 @@ callbacks.remove( callbacks )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

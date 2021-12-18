@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置自动关闭单击属性。
 
-```
+```html
 $('selector').jqxMenu({ autoCloseOnClick: Boolean });
 ```
 
 返回 autoCloseOnClick 属性。
 
-```
+```html
 var autoCloseOnClick = $('selector').jqxMenu('autoCloseOnClick');
 ```
 
@@ -33,7 +33,7 @@ var autoCloseOnClick = $('selector').jqxMenu('autoCloseOnClick');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

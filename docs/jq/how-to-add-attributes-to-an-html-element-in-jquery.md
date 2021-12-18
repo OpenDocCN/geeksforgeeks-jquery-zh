@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#add-attr").click(function () {
     $("#addAttr").attr("placeholder", "GeeksforGeeks");
 });
@@ -18,7 +18,7 @@ $("#add-attr").click(function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

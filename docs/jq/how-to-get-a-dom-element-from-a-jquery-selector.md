@@ -8,14 +8,14 @@
 
 **语法**
 
-```
+```html
 $(“selector”).get(0)
 
 ```
 
 或者
 
-```
+```html
 $(“selector”)[0]
 
 ```
@@ -26,7 +26,7 @@ $(“selector”)[0]
 
 ## java 描述语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -96,7 +96,7 @@ $(“selector”)[0]
 
 ## java 描述语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

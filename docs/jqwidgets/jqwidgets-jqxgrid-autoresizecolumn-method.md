@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxGrid('autoresizecolumn', 'dataField');
 ```
 
@@ -30,7 +30,7 @@ $('#Selector').jqxGrid('autoresizecolumn', 'dataField');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 要设置*主题*属性:
 
-```
+```html
 $('selector').jqxListBox({ theme: String });
 ```
 
 要获取*主题*属性:
 
-```
+```html
 var theme = $('selector').jqxListBox('theme');
 ```
 
@@ -31,7 +31,7 @@ var theme = $('selector').jqxListBox('theme');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

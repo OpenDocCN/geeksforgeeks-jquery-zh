@@ -16,13 +16,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*图像位置*属性。
 
-```
+```html
 $('selector').jqxLoader({ imagePosition: String });
 ```
 
 返回*图像位置*属性。
 
-```
+```html
 var imagePosition = $('selector').jqxLoader('imagePosition');
 ```
 
@@ -37,7 +37,7 @@ var imagePosition = $('selector').jqxLoader('imagePosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

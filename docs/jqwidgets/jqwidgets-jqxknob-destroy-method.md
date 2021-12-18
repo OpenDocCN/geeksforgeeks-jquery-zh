@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxKnob').jqxKnob('destroy');
 ```
 
@@ -27,7 +27,7 @@ $('#jqxKnob').jqxKnob('destroy');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxGauge').bind('valueChanging', function (e) {
     code here
 });
@@ -25,7 +25,7 @@ $('#jqxGauge').bind('valueChanging', function (e) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

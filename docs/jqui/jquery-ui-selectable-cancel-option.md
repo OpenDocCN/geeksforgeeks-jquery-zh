@@ -10,7 +10,7 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 Query JavaScript 库实现�
 
 **用取消选项初始化可选元素:**
 
-```
+```html
 $(".selector").selectable({
     cancel: ".cancel"
 });
@@ -18,7 +18,7 @@ $(".selector").selectable({
 
 **初始化后设置或返回取消选项:**
 
-```
+```html
 // Set the cancel option
 $( ".selector" ).selectable( 
     "option", "cancel", "a,.cancel" );
@@ -38,7 +38,7 @@ var cancel = $( ".selector" )
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

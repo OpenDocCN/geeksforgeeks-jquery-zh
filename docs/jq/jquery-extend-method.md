@@ -6,7 +6,7 @@ jQuery 中的这个 **extend()** 方法用于将两个或多个对象的内容�
 
 **语法:**
 
-```
+```html
 jQuery.extend( [deep ], target, object1 [, objectN ] )
 
 ```
@@ -24,7 +24,7 @@ jQuery.extend( [deep ], target, object1 [, objectN ] )
 
 **示例 1:** 在本例中， **extend()方法**将两个对象合并为一个。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -69,7 +69,7 @@ jQuery.extend( [deep ], target, object1 [, objectN ] )
 
 **示例 2:** 在本例中， **extend()方法**合并两个对象，不修改任何对象。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

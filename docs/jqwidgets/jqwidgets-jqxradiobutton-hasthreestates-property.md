@@ -16,13 +16,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 hasThreeStates 属性。
 
-```
+```html
 $('selector').jqxRadioButton({ hasThreeStates: Boolean });
 ```
 
 返回 hasThreeStates 属性。
 
-```
+```html
 var hasThreeStates = 
     $('selector').jqxRadioButton('hasThreeStates');
 ```
@@ -40,7 +40,7 @@ var hasThreeStates =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

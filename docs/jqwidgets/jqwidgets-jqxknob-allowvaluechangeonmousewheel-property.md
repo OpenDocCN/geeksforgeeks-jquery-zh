@@ -10,13 +10,13 @@
 
 *   用于设置*allowvaluechangeomousewheel*属性。
 
-```
+```html
 $('#jqxKnob').jqxKnob({allowValueChangeOnMouseWheel: true });
 ```
 
 *   获取*allowvaluechangeomousewheel*属性。
 
-```
+```html
 var allowValueChangeOnClick = 
 $('#jqxKnob').jqxKnob('allowValueChangeOnMouseWheel');
 ```
@@ -32,7 +32,7 @@ $('#jqxKnob').jqxKnob('allowValueChangeOnMouseWheel');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

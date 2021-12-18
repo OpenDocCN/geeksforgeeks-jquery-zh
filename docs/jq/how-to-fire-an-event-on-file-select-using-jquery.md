@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```html
 $(selector).change(function)
 ```
 
 **例 1:** 选择文件时，使用 change()方法触发事件。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +61,7 @@ $(selector).change(function)
 
 **例 2:** 选择文件时，使用 change()方法触发事件。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").jqxTreeGrid('clearFilters');
 ```
 
@@ -27,7 +27,7 @@ $("Selector").jqxTreeGrid('clearFilters');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

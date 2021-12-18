@@ -10,13 +10,13 @@ height 属性用于设置或返回 jqxDateTimeInput 小部件的高度。它接�
 
 设置高度属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ height: Number/String });
 ```
 
 返回高度属性。
 
-```
+```html
 var height = $('selector').jqxDateTimeInput('height');
 ```
 
@@ -33,7 +33,7 @@ var height = $('selector').jqxDateTimeInput('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

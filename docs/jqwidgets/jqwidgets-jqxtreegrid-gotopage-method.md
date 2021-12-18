@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#treeGrid").jqxTreeGrid('goToPage', pageIndex);
 ```
 
@@ -29,7 +29,7 @@ $("#treeGrid").jqxTreeGrid('goToPage', pageIndex);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

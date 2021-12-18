@@ -10,13 +10,13 @@
 
 设置 max 属性。
 
-```
+```html
 $('Selector').jqxGauge({ max: number });  
 ```
 
 返回 max 属性。
 
-```
+```html
 var max = $('Selector').jqxGauge('max');
 ```
 
@@ -33,7 +33,7 @@ var max = $('Selector').jqxGauge('max');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

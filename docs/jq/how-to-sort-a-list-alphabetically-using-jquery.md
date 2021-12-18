@@ -10,19 +10,19 @@
 
     *   **返回文字内容:**
 
-        ```
+        ```html
         $(selector).text()
         ```
 
     *   **设置文字内容:**
 
-        ```
+        ```html
         $(selector).text(content)
         ```
 
     *   **使用功能设置文本内容:**
 
-        ```
+        ```html
         $(selector).text(function(index, curContent))
         ```
 
@@ -36,7 +36,7 @@
 
     **语法:**
 
-    ```
+    ```html
     string.toUpperCase()
     ```
 
@@ -46,7 +46,7 @@
 
     **语法:**
 
-    ```
+    ```html
     $(content).appendTo(selector)
     ```
 
@@ -57,7 +57,7 @@
 
 **示例 1:** 在本例中，首先选择列表元素，然后将其传递给函数进行排序。排序后，使用 **appendTo()方法**以排序的方式将它们追加到父元素。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
     <head> 
@@ -121,7 +121,7 @@
 
 **示例 2:** 在本例中，首先选择列表元素，然后将其传递给函数进行排序。排序后，使用 **appendTo()方法**以排序的方式将它们追加到父元素。本示例使用与第一个示例相同的方法，但方法不同。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
     <head> 

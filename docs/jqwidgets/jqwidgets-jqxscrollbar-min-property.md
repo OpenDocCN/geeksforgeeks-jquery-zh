@@ -10,13 +10,13 @@
 
 *   **设置*分钟*属性:**
 
-    ```
+    ```html
     $('#jqxScrollBar').jqxScrollBar({ min: 100 });
     ```
 
 *   **要获得*分钟*属性:**
 
-    ```
+    ```html
     var min = $('#jqxScrollBar').jqxScrollBar('min');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -14,7 +14,7 @@ jQuery 的开发是为了通过减少代码来节省开发人员的时间。它�
 
     **JavaScript 代码片段:**
 
-    ```
+    ```html
     function changeColor(color) {
         document.body.style.background = color;
     }
@@ -24,7 +24,7 @@ jQuery 的开发是为了通过减少代码来节省开发人员的时间。它�
 
     **jQuery 语法:**
 
-    ```
+    ```html
     $('body').css('background', 'green');
     ```
 

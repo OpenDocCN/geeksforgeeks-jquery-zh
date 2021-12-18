@@ -10,13 +10,13 @@
 
 *   设置*禁用*属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ disabled: Boolean});
     ```
 
 *   返回*禁用的*属性。
 
-    ```
+    ```html
     var disabled = $('selector').jqxDragDrop('disabled');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

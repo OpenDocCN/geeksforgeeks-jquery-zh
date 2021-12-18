@@ -10,13 +10,13 @@
 
 **设置 ***显示表头*** 属性:**
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({showHeader: false});
 ```
 
 **返回 ***显示表头*** 属性:**
 
-```
+```html
 var showHeader = $('#treeGrid').jqxTreeGrid('showHeader');
 ```
 
@@ -30,7 +30,7 @@ var showHeader = $('#treeGrid').jqxTreeGrid('showHeader');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ Checkboxradio Widget destroy()方法用于删除 Checkboxradio 按钮的所有�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).checkboxradio( "destroy" );
 ```
 
@@ -18,7 +18,7 @@ $( ".selector" ).checkboxradio( "destroy" );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

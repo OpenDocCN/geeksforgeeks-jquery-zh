@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 (selector).animate({css styles},speed,easing,callback)
 ```
 
@@ -18,7 +18,7 @@ CSS 样式定义了 CSS 属性，如*背景色、填充、边距*等。速度指
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>

@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
 
@@ -86,7 +86,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
 

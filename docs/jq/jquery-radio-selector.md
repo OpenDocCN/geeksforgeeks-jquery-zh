@@ -10,20 +10,20 @@
 
 *   **默认语法:**
 
-    ```
+    ```html
      $( "input[name=group_name]:radio" ) 
     ```
 
 *   **用于利用优势的语法:**上面的语法不能利用本机 DOM 的性能优化，所以请改用下面的语法。
 
-    ```
+    ```html
      $("input[type=radio][name=group-1]") 
     ```
 
 **方法-1: $(“输入[type = radio]”**这种选择方法选择 radio ie 类型的所有输入元素。页面的每个无线电元素。
 **例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -80,7 +80,7 @@
 **方法 2- $(“输入:单选”)**这将产生与前一个相同的结果。
 T3】例 2:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -122,7 +122,7 @@ T3】例 2:
 **方法-3: $(【输入[type = radio][name = group-1])**这将从表单中选择指定的一组无线电输入。
 **例-3:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置*下拉宽度*属性。
 
-```
+```html
 $('selector').jqxInput({ dropDownWidth: Number });
 ```
 
 返回*下拉宽度*属性。
 
-```
+```html
 var dropDownWidth = $('selector').jqxInput('dropDownWidth');
 ```
 
@@ -31,7 +31,7 @@ var dropDownWidth = $('selector').jqxInput('dropDownWidth');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

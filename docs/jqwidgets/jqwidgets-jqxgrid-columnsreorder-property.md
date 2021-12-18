@@ -10,13 +10,13 @@
 
 *   它用于设置 columnsreorder 属性。
 
-    ```
+    ```html
     $('Selector').jqxGrid({ columnsreorder: true});
     ```
 
 *   它用于返回 columnsreorder 属性。
 
-    ```
+    ```html
     var columnsreorder = 
         $('Selector').jqxGrid('columnsreorder');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

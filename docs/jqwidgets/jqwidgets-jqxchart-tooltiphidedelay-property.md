@@ -10,13 +10,13 @@
 
 *   设置*工具提示隐藏延迟*属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ toolTipHideDelay : number});
     ```
 
 *   返回*工具提示隐藏延迟*属性。
 
-    ```
+    ```html
     var toolTipHideDelay = 
         $('Selector').jqxChart('toolTipHideDelay ');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置*值成员*属性:
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ valueMember: 'Rating' });
     ```
 
 *   获取*值成员*属性:
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'valueMember' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

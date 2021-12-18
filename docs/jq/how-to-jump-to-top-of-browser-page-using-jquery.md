@@ -6,7 +6,7 @@
 
 **示例:跳转到浏览器页面顶部**
 
-```
+```html
 <html>
 <head>
 <script src=

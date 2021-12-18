@@ -8,13 +8,13 @@ val()方法用于设置或返回 jqxCalendar 的值。此方法接受日期作�
 
 **语法:**
 
-```
+```html
 $("selector").jqxCalendar('val', Date);
 ```
 
 或者
 
-```
+```html
 $("selector").val(Date);
 ```
 
@@ -28,7 +28,7 @@ $("selector").val(Date);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

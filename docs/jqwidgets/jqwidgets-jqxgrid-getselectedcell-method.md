@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var cell = $('#Selector').jqxGrid('getselectedcell');
 ```
 
@@ -25,7 +25,7 @@ var cell = $('#Selector').jqxGrid('getselectedcell');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

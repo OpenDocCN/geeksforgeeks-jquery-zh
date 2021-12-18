@@ -10,13 +10,13 @@
 
 *   它用于设置 scaleLength 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ scaleLength: string/number });
 ```
 
 *   它用于返回 scaleLength 属性。
 
-```
+```html
 var scaleLength= $('Selector').jqxLinearGauge('scaleLength');
 ```
 
@@ -31,7 +31,7 @@ var scaleLength= $('Selector').jqxLinearGauge('scaleLength');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

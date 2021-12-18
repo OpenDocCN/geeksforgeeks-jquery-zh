@@ -10,13 +10,13 @@
 
 *   设置 ***lastchildfill*** 属性:
 
-    ```
+    ```html
     $('#jqxDockPanel').jqxDockPanel({ lastchildfill: true });  
     ```
 
 *   获取 ***lastchildfill*** 属性:
 
-    ```
+    ```html
     var lastchildfill = 
         $('#jqxDockPanel').jqxDockPanel('lastchildfill');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

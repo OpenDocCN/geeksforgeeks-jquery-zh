@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置扩展属性。
 
-```
+```html
 $('selector').jqxExpander({ expanded: Boolean });
 ```
 
 返回展开的属性。
 
-```
+```html
 var expanded = $('selector').jqxExpander('expanded');
 ```
 
@@ -33,7 +33,7 @@ var expanded = $('selector').jqxExpander('expanded');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

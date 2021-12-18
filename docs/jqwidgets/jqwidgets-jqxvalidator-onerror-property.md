@@ -10,7 +10,7 @@
 
 *   用于设置 ***或*** 属性。
 
-    ```
+    ```html
     $('#jqxValidator').jqxValidator({ 
       onError: function () { 
         alert('The form has been filled incorrectly.');
@@ -20,7 +20,7 @@
 
 *   获得 ***或*** 属性。
 
-    ```
+    ```html
     var onError = 
         $('#jqxValidator').jqxValidator('onError'); 
     ```
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(".class1, .class2, .class3, ...")
 ```
 
@@ -16,7 +16,7 @@ $(".class1, .class2, .class3, ...")
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -56,7 +56,7 @@ $(".class1, .class2, .class3, ...")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

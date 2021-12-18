@@ -10,13 +10,13 @@
 
 设置*勾选*属性。
 
-```
+```html
 $('Selector').jqxSwitchButton({ checked:true }); 
 ```
 
 获取*选中的*属性。
 
-```
+```html
 var checked = $('Selector').jqxSwitchButton('checked');
 ```
 
@@ -33,7 +33,7 @@ var checked = $('Selector').jqxSwitchButton('checked');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

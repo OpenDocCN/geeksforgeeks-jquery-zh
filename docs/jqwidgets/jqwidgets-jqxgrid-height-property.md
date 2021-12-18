@@ -10,13 +10,13 @@
 
 *   设置*高度*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ height: 300});
     ```
 
 *   返回*高度*属性。
 
-    ```
+    ```html
     var height = $('#Selector').jqxGrid('height');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

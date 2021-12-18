@@ -10,13 +10,13 @@
 
 它用于设置 keyboardnavigation 属性。
 
-```
+```html
 $('Selector').jqxGrid({ keyboardnavigation: false});
 ```
 
 它用于返回 keyboardnavigation 属性。
 
-```
+```html
 var keyboardnavigation = 
     $('Selector').jqxGrid('keyboardnavigation');
 ```
@@ -32,7 +32,7 @@ var keyboardnavigation =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

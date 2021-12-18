@@ -10,21 +10,21 @@
 
 *   **返回文字内容:**
 
-```
+```html
 $(selector).text()
 
 ```
 
 *   **设置文字内容:**
 
-    ```
+    ```html
     $(selector).text(content)
 
     ```
 
     *   **Set text content using a function:**
 
-    ```
+    ```html
     $(selector).text(function(index, curContent))
 
     ```
@@ -38,7 +38,7 @@ $(selector).text()
 
     **示例:**本示例使用 **JQuery 的 text()方法**获取内容。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html> 
         <head> 
@@ -93,21 +93,21 @@ $(selector).text()
 
     *   **返回内容:**
 
-        ```
+        ```html
         $(selector).html()
 
         ```
 
     *   **设置内容:**
 
-        ```
+        ```html
         $(selector).html(content)
 
         ```
 
     *   **使用功能设置内容:**
 
-        ```
+        ```html
         $(selector).html(function(index, curContent))
 
         ```
@@ -121,7 +121,7 @@ $(selector).text()
 
     **示例:**本示例使用 **JQuery 的 html()方法**获取内容。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html> 
         <head> 

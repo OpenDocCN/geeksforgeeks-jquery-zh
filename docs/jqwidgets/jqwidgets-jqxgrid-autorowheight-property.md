@@ -10,13 +10,13 @@
 
 *   设置*自动高度*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ autorowheight: true});
     ```
 
 *   返回*自动高度 p* 属性。
 
-    ```
+    ```html
     var autorowheight = 
         $('#Selector').jqxGrid('autorowheight');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

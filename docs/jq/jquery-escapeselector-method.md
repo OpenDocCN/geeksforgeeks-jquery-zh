@@ -6,7 +6,7 @@ jQuery 中的**转义选择器()方法**用于转义具有特殊有效字符或�
 
 **语法:**
 
-```
+```html
 jQuery.escapeSelector( selector )
 ```
 
@@ -14,7 +14,7 @@ jQuery.escapeSelector( selector )
 
 **示例 1:** 本示例选择 *class = '的元素。列表'*。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -88,7 +88,7 @@ jQuery.escapeSelector( selector )
 
 **示例 2:** 本示例选择 *ID = '#list'* 的元素。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

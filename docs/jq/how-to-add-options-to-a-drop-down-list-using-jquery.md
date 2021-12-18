@@ -6,7 +6,7 @@
 
 **方法:**使用**追加()**方法向现有下拉列表添加更多选项:
 
-```
+```html
  var options = {
                 val1: 'C#',
                 val2: 'PHP'
@@ -27,7 +27,7 @@ JQuery 中 append()方法的详细说明可以在[这里](https://www.geeksforge
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

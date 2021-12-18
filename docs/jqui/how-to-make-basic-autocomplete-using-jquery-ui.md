@@ -12,7 +12,7 @@ jQuery UI 自动完成可以为网页中的文本字段提供自动完成支持�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

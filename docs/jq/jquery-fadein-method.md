@@ -6,7 +6,7 @@ jQuery 中的 **fadeIn()方法**用于将选定元素的不透明度从隐藏更
 
 **语法:**
 
-```
+```html
 $(selector).fadeIn( speed, easing, callback )
 ```
 
@@ -25,7 +25,7 @@ $(selector).fadeIn( speed, easing, callback )
 
 **例 1:** 本例描述了速度为 1000 毫秒的 fadeIn()方法。
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
     <head> 
@@ -80,7 +80,7 @@ $(selector).fadeIn( speed, easing, callback )
 
 **例 2:** 本例描述了带有缓和“摇摆”的 fadeIn()方法。
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
     <head> 

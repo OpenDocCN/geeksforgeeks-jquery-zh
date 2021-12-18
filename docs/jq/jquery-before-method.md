@@ -6,7 +6,7 @@ jQuery 中的 **before()方法**用于在选中的元素前添加内容。
 
 **语法:**
 
-```
+```html
 $(selector).before( content, function(index) )
 ```
 
@@ -17,7 +17,7 @@ $(selector).before( content, function(index) )
 
 **示例 1:** 本示例在元素前插入内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -55,7 +55,7 @@ $(selector).before( content, function(index) )
 
 **示例 2:** 本示例在指定元素之前插入内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

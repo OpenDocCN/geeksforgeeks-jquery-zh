@@ -16,13 +16,13 @@
 
 要设置 *dropAction* 属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({dropAction:'copy'});  
 ```
 
 要获取 *dropAction* 属性:
 
-```
+```html
 var dropAction = $('#jqxListBox').jqxListBox('dropAction');  
 ```
 
@@ -39,7 +39,7 @@ var dropAction = $('#jqxListBox').jqxListBox('dropAction');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>

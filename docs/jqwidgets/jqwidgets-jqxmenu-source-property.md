@@ -20,7 +20,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置源属性。
 
-```
+```html
 $('selector').jqxMenu({ source: Object });
 ```
 
@@ -37,7 +37,7 @@ $('selector').jqxMenu({ source: Object });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

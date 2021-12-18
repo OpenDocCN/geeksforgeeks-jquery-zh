@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(element).bind(click, function() { })
 $(element).bind(dbclick, function() { })
 ```
@@ -15,7 +15,7 @@ $(element).bind(dbclick, function() { })
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

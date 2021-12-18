@@ -43,13 +43,13 @@ labelsFormat 属性用于设置或返回标签的格式。它接受字符串类�
 
 设置标签格式属性。
 
-```
+```html
 $('selector').jqxRangeSelector({ labelsFormat: String });
 ```
 
 返回标签格式属性。
 
-```
+```html
 var labelsFormat = 
     $('selector').jqxRangeSelector('labelsFormat');
 ```
@@ -67,7 +67,7 @@ var labelsFormat =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

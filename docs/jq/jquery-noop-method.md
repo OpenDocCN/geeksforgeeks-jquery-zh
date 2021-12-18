@@ -6,7 +6,7 @@ jQuery 中的这个 **noop()** 方法是当用户希望传递一个什么都不�
 
 **语法:**
 
-```
+```html
 jQuery.noop()
 
 ```
@@ -17,7 +17,7 @@ jQuery.noop()
 
 **示例 1:** 在本例中， **noop()方法**与 **innerHTML** 功能一起使用。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -57,7 +57,7 @@ jQuery.noop()
 
 **例 2:** 在本例中， **noop()方法**与**报警**功能一起使用。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

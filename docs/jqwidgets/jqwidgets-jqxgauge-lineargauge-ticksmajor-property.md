@@ -10,13 +10,13 @@
 
 *   它用于设置 ticksMajor 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ ticksMajor : Object});
 ```
 
 *   它用于返回 ticksMajor 属性。
 
-```
+```html
 var ticksMajor = $('Selector').jqxLinearGauge('ticksMajor');
 ```
 
@@ -38,7 +38,7 @@ var ticksMajor = $('Selector').jqxLinearGauge('ticksMajor');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

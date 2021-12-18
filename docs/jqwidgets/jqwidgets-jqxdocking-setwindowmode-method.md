@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxDocking').jqxDocking('setWindowMode', windowId, mode);
 ```
 
@@ -32,7 +32,7 @@ $('#jqxDocking').jqxDocking('setWindowMode', windowId, mode);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@ toggle()方法用于在 CSS 属性之间振荡，同时用于对元素产生动�
 
 **语法:**
 
-```
+```html
 $(selector).toggle(time, callback_function)
 ```
 
@@ -16,7 +16,7 @@ $(selector).toggle(time, callback_function)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

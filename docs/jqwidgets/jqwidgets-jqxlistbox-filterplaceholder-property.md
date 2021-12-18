@@ -10,13 +10,13 @@
 
 要设置*过滤器占位符*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({filterPlaceHolder:300}); 
 ```
 
 要获取*过滤器占位符*属性:
 
-```
+```html
 var filterPlaceHolder = 
     $('#jqxListBox').jqxListBox('filterPlaceHolder'); 
 ```
@@ -36,7 +36,7 @@ var filterPlaceHolder =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

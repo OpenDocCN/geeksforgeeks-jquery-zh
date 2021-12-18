@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).delegate("Selected_elements", function() {
     $(this).after("content");
 })
@@ -18,7 +18,7 @@ $(selector).delegate("Selected_elements", function() {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

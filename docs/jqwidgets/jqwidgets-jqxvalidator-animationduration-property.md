@@ -10,7 +10,7 @@
 
 *   用于设置 ***动画持续时间*** 属性。
 
-    ```
+    ```html
     $('#jqxValidator').jqxValidator({ 
         animationDuration: 5000 
     });
@@ -18,7 +18,7 @@
 
 *   获取 ***动画持续时间*** 属性。
 
-    ```
+    ```html
     var animationDuration = 
         $('#jqxValidator').jqxValidator('animationDuration'); 
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

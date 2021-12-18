@@ -10,25 +10,25 @@
 
 *   要获取该值:
 
-```
+```html
 var value = $("#jqxListBox").jqxListBox('val');
 ```
 
 *   要借助 jQuery 的 [val()](https://www.geeksforgeeks.org/jquery-val-with-examples/) 获取值:
 
-```
+```html
 var value = $("#jqxListBox").val();
 ```
 
 *   要设置该值:
 
-```
+```html
 $("#jqxListBox").jqxListBox('val', 'New Value');
 ```
 
 *   要借助 jQuery 的 [val()](https://www.geeksforgeeks.org/jquery-val-with-examples/) 设置值:
 
-```
+```html
 $("#jqxListBox").val('New Value');
 ```
 
@@ -47,7 +47,7 @@ $("#jqxListBox").val('New Value');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

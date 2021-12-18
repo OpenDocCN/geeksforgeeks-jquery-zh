@@ -5,7 +5,7 @@
 **prop()** 是 jQuery 中的一个内置方法，用于设置或返回所选元素的属性和值。当此方法用于返回属性值时，它返回第一个匹配元素的值，当此方法用于设置属性值时，它为所选元素设置一个或多个属性。
 **语法:**
 
-```
+```html
 $(selector).prop(para1, para2)
 
 ```
@@ -18,7 +18,7 @@ $(selector).prop(para1, para2)
 
     **显示 prop()方法工作的 jQuery 代码:**
 
-    ```
+    ```html
     <html>
        <head>
           <script

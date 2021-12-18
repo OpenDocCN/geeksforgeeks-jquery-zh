@@ -10,14 +10,14 @@
 
 要设置*enablebrowserbounddetection*属性。
 
-```
+```html
 $('Selector').jqxDropDownButton(
         { enableBrowserBoundsDetection: false}); 
 ```
 
 获取*enablebrowserbounddetection*属性。
 
-```
+```html
 var enableBrowserBoundsDetection = $('Selector')
       .jqxDropDownButton('enableBrowserBoundsDetection');
 ```
@@ -33,7 +33,7 @@ var enableBrowserBoundsDetection = $('Selector')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

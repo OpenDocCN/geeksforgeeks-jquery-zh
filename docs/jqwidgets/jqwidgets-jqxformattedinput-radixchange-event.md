@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").on("radixChange", function (event) { });
 ```
 
@@ -25,7 +25,7 @@ $("Selector").on("radixChange", function (event) { });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

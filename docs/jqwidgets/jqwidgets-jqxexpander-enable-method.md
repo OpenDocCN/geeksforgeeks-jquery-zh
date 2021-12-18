@@ -8,7 +8,7 @@ enable()方法用于启用扩展器。它不接受任何参数，也不返回值
 
 **语法:**
 
-```
+```html
 $('Selector').jqxExpander('enable');
 ```
 
@@ -25,7 +25,7 @@ $('Selector').jqxExpander('enable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

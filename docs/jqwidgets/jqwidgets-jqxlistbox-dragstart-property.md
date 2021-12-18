@@ -10,7 +10,7 @@
 
 要设置*拖动开始*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({dragStart: function (item)
 {
     // disable dragging of 'item2' from listbox.
@@ -25,7 +25,7 @@ $("#jqxListBox").jqxListBox({dragStart: function (item)
 
 要获取*拖动开始*属性:
 
-```
+```html
 var dragStart = $('#jqxListBox').jqxListBox('dragStart'); 
 ```
 
@@ -40,7 +40,7 @@ var dragStart = $('#jqxListBox').jqxListBox('dragStart');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
   <head>
     <link rel="stylesheet" 

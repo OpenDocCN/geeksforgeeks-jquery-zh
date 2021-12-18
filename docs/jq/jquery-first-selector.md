@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(":first")
 ```
 
@@ -14,7 +14,7 @@ $(":first")
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <h1>
@@ -51,7 +51,7 @@ $(":first")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <h1>

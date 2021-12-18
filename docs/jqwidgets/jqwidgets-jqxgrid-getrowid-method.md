@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var id = $('#Selector').jqxGrid('getrowid', rowBoundIndex);
 ```
 
@@ -23,7 +23,7 @@ var id = $('#Selector').jqxGrid('getrowid', rowBoundIndex);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

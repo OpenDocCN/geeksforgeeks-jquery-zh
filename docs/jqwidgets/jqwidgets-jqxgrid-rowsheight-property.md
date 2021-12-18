@@ -10,13 +10,13 @@
 
 *   设置 *rowsheight* 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ rowsheight: 35});
     ```
 
 *   返回 *rowsheight* 属性。
 
-    ```
+    ```html
     var rowsheight = $('#Selector').jqxGrid('rowsheight');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

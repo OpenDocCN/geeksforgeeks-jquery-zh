@@ -10,13 +10,13 @@
 
 设置*选择索引*属性。
 
-```
+```html
 $('selector').jqxRibbon({ selectedIndex: Number });
 ```
 
 返回*选择索引*属性。
 
-```
+```html
 var selectedIndex = $('selector').jqxRibbon('selectedIndex');
 ```
 
@@ -31,7 +31,7 @@ var selectedIndex = $('selector').jqxRibbon('selectedIndex');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

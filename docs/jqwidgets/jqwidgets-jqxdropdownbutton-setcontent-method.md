@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxDropDownButton('setContent', 'Select');
 ```
 
@@ -23,7 +23,7 @@ $('Selector').jqxDropDownButton('setContent', 'Select');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

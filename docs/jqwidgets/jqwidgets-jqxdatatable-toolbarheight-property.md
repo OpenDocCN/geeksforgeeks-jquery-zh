@@ -10,13 +10,13 @@
 
 设置*工具栏高度*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({toolbarHeight: 50});  
 ```
 
 获取*工具栏高度*属性:
 
-```
+```html
 var toolbarHeight = $('#dataTable').jqxDataTable('toolbarHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var toolbarHeight = $('#dataTable').jqxDataTable('toolbarHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

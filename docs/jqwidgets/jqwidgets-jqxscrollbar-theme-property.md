@@ -10,13 +10,13 @@
 
 *   设置*主题*属性:
 
-    ```
+    ```html
     $('#jqxScrollBar').jqxScrollBar({ theme: 'energyblue' });
     ```
 
 *   获取*主题*属性:
 
-    ```
+    ```html
     var theme = $('#jqxScrollBar').jqxScrollBar('theme');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

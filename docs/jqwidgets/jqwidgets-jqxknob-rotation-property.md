@@ -10,13 +10,13 @@
 
 *   对于设置 ***旋转*** 属性:
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({rotation: "clockwise" });
     ```
 
 *   对于获得 ***旋转*** 属性:
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('rotation');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 在这里了解更多关于 jQuery 选择器和事件[的信息。](https://www.geeksforgeeks.org/jquery-selectors-and-event-methods/)
 
-```
+```html
 $(".selector").dialog (
    open: function( event, ui ) {
        console.log('opened')
@@ -27,7 +27,7 @@ $(".selector").dialog (
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang = "en">
    <head>

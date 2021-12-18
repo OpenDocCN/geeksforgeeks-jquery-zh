@@ -12,13 +12,13 @@ animate()方法与 styles 参数中的 scrollTop 属性一起用于此选定元�
 
 **语法:**
 
-```
+```html
 $("html, body").animate({ scrollTop: scrollPosition });
 ```
 
 **示例 1:** 本示例使用默认速度制作滚动动画。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -77,7 +77,7 @@ $("html, body").animate({ scrollTop: scrollPosition });
 
 **示例 2:** 本示例以 3000 的速度制作滚动动画。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 *   设置 toolBarRangeFormatAbbr 属性。
 
-    ```
+    ```html
     $("Selector").jqxScheduler({ toolBarRangeFormatAbbr: 'dd MM yyyy' });
     ```
 
 *   返回 toolBarRangeFormatAbbr 属性。
 
-    ```
+    ```html
     var toolBarRangeFormatAbbr = $('Selector').jqxScheduler('toolBarRangeFormatAbbr');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

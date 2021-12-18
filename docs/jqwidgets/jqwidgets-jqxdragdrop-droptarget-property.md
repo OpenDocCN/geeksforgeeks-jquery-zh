@@ -10,13 +10,13 @@
 
 *   设置 *dropTarget* 属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ dropTarget: $(document.body) });
     ```
 
 *   返回 *dropTarget* 属性。
 
-    ```
+    ```html
     var dropTarget = $('selector').jqxDragDrop('dropTarget');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

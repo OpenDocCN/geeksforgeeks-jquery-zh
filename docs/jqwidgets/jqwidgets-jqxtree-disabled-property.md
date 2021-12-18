@@ -10,13 +10,13 @@
 
 设置禁用属性。
 
-```
+```html
 $('selector').jqxTree({ disabled: Boolean });
 ```
 
 返回禁用的属性。
 
-```
+```html
 var disabled = $('selector').jqxTree('disabled');
 ```
 
@@ -33,7 +33,7 @@ var disabled = $('selector').jqxTree('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

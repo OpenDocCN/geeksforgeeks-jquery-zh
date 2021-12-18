@@ -10,13 +10,13 @@
 
 用于设置 ***选择启用*** 属性:
 
-```
+```html
 $('#jqxTreeMap').jqxTreeMap({ selectionEnabled: true });  
 ```
 
 获取 ***选择启用*** 属性:
 
-```
+```html
 var selectionEnabled = 
     $('#jqxTreeMap').jqxTreeMap('selectionEnabled'); 
 ```
@@ -32,7 +32,7 @@ var selectionEnabled =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

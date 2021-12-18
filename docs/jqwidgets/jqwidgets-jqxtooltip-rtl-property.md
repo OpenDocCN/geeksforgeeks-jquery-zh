@@ -10,13 +10,13 @@
 
 设置 *rtl* 属性。
 
-```
+```html
 $('Selector').jqxTooltip({ rtl: Boolean });
 ```
 
 归还 *rtl* 房产。
 
-```
+```html
 var rtl = $('Selector').jqxTooltip('rtl');
 ```
 
@@ -32,7 +32,7 @@ var rtl = $('Selector').jqxTooltip('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

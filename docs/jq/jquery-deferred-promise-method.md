@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 .promise([type][, target])
 ```
 
@@ -21,7 +21,7 @@
 
 *   **Example**: In this example, the Deferred() is used to create a new object and after that then() method is called with notify and resolve method.
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head>
@@ -66,7 +66,7 @@
 
     *   **Example**: In this example, the Deferred() method is used and the state of Deferred object is checked.
 
-        ```
+        ```html
         <!DOCTYPE HTML> 
         <html>  
         <head>

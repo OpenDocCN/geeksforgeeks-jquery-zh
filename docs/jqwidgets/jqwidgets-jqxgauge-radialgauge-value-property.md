@@ -10,13 +10,13 @@
 
 *   设置*值*属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ value: 0});  
     ```
 
 *   返回*值*属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge('value');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

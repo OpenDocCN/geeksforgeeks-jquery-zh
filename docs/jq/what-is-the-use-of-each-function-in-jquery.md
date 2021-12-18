@@ -6,7 +6,7 @@ jQuery 中的**[()](https://www.geeksforgeeks.org/jquery-misc-each-method/)**函
 
 **语法:**
 
-```
+```html
 $.each('array or object', function(index, value){
   // Your code
 })
@@ -18,7 +18,7 @@ $.each('array or object', function(index, value){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -49,7 +49,7 @@ $.each('array or object', function(index, value){
 
 **语法:**
 
-```
+```html
 $('selector').each(function(index, value){
     // Your code
 })
@@ -61,7 +61,7 @@ $('selector').each(function(index, value){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

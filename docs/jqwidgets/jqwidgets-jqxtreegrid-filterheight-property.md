@@ -10,13 +10,13 @@
 
 用于设置 ***过滤器高度*** 属性:
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({filterHeight: 30});  
 ```
 
 获取 ***过滤器高度*** 属性:
 
-```
+```html
 var filterHeight = $('#treeGrid').jqxTreeGrid('filterHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var filterHeight = $('#treeGrid').jqxTreeGrid('filterHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

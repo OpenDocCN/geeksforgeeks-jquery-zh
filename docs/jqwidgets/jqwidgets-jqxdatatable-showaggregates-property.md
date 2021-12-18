@@ -10,13 +10,13 @@
 
 设置*显示聚合*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({showAggregates: true});  
 ```
 
 获取*显示聚合*属性:
 
-```
+```html
 var showAggregates = 
     $('#dataTable').jqxDataTable('showAggregates'); 
 ```
@@ -32,7 +32,7 @@ var showAggregates =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

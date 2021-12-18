@@ -10,13 +10,13 @@
 
 *   设置*最小长度*属性。
 
-    ```
+    ```html
     $('selector').jqxTextArea({ minLength: Number });
     ```
 
 *   返回*最小长度*属性。
 
-    ```
+    ```html
     var minLength = $('selector').jqxTextArea('minLength');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

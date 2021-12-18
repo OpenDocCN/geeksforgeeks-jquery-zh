@@ -15,13 +15,13 @@
 
 设置*动画类型*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ animationType: 'combined' });  
 ```
 
 获取*动画类型*属性:
 
-```
+```html
 var animationType = $('#jqxWindow').jqxWindow('animationType'); 
 ```
 
@@ -36,7 +36,7 @@ var animationType = $('#jqxWindow').jqxWindow('animationType');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置*当前页面*属性。
 
-    ```
+    ```html
     $('selector').jqxScrollView({ currentPage: Number });
     ```
 
 *   返回*当前页面*属性。
 
-    ```
+    ```html
     var currentPage = $('selector').jqxScrollView('currentPage');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

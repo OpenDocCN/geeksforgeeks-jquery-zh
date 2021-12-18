@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 selector.removeAttr( name )
 ```
 
@@ -22,7 +22,7 @@ selector.removeAttr( name )
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 
 <head>

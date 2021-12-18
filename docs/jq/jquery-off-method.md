@@ -6,7 +6,7 @@ jQuery 中的 **off()方法**用于移除附带 on()方法的事件处理程序�
 
 **语法:**
 
-```
+```html
 $(selector).off(event, selector, function(eventObj), map)
 ```
 
@@ -19,7 +19,7 @@ $(selector).off(event, selector, function(eventObj), map)
 
 **示例 1:** 本示例删除事件处理程序。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ $(selector).off(event, selector, function(eventObj), map)
 
 **示例 2:** 本示例使用动画事件一次添加动画效果，然后移除事件处理程序。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

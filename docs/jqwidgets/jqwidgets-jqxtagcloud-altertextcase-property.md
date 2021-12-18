@@ -10,13 +10,13 @@
 
 *   **设置*替代文本案例*属性:**
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ alterTextCase: 'allUpper' });
     ```
 
 *   **要获取*altextcase*属性:**
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'alterTextCase' });
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

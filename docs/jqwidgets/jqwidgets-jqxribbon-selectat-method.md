@@ -8,7 +8,7 @@ selectAt()方法用于选择给定索引的项目。它接受数字类型的单�
 
 **语法:**
 
-```
+```html
 $('#jqxRibbon').jqxRibbon('selectAt', index);
 ```
 
@@ -25,7 +25,7 @@ $('#jqxRibbon').jqxRibbon('selectAt', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

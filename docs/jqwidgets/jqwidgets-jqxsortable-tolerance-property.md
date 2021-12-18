@@ -10,13 +10,13 @@
 
 *   用于设置*公差*属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ tolerance : string/function});
     ```
 
 *   用于返回*公差*属性。
 
-    ```
+    ```html
     var tolerance = $('Selector').jqxSortable('tolerance')
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

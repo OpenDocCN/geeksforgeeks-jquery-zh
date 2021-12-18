@@ -6,7 +6,7 @@ event.data 属性用于包含传递给事件方法的可选数据。当前执行
 
 **语法:**
 
-```
+```html
 event.data
 ```
 
@@ -18,7 +18,7 @@ event.data
 
 **示例:**下面的示例说明了 jQuery 中的 event.data 方法:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

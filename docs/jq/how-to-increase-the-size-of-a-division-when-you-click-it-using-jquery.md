@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```html
 $(".box").click(function () {
 
   // Select the clicked element
@@ -36,7 +36,7 @@ $(".box").click(function () {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <script src=
@@ -125,7 +125,7 @@ $(".box").click(function () {
 
 **语法:**
 
-```
+```html
 $(".box").click(function () {
 
   // Select the clicked element
@@ -149,7 +149,7 @@ $(".box").click(function () {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <script src=

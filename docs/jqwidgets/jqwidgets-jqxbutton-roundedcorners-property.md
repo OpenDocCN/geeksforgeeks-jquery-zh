@@ -22,13 +22,13 @@
 
 设置*圆角*属性。
 
-```
+```html
 $("#jqxButton").jqxButton({ roundedCorners: 'jqx-rc-t'});
 ```
 
 获取*圆规*属性。
 
-```
+```html
 var roundedCourners = $('#jqxButton').jqxButton('roundedCorners');
 ```
 
@@ -45,7 +45,7 @@ var roundedCourners = $('#jqxButton').jqxButton('roundedCorners');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

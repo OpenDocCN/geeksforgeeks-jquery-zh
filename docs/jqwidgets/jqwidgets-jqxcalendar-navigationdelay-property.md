@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('.selector').jqxCalendar({
   navigationDelay: Number
 });
@@ -25,7 +25,7 @@ $('.selector').jqxCalendar({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

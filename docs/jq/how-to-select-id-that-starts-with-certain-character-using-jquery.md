@@ -8,7 +8,7 @@
 
 **示例 1:** 本示例选择 ID 以“GFG”开头的元素，并更改其背景颜色。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
     <head> 
@@ -78,7 +78,7 @@
 
 **示例 2:** 本示例选择 ID 以“GFG”开头的元素，并设置其背景颜色。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
     <head> 

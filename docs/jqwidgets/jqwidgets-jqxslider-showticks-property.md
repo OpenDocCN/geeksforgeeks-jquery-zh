@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 showTicks 属性。
 
-```
+```html
 $('selector').jqxSlider({ showTicks: Boolean });
 ```
 
 返回 showTicks 属性。
 
-```
+```html
 var showTicks = $('selector').jqxSlider('showTicks');
 ```
 
@@ -33,7 +33,7 @@ var showTicks = $('selector').jqxSlider('showTicks');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

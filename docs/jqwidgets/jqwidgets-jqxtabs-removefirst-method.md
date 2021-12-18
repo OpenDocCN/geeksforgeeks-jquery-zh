@@ -10,7 +10,7 @@ removeFirst()方法用于删除第一个选项卡。它不接受任何参数，�
 
 **语法:**
 
-```
+```html
 $('Selector').jqxTabs('removeFirst');
 ```
 
@@ -27,7 +27,7 @@ $('Selector').jqxTabs('removeFirst');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

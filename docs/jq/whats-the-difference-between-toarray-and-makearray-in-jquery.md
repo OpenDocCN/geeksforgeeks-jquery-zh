@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 let dom_array = $("p").toArray();
 ```
 
@@ -16,7 +16,7 @@ let dom_array = $("p").toArray();
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <script src=
@@ -71,7 +71,7 @@ let dom_array = $("p").toArray();
 
 **语法:**
 
-```
+```html
 // Array using DOM elements
 let array = jQuery.makeArray($("p"));
 
@@ -83,7 +83,7 @@ let array2 = jQuery.makeArray(array1, array2, array3);
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <script src=

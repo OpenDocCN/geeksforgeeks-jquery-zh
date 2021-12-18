@@ -6,7 +6,7 @@ jQuery 是一个轻量级的 JavaScript 库。在普通的 JavaScript 语言中�
 
 **语法**
 
-```
+```html
 $("[attribute=value]")
 ```
 
@@ -23,7 +23,7 @@ $("[attribute=value]")
 
 **语法:**
 
-```
+```html
 $("#example")
 ```
 
@@ -31,7 +31,7 @@ id 选择器必须仅在用户想要查找唯一元素时使用。
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -79,13 +79,13 @@ id 选择器必须仅在用户想要查找唯一元素时使用。
 
 **[。等级选择器](https://www.geeksforgeeks.org/jquery-class-selector/):T3。类选择器指定要选择的元素的类。它不应该以数字开头。它为几个 HTML 元素赋予了样式。**
 
-```
+```html
 $(".example")
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -126,13 +126,13 @@ $(".example")
 
 **语法:**
 
-```
+```html
 $(":first")
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 

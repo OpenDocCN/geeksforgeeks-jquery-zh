@@ -8,7 +8,7 @@
 
     **语法:**
 
-    ```
+    ```html
     $(selector).prop(para1, para2)
     ```
 
@@ -19,7 +19,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -65,7 +65,7 @@
 
     **语法:**
 
-    ```
+    ```html
     $(selector).html(content)
     ```
 
@@ -76,7 +76,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

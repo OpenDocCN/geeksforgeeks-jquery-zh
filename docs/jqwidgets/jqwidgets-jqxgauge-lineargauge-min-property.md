@@ -10,13 +10,13 @@
 
 设置*分钟*属性:
 
-```
+```html
 $('Selector').jqxLinearGauge({ min : number});
 ```
 
 返回*分钟*属性:
 
-```
+```html
 var min = $('Selector').jqxLinearGauge('min');
 ```
 
@@ -31,7 +31,7 @@ var min = $('Selector').jqxLinearGauge('min');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

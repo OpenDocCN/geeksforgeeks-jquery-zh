@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxWindow').on('moved', function (event) {
  // Some code here
 }); 
@@ -24,7 +24,7 @@ $('#jqxWindow').on('moved', function (event) {
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,7 +10,7 @@
 
 ****语法:****
 
-```
+```html
 $(selector).dblclick(optional_function);
 ```
 
@@ -23,7 +23,7 @@ $(selector).dblclick(optional_function);
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

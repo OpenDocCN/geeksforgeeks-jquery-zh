@@ -8,7 +8,7 @@
 
 ******语法:******
 
-```
+```html
 **$('Selector').on('collapsedItem', function (event) {
     var collapsedItem = event.args.item;
 });**
@@ -24,7 +24,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

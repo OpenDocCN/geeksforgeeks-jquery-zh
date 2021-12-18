@@ -10,13 +10,13 @@
 
 *   它用于设置显示工具提示属性。
 
-```
+```html
 $('Selector').jqxChart({ showToolTips : boolean});
 ```
 
 *   它用于返回显示工具提示属性。
 
-```
+```html
 var showToolTips = $('Selector').jqxChart('showToolTips');
 ```
 
@@ -31,7 +31,7 @@ var showToolTips = $('Selector').jqxChart('showToolTips');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

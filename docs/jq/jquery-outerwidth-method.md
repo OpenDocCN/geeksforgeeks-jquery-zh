@@ -6,7 +6,7 @@ jQuery 中的**外宽度()方法**用于返回包含边框&填充的元素的外
 
 **语法:**
 
-```
+```html
 $(selector).outerWidth( includemargin )
 ```
 
@@ -14,7 +14,7 @@ $(selector).outerWidth( includemargin )
 
 **示例 1:** 本示例显示包括边距在内的外部宽度。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ $(selector).outerWidth( includemargin )
 
 **示例 2:** 本示例显示外部宽度，不包括边距。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

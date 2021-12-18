@@ -10,13 +10,13 @@
 
 设置*高度*属性。
 
-```
+```html
 $('Selector').jqxEditor({ height : true});  
 ```
 
 返回*高度*属性。
 
-```
+```html
 var height = $('Selector').jqxEditor('height');
 ```
 
@@ -36,7 +36,7 @@ var height = $('Selector').jqxEditor('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -10,13 +10,13 @@
 
 *   它用于设置显示范围属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ showRanges : boolean });
 ```
 
 *   它用于返回 showRanges 属性。
 
-```
+```html
 var showRanges= $('Selector').jqxLinearGauge('showRanges');
 ```
 
@@ -31,7 +31,7 @@ var showRanges= $('Selector').jqxLinearGauge('showRanges');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

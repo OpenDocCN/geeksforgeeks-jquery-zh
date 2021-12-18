@@ -10,13 +10,13 @@
 
 设置*单次投票*属性。
 
-```
+```html
 $('selector').jqxRating({ singleVote: Boolean });
 ```
 
 归还*单票*房产。
 
-```
+```html
 var singleVote = $('selector').jqxRating('singleVote ');
 ```
 
@@ -31,7 +31,7 @@ var singleVote = $('selector').jqxRating('singleVote ');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

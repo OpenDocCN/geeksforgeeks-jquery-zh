@@ -10,13 +10,13 @@
 
 *   用于设置*最大颜色*属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ maxColor: 'red' });
     ```
 
 *   获取 *maxColor* 属性。
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'maxColor' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxSortable').on('over', function (){
     // Code
 });  
@@ -25,7 +25,7 @@ $('#jqxSortable').on('over', function (){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

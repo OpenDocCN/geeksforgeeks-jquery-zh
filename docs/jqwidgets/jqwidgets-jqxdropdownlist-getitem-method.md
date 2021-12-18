@@ -19,7 +19,7 @@ getItem()方法用于通过使用索引号来获取该项。它接受数字类�
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('getItem', index);
 ```
 
@@ -36,7 +36,7 @@ $("Selector").jqxDropDownList('getItem', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

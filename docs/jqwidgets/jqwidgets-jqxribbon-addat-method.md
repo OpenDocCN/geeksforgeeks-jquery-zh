@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxRibbon').jqxRibbon('addAt', index, {
     title: "New Title",
     content: "New Content"
@@ -26,7 +26,7 @@ $('#jqxRibbon').jqxRibbon('addAt', index, {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

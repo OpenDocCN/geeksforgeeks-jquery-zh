@@ -10,13 +10,13 @@
 
 *   **设置*显示箭头*属性:**
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({showArrow: true});
     ```
 
 *   **获取*显示箭头*属性:**
 
-    ```
+    ```html
     var arrowOffsetValue = 
         $('#jqxPopover').jqxPopover('showArrow');
     ```
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

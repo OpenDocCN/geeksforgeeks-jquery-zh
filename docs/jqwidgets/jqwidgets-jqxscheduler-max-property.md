@@ -10,7 +10,7 @@
 
 *   设置*最大*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ 
         max: new $.jqx.date(9999, 12, 31) 
     });
@@ -18,7 +18,7 @@
 
 *   返回*最大*属性。
 
-    ```
+    ```html
     var max = $('#Selector').jqxScheduler('max');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

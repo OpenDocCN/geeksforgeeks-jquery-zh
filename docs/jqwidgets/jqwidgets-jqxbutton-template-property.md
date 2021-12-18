@@ -21,13 +21,13 @@
 
 设置模板属性。
 
-```
+```html
 $("#jqxButton").jqxButton({ template: 'primary'});
 ```
 
 获取模板属性。
 
-```
+```html
 var template = $('#jqxButton').jqxButton('template');
 ```
 
@@ -42,7 +42,7 @@ var template = $('#jqxButton').jqxButton('template');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

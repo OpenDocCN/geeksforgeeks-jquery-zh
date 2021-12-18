@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#treeGrid').on('cellValueChanged',  function (event) {
     // Argument of the Event
     var args = event.args;
@@ -36,7 +36,7 @@ $('#treeGrid').on('cellValueChanged',  function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

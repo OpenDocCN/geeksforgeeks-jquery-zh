@@ -10,13 +10,13 @@
 
 *   设置*偏移*属性:
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({offset: {left: 25, top: 25}});
     ```
 
 *   获取*偏移*属性:
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover').jqxPopover('offset');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

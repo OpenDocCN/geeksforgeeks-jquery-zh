@@ -8,11 +8,11 @@
 
 **语法:**
 
-```
+```html
 replaceWith( newContent )
 ```
 
-```
+```html
 .replaceWith( function )
 ```
 
@@ -24,7 +24,7 @@ replaceWith( newContent )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -63,7 +63,7 @@ replaceWith( newContent )
 
 ## 可扩展标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -99,7 +99,7 @@ replaceWith( newContent )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

@@ -15,13 +15,13 @@ editMode 属性用于设置或返回组件的编辑模式。它接受字符串�
 
 设置编辑模式属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ editMode: String });
 ```
 
 返回编辑模式属性。
 
-```
+```html
 var editMode = $('selector').jqxDateTimeInput('editMode');
 ```
 
@@ -38,7 +38,7 @@ var editMode = $('selector').jqxDateTimeInput('editMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

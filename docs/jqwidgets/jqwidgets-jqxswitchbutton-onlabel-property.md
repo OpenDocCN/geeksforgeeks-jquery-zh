@@ -10,13 +10,13 @@
 
 设置 onLabel 属性。
 
-```
+```html
 $('Selector').jqxSwitchButton({ onLabel:'ON' }); 
 ```
 
 获取 onLabel 属性。
 
-```
+```html
 var onLabel = $('Selector').jqxSwitchButton('onLabel');
 ```
 
@@ -33,7 +33,7 @@ var onLabel = $('Selector').jqxSwitchButton('onLabel');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

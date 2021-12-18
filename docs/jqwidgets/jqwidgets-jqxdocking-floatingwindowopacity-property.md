@@ -10,7 +10,7 @@
 
 *   **设置*浮动窗口不透明度*属性:**
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({ 
         floatingWindowOpacity: 1 
     });
@@ -18,7 +18,7 @@
 
 *   **获取*浮动窗口不透明度*属性:**
 
-    ```
+    ```html
     var floatingWindowOpacity = $('#jqxDocking')
             .jqxDocking('floatingWindowOpacity');
     ```
@@ -33,7 +33,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

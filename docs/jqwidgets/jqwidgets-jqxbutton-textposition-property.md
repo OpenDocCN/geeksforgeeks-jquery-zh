@@ -22,13 +22,13 @@
 
 设置*文本位置*属性。
 
-```
+```html
 $('#jqxButton').jqxButton({textPosition: "left"}); 
 ```
 
 获取*文本位置*属性。
 
-```
+```html
 var textPosition = $('#jqxButton').jqxButton('textPosition');
 ```
 
@@ -45,7 +45,7 @@ var textPosition = $('#jqxButton').jqxButton('textPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

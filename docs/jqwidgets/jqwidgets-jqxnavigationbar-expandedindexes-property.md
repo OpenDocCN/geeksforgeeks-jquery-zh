@@ -10,7 +10,7 @@
 
 *   **设置*扩展索引*属性:**
 
-    ```
+    ```html
     $('Selector').jqxNavigationBar({ 
         expandedIndexes: [1, 1] 
     });
@@ -18,7 +18,7 @@
 
 *   **获取*扩展索引*属性:**
 
-    ```
+    ```html
     var expandedIndexes = 
         $('Selector').jqxNavigationBar('expandedIndexes');
     ```
@@ -33,7 +33,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -9,7 +9,7 @@ jQuery 中的 **slideToggle()方法**用于分别显示隐藏元素或隐藏可�
 
 **语法:**
 
-```
+```html
 $(selector).slideToggle()( speed, easing, callback )
 ```
 
@@ -28,7 +28,7 @@ $(selector).slideToggle()( speed, easing, callback )
 
 **示例:**本示例显示或隐藏元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

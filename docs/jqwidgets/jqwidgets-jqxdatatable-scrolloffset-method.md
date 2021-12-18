@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#dataTable").jqxDataTable('scrollOffset', top, left);
 ```
 
@@ -30,7 +30,7 @@ $("#dataTable").jqxDataTable('scrollOffset', top, left);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

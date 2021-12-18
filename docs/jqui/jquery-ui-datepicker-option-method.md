@@ -6,7 +6,7 @@ jQuery UI 日期选择器选项(optionName，value)方法用于设置与指定�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).datepicker( "option", "disabled", true )
 ```
 
@@ -27,7 +27,7 @@ $( ".selector" ).datepicker( "option", "disabled", true )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -62,7 +62,7 @@ $( ".selector" ).datepicker( "option", "disabled", true )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

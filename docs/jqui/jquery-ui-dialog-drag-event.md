@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(".selector").dialog (
    drag: function( event, ui ) {
        console.log('dragged')
@@ -19,7 +19,7 @@ $(".selector").dialog (
 
 *   首先，添加项目所需的 jQuery Mobile 脚本。
 
-```
+```html
 <link href = 
 "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css"
     rel = "stylesheet">
@@ -39,7 +39,7 @@ $(".selector").dialog (
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang = "en">
    <head>

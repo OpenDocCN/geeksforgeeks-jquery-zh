@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var saveAsJPEG = $('#jqxChart')
     .jqxChart('saveAsJPEG', string);
 ```
@@ -24,7 +24,7 @@ var saveAsJPEG = $('#jqxChart')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

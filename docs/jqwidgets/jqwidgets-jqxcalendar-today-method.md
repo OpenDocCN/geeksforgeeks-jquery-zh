@@ -8,7 +8,7 @@ today()方法用于设置今天的日期。此方法不接受任何参数，也�
 
 **语法:**
 
-```
+```html
 $("selector").jqxCalendar('today');
 ```
 
@@ -22,7 +22,7 @@ $("selector").jqxCalendar('today');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

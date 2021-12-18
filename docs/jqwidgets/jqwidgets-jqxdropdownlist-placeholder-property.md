@@ -10,13 +10,13 @@ placeHolder 属性用于设置或返回所选内容为空时显示的文本。�
 
 设置*占位符*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ placeHolder: String });
 ```
 
 返回*占位符*属性。
 
-```
+```html
 var placeHolder = $('selector').jqxDropDownList('placeHolder');
 ```
 
@@ -31,7 +31,7 @@ var placeHolder = $('selector').jqxDropDownList('placeHolder');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

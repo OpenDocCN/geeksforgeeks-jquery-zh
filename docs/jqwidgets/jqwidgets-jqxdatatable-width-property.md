@@ -10,13 +10,13 @@
 
 用于设置宽度属性。
 
-```
+```html
 $('#dataTable').jqxDataTable({width: "10px"});
 ```
 
 获取宽度属性。
 
-```
+```html
 var width = $('#dataTable').jqxDataTable('width');
 ```
 
@@ -31,7 +31,7 @@ var width = $('#dataTable').jqxDataTable('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

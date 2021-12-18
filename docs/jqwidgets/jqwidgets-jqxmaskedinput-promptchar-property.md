@@ -10,13 +10,13 @@ promptChar 属性用于设置或返回当可编辑字符为空时显示的提示
 
 设置 promptChar 属性。
 
-```
+```html
 $('selector').jqxMaskedInput({ promptChar: String });
 ```
 
 返回 promptChar 属性。
 
-```
+```html
 var promptChar = $('selector').jqxMaskedInput('promptChar');
 ```
 
@@ -30,7 +30,7 @@ var promptChar = $('selector').jqxMaskedInput('promptChar');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

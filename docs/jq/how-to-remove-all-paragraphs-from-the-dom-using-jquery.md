@@ -6,7 +6,7 @@
 
 ****语法:****
 
-```
+```html
 $(selector).remove() 
 ```
 
@@ -14,7 +14,7 @@ $(selector).remove()
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

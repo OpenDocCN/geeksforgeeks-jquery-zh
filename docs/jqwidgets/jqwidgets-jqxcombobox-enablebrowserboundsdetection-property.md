@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*enablebrowserbounddetection*属性。
 
-```
+```html
 $('selector').jqxComboBox({ enableBrowserBoundsDetection: Boolean });
 ```
 
 返回*enablebrowserbounddetection*属性。
 
-```
+```html
 var EBBD = $('selector').jqxComboBox('enableBrowserBoundsDetection');
 ```
 
@@ -34,7 +34,7 @@ var EBBD = $('selector').jqxComboBox('enableBrowserBoundsDetection');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

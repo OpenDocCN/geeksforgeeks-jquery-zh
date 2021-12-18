@@ -10,13 +10,13 @@
 
 *   **用于设置 *urlMember* 属性。**
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ urlMember: 'URL' });
     ```
 
 *   **获取 *urlMember* 属性。**
 
-    ```
+    ```html
     var value = $('#jqxTagCloud')
         .jqxTagCloud({ 'urlMember' });
     ```
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

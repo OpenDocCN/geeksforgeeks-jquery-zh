@@ -8,7 +8,7 @@ selectIndex()方法用于使用索引号从列表框中选择一个项目。它�
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('selectIndex', index);
 ```
 
@@ -25,7 +25,7 @@ $("Selector").jqxDropDownList('selectIndex', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

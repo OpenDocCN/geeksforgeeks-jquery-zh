@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*打开延迟*属性。
 
-```
+```html
 $('selector').jqxComboBox({ openDelay: Number });
 ```
 
 返回 *openDelay* 属性。
 
-```
+```html
 var openDelay = $('selector').jqxComboBox('openDelay');
 ```
 
@@ -34,7 +34,7 @@ var openDelay = $('selector').jqxComboBox('openDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(".first_class" ).controlgroup({});
 ```
 
@@ -16,7 +16,7 @@ $(".first_class" ).controlgroup({});
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@ $(".first_class" ).controlgroup({});
 
 **语法:**
 
-```
+```html
 $(".first_class").controlgroup({"direction": "vertical"});
 ```
 
@@ -76,7 +76,7 @@ $(".first_class").controlgroup({"direction": "vertical"});
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

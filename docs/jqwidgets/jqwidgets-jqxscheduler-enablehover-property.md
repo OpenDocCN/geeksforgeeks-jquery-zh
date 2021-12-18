@@ -10,13 +10,13 @@
 
 *   设置*启用悬停*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ enableHover: false });
     ```
 
 *   返回*启用悬停*属性。
 
-    ```
+    ```html
     var enableHover = $('#Selector').jqxScheduler('enableHover');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ removeClass()方法是 jQuery 中的一个内置方法，用于从所选元素�
 
 **语法:**
 
-```
+```html
 $(selector).removeClass(class_name, function(index, current_class_name))
 ```
 
@@ -23,7 +23,7 @@ $(selector).removeClass(class_name, function(index, current_class_name))
 
 **例 1:**
 
-```
+```html
 <html>
     <head>
         <title>The removeClass Method</title>
@@ -72,7 +72,7 @@ $(selector).removeClass(class_name, function(index, current_class_name))
 
 **例 2:** 本例不包含参数。这将删除所选元素的所有类。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

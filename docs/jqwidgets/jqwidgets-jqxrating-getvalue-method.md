@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxRating('getValue');
 ```
 
@@ -23,7 +23,7 @@ $('Selector').jqxRating('getValue');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

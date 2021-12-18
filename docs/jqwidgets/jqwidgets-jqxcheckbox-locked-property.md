@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置锁定属性。
 
-```
+```html
 $('selector').jqxCheckBox({ locked: Boolean });
 ```
 
 返回锁定的属性。
 
-```
+```html
 var locked = $('selector').jqxCheckBox('locked');
 ```
 
@@ -30,7 +30,7 @@ var locked = $('selector').jqxCheckBox('locked');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

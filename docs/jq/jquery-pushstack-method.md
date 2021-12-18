@@ -6,7 +6,7 @@ jQuery 中的 **pushStack()** 方法用于将 DOM 元素的集合添加到 jQuer
 
 **语法:**
 
-```
+```html
 .pushStack(elements, name, arguments)
 ```
 
@@ -18,7 +18,7 @@ jQuery 中的 **pushStack()** 方法用于将 DOM 元素的集合添加到 jQuer
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -76,7 +76,7 @@ jQuery 中的 **pushStack()** 方法用于将 DOM 元素的集合添加到 jQuer
     ![](img/ca99f34c354e3386d3112b53d167905d.png)
     *   **示例 2:** 本示例选中了奇数索引复选框。
 
-        ```
+        ```html
         <!DOCTYPE HTML>
         <html>
 

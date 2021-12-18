@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#dataTable").jqxDataTable('setColumnProperty', 
         dataField, propertyName, propertyValue);
 ```
@@ -30,7 +30,7 @@ $("#dataTable").jqxDataTable('setColumnProperty',
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

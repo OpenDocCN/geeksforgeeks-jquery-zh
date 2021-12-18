@@ -22,13 +22,13 @@ searchMode 属性的可能值如下。
 
 设置搜索模式属性。
 
-```
+```html
 $('selector').jqxInput({ searchMode: String });
 ```
 
 返回搜索模式属性。
 
-```
+```html
 var searchMode = $('selector').jqxInput('searchMode');
 ```
 
@@ -45,7 +45,7 @@ var searchMode = $('selector').jqxInput('searchMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

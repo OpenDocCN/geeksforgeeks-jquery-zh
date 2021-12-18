@@ -10,13 +10,13 @@
 
 *   **用于设置*基色*属性:**
 
-    ```
+    ```html
     $("#jqxTreeMap").jqxTreeMap({baseColor: '#000000'}); 
     ```
 
 *   **获取*基本颜色*属性:**
 
-    ```
+    ```html
     var baseColor = $('#jqxTreeMap').jqxTreeMap('baseColor'); 
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的这个 **isWindow()** 方法用来判断参数是否为窗口。
 
 **语法:**
 
-```
+```html
 jQuery.isWindow( obj )
 ```
 
@@ -20,7 +20,7 @@ jQuery.isWindow( obj )
 
 **示例 1:** 在本例中， **isWindow()方法**查找单词“Window”是否为窗口。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -55,7 +55,7 @@ jQuery.isWindow( obj )
 
 **例 2:** 在本例中， **isWindow()方法**查找单词“Window”是否为窗口。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

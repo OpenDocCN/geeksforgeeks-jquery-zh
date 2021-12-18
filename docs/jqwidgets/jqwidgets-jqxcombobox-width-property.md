@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*宽度*属性。
 
-```
+```html
 $('selector').jqxComboBox({ width: "250px" });
 ```
 
 返回*宽度*属性。
 
-```
+```html
 var width = $('selector').jqxComboBox('width');
 ```
 
@@ -34,7 +34,7 @@ var width = $('selector').jqxComboBox('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

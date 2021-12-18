@@ -5,7 +5,7 @@
 **延迟()**是 jQuery 中的一个内置方法，用于设置一个定时器来延迟队列中下一个项目的执行。
 **语法:**
 
-```
+```html
 $(selector).delay(para1, para2);
 
 ```
@@ -22,7 +22,7 @@ $(selector).delay(para1, para2);
 **Code #1:**
 In the below code, timer is set to all the block.
 
-```
+```html
 <html>
 
 <head>
@@ -71,7 +71,7 @@ In the below code, timer is set to all the block.
 **代码#2:**
 在下面的代码中，已经展示了如何使用这种方法延迟动画。
 
-```
+```html
 <html>
 
 <head>

@@ -8,7 +8,7 @@ jQuery[*":enabled "*](https://www.geeksforgeeks.org/css-enabled-selector/)伪类
 
 ****语法:****
 
-```
+```html
 **$( "input:enabled" ).val( "This box is enabled" );**
 ```
 
@@ -18,7 +18,7 @@ jQuery[*":enabled "*](https://www.geeksforgeeks.org/css-enabled-selector/)伪类
 
 ## **超文本标记语言**
 
-```
+```html
 **<!doctype html>
 <html lang="en">
 <head>

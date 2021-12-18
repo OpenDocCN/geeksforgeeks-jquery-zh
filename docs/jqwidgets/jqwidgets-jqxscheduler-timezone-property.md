@@ -10,13 +10,13 @@
 
 *   设置*时区*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ timeZone: 'UTC' });
     ```
 
 *   返回*时区*属性。
 
-    ```
+    ```html
     var timeZone = $('#Selector').jqxScheduler('timeZone');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

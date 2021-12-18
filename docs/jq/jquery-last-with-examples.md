@@ -5,7 +5,7 @@
 **last()** 函数是 jQuery 中的一个内置函数，用于查找指定元素的最后一个元素。
 **语法:**
 
-```
+```html
 $(selector).last()
 
 ```
@@ -18,7 +18,7 @@ $(selector).last()
 
 **Code #1:**
 
-```
+```html
 <html>
    <head>
       <script src=
@@ -49,7 +49,7 @@ $(selector).last()
 
 **代码#2:**
 
-```
+```html
 <html>
 
 <head>

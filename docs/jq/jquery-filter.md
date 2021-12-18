@@ -6,7 +6,7 @@ jQuery 是一个非常强大的工具，它帮助我们结合多种 DOM 遍历�
 **filter()**方法用于过滤掉所有与所选条件不匹配的元素，这些匹配将被返回。
 **语法:**
 
-```
+```html
 $(selector).filter(criteria, function(index))
 ```
 
@@ -21,7 +21,7 @@ $(selector).filter(criteria, function(index))
 **Code #1:**
 This code will return all elements matching with selected criteria.
 
-```
+```html
 <html>
 
 <head>
@@ -54,7 +54,7 @@ This code will return all elements matching with selected criteria.
 **代码#2:**
 该代码将选择与功能检查的标准相匹配的元素。这里，函数检查列表中的两个元素，并返回 true 或 false。
 
-```
+```html
 <html>
 
 <head>

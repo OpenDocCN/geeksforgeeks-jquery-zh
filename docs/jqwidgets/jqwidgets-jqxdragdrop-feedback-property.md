@@ -15,13 +15,13 @@
 
 *   设置*反馈*属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ feedback:String });
     ```
 
 *   返回*反馈*属性。
 
-    ```
+    ```html
     var feedback = $('selector').jqxDragDrop('feedback');
     ```
 
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

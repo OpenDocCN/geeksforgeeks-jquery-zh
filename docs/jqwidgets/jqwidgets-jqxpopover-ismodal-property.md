@@ -10,13 +10,13 @@
 
 *   **要设置*是模态*属性:**
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({isModal: true});
     ```
 
 *   **要获取*是模态*属性:**
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover').jqxPopover('isModal');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

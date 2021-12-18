@@ -10,13 +10,13 @@
 
 要设置*启用选择*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({enableSelection: false}); 
 ```
 
 要获取*启用选择*属性:
 
-```
+```html
 var enableSelection = 
     $('#jqxListBox').jqxListBox('enableSelection');
 ```
@@ -34,7 +34,7 @@ var enableSelection =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

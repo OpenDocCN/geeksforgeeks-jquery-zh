@@ -5,7 +5,7 @@
 **previtil()**是 jQuery 中的一个内置方法，用于查找两个给定元素之间所有先前的兄弟元素。兄弟是那些在 DOM 树中有相同父元素的元素。文档对象模型是一个万维网联盟标准。这定义了访问 DOM 树中的元素。
 **语法:**
 
-```
+```html
 $(selector1).nextUntil(selector2)
 
 ```
@@ -17,7 +17,7 @@ $(selector1).nextUntil(selector2)
 
 **Code #1:**
 
-```
+```html
 <html>
 
 <head>
@@ -66,7 +66,7 @@ $(selector1).nextUntil(selector2)
 
 **代码#2:**
 
-```
+```html
 <html>
 
 <head>

@@ -10,7 +10,7 @@
 
 *   用于设置*微调器*属性。
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({spinner: {
         style: { fill: { color: 'pink', 
         gradientStops: [[1, 2], [10, 1], [20, 2]] } },
@@ -30,7 +30,7 @@
 
 *   获取 spinner 属性。
 
-    ```
+    ```html
     var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('spinner');
     ```
 
@@ -45,7 +45,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

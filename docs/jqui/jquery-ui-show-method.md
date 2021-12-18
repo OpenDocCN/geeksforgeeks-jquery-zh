@@ -6,7 +6,7 @@ jQuery UI 框架的 **show()** 方法为匹配的选定元素显示或管理所�
 
 **语法:**
 
-```
+```html
 (selector).show( effectType[, options ] [, duration ] [, complete ] );
 
 ```
@@ -27,7 +27,7 @@ jQuery UI 框架的 **show()** 方法为匹配的选定元素显示或管理所�
 
 **示例 1:** 在下面的示例中， **show()** 功能在 jQuery 代码中实现，以*摇动*效果类型和*时间*和*距离*作为选项，一个回调函数作为参数，显示匹配元素的视觉效果。回调函数在效果完成或在屏幕上完成后调用。回调函数在过程中完成效果后淡出容器。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -129,7 +129,7 @@ jQuery UI 框架的 **show()** 方法为匹配的选定元素显示或管理所�
 
 **示例 2:** 在下面的示例中， **show()** 方法的简单实现是在 jQuery 代码中以*弹跳*视觉效果为参数完成的。该方法应用于用户界面页面的“h2”元素。 *ui-corner-all* 和 *ui-state-default* 是 jQuery ui CSS 框架提供的内置类，让 UI 更具交互性和美观性。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -203,7 +203,7 @@ jQuery UI 框架的 **show()** 方法为匹配的选定元素显示或管理所�
 
 **示例 3:**jQuery UI 框架提供了以多种视觉效果为参数的 **show()** 方法。在下面的示例中，我们将演示使用 combobox 菜单选项来由用户选择视觉效果类型的方法。当用户选择效果类型时，会传递到 **show()** 方法进行输出，如输出图像所示。程序员可以根据项目要求编写代码和选择参数。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

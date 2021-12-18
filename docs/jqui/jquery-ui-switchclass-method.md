@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(selector).switchClass( removeClassName, addClassName, 
                 duration, easing, complete )
 
 ```
 .switchClass( removeClassName, addClassName, options )
-```
+```html
 
 **参数:**
 ```
@@ -32,7 +32,7 @@ $(selector).switchClass( removeClassName, addClassName,
 
 **示例 1:** 在下面的示例中，我们使用 jQuery 代码演示了 **switchClass()** 方法，视觉效果在页面的 HTML 部分进行处理。结果的输出图像也如下所示。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -127,7 +127,7 @@ $(selector).switchClass( removeClassName, addClassName,
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -5,7 +5,7 @@
 **数据()**是 jQuery 中的一个内置方法，用于附加数据或获取所选元素的数据。
 **语法:**
 
-```
+```html
 $(selector).data(para1);
 ```
 
@@ -17,7 +17,7 @@ $(selector).data(para1);
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 
 <head>
@@ -66,7 +66,7 @@ $(selector).data(para1);
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 
 <head>

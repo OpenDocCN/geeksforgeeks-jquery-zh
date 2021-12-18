@@ -6,7 +6,7 @@ jQuery UI 按钮实例方法用于获取按钮的实例对象。
 
 **语法:**
 
-```
+```html
 var a = $( ".selector" ).button( "instance" )
 ```
 
@@ -20,7 +20,7 @@ var a = $( ".selector" ).button( "instance" )
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 

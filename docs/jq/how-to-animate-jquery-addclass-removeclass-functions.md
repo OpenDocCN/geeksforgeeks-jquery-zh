@@ -12,14 +12,14 @@
 
     ****语法:****
 
-     **```
+     **```html
     .addClass(className, [duration], [easing], [callback])
     ```** 
 *   ****removeClass()方法:**用于在动画化所有样式更改时从元素中移除类。**
 
     ****语法:****
 
-    ```
+    ```html
     .removeClass(className, [duration], [easing], [callback])
     ```
 
@@ -27,7 +27,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

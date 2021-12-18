@@ -18,13 +18,13 @@
 
 设置*文本图像关系*属性。
 
-```
+```html
 $('#jqxButton').jqxButton({textImageRelation: "imageBeforeText"}); 
 ```
 
 返回*文本图像关系*属性。
 
-```
+```html
 var imageBeforeText = $('#jqxButton').jqxButton('textImageRelation');
 ```
 
@@ -39,7 +39,7 @@ var imageBeforeText = $('#jqxButton').jqxButton('textImageRelation');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

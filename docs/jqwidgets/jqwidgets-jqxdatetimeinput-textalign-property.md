@@ -10,13 +10,13 @@
 
 设置文本对齐属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ textAlign: String });
 ```
 
 返回文本对齐属性。
 
-```
+```html
 var textAlign = $('selector').jqxDateTimeInput('textAlign');
 ```
 
@@ -31,7 +31,7 @@ var textAlign = $('selector').jqxDateTimeInput('textAlign');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

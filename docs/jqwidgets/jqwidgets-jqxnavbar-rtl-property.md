@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 rtl 属性。
 
-```
+```html
 $('selector').jqxNavBar({ rtl: Boolean });
 ```
 
 归还 rtl 的财产。
 
-```
+```html
 var rtl = $('selector').jqxNavBar('rtl');
 ```
 
@@ -35,7 +35,7 @@ var rtl = $('selector').jqxNavBar('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

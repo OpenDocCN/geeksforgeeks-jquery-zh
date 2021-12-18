@@ -10,13 +10,13 @@
 
 *   用于设置*拖动角度*属性。
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({dragEndAngle: 300 });
     ```
 
 *   获得*德拉根丹格*房产。
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('dragEndAngle');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

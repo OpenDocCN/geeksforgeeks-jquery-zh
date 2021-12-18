@@ -19,7 +19,7 @@
 
 下面是显示 toggle()方法的示例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

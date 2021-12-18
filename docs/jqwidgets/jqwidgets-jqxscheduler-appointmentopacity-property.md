@@ -10,13 +10,13 @@
 
 *   设置*预约能力*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ appointmentOpacity: 0.5 });
     ```
 
 *   返回*指定能力*属性。
 
-    ```
+    ```html
     var appointmentOpacity = 
         $('#Selector').jqxScheduler('appointmentOpacity');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

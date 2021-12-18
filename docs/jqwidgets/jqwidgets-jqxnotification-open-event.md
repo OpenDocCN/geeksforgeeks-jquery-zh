@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxNotification').on('open', function () {
     // Code
 });  
@@ -25,7 +25,7 @@ $('#jqxNotification').on('open', function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,18 +10,18 @@ JavaScript reset():Reset()方法重置表单中所有元素的值(与单击 Rese
 
 **Syntax for JavaScript reset button:**
 
-*   ```
+*   ```html
     // type-1
     <input type="reset">
 
     ```
 
-    *   ```
+    *   ```html
     // type-2
     <input type="button" onclick="this.form.reset();">
     ```
 
-    *   ```
+    *   ```html
     // type-3
     <input type="button" onclick="formname.reset();">
     ```
@@ -29,25 +29,25 @@ JavaScript reset():Reset()方法重置表单中所有元素的值(与单击 Rese
     按钮本身会重置表单，但是对于 type-1 和 type-2，重置按钮应该在表单内部，type-3 可以是 out 也可以是 in。
     但复位按钮是一个好得多的选择。(类型 1)
 
-    *   ```
+    *   ```html
         <input type="reset">
         ```
 
     *   reset()的语法:
 
-        ```
+        ```html
         formObject.reset()
         ```
 
     *   Syntax to convert jQuery element to a JavaScript object.
 
-        ```
+        ```html
         $(selector)[0].reset()
         ```
 
         或者
 
-        ```
+        ```html
         $(selector).get(0).reset()
         ```
 
@@ -56,13 +56,13 @@ JavaScript reset():Reset()方法重置表单中所有元素的值(与单击 Rese
     > 作为**触发器()**方法为所选元素触发指定的事件和事件的默认行为(如表单提交)。
     > **语法**
     > 
-    > ```
+    > ```html
     > $(selector).trigger(event, eventObj, ...)
     > ```
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

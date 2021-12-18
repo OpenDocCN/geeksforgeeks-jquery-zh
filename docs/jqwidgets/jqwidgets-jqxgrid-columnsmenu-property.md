@@ -10,13 +10,13 @@
 
 *   设置 *columnsmenu* 属性:
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ columnsmenu: false});
     ```
 
 *   返回*列属性:*
 
-    ```
+    ```html
     var columnsmenu = $('#Selector').jqxGrid('columnsmenu');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

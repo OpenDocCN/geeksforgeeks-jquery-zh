@@ -10,13 +10,13 @@
 
 *   设置 *rtl* 属性:
 
-    ```
+    ```html
     $('Selector').jqxFileUpload({ rtl : boolean });
     ```
 
 *   返回 *rtl* 属性:
 
-    ```
+    ```html
     var rtl = $('Selector').jqxFileUpload('rtl');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

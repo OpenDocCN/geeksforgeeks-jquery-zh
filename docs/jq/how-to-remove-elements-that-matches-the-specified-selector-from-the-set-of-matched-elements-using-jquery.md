@@ -12,7 +12,7 @@ jQuery 以其座右铭**“**少写多做而闻名。**”**简单来说就是�
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

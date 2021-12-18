@@ -8,7 +8,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
 
@@ -63,7 +63,7 @@
 
 **示例:**
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
 

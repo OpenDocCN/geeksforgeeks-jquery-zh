@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#dataTable").jqxDataTable('lockRow', rowIndex);
 ```
 
@@ -29,7 +29,7 @@ $("#dataTable").jqxDataTable('lockRow', rowIndex);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

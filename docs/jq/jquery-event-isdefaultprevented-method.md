@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 event.isDefaultPrevented()
 ```
 
@@ -16,7 +16,7 @@ event.isDefaultPrevented()
 
 **示例-1:** 本示例检查是否在事件上调用了 isPreventDefault()方法。
 
-```
+```html
 <!doctype html>
 <html>
 
@@ -70,7 +70,7 @@ event.isDefaultPrevented()
 
 **示例 2:** 本示例检查 isDefaultPrevented()方法是否阻止默认操作。
 
-```
+```html
 <!doctype html>
 <html>
 

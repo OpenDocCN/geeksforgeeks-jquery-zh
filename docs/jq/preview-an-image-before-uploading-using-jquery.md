@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -65,7 +65,7 @@
 
 ## JavaScript
 
-```
+```html
 $(document).ready(()=>{
       $('#photo').change(function(){
         const file = this.files[0];
@@ -92,7 +92,7 @@ $(document).ready(()=>{
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

@@ -10,13 +10,13 @@
 
 要设置*启用悬停*属性。
 
-```
+```html
 $("#jqxListBox").jqxListBox({enableHover: false}); 
 ```
 
 要获取 *enableHover* 属性。
 
-```
+```html
 var enableHover = $('#jqxListBox').jqxListBox('enableHover'); 
 ```
 
@@ -33,7 +33,7 @@ var enableHover = $('#jqxListBox').jqxListBox('enableHover');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的这个 **contains()** 方法用于检查一个 DOM 元素是否是�
 
 **语法:**
 
-```
+```html
 jQuery.contains( container, contained )
 
 ```
@@ -22,7 +22,7 @@ jQuery.contains( container, contained )
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +61,7 @@ jQuery.contains( container, contained )
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

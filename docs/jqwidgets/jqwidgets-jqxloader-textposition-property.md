@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置文本位置属性。
 
-```
+```html
 $('selector').jqxLoader({ textPosition: String });
 ```
 
 返回文本位置属性。
 
-```
+```html
 var textPosition = $('selector').jqxLoader('textPosition');
 ```
 
@@ -33,7 +33,7 @@ var textPosition = $('selector').jqxLoader('textPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

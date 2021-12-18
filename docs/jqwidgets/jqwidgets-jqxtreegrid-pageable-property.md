@@ -10,13 +10,13 @@
 
 *   设置**可分页**属性:
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({ pageable: true });  
     ```
 
 *   要获得**可分页**属性:
 
-    ```
+    ```html
     var pageable = $('#treeGrid').jqxTreeGrid('pageable'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

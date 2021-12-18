@@ -10,7 +10,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置颜色范围属性。
 
-```
+```html
 $('selector').jqxProgressBar({ colorRanges: [
     { stop: val1, color: cval1 },
     { stop: val2, color: cval2 },
@@ -20,7 +20,7 @@ $('selector').jqxProgressBar({ colorRanges: [
 
 返回颜色范围属性。
 
-```
+```html
 var colorRanges = $('selector').jqxProgressBar('colorRanges');
 ```
 
@@ -34,7 +34,7 @@ var colorRanges = $('selector').jqxProgressBar('colorRanges');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

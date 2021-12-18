@@ -6,7 +6,7 @@ jQuery 中的这个**isplaynobject()**方法是用来检查一个对象是否是
 
 **语法:**
 
-```
+```html
 jQuery.isPlainObject( obj )
 ```
 
@@ -20,7 +20,7 @@ jQuery.isPlainObject( obj )
 
 **示例 1:** 在本例中，**isplaynobject()方法**检查一个对象，看它是否是普通对象。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -56,7 +56,7 @@ jQuery.isPlainObject( obj )
 
 **示例 2:** 在本例中，**isplaynobject()方法**也会检查一个对象，看它是否是普通对象。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

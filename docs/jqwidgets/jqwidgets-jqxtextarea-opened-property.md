@@ -10,7 +10,7 @@
 
 *返回*打开的*属性。*
 
-```
+```html
 *var opened = $('selector').jqxTextArea('opened');*
 ```
 
@@ -26,7 +26,7 @@
 
 ## *超文本标记语言*
 
-```
+```html
 *<!DOCTYPE html>
 <html lang="en">
 

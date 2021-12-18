@@ -6,7 +6,7 @@
 
 **语法**
 
-```
+```html
 $.get( url, [data], [callback], [type] )
 
 ```
@@ -22,7 +22,7 @@ $.get( url, [data], [callback], [type] )
 
 *   This PHP code is use to get data when below html program send the HTTP GET request.
 
-    ```
+    ```html
     // Result.php file
     <?php
     if( $_REQUEST["name"] ) {
@@ -36,7 +36,7 @@ $.get( url, [data], [callback], [type] )
 
     *   This HTML code is use to send the HTTP GET request.
 
-    ```
+    ```html
     <html>
 
     <head>

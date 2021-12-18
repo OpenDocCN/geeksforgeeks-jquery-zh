@@ -10,13 +10,13 @@
 
 *   设置*滚动条大小*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ scrollbarsize: 20});
     ```
 
 *   返回*滚动条大小*属性。
 
-    ```
+    ```html
     var scrollbarsize = 
         $('#Selector').jqxGrid('scrollbarsize');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

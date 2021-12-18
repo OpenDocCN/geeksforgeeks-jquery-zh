@@ -10,13 +10,13 @@
 
 *   设置*触摸指定明八*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ touchAppointmentsMinHeight: 40 });
     ```
 
 *   返回*触摸指定明八*属性。
 
-    ```
+    ```html
     var touchAppointmentsMinHeight = 
         $('#Selector').jqxScheduler('touchAppointmentsMinHeight');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

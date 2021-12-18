@@ -6,7 +6,7 @@ jQuery 中的这个 **makeArray()** 方法是用来把一个类似数组的对�
 
 **语法:**
 
-```
+```html
 jQuery.makeArray( obj )
 ```
 
@@ -20,7 +20,7 @@ jQuery.makeArray( obj )
 
 **示例 1:** 本示例使用 **jQuery.makeArray()方法**并将一组 **HTMLElements** 转化为它们的数组。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@ jQuery.makeArray( obj )
 
 **示例 2:** 本示例使用**jquery . makerearray()方法**将一个类似数组的字符串转换为实际数组。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 设置*是模态*属性。
 
-```
+```html
 $('selector').jqxLoader({ isModal: Boolean });
 ```
 
 返回*是模态*属性。
 
-```
+```html
 var isModal = $('selector').jqxLoader('isModal');
 ```
 
@@ -31,7 +31,7 @@ var isModal = $('selector').jqxLoader('isModal');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

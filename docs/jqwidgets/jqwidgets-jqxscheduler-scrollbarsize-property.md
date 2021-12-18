@@ -10,13 +10,13 @@
 
 *   设置 scrollBarSize 属性。
 
-    ```
+    ```html
     $("Selector").jqxScheduler({ scrollBarSize: 20 });
     ```
 
 *   返回 scrollBarSize 属性。
 
-    ```
+    ```html
     var scrollBarSize = 
         $('Selector').jqxScheduler('scrollBarSize');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

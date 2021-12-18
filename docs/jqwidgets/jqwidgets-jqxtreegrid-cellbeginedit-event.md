@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxTreeGrid').on('cellBeginEdit',  function (event)
 {
     // Argument of the Event
@@ -42,7 +42,7 @@ $('#jqxTreeGrid').on('cellBeginEdit',  function (event)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置*取消按钮*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ cancelButton: $('#cancelButton')});  
 ```
 
 获取*取消按钮*属性:
 
-```
+```html
 var cancelButton = $('#jqxWindow').jqxWindow('cancelButton'); 
 ```
 
@@ -31,7 +31,7 @@ var cancelButton = $('#jqxWindow').jqxWindow('cancelButton');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

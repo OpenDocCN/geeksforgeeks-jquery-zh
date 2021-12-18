@@ -8,7 +8,7 @@ checkChange 事件用于在项目被选中/取消选中时触发。
 
 **语法:**
 
-```
+```html
 $('selector').on('checkChange', function (event) {});
 ```
 
@@ -28,7 +28,7 @@ $('selector').on('checkChange', function (event) {});
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

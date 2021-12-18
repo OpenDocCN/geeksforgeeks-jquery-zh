@@ -6,7 +6,7 @@ jQuery 中的 [scrollTop()方法](https://www.geeksforgeeks.org/jquery-scrolltop
 
 **语法:**
 
-```
+```html
 $(selector).scrollTop(position)
 ```
 
@@ -16,7 +16,7 @@ $(selector).scrollTop(position)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

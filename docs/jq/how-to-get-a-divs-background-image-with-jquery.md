@@ -12,13 +12,13 @@
 
 *   以下语法将返回第一个匹配元素的*背景色*值。
 
-    ```
+    ```html
     css("property_name");
     ```
 
 *   该语法将为所有匹配的元素设置*背景色*值。
 
-    ```
+    ```html
     $("p").css("background-color", "colorName");
     ```
 
@@ -26,7 +26,7 @@
 
 **语法:**
 
-```
+```html
 url(" <string> <url-modifier> ")
 ```
 
@@ -34,7 +34,7 @@ url(" <string> <url-modifier> ")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -79,7 +79,7 @@ url(" <string> <url-modifier> ")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

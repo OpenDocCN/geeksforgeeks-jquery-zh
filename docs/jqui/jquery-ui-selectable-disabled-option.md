@@ -10,7 +10,7 @@ jQuery UI [可选](https://www.geeksforgeeks.org/jquery-selectable-and-accordion
 
 *   **用** ***禁用*** **选项初始化可选元素:**
 
-    ```
+    ```html
     $(".selector").selectable({
        disabled: Boolean
     });
@@ -18,7 +18,7 @@ jQuery UI [可选](https://www.geeksforgeeks.org/jquery-selectable-and-accordion
 
 *   **初始化后设置或返回** ***禁用*** **选项:**
 
-    ```
+    ```html
     // Set the disabled option
     $( ".selector" ).selectable( "option", "disabled", Boolean );
 
@@ -36,7 +36,7 @@ jQuery UI [可选](https://www.geeksforgeeks.org/jquery-selectable-and-accordion
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

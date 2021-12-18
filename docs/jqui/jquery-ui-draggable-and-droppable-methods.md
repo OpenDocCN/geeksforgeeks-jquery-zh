@@ -12,11 +12,11 @@
 **语法:**
 draggable()方法有两种形式，每种形式的使用取决于需求。这些措施如下
 
-```
+```html
 $(selector, context).draggable (options);
 ```
 
-```
+```html
 $(selector, context).draggable ("action", [params]);
 ```
 
@@ -40,7 +40,7 @@ $(selector, context).draggable ("action", [params]);
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html>
 <head>
@@ -128,11 +128,11 @@ $( function() {
 
 droppable()方法有两种形式，每种形式的使用取决于需求。这些措施如下
 
-```
+```html
 $(selector, context).droppable (options)
 ```
 
-```
+```html
 $(selector, context).droppable ("action", params)
 ```
 
@@ -155,7 +155,7 @@ $(selector, context).droppable ("action", params)
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>
@@ -232,7 +232,7 @@ $( function() {
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>

@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 closeDelay 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ closeDelay: Number });
 ```
 
 返回 closeDelay 属性。
 
-```
+```html
 var closeDelay = $('selector').jqxDateTimeInput('closeDelay');
 ```
 
@@ -35,7 +35,7 @@ var closeDelay = $('selector').jqxDateTimeInput('closeDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置 width 属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ width : string/number });
     ```
 
 *   返回 width 属性。
 
-    ```
+    ```html
     var width = $('Selector').jqxHeatMap('width');
     ```
 
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

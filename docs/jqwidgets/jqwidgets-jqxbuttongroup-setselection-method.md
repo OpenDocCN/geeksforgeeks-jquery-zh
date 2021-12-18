@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxButtonGroup('setSelection', 0);
 ```
 
@@ -24,7 +24,7 @@ $('#Selector').jqxButtonGroup('setSelection', 0);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

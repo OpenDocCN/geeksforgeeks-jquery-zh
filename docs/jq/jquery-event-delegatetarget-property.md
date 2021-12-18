@@ -6,7 +6,7 @@ jQuery 中的 **event.delegateTarget 属性**用于*返回*元素，当前称为
 
 **语法:**
 
-```
+```html
 event.delegateTarget
 ```
 
@@ -16,7 +16,7 @@ event.delegateTarget
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

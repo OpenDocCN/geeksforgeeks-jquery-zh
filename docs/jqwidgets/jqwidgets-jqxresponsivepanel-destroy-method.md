@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxResponsivePanel('destroy');
 ```
 
@@ -23,7 +23,7 @@ $('Selector').jqxResponsivePanel('destroy');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

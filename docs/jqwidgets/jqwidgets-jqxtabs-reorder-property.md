@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置重新排序属性。
 
-```
+```html
 $('selector').jqxTabs({ reorder: Number });
 ```
 
 返回重新排序属性。
 
-```
+```html
 var reorder = $('selector').jqxTabs('reorder');
 ```
 
@@ -35,7 +35,7 @@ var reorder = $('selector').jqxTabs('reorder');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

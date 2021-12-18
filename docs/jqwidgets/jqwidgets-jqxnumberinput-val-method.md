@@ -10,14 +10,14 @@
 
 设置小部件的值。
 
-```
+```html
 $('Selector').jqxNumberInput('val', value); // or
 $('Selector').val(value);
 ```
 
 返回小部件的值。
 
-```
+```html
 var value = $('Selector').jqxNumberInput('val'); // or
 var value = $('Selector').val();
 ```
@@ -33,7 +33,7 @@ var value = $('Selector').val();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

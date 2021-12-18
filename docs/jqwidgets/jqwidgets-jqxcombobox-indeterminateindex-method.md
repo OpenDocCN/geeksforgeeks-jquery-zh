@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('indeterminateIndex', index);
 ```
 
@@ -26,7 +26,7 @@ $('selector').jqxComboBox('indeterminateIndex', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

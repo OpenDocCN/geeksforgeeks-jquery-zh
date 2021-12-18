@@ -10,13 +10,13 @@
 
 *   设置*编辑对话框*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ editDialog: false });
     ```
 
 *   返回*编辑对话框*属性。
 
-    ```
+    ```html
     var editDialog = $('#Selector').jqxScheduler('editDialog');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

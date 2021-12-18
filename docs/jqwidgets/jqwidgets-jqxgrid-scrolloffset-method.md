@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxGrid('scrolloffset', top, left);
 ```
 
@@ -23,7 +23,7 @@ $('#Selector').jqxGrid('scrolloffset', top, left);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

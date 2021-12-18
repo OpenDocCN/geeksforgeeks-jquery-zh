@@ -10,7 +10,7 @@
 
 **第二步:**创建一个 HTML 文件，在 HTML 文件的 [<头>标记](https://www.geeksforgeeks.org/html-head-tag/)段内的 [<脚本>标记](https://www.geeksforgeeks.org/html-script-tag/)中声明 jQuery 文件路径。请注意，jQuery 文件必须放在工作区内。
 
-```
+```html
 <script src="jquery-3.6.0.min.js"></script>
 ```
 
@@ -18,7 +18,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -40,7 +40,7 @@
 
 **方法 2:** **通过 CDN 使用 jQuery:**与之前的方法相比，这个方法非常容易使用。我们只需要将下面的代码粘贴到 HTML 文件的头部。
 
-```
+```html
 <script src=”https://code.jquery.com/jquery-3.6.0.min.js”></script>
 ```
 
@@ -50,7 +50,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -77,7 +77,7 @@ https://code.jquery.com/jquery-3.6.0.min.js">
 
 **语法:**
 
-```
+```html
 window.onload = function () {
   if (window.jQuery) {
     alert("jQuery is loaded.");
@@ -91,7 +91,7 @@ window.onload = function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -124,7 +124,7 @@ window.onload = function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -159,7 +159,7 @@ window.onload = function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#treeGrid").jqxTreeGrid('deleteRow', rowKey);
 ```
 
@@ -29,7 +29,7 @@ $("#treeGrid").jqxTreeGrid('deleteRow', rowKey);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

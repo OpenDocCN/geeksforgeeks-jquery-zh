@@ -6,13 +6,13 @@
 
 **jQuery 易 UI 下载:**
 
-```
+```html
 https://www.jeasyui.com/download/index.php
 ```
 
 **语法:**
 
-```
+```html
 var a = $(".selector").progressbar({
 
 });
@@ -44,7 +44,7 @@ var a = $(".selector").progressbar({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html> 
 <html> 
 

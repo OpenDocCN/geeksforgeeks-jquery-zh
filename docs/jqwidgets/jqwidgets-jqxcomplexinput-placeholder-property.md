@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 placeHolder 属性。
 
-```
+```html
 $('selector').jqxComplexInput({ placeHolder: String });
 ```
 
 返回 placeHolder 属性。
 
-```
+```html
 var placeHolder = $('selector').jqxComplexInput('placeHolder');
 ```
 
@@ -33,7 +33,7 @@ var placeHolder = $('selector').jqxComplexInput('placeHolder');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的**淡出()方法**用于将选定元素的不透明度从可见更�
 
 **语法:**
 
-```
+```html
 $(selector).fadeOut( speed, easing, callback )
 ```
 
@@ -23,7 +23,7 @@ $(selector).fadeOut( speed, easing, callback )
 
 **示例 1:** 本示例显示 fadeIn 和 fadeOut 效果。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -71,7 +71,7 @@ $(selector).fadeOut( speed, easing, callback )
 
 **示例 2:** 本示例创建 fadeIn 和 fadeOut 效果并设置其速度。以毫秒为单位的给定速度。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -121,7 +121,7 @@ $(selector).fadeOut( speed, easing, callback )
 
 **示例 3:** 创建带提醒信息的淡入淡出效果。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

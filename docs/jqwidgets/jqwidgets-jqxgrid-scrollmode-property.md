@@ -16,13 +16,13 @@
 
 *   设置*滚动模式*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ scrollmode: 'logical'});
     ```
 
 *   返回*滚动模式*属性。
 
-    ```
+    ```html
     var scrollmode = $('#Selector').jqxGrid('scrollmode');
     ```
 
@@ -39,7 +39,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

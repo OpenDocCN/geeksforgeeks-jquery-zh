@@ -10,13 +10,13 @@
 
 设置 *initContent* 属性。
 
-```
+```html
 $('selector').jqxExpander({ initContent: function });
 ```
 
 返回 *initContent* 属性。
 
-```
+```html
 var initContent = $('selector').jqxExpander('initContent');
 ```
 
@@ -31,7 +31,7 @@ var initContent = $('selector').jqxExpander('initContent');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

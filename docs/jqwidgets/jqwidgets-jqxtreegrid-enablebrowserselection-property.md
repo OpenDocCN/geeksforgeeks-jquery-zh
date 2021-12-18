@@ -10,7 +10,7 @@
 
 **对于设置 *启用浏览选择*属性:**
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({
     enableBrowserSelection: true 
 }); 
@@ -18,7 +18,7 @@ $('#treeGrid').jqxTreeGrid({
 
 **要获取*启用浏览器选择*属性:**
 
-```
+```html
 var enableBrowserSelection = 
     $('#treeGrid').jqxTreeGrid('enableBrowserSelection'); 
 ```
@@ -33,7 +33,7 @@ var enableBrowserSelection =
 
 ## ******超文本标记语言******
 
-```
+```html
 ****<!DOCTYPE html>
 <html lang="en">
 

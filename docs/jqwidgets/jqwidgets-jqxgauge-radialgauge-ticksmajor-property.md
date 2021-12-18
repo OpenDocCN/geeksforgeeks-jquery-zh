@@ -10,13 +10,13 @@
 
 *   设置 *ticksMajor* 属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ ticksMajor: object });  
     ```
 
 *   返回 *ticksMajor* 属性。
 
-    ```
+    ```html
     var ticksMajor = $('Selector').jqxGauge('ticksMajor');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

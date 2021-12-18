@@ -14,7 +14,7 @@
 
 下面是显示 jQuery length 属性的工作示例:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

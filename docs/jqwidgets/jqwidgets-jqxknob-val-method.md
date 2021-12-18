@@ -10,13 +10,13 @@
 
 *   要获取价值:
 
-    ```
+    ```html
     var value = $('#jqxKnob').val();
     ```
 
 *   要设置该值:
 
-    ```
+    ```html
     $('#jqxKnob').val(50);
     ```
 
@@ -37,7 +37,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

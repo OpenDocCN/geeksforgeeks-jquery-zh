@@ -16,13 +16,13 @@
 
 设置 scrollPosition 属性。
 
-```
+```html
 $('selector').jqxTabs({ scrollPosition: String });
 ```
 
 返回 scrollPosition 属性。
 
-```
+```html
 var scrollPosition = $('selector').jqxTabs('scrollPosition');
 ```
 
@@ -39,7 +39,7 @@ var scrollPosition = $('selector').jqxTabs('scrollPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

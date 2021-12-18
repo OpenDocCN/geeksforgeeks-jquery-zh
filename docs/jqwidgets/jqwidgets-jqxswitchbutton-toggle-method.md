@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxSwitchButton('toggle');
 ```
 
@@ -25,7 +25,7 @@ $('Selector').jqxSwitchButton('toggle');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -10,13 +10,13 @@
 
 *   用于设置 ***列顺序*** 属性。
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({columnsReorder: true});
     ```
 
 *   为获得*T2【柱序】T4 房产。
 
-    ```
+    ```html
     var columnsReorder = $('#treeGrid').jqxTreeGrid('columnsReorder');
     ```* 
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

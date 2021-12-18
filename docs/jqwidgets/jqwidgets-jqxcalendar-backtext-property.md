@@ -8,7 +8,7 @@ backText 属性用于设置或返回当鼠标光标移到后退导航按钮上�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxCalendar({
     backText: "Back"
 });
@@ -27,7 +27,7 @@ $('.selector').jqxCalendar({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

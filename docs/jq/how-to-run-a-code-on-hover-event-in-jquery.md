@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).hover(Function_in, Function_out);
 ```
 
@@ -21,7 +21,7 @@ $(selector).hover(Function_in, Function_out);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYpe html>
 <html>
 

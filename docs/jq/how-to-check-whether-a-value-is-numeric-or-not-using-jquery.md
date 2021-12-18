@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```html
 $.isNumeric( argument )
 ```
 
 **示例 1:** 本示例使用 jQuery。isNumeric()方法检查输入的元素是否为数字。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -76,7 +76,7 @@ $.isNumeric( argument )
 
 **示例 2:** 本示例使用 jQuery。isNumeric()方法检查输入的元素是否为数字。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

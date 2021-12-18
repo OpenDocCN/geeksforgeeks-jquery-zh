@@ -16,13 +16,13 @@
 
 设置*动画类型*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ animationType: String });
 ```
 
 返回*动画类型*属性。
 
-```
+```html
 var animationType = $('selector').jqxDropDownList('animationType');
 ```
 
@@ -37,7 +37,7 @@ var animationType = $('selector').jqxDropDownList('animationType');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

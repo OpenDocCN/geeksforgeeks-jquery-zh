@@ -10,7 +10,7 @@
 
 ## index.html
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -55,7 +55,7 @@
 
 ## 样式，css
 
-```
+```html
 .container {
   border: 1px solid rgb(73, 72, 72);
   border-radius: 10px;
@@ -85,7 +85,7 @@ button:hover {
 
 ## script.js
 
-```
+```html
 $(document).ready(() => {
 
   // Adding 'click' event listener to button
@@ -119,7 +119,7 @@ $(document).ready(() => {
 
 ## 服务器端编程语言（Professional Hypertext Preprocessor 的缩写）
 
-```
+```html
 <?php
 
 // Check if JSON Objects are set by user 

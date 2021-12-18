@@ -10,13 +10,13 @@
 
 *   用于设置*滚动灵敏度*属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ scrollSensitivity : number });
     ```
 
 *   用于返回*滚动灵敏度*属性。
 
-    ```
+    ```html
     var scrollSensitivity = 
         $('Selector').jqxSortable('scrollSensitivity')
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

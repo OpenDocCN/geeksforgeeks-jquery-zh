@@ -10,13 +10,13 @@
 
 *   用于设置 ***列*** 属性:
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({columnsResize: true});
     ```
 
 *   获取 ***列*** 属性:
 
-    ```
+    ```html
     var columnsResize = $('#treeGrid').jqxTreeGrid('columnsResize');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

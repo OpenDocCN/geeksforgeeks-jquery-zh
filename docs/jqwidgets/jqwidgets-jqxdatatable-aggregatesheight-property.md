@@ -10,13 +10,13 @@
 
 用于设置*集合* t 属性。
 
-```
+```html
 $('Selector').jqxDataTable({aggregatesHeight: 30});  
 ```
 
 获取*聚合权限*属性。
 
-```
+```html
 var aggrHeight = $('Selector').jqxDataTable('aggregatesHeight');
 ```
 
@@ -31,7 +31,7 @@ var aggrHeight = $('Selector').jqxDataTable('aggregatesHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

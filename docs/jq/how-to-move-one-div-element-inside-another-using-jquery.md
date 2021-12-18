@@ -22,7 +22,7 @@ HTML [*div*](https://www.geeksforgeeks.org/div-tag-html/) 元素用于定义 HTM
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html>
   <head>

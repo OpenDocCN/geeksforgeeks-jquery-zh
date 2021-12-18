@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxTabs('addFirst', tabTitle, tabContent);
 ```
 
@@ -28,7 +28,7 @@ $('Selector').jqxTabs('addFirst', tabTitle, tabContent);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

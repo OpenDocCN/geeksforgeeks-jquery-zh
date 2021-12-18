@@ -10,13 +10,13 @@
 
 设置*延迟*属性。
 
-```
+```html
 $("#jqxButton").jqxRepeatButton({ delay: 25});
 ```
 
 要获得*延迟*属性。
 
-```
+```html
 var delayed = $('#jqxButton').jqxRepeatButton('delay');
 ```
 
@@ -31,7 +31,7 @@ var delayed = $('#jqxButton').jqxRepeatButton('delay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

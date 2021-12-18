@@ -8,7 +8,7 @@ bindingComplete 事件用于在数据绑定操作完成时触发。
 
 **语法:**
 
-```
+```html
 $('selector').on('bindingComplete', function (event) {});
 ```
 
@@ -28,7 +28,7 @@ $('selector').on('bindingComplete', function (event) {});
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

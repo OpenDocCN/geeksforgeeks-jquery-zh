@@ -10,13 +10,13 @@
 
 *   设置**源**属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ source : object});
     ```
 
 *   返回**源**属性。
 
-    ```
+    ```html
     var source = $('Selector').jqxChart('source');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置*宽度*属性。
 
-```
+```html
 $('Selector').jqxEditor({ width : number});  
 ```
 
 返回*宽度*属性。
 
-```
+```html
 var width = $('Selector').jqxEditor('width');
 ```
 
@@ -36,7 +36,7 @@ var width = $('Selector').jqxEditor('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -7,13 +7,13 @@ jQuery 中的 **jQuery stop()方法**用于在动画或效果完成之前停止�
 
 **语法:**
 
-```
+```html
 $(selector).stop(stopAll, goToEnd);
 ```
 
 **示例-1:** 停止滑动动画。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -87,7 +87,7 @@ $(selector).stop(stopAll, goToEnd);
 
 **例-2:** 停止从左向右滑动。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 *   设置**标题**属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ title : string });
     ```
 
 *   返回**标题**属性。
 
-    ```
+    ```html
     var title = $('Selector').jqxHeatMap('title');
     ```
 
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

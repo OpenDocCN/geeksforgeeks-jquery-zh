@@ -10,13 +10,13 @@
 
 *   **设置*排序顺序*属性:**
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ sortOrder: 'descending' });
     ```
 
 *   **获取*排序顺序*属性:**
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'sortOrder' });
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

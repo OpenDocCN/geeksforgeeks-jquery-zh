@@ -6,7 +6,7 @@ jQuery 中的**回调. fireWith()** 方法用于调用当前列表中所有具�
 
 **语法:**
 
-```
+```html
 callbacks.fireWith([context][, params])
 
 ```
@@ -20,7 +20,7 @@ callbacks.fireWith([context][, params])
 
 **示例 1:** 本示例使用上下文“窗口”，并将参数传递给函数。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -79,7 +79,7 @@ callbacks.fireWith([context][, params])
 
 **示例 2:** 本示例使用上下文“窗口”，并将 2 参数传递给函数。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

@@ -10,13 +10,13 @@
 
 *   设置*页面高度*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ pagerheight: 45});
     ```
 
 *   返回*页面高度*属性。
 
-    ```
+    ```html
     var pagerheight = $('#Selector').jqxGrid('pagerheight');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

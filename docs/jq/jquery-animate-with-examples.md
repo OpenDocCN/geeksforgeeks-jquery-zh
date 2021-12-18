@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 (selector).animate({styles}, para1, para2, para3);
 
 ```
@@ -25,7 +25,7 @@
 
 **Code #1:**
 
-```
+```html
 <html>
 
 <head>
@@ -76,7 +76,7 @@
 **代码#2:**
 在下面的代码中，所有的参数都传递给了这个方法。
 
-```
+```html
 <html>
 
 <head>

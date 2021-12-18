@@ -10,13 +10,13 @@
 
 *   用于设置*高度*属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ height: 25 });
     ```
 
 *   用于获得*高度*属性。
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'height' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(":focus")
 ```
 
 **示例 1:** 这个示例展示了如何使用 jQuery 聚焦一个元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@ $(":focus")
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

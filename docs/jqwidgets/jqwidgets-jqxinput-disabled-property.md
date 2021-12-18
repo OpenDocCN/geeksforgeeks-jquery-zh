@@ -10,13 +10,13 @@
 
 设置*禁用*属性。
 
-```
+```html
 $('selector').jqxInput({ disabled: Boolean });
 ```
 
 返回*禁用的*属性。
 
-```
+```html
 var disabled = $('selector').jqxInput('disabled');
 ```
 
@@ -31,7 +31,7 @@ var disabled = $('selector').jqxInput('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

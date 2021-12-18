@@ -10,13 +10,13 @@
 
 设置*宽度*属性。
 
-```
+```html
 $('#jqxButton').jqxButton({ width: '250px'}); 
 ```
 
 获取*宽度*属性。
 
-```
+```html
 var width = $('#jqxButton').jqxButton('width');
 ```
 
@@ -33,7 +33,7 @@ var width = $('#jqxButton').jqxButton('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

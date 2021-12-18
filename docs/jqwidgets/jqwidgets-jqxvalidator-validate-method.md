@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxValidator').jqxValidator('validate', element);
 ```
 
@@ -28,7 +28,7 @@ $('#jqxValidator').jqxValidator('validate', element);
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

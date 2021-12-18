@@ -5,7 +5,7 @@
 **宽度()**是 JavaScript 中的一个内置函数，用于检查元素的宽度。它不检查元素的填充、边框和边距。
 **语法:**
 
-```
+```html
 $("param").width()
 
 ```
@@ -17,7 +17,7 @@ $("param").width()
 
 **Code #1:**
 
-```
+```html
 <html>
 
 <head>
@@ -62,7 +62,7 @@ $("param").width()
 **jQuery** 也包含 **innerWidth()** 方法即它也用于检查包含填充的元素的内部宽度。
 **语法:**
 
-```
+```html
 $("param").innerWidth()
 
 ```
@@ -72,7 +72,7 @@ $("param").innerWidth()
 **返回值:**返回所选元素的宽度。
 **代码#2:**
 
-```
+```html
 <html>
 
 <head>

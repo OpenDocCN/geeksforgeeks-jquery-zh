@@ -8,7 +8,7 @@ clear()方法用于清除 jqxMaskedInput 小部件的值。它不接受任何参
 
 **语法:**
 
-```
+```html
 $('Selector').jqxMaskedInput('clear');
 ```
 
@@ -25,7 +25,7 @@ $('Selector').jqxMaskedInput('clear');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   用于设置 ***指针*** 属性:
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({pointerGrabAction: "pointer" });
     ```
 
 *   获取***指针*** 属性:
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('pointerGrabAction');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

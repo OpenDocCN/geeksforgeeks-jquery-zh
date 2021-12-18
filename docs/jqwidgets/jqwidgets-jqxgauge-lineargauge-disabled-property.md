@@ -10,13 +10,13 @@
 
 设置*禁用*属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ disabled : boolean});
 ```
 
 返回*禁用的*属性。
 
-```
+```html
 var disabled= $('Selector').jqxLinearGauge('disabled');
 ```
 
@@ -31,7 +31,7 @@ var disabled= $('Selector').jqxLinearGauge('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

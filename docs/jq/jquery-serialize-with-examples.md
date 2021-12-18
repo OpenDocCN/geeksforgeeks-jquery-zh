@@ -6,7 +6,7 @@ serialize()方法是 jQuery 中的一个内置方法，用于以标准的 URL �
 
 **语法:**
 
-```
+```html
 $(selector).serialize()
 ```
 
@@ -18,7 +18,7 @@ $(selector).serialize()
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

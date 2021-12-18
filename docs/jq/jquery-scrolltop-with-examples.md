@@ -6,7 +6,7 @@ scrollTop()方法是 jQuery 中的一个内置方法，用于返回滚动条的�
 
 **语法:**
 
-```
+```html
 $(selector).scrollTop(position)
 ```
 
@@ -18,7 +18,7 @@ $(selector).scrollTop(position)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

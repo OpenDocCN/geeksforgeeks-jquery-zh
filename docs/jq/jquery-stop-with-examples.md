@@ -6,7 +6,7 @@ stop()方法是 jQuery 中的一个内置方法，用于停止所选元素当前
 
 **语法:**
 
-```
+```html
 $(selector).stop(stopAll, goToEnd);
 ```
 
@@ -21,7 +21,7 @@ $(selector).stop(stopAll, goToEnd);
 
 **例 1:** 本例不包含任何参数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -73,7 +73,7 @@ $(selector).stop(stopAll, goToEnd);
 
 **例 2:** 本例包含参数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

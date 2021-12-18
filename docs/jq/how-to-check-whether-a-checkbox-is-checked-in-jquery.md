@@ -11,7 +11,7 @@
 **使用 jQuery prop()方法:**
 **语法:**
 
-```
+```html
 $(selector).prop(parameter) 
 
 ```
@@ -20,7 +20,7 @@ $(selector).prop(parameter)
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -75,7 +75,7 @@ $(selector).prop(parameter)
 **使用 jQuery is()方法:**
 **语法:**
 
-```
+```html
 $(selector).is(parameter) 
 
 ```
@@ -84,7 +84,7 @@ $(selector).is(parameter)
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

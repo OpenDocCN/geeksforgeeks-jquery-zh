@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#treeGrid').on('columnResized',  function (event)
 {
  // Argument of the Event
@@ -33,7 +33,7 @@ $('#treeGrid').on('columnResized',  function (event)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

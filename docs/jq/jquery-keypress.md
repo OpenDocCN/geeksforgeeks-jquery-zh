@@ -6,14 +6,14 @@
 **语法:**
 要触发所选元素的按键事件:
 
-```
+```html
 $(selector).keypress()
 
 ```
 
 要将功能附加到按键事件:
 
-```
+```html
 $(selector).keypress(function) 
 
 ```
@@ -23,7 +23,7 @@ $(selector).keypress(function)
 **Code #1:**
 Below code is used to check if a key is pressed anywhere on the page or not.
 
-```
+```html
 <html>
 <head>
 <title>Jquery | Keypress() </title>
@@ -47,7 +47,7 @@ $(document).keypress(function(event){
 **代码#2:**
 检测任何特定的按键事件。键码和事件。哪一个将返回按下的按键的 ASCII 值，两者都是浏览器特定的。下面的代码用于检查在页面上按下了哪个键。
 
-```
+```html
 <html>
 <head>
 <title>Jquery | Keypress() </title>
@@ -79,7 +79,7 @@ $(document).keypress(function(event){
 **代码#3**
 下面的代码用于检查在页面的文本框内是否按下了回车键。
 
-```
+```html
 <html>
 <head>
 <title>Jquery | Keypress() </title>

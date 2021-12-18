@@ -10,7 +10,7 @@
 
 *   设置*编辑对话框日期时间格式字符串*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ 
         editDialogDateTimeFormatString: dd/MM/yyyy hh:mm tt 
     });
@@ -18,7 +18,7 @@
 
 *   返回*编辑对话框日期时间格式字符串*属性。
 
-    ```
+    ```html
     var editDialogDateTimeFormatString = $('#Selector')
         .jqxScheduler('editDialogDateTimeFormatString');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

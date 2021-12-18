@@ -10,13 +10,13 @@
 
 它用于设置高度属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ height : number});
 ```
 
 它用于返回高度属性。
 
-```
+```html
 var height = $('Selector').jqxLinearGauge('height');
 ```
 
@@ -31,7 +31,7 @@ var height = $('Selector').jqxLinearGauge('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

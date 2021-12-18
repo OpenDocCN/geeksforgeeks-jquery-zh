@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置宽松属性。
 
-```
+```html
 $('selector').jqxMenu({ easing: String });
 ```
 
 归还宽松的财产。
 
-```
+```html
 var easing = $('selector').jqxMenu('easing');
 ```
 
@@ -33,7 +33,7 @@ var easing = $('selector').jqxMenu('easing');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,7 +10,7 @@
 
 *   **用于设置*烹饪选项*属性:**
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({ cookieOptions: { 
                      domain: 'jqwidgets.com', expires: 90
     } }); 
@@ -18,7 +18,7 @@
 
 *   **获取*烹饪选项*属性:**
 
-    ```
+    ```html
     var cookieOptions = $('#jqxDocking')
         .jqxDocking('cookieOptions');
     ```
@@ -33,7 +33,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

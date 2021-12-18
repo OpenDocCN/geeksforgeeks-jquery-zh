@@ -15,13 +15,13 @@
 
 设置*模式*属性:
 
-```
+```html
 $('selector').jqxRibbon({ mode: String });
 ```
 
 返回*模式*属性:
 
-```
+```html
 var mode = $('selector').jqxRibbon('mode');
 ```
 
@@ -36,7 +36,7 @@ var mode = $('selector').jqxRibbon('mode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

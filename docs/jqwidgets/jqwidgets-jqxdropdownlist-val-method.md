@@ -10,14 +10,14 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 val。
 
-```
+```html
 $("Selector").jqxDropDownList('val', 'New Value'); // or
 $("Selector").val('New Value');
 ```
 
 返回值。
 
-```
+```html
 var value = $("Selector").jqxDropDownList('val'); //or
 var value = $("Selector").val();
 ```
@@ -35,7 +35,7 @@ var value = $("Selector").val();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

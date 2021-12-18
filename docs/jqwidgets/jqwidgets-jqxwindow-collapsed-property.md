@@ -10,13 +10,13 @@
 
 设置折叠属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ collapsed:true });  
 ```
 
 获取折叠的属性。
 
-```
+```html
 var collapsed = $('#jqxWindow').jqxWindow('collapsed'); 
 ```
 
@@ -31,7 +31,7 @@ var collapsed = $('#jqxWindow').jqxWindow('collapsed');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

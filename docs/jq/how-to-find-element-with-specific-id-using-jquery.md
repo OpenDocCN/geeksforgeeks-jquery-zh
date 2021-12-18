@@ -7,7 +7,7 @@
 *   **jQuery on()方法:**此方法为所选元素和子元素添加一个或多个事件处理程序。
     **语法:**
 
-```
+```html
 $(selector).on(event, childSelector, data, function, map)
 ```
 
@@ -21,7 +21,7 @@ $(selector).on(event, childSelector, data, function, map)
 *   **jQuery 长度属性:**长度属性用于统计 jQuery 对象的元素个数。
     **语法:**
 
-```
+```html
 $(selector).length
 ```
 
@@ -29,7 +29,7 @@ $(selector).length
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -101,7 +101,7 @@ $(selector).length
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
     <head>

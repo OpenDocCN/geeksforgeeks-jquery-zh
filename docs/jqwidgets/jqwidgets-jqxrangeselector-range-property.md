@@ -17,7 +17,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 range 属性。
 
-```
+```html
 $('selector').jqxRangeSelector({ range: {
     from: Number/Date
     to: Number/Date
@@ -28,7 +28,7 @@ $('selector').jqxRangeSelector({ range: {
 
 返回 range 属性。
 
-```
+```html
 var range = $('selector').jqxRangeSelector('range');
 ```
 
@@ -45,7 +45,7 @@ var range = $('selector').jqxRangeSelector('range');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

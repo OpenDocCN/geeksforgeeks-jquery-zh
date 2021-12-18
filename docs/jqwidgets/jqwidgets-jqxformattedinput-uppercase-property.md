@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置大写属性。
 
-```
+```html
 $('selector').jqxFormattedInput({ upperCase: Boolean });
 ```
 
 返回大写属性。
 
-```
+```html
 var upperCase = $('selector').jqxFormattedInput('upperCase');
 ```
 
@@ -33,7 +33,7 @@ var upperCase = $('selector').jqxFormattedInput('upperCase');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

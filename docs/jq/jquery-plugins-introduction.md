@@ -10,7 +10,7 @@
 
 *   创建一个方法。
 
-    ```
+    ```html
     jQuery.fn.methodName = methodDefinition;
     ```
 
@@ -23,7 +23,7 @@
 
 ## alert.js
 
-```
+```html
 jQuery.fn.alertMethod = function() {
    return this.each(function() {
       alert('GeeksforGeeks in "' + $(this).prop("tagName") + '"tag');
@@ -33,7 +33,7 @@ jQuery.fn.alertMethod = function() {
 
 ## index.html
 
-```
+```html
 <html>
    <head>
 
@@ -68,7 +68,7 @@ jQuery.fn.alertMethod = function() {
 
 *   **步骤 1:** 使用 [npm](https://www.geeksforgeeks.org/node-js-npm-node-package-manager/) 安装 [**浏览器同步**](https://www.browsersync.io/) 。我们将使用浏览器同步启动一个服务器，并提供一个网址来查看 HTML 网站，并使用内容交付网络加载 **jQuery** 。我们将在全球范围内安装浏览器同步。
 
-```
+```html
 npm install -g browser-sync
 ```
 

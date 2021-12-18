@@ -6,7 +6,7 @@ jQuery 中的 grep()方法用于查找满足筛选函数的数组元素。
 
 **语法:**
 
-```
+```html
 jQuery.grep(array, function(element, index) [, invert])
 
 ```
@@ -21,7 +21,7 @@ jQuery.grep(array, function(element, index) [, invert])
 
 **示例 1:** 在本例中， **grep()方法**应用于数字数组，根据条件过滤一些数字。不影响原数组。
 
-```
+```html
 <!DOCTYPE html> 
 <html>
 
@@ -82,7 +82,7 @@ jQuery.grep(array, function(element, index) [, invert])
 
 **示例 2:** 在本例中， **grep()方法**应用于 JavaScript 对象数组，根据条件过滤掉一些对象。这个方法不影响原始数组。
 
-```
+```html
 <!DOCTYPE html> 
 <html>
 

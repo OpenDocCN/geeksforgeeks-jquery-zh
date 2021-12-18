@@ -6,7 +6,7 @@ jQuery 中的**回调. lock()** 方法用于锁定状态中的回调列表。
 
 **语法:**
 
-```
+```html
 callbacks.lock()
 
 ```
@@ -15,7 +15,7 @@ callbacks.lock()
 
 **示例 1:** 本示例首先添加并激发函数，然后锁定回调列表，然后再次添加并激发函数。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -75,7 +75,7 @@ callbacks.lock()
 
 **示例 2:** 本示例提供了一个按钮，用于锁定列表，然后添加并激发函数，以检查方法是否工作。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

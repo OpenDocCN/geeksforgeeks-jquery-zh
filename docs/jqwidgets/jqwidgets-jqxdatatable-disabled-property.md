@@ -10,13 +10,13 @@
 
 用于设置*禁用*属性。
 
-```
+```html
 $('Selector').jqxDataTable({ disabled:true });  
 ```
 
 获取*禁用的*属性。
 
-```
+```html
 var disabled = $('Selector').jqxDataTable('disabled');
 ```
 
@@ -31,7 +31,7 @@ var disabled = $('Selector').jqxDataTable('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

@@ -10,13 +10,13 @@
 
 将*设置为指示器大小*属性。
 
-```
+```html
 $('selector').jqxTree({ toggleIndicatorSize: Number });
 ```
 
 返回*到指示器大小*属性。
 
-```
+```html
 var TIS = $('selector').jqxTree('toggleIndicatorSize');
 ```
 
@@ -31,7 +31,7 @@ var TIS = $('selector').jqxTree('toggleIndicatorSize');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

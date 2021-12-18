@@ -5,7 +5,7 @@
 **focusout()** 是 jQuery 中的一个内置方法，用于移除所选元素的焦点。
 **语法:**
 
-```
+```html
 $(selector).focusout(function);
 
 ```
@@ -14,7 +14,7 @@ $(selector).focusout(function);
 **返回值:**返回失去焦点的选中元素。
 **jQuery 代码显示 focusout()方法的工作方式:**
 
-```
+```html
 <html>
 
 <head>

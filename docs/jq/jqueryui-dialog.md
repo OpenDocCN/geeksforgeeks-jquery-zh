@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(selector, context).dialog(options)
 ```
 
 **注意:**我们可以在代码中绕过对话框函数内部的各种选项自定义对话框。如果有多个选项，我们可以使用逗号分隔的方式传递它们。我们可以通过以下方式向它添加某些功能。
 
-```
+```html
 $(selector, context).dialog({option1: value1, option2: value2... })
 ```
 
@@ -24,7 +24,7 @@ $(selector, context).dialog({option1: value1, option2: value2... })
 
 **示例 1:** 本示例不包含带有空白选项的按钮。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ $(selector, context).dialog({option1: value1, option2: value2... })
 
 **示例 2:** 本示例包含具有关闭值的按钮。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

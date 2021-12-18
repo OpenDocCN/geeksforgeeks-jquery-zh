@@ -10,7 +10,7 @@
 *   然后为了使 click 事件只在父元素上可用，我们调用一个函数来检查被单击的元素是否是父元素。如果是父级，我们调用 alert()函数。否则，我们什么都不做。
 *   该函数如下所示:
 
-```
+```html
 $('.parent').on('click', function(e) {
     if (e.target == this){
         alert( 'clicked on parent element' );
@@ -22,7 +22,7 @@ $('.parent').on('click', function(e) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -78,7 +78,7 @@ $('.parent').on('click', function(e) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

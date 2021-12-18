@@ -8,19 +8,19 @@
 
 **语法:**
 
-```
+```html
 var position = $('#Selector').jqxGrid('scrollposition');
 ```
 
 返回滚动条的左侧位置:
 
-```
+```html
 var left = position.left;
 ```
 
 返回滚动条的顶部位置:
 
-```
+```html
 var top = position.top;
 ```
 
@@ -35,7 +35,7 @@ var top = position.top;
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

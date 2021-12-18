@@ -10,13 +10,13 @@
 
 设置*确定按钮*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ okButton: $('#okButton')});  
 ```
 
 获取*确定按钮*属性:
 
-```
+```html
 var okButton = $('#jqxWindow').jqxWindow('okButton'); 
 ```
 
@@ -31,7 +31,7 @@ var okButton = $('#jqxWindow').jqxWindow('okButton');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

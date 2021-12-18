@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(":enabled")
 ```
 
@@ -16,7 +16,7 @@ $(":enabled")
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -62,7 +62,7 @@ $(":enabled")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

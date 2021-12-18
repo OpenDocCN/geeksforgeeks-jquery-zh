@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxFileUpload').on('remove', function (event) {
    var fileName = event.args.file;
    // Your code here
@@ -26,7 +26,7 @@ $('#jqxFileUpload').on('remove', function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

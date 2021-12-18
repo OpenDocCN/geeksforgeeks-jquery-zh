@@ -10,13 +10,13 @@
 
 *   它用于设置距离属性。
 
-    ```
+    ```html
     $('Selector').jqxSortable({ distance : number });
     ```
 
 *   它用于返回距离属性。
 
-    ```
+    ```html
     var distance = $('Selector').jqxSortable('distance');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置*断线*属性。
 
-```
+```html
 $('Selector').jqxEditor({ lineBreak : "br"});  
 ```
 
 返回*换行*属性。
 
-```
+```html
 var lineBreak = $('Selector').jqxEditor('lineBreak');
 ```
 
@@ -36,7 +36,7 @@ var lineBreak = $('Selector').jqxEditor('lineBreak');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

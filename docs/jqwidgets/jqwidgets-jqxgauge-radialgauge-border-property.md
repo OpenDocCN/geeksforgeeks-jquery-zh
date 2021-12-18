@@ -10,13 +10,13 @@
 
 *   设置*边框*属性。
 
-```
+```html
 $('Selector').jqxGauge({ border: object });  
 ```
 
 *   返回*边框*属性。
 
-```
+```html
 var border = $('Selector').jqxGauge('border');
 ```
 
@@ -31,7 +31,7 @@ var border = $('Selector').jqxGauge('border');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

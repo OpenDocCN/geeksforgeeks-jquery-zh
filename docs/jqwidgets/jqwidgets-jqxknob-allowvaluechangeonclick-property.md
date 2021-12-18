@@ -10,13 +10,13 @@
 
 *   **设置*允许值更改点击*属性:**
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({allowValueChangeOnClick: true });
     ```
 
 *   **获取*允许值更改点击*属性:**
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('allowValueChangeOnClick');
     ```
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

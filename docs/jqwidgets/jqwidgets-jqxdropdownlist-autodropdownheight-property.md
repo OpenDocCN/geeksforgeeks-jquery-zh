@@ -10,13 +10,13 @@
 
 设置*自动下降高度*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ autoDropDownHeight: Boolean });
 ```
 
 返回*自动下降高度*属性。
 
-```
+```html
 var aDDH = $('selector').jqxDropDownList('autoDropDownHeight');
 ```
 
@@ -31,7 +31,7 @@ var aDDH = $('selector').jqxDropDownList('autoDropDownHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

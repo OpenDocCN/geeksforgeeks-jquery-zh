@@ -12,7 +12,7 @@ Slides.js 是 jQuery 的一个响应性幻灯片插件，具有触摸和 CSS3 �
 
 要使用这个插件，只需在正文标签上方添加 **CDN** 链接:
 
-```
+```html
 <script src="//code.jquery.com/jquery-latest.min.js"></script>
 
 <script src="jquery.slides.min.js"></script>
@@ -22,7 +22,7 @@ Slides.js 是 jQuery 的一个响应性幻灯片插件，具有触摸和 CSS3 �
 
 ## 超文本标记语言
 
-```
+```html
 <!Doctype html>
 <html>
 

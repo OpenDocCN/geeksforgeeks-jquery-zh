@@ -10,13 +10,13 @@
 
 设置 allowDrop 属性。
 
-```
+```html
 $('selector').jqxTree({ allowDrop: Boolean });
 ```
 
 返回 allowDrop 属性。
 
-```
+```html
 var allowDrop = $('selector').jqxTree('allowDrop');
 ```
 
@@ -33,7 +33,7 @@ var allowDrop = $('selector').jqxTree('allowDrop');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -14,7 +14,7 @@ jQuery 包含了几个函数库，这些函数库提供了向网页添加动画�
 我们通过在方法的 params 参数中提供样式规则来对属性进行更改。
 **语法:**
 
-```
+```html
 $("selector").animate({params}, speed, callback);
 ```
 
@@ -27,7 +27,7 @@ $("selector").animate({params}, speed, callback);
 **让我们看看它是如何用 JavaScript 代码实现的:**
 在这段代码中，我们制作了矩形的动画，并将其形状改为圆形。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -79,14 +79,14 @@ Using jQuery , we can add the slide up or down effect in our web page . The slid
 *   **slideDown() :**This method makes the element to slide down.
     Syntax:
 
-    ```
+    ```html
     $(selector).slideDown(speed,callback);
     ```
 
     **示例:**在本例中，我们展示了下滑效果。如果单击“向下滑动”面板，则会对 HTML 元素进行相应的更改。
     T3】代号:
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -134,14 +134,14 @@ Using jQuery , we can add the slide up or down effect in our web page . The slid
 *   **slideUp():**This method makes the element to slide up.
     Syntax:
 
-    ```
+    ```html
     $(selector).slideUp(speed,callback);
     ```
 
     **示例:**在本例中，我们展示了上滑效果。如果单击“上滑”面板，则会对 HTML 元素进行相应的更改。
     T3】代号:
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -189,7 +189,7 @@ Using jQuery , we can add the slide up or down effect in our web page . The slid
     If the element is in the slide down position, it makes it slide up.
     Syntax:
 
-    ```
+    ```html
     $(selector).slideToggle(speed,callback);
     ```
 
@@ -201,7 +201,7 @@ Using jQuery , we can add the slide up or down effect in our web page . The slid
     **示例:**在本例中，我们展示了上滑效果。如果单击“上滑”面板，则会对 HTML 元素进行相应的更改。
     T3】代号:
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

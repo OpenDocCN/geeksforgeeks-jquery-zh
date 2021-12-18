@@ -8,15 +8,15 @@ jQuery 用户界面由图形用户界面小部件、视觉效果和使用 jQuery
 
 **语法:**
 
-```
+```html
 $( ".selector" ).slider("value");
 ```
 
-```
+```html
 $( ".selector" ).slider("value", number);
 ```
 
-```
+```html
 var a = $( ".selector" ).slider("value", number);
 ```
 
@@ -33,7 +33,7 @@ var a = $( ".selector" ).slider("value", number);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -74,7 +74,7 @@ var a = $( ".selector" ).slider("value", number);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

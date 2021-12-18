@@ -9,7 +9,7 @@
 
 **语法:**
 
-```
+```html
 $(document).on('keydown', function(event) {
        if (event.key == "Escape") {
            alert('Esc key pressed.');
@@ -23,7 +23,7 @@ $(document).on('keydown', function(event) {
 
 **示例-1:** 本示例检测按下退出键**(使用按键事件处理程序)**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,7 +64,7 @@ $(document).on('keydown', function(event) {
 
 **示例-2:** 本示例检测按下退出键**(使用按键事件处理程序)**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

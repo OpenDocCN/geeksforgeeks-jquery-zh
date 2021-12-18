@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#table").jqxTreeGrid('getKey', row);
 ```
 
@@ -29,7 +29,7 @@ $("#table").jqxTreeGrid('getKey', row);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

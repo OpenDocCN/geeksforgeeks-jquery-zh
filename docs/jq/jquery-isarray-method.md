@@ -6,7 +6,7 @@ jQuery 中的这个 **isArray()** 方法用来判断参数是否为数组。
 
 **语法:**
 
-```
+```html
 jQuery.isArray( object )
 
 ```
@@ -21,7 +21,7 @@ jQuery.isArray( object )
 
 **示例 1:** 在本例中， **isArray()方法**检查参数是否为数组。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -53,7 +53,7 @@ jQuery.isArray( object )
 
 **示例 2:** 在本例中， **isArray()方法**也检查参数是否为数组。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

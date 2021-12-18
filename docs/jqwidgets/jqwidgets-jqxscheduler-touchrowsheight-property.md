@@ -10,13 +10,13 @@
 
 *   设置 touchRowsHeight 属性。
 
-    ```
+    ```html
     $("Selector").jqxScheduler({ touchRowsHeight: 40 });
     ```
 
 *   返回 touchRowsHeight 属性。
 
-    ```
+    ```html
     var touchRowsHeight = 
         $('Selector').jqxScheduler('touchRowsHeight');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

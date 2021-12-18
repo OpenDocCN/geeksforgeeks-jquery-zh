@@ -5,7 +5,7 @@
 **fadeTo()** 是 jQuery 中的一个内置方法，用于更改所选元素的不透明度。
 **语法:**
 
-```
+```html
 $(selector).fadeTo(speed, opacity, easing, call_function)
 
 ```
@@ -25,7 +25,7 @@ $(selector).fadeTo(speed, opacity, easing, call_function)
 **代码#1:**
 在下面的代码中，没有传递可选的函数参数。
 
-```
+```html
 <html>
 
 <head>
@@ -74,7 +74,7 @@ $(selector).fadeTo(speed, opacity, easing, call_function)
 **代码#2:**
 在下面的代码中，传递了可选的函数参数。
 
-```
+```html
 <html>
 
 <head>

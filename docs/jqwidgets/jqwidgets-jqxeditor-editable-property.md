@@ -10,13 +10,13 @@
 
 设置可编辑属性。
 
-```
+```html
 $('Selector').jqxEditor({ editable: Boolean });  
 ```
 
 返回可编辑属性。
 
-```
+```html
 var editable = $('Selector').jqxEditor('editable');
 ```
 
@@ -36,7 +36,7 @@ var editable = $('Selector').jqxEditor('editable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

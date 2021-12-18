@@ -10,13 +10,13 @@
 
 设置禁用属性:
 
-```
+```html
 $('Selector').jqxSortable({ disabled : boolean });
 ```
 
 返回禁用的属性:
 
-```
+```html
 var disabled = $('Selector').jqxSortable('disabled ');
 ```
 
@@ -31,7 +31,7 @@ var disabled = $('Selector').jqxSortable('disabled ');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   用于设置 ***rtl*** 属性:
 
-```
+```html
 $('#jqxDocking').jqxDocking({rtl : true});  
 ```
 
 *   对于获得 ***rtl*** 房产:
 
-```
+```html
 var rtl = $('#jqxDocking').jqxDocking('rtl'); 
 ```
 
@@ -31,7 +31,7 @@ var rtl = $('#jqxDocking').jqxDocking('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

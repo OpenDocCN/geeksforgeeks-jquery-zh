@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $( ".selector" ).checkboxradio({
   disabled: true
 });
@@ -22,7 +22,7 @@ $( ".selector" ).checkboxradio({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

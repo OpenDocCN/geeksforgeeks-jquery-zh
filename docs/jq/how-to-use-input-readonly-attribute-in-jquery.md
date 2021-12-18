@@ -10,28 +10,28 @@
 
     *   **返回属性值:**
 
-    ```
+    ```html
     $(selector).attr(attribute)
 
     ```
 
 *   **设置属性和值:**
 
-    ```
+    ```html
     $(selector).attr(attribute, value)
 
     ```
 
 *   **使用函数设置属性和值:**
 
-    ```
+    ```html
     $(selector).attr(attribute, function(index, currentvalue))
 
     ```
 
 *   **设置多个属性和值:**
 
-    ```
+    ```html
     $(selector).attr({attribute:value, attribute:value, ...})
 
     ```
@@ -50,28 +50,28 @@
 
     *   **返回属性的值:**
 
-    ```
+    ```html
     $(selector).prop(property)
 
     ```
 
     *   **设置属性和值:**
 
-    ```
+    ```html
     $(selector).prop(property, value)
 
     ```
 
     *   **使用函数设置属性和值:**
 
-    ```
+    ```html
     $(selector).prop(property, function(index, currentvalue))
 
     ```
 
     *   **Set multiple properties and values:**
 
-    ```
+    ```html
     $(selector).prop({property:value, property:value, ...})
 
     ```
@@ -86,7 +86,7 @@
 
     **示例 1:** 在本示例中，表单输入文本字段的**只读属性**通过使用 **attr()方法**启用。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html> 
         <head> 
@@ -144,7 +144,7 @@
 
     **示例 2:** 在本例中，表单输入文本字段的**只读属性**是通过使用 **prop()方法**启用的。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html> 
         <head> 

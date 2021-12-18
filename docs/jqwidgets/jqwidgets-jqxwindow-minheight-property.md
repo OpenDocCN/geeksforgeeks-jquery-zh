@@ -10,13 +10,13 @@
 
 **设置明八属性:**
 
-```
+```html
 $('#jqxWindow').jqxWindow({ minHeight: '65px' });  
 ```
 
 **获取闵八属性:**
 
-```
+```html
 var minHeight = $('#jqxWindow').jqxWindow('minHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var minHeight = $('#jqxWindow').jqxWindow('minHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
     <link rel="stylesheet" href=

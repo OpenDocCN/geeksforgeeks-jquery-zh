@@ -10,13 +10,13 @@
 
 *   设置*宽度*属性。
 
-    ```
+    ```html
     $('selector').jqxTextArea({ width: Number/String });
     ```
 
 *   返回*宽度*属性。
 
-    ```
+    ```html
     var width = $('selector').jqxTextArea('width');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

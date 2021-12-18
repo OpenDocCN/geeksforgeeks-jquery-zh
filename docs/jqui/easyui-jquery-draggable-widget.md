@@ -8,13 +8,13 @@
 
 **下载 jQuery 的 EasyUI:**
 
-```
+```html
 https://www.jeasyui.com/download/index.php
 ```
 
 **语法:**
 
-```
+```html
 var a = $(".selector").draggable({
 
 });
@@ -61,7 +61,7 @@ var a = $(".selector").draggable({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

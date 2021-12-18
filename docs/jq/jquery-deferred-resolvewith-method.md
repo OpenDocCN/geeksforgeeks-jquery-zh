@@ -5,7 +5,7 @@
 JQuery 中的这个**delivered . resolvewith()**方法用于解析一个 delivered 对象，并调用 done 回调以及给定的上下文和参数。
 **语法:**
 
-```
+```html
 deferred.resolveWith(context[, args])
 
 ```
@@ -21,7 +21,7 @@ deferred.resolveWith(context[, args])
 
 *   **示例:**在本例中，我们使用两个参数解析延迟对象，并处理任何 done 回调。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 
@@ -65,7 +65,7 @@ deferred.resolveWith(context[, args])
 
 *   **示例:**在本例中，我们仅使用一个参数解析延迟对象，并处理任何 one 回调。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 

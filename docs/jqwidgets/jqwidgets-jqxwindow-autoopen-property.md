@@ -10,13 +10,13 @@
 
 设置“自动打开”属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ autoOpen: true});  
 ```
 
 获取自动打开属性。
 
-```
+```html
 var autoOpen = $('#jqxWindow').jqxWindow('autoOpen'); 
 ```
 
@@ -31,7 +31,7 @@ var autoOpen = $('#jqxWindow').jqxWindow('autoOpen');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

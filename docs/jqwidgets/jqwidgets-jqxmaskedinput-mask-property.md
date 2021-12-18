@@ -17,13 +17,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置掩码属性。
 
-```
+```html
 $('selector').jqxMaskedInput({ mask: String });
 ```
 
 返回掩码属性。
 
-```
+```html
 var mask = $('selector').jqxMaskedInput('mask');
 ```
 
@@ -40,7 +40,7 @@ var mask = $('selector').jqxMaskedInput('mask');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

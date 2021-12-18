@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).action()
 ```
 
@@ -15,25 +15,25 @@ $(selector).action()
 
 1.  **用于隐藏当前元素。**
 
-    ```
+    ```html
     $(this).hide()
     ```
 
 2.  **用于隐藏所有< p >元素。**
 
-    ```
+    ```html
     $("p").hide()
     ```
 
 3.  **用于隐藏所有带有 class =“test”的元素。**
 
-    ```
+    ```html
     $(".test").hide()
     ```
 
 4.  **用于隐藏 id =“test”的元素。**
 
-    ```
+    ```html
     $("#test").hide()
     ```
 
@@ -41,7 +41,7 @@ $(selector).action()
 
 *   **jQuery Methods are inside a Document ready event for easy reading of code.**
 
-    ```
+    ```html
     $(document).ready(function(){
 
       // jQuery Method
@@ -56,7 +56,7 @@ $(selector).action()
 
 *   **文件准备的较短方法:**
 
-    ```
+    ```html
     $(function(){
 
       // jQuery Method

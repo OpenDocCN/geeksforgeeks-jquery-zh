@@ -10,13 +10,13 @@
 
 用于设置 ***主题*** 属性:
 
-```
+```html
 $('#jqxTreeMap').jqxTreeMap({ theme: "energyblue" });  
 ```
 
 获取 ***主题*** 属性:
 
-```
+```html
 var showLegend = $('#jqxTreeMap').jqxTreeMap('theme');
 ```
 
@@ -31,7 +31,7 @@ var showLegend = $('#jqxTreeMap').jqxTreeMap('theme');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

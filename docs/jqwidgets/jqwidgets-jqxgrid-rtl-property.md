@@ -10,13 +10,13 @@
 
 *   设置 rtl 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ rtl: false});
     ```
 
 *   归还 rtl 的财产。
 
-    ```
+    ```html
     var rtl = $('#Selector').jqxGrid('rtl');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

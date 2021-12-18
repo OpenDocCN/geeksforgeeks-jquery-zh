@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(":lt(index)")
 ```
 
@@ -16,7 +16,7 @@ $(":lt(index)")
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

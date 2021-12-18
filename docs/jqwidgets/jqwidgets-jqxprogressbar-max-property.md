@@ -10,13 +10,13 @@
 
 设置*最大*属性。
 
-```
+```html
 $('selector').jqxProgressBar({ max: Number });
 ```
 
 返回*最大*属性。
 
-```
+```html
 var max = $('selector').jqxProgressBar('max');
 ```
 
@@ -28,7 +28,7 @@ var max = $('selector').jqxProgressBar('max');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

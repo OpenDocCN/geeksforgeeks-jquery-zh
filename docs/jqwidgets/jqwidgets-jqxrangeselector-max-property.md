@@ -10,7 +10,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 max 属性。
 
-```
+```html
 $('selector').jqxRangeSelector({ 
     max: Number/Date object/Date string 
 });
@@ -18,7 +18,7 @@ $('selector').jqxRangeSelector({
 
 返回 max 属性。
 
-```
+```html
 var max = $('selector').jqxRangeSelector('max');
 ```
 
@@ -35,7 +35,7 @@ var max = $('selector').jqxRangeSelector('max');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

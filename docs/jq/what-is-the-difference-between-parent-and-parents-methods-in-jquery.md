@@ -10,7 +10,7 @@ jQuery [父()和父()](https://www.geeksforgeeks.org/jquery-parent-parents-with-
 
 **语法:**
 
-```
+```html
 $('selector').parent();
 ```
 
@@ -18,7 +18,7 @@ $('selector').parent();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 (ancestor-6 )
 <html lang="en">
@@ -105,7 +105,7 @@ $('selector').parent();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -182,7 +182,7 @@ $('selector').parent();
 
 **语法:**
 
-```
+```html
 $('selector').parents();
 ```
 
@@ -190,7 +190,7 @@ $('selector').parents();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 (ancestor-6 )
 <html lang="en">
@@ -277,7 +277,7 @@ $('selector').parents();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

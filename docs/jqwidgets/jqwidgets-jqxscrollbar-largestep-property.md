@@ -10,13 +10,13 @@
 
 *   ****用于设置*大步长*属性。****
 
-    ```
+    ```html
     **$('#jqxScrollBar').jqxScrollBar({ largestep: 20 });**
     ```
 
 *   ****获取*大步长*属性。****
 
-    ```
+    ```html
     **var largestep = 
         $('#jqxScrollBar').jqxScrollBar('largestep');**
     ```
@@ -31,7 +31,7 @@
 
 ## ******超文本标记语言******
 
-```
+```html
 ****<!DOCTYPE html>
 <html lang="en">
 

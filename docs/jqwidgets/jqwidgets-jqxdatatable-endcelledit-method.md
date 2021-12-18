@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#dataTable").jqxDataTable('endCellEdit', rowIndex, dataField);
 ```
 
@@ -30,7 +30,7 @@ $("#dataTable").jqxDataTable('endCellEdit', rowIndex, dataField);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

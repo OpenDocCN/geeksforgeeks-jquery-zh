@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#treeGrid").jqxTreeGrid('endCellEdit',
         rowKey, dataField, cacelChanges);
 ```
@@ -32,7 +32,7 @@ $("#treeGrid").jqxTreeGrid('endCellEdit',
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

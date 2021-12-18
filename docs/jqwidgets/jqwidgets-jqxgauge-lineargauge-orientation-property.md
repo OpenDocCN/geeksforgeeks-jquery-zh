@@ -10,13 +10,13 @@
 
 *   设置*方向*属性。
 
-    ```
+    ```html
     $('Selector').jqxLinearGauge({ orientation : string});
     ```
 
 *   返回*方位*属性。
 
-    ```
+    ```html
     var orientation = 
         $('Selector').jqxLinearGauge('orientation');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

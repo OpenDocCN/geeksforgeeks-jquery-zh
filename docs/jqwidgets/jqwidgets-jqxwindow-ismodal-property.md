@@ -10,13 +10,13 @@
 
 用于设置 ***是*** 属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ isModal: true });  
 ```
 
 获得***是*** 的属性。
 
-```
+```html
 var isModal = $('#jqxWindow').jqxWindow('isModal'); 
 ```
 
@@ -31,7 +31,7 @@ var isModal = $('#jqxWindow').jqxWindow('isModal');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

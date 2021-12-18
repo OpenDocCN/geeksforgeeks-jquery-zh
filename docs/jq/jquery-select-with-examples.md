@@ -6,7 +6,7 @@ select()方法是 jQuery 中的一个内置方法，当在文本区域或文本�
 
 **语法:**
 
-```
+```html
 $(selector).select(function);
 ```
 
@@ -18,7 +18,7 @@ $(selector).select(function);
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

@@ -5,7 +5,7 @@
 **dblclick()** 是 jQuery 中的一个内置方法，用于**触发双击事件**发生。当双击选定的元素时，会出现此方法。
 **语法:**
 
-```
+```html
 $(selector).dblclick(args);
 
 ```
@@ -19,7 +19,7 @@ $(selector).dblclick(args);
 **Code #1:**
 In the below code, no function is passed to this method.
 
-```
+```html
 <html>
 
 <head>
@@ -61,7 +61,7 @@ In the below code, no function is passed to this method.
 **代码#2:**
 在下面的代码中，函数被传递给 dblclick()方法。
 
-```
+```html
 <html>
 
 <head>

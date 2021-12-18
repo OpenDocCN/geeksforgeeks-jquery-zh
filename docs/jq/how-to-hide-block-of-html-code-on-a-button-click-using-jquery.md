@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).hide()
 ```
 
@@ -16,7 +16,7 @@ $(selector).hide()
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 
 <head>
@@ -53,7 +53,7 @@ $(selector).hide()
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 
 <head>

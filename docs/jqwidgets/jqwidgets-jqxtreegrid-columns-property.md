@@ -20,7 +20,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxTreeGrid").jqxTreeGrid({
     columns: [{
         text: 'Employee_Name',
@@ -52,7 +52,7 @@ $("#jqxTreeGrid").jqxTreeGrid({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

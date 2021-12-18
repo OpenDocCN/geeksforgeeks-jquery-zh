@@ -11,7 +11,7 @@ jQuery 框架提供了 **alertify.js** 插件，该插件提供了预先设计�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -176,7 +176,7 @@ jQuery 框架提供了 **alertify.js** 插件，该插件提供了预先设计�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -287,7 +287,7 @@ jQuery 框架提供了 **alertify.js** 插件，该插件提供了预先设计�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

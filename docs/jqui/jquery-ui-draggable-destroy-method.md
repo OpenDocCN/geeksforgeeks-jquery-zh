@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $( ".selector" ).draggable( "destroy" );
 ```
 
@@ -22,7 +22,7 @@ $( ".selector" ).draggable( "destroy" );
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>

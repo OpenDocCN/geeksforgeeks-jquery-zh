@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 $('#treeGrid').on('rowUnselect',  function (event)
 {
   // Arguments of the event
@@ -35,7 +35,7 @@ $('#treeGrid').on('rowUnselect',  function (event)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

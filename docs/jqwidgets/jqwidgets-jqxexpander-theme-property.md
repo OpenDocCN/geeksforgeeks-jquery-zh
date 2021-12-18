@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxExpander({ theme: String });
 ```
 
@@ -23,7 +23,7 @@ $('selector').jqxExpander({ theme: String });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   **设置 *minValueToDisplay* 属性:**
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ minValueToDisplay: 1 });
     ```
 
 *   **要获取 *minValueToDisplay* 属性:**
 
-    ```
+    ```html
     var value = $('#jqxTagCloud')
         .jqxTagCloud({ 'minValueToDisplay' });
     ```
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

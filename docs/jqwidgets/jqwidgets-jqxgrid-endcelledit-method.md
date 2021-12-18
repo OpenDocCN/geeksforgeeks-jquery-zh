@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 var editable = $("#Selector").jqxGrid('endcelledit',
         rowBoundIndex, "dataField", confirmChanges);
 ```
@@ -29,7 +29,7 @@ var editable = $("#Selector").jqxGrid('endcelledit',
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

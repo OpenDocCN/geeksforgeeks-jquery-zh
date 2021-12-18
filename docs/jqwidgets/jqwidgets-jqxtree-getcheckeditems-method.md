@@ -19,7 +19,7 @@ getCheckedItems()方法用于以数组的形式获取 jqxTree 小部件的所有
 
 **语法:**
 
-```
+```html
 var item = $('Selector').jqxTree('getCheckedItems');
 ```
 
@@ -36,7 +36,7 @@ var item = $('Selector').jqxTree('getCheckedItems');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -7,13 +7,13 @@
 **方法 1:使用[道具方法](https://www.geeksforgeeks.org/jquery-prop-with-examples/) :** 使用道具方法可以访问输入并设置其属性。此方法操作“checked”属性，并根据我们是要选中还是取消选中它，将其设置为 true 或 false。
 **语法:**
 
-```
+```html
 $("element").prop("checked", true)
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 
 <head>
@@ -92,13 +92,13 @@ $("element").prop("checked", true)
 **注意:**设置属性为‘真’时需要增加点击方式，确保选项组中的选项得到更新。
 **语法:**
 
-```
+```html
 $("element").attr("checked", true)
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 
 <head>

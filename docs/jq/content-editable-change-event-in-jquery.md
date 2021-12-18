@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).change(function callback);
 
 ```
@@ -22,7 +22,7 @@ $(selector).change(function callback);
 
 **属性:**
 
-```
+```html
 contenteditable="true"
 
 ```
@@ -30,7 +30,7 @@ contenteditable="true"
 **示例 1:**
 我们来看一个示例程序，检查元素是可编辑的还是具有属性*“content editable”*，该属性使用 jQuery change 事件设置为 true 或 false。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -111,7 +111,7 @@ contenteditable="true"
 **示例 2:**
 我们来看一个示例程序，通过使用 jQuery change 事件选择下拉选项，使元素可编辑或不可编辑。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

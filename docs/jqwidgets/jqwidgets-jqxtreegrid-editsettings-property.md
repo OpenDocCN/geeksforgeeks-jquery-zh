@@ -19,7 +19,7 @@
 
 **设置 ***编辑设置*** 属性:**
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({ 
     editSettings:{ editOnDoubleClick: true } 
 });
@@ -27,7 +27,7 @@ $('#treeGrid').jqxTreeGrid({
 
 **返回 ***编辑设置*** 属性:**
 
-```
+```html
 var editSettings = $('#treeGrid').jqxTreeGrid('editSettings');
 ```
 
@@ -41,7 +41,7 @@ var editSettings = $('#treeGrid').jqxTreeGrid('editSettings');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

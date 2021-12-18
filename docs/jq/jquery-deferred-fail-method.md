@@ -6,7 +6,7 @@ jQuery 中的**delivered . fail()**方法用于添加当 delivered 对象被拒�
 
 **语法:**
 
-```
+```html
 deferred.fail(failedCallbacks, failedCallbacks )
 ```
 
@@ -21,7 +21,7 @@ deferred.fail(failedCallbacks, failedCallbacks )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -74,7 +74,7 @@ deferred.fail(failedCallbacks, failedCallbacks )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

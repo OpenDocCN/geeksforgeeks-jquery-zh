@@ -5,7 +5,7 @@
 **悬停()**是 jQuery 中的一个内置方法，用于指定当鼠标指针移动到所选元素上时启动的两个功能。
 **语法:**
 
-```
+```html
 $(selector).hover(Function_in, Function_out);
 
 ```
@@ -22,7 +22,7 @@ $(selector).hover(Function_in, Function_out);
 
 **代码#1:**
 
-```
+```html
 <html>
 
 <head>

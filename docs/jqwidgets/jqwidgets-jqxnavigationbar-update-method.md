@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxNavigationBar(
     'update', Item_Index, New_Header, New_Content);
 ```
@@ -32,7 +32,7 @@ $('Selector').jqxNavigationBar(
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

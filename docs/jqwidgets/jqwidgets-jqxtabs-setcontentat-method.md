@@ -10,7 +10,7 @@ setContentAt()方法用于设置选项卡的内容。它接受两个参数，第
 
 **语法:**
 
-```
+```html
 $('Selector').jqxTabs('setContentAt', index, "Content");
 ```
 
@@ -27,7 +27,7 @@ $('Selector').jqxTabs('setContentAt', index, "Content");
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxNavigationBar(
     'setHeaderContentAt', Item_Index, Item);
 ```
@@ -31,7 +31,7 @@ $('Selector').jqxNavigationBar(
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

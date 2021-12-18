@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(":reset")
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

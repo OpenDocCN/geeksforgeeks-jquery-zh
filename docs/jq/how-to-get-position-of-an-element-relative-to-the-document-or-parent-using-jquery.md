@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).offset()
 ```
 
@@ -14,7 +14,7 @@ $(selector).offset()
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -80,7 +80,7 @@ $(selector).offset()
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 *   It is used to set the showBorderLine property.
 
-    ```
+    ```html
     $('Selector').jqxChart({ showBorderLine : boolean});
     ```
 
 *   它用于返回 show 边界线属性。
 
-    ```
+    ```html
     var showBorderLine =
         $('Selector').jqxChart('showBorderLine');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

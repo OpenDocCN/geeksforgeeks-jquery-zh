@@ -10,13 +10,13 @@
 
 *   设置**显示过滤器**属性。
 
-    ```
+    ```html
     $('selector').jqxListMenu({ showFilter: Boolean });
     ```
 
 *   返回**显示过滤器**属性。
 
-    ```
+    ```html
     var showFilter = $('selector').jqxListMenu('showFilter');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

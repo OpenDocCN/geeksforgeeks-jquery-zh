@@ -12,7 +12,7 @@
 
 **示例:**本示例使用 contents()和 replaceWith()方法移除父元素，但其子元素除外。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
 
@@ -81,7 +81,7 @@
 **方法 2:** 该方法使用 unwrap()方法从所选元素中移除父元素。
 T3】例:
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

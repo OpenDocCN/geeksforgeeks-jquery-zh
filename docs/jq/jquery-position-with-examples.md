@@ -6,7 +6,7 @@ position()方法是 jQuery 中的一个内置方法，用于查找 DOM 树中第
 
 **语法:**
 
-```
+```html
 $(selector).position()
 ```
 
@@ -17,7 +17,7 @@ $(selector).position()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

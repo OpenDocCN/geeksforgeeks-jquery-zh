@@ -8,7 +8,7 @@ getSelectedIndex()方法用于返回所选项目的索引。如果没有选择�
 
 **语法:**
 
-```
+```html
 var index = $('selector').jqxComboBox('getSelectedIndex');
 ```
 
@@ -28,7 +28,7 @@ var index = $('selector').jqxComboBox('getSelectedIndex');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

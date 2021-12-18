@@ -6,7 +6,7 @@ jQuery 中的 **ajaxSetup()方法**用于设置未来 AJAX 请求的默认值。
 
 **语法:**
 
-```
+```html
 $.ajaxSetup( {name:value, name:value, ... } )
 ```
 
@@ -44,7 +44,7 @@ $.ajaxSetup( {name:value, name:value, ... } )
 
 **gfg.html**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -96,7 +96,7 @@ $.ajaxSetup( {name:value, name:value, ... } )
 
 **示例 2:** 此示例说明了 ajaxSetup()方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

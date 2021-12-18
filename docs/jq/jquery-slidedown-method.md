@@ -9,7 +9,7 @@ jQuery 中的 **slideDown()方法**用于检查所选元素的可见性或显示
 
 **语法:**
 
-```
+```html
 $(selector).slideDown( speed, easing, callback )
 ```
 
@@ -28,7 +28,7 @@ $(selector).slideDown( speed, easing, callback )
 
 **示例:**本示例使用 slideDown()方法显示隐藏元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

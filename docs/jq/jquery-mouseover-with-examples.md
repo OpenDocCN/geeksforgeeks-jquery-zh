@@ -6,7 +6,7 @@ mouseover()方法是 jQuery 中的一个内置方法，当鼠标指针在选定�
 
 **语法:**
 
-```
+```html
 $(selector).mouseover(function)
 ```
 
@@ -18,7 +18,7 @@ $(selector).mouseover(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

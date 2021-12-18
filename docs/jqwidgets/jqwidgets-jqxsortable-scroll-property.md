@@ -10,13 +10,13 @@
 
 *   用于设置*滚动*属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ scroll : boolean});
     ```
 
 *   用于返回*滚动*属性。
 
-    ```
+    ```html
     var scroll = $('Selector').jqxSortable('scroll')
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置*开始角度*属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ startAngle: angle });  
     ```
 
 *   返回*开始角度*属性。
 
-    ```
+    ```html
     var startAngle = $('Selector').jqxGauge('startAngle');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

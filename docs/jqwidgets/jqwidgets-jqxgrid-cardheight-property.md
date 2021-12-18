@@ -10,13 +10,13 @@
 
 设置*卡片高度*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ cardheight: 200});
 ```
 
 返回*卡片高度*属性:
 
-```
+```html
 var cardheight = $('#Selector').jqxGrid('cardheight');
 ```
 
@@ -31,7 +31,7 @@ var cardheight = $('#Selector').jqxGrid('cardheight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

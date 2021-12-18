@@ -12,13 +12,13 @@
 
 *   设置*page buttonscount*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ pagerbuttonscount: 6});
     ```
 
 *   返回*page buttonscount*属性。
 
-    ```
+    ```html
     var pagerbuttonscount = $('#Selector')
         .jqxGrid('pagerbuttonscount');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

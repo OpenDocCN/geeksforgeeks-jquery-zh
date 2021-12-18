@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxWindow').jqxWindow({
     initContent: function() {
 
@@ -29,7 +29,7 @@ $('#jqxWindow').jqxWindow({
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

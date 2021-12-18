@@ -10,13 +10,13 @@
 
 *   设置*自动高度*属性。
 
-```
+```html
 $("#jqxListBox").jqxListBox({autoHeight:true});  
 ```
 
 *   获取*自动高度*属性。
 
-```
+```html
 var autoHeight = $('#jqxListBox').jqxListBox('autoHeight');  
 ```
 
@@ -31,7 +31,7 @@ var autoHeight = $('#jqxListBox').jqxListBox('autoHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

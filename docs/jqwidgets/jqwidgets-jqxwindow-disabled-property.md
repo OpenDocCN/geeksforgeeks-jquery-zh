@@ -10,13 +10,13 @@
 
 *   设置*禁用*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ disabled:true });  
 ```
 
 *   获取*禁用的*属性。
 
-```
+```html
 var disabled = $('#jqxWindow').jqxWindow('disabled');
 ```
 
@@ -31,7 +31,7 @@ var disabled = $('#jqxWindow').jqxWindow('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

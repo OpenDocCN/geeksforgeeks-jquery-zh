@@ -19,7 +19,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('insertAt', item, index);
 ```
 
@@ -34,7 +34,7 @@ $("Selector").jqxDropDownList('insertAt', item, index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

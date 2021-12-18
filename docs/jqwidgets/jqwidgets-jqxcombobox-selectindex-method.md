@@ -8,7 +8,7 @@ selectIndex()方法用于使用索引号选择项目。组合框使用从零开�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('selectIndex', index);
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('selectIndex', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

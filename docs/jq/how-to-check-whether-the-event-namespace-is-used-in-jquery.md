@@ -10,7 +10,7 @@ jQuery 是轻量级的，它有很多特性，比如 HTML/DOM 操作、CSS 操�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

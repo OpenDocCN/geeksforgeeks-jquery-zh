@@ -10,13 +10,13 @@
 
 *   它用于设置 columnsautoresize 属性。
 
-    ```
+    ```html
     $('Selector').jqxGrid({ columnsautoresize: false});
     ```
 
 *   它用于返回 columnsautoresize 属性。
 
-    ```
+    ```html
     var columnsautoresize = 
         $('Selector').jqxGrid('columnsautoresize');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

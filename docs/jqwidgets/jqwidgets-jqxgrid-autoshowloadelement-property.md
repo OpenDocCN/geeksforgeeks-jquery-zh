@@ -10,13 +10,13 @@
 
 *   它用于设置 autoshowloadelement 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ autoshowloadelement: false});  
     ```
 
 *   它用于返回 autoshowloadelement 属性。
 
-    ```
+    ```html
     var autoshowloadelement = 
         $('#Selector').jqxGrid('autoshowloadelement');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

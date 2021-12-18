@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(element).is(":visible");
 ```
 
 **示例 1:** 本示例使用:可见选择器使用 jQuery 检查元素是否可见。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -79,7 +79,7 @@ $(element).is(":visible");
 
 **示例 2:** 本示例使用:可见选择器使用 jQuery 检查元素是否可见。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

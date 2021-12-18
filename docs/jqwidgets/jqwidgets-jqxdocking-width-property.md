@@ -10,13 +10,13 @@
 
 *   用于设置 ***宽度*** 属性:
 
-```
+```html
 $('#jqxDocking').jqxDocking({width: 250});
 ```
 
 *   获取 ***宽度*** 属性:
 
-```
+```html
 var width = $('#jqxDocking').jqxDocking('width');
 ```
 
@@ -31,7 +31,7 @@ var width = $('#jqxDocking').jqxDocking('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

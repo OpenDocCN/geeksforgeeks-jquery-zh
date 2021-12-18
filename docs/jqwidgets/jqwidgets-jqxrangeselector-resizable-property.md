@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置可调整大小的属性。
 
-```
+```html
 $('selector').jqxRangeSelector({ resizable: Boolean });
 ```
 
 返回可调整大小的属性。
 
-```
+```html
 var resizable = $('selector').jqxRangeSelector('resizable');
 ```
 
@@ -33,7 +33,7 @@ var resizable = $('selector').jqxRangeSelector('resizable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置 **selectedrowindex** 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ selectedrowindex: 2});
     ```
 
 *   返回 **selectedrowindex** 属性。
 
-    ```
+    ```html
     var selectedrowindex =
         $('#Selector').jqxGrid('selectedrowindex');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

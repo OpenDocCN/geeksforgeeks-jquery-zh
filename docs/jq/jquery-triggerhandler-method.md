@@ -6,7 +6,7 @@ jQuery 中的 **triggerHandler()方法**用于触发所选元素的指定事件�
 
 **语法:**
 
-```
+```html
 $(selector).triggerHandler(event, param1, param2, ...)
 ```
 
@@ -17,7 +17,7 @@ $(selector).triggerHandler(event, param1, param2, ...)
 
 **示例 1:** 该示例触发了输入选择元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -66,7 +66,7 @@ $(selector).triggerHandler(event, param1, param2, ...)
 
 **示例 2:** 本示例触发段落事件并显示提醒消息。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

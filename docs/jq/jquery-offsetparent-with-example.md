@@ -5,7 +5,7 @@
 offsetParent()方法是 jQuery 中的一个内置方法，用于查找 DOM 树中第一个定位的父元素。
 **语法:**
 
-```
+```html
 $(selector).offsetParent()
 ```
 
@@ -16,7 +16,7 @@ $(selector).offsetParent()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

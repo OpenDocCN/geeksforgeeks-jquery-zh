@@ -6,20 +6,20 @@
 
 **语法:**
 
-```
+```html
 var len=$("#parentID").length;
 
 ```
 
 或者
 
-```
+```html
 var count = $("#parentId").children().length;
 ```
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -63,7 +63,7 @@ integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" 
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

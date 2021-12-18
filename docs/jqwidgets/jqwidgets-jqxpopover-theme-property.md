@@ -10,13 +10,13 @@
 
 *   用于设置*主题*属性。
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({theme: 'energyblue'});
     ```
 
 *   获取*主题*属性。
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover').jqxPopover('theme');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

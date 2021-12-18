@@ -10,13 +10,13 @@
 
 设置 selectionTracker 属性。
 
-```
+```html
 $('selector').jqxTabs({ selectionTracker: Boolean });
 ```
 
 返回 selectionTracker 属性。
 
-```
+```html
 var selectionTracker = $('selector').jqxTabs('selectionTracker');
 ```
 
@@ -33,7 +33,7 @@ var selectionTracker = $('selector').jqxTabs('selectionTracker');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

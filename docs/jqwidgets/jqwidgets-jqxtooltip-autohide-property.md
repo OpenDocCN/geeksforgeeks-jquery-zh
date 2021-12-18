@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置自动隐藏属性。
 
-```
+```html
 $('Selector').jqxTooltip({ autoHide: false });
 ```
 
 返回自动隐藏属性。
 
-```
+```html
 var autoHide = $('Selector').jqxTooltip('autoHide');
 ```
 
@@ -34,7 +34,7 @@ var autoHide = $('Selector').jqxTooltip('autoHide');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

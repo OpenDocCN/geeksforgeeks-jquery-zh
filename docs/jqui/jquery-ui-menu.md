@@ -6,7 +6,7 @@ jQuery UI 中的菜单小部件创建一个菜单，该菜单包含子菜单中�
 
 **语法:**
 
-```
+```html
 $(selector, context).menu(options)
 ```
 
@@ -14,7 +14,7 @@ $(selector, context).menu(options)
 
 如果要提供的选项不止一个，您可以用逗号将它们分开，如下所示
 
-```
+```html
 $(selector, context).menu ("action", params)
 ```
 
@@ -24,7 +24,7 @@ $(selector, context).menu ("action", params)
 
     **例 1:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -117,7 +117,7 @@ $(selector, context).menu ("action", params)
 
     **例 2:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -213,7 +213,7 @@ $(selector, context).menu ("action", params)
 
     **例 3:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -310,7 +310,7 @@ $(selector, context).menu ("action", params)
 
     **例 4:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -402,7 +402,7 @@ $(selector, context).menu ("action", params)
 *   **Position in Menu:** We can set the position of the sub-menu relative to main menu by setting the position value.
     Here we have used this position value to set the position of sub-menu list.
 
-    ```
+    ```html
     position: { my: "left bottom", at: "right top" }
     ```
 
@@ -413,7 +413,7 @@ $(selector, context).menu ("action", params)
 
     ***例 5:***
 
-    ```
+    ```html
     *<!DOCTYPE html>
     <html>
 
@@ -511,7 +511,7 @@ $(selector, context).menu ("action", params)
 
     **例 6:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -611,7 +611,7 @@ $(selector, context).menu ("action", params)
 
     **例 7:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

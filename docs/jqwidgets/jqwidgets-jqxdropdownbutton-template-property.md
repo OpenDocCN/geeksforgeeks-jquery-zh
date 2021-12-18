@@ -19,13 +19,13 @@
 
 *   它用于设置模板属性。
 
-```
+```html
 $("Selector").jqxDropDownButton({ template: 'primary'});
 ```
 
 *   它用于获取模板属性。
 
-```
+```html
 var template = $('Selector').jqxDropDownButton('template');
 ```
 
@@ -40,7 +40,7 @@ var template = $('Selector').jqxDropDownButton('template');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

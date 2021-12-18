@@ -10,13 +10,13 @@
 
 设置*最小长度*属性。
 
-```
+```html
 $('selector').jqxInput({ minLength: Number });
 ```
 
 返回*最小长度*属性。
 
-```
+```html
 var minLength = $('selector').jqxInput('minLength');
 ```
 
@@ -31,7 +31,7 @@ var minLength = $('selector').jqxInput('minLength');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

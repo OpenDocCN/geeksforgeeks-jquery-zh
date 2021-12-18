@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 location.reload(true)
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -66,13 +66,13 @@ location.reload(true)
 
 **语法:**
 
-```
+```html
 history.go(0);
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -126,13 +126,13 @@ history.go(0);
 
 **语法:**
 
-```
+```html
 location.replace(location.pathname);
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

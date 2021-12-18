@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```html
 selectedElement = $("elementRequired").contents();
 
 textNodes = selectedElement.filter(function () {
@@ -22,7 +22,7 @@ textNodes = selectedElement.filter(function () {
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

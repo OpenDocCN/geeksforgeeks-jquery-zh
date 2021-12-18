@@ -9,7 +9,7 @@ queue()方法是 jQuery 中的一个内置方法，用于显示要在所选元�
 
 **语法:**
 
-```
+```html
 $(selector).queue(queue_name)
 ```
 
@@ -19,7 +19,7 @@ $(selector).queue(queue_name)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

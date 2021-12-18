@@ -10,13 +10,13 @@
 
 要设置*禁用的*属性:
 
-```
+```html
 $('#jqxListBox').jqxListBox({ disabled: true });  
 ```
 
 要禁用*属性:*
 
-```
+```html
 *var disabled = $('#jqxListBox').jqxListBox('disabled');*
 ```
 
@@ -30,7 +30,7 @@ $('#jqxListBox').jqxListBox({ disabled: true });
 
 ## *超文本标记语言*
 
-```
+```html
 *<!DOCTYPE html>
 <html lang="en">
     <head>

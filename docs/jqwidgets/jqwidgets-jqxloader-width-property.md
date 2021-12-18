@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 width 属性。
 
-```
+```html
 $('selector').jqxLoader({ width: Number/String });
 ```
 
 返回 width 属性。
 
-```
+```html
 var width = $('selector').jqxLoader('width');
 ```
 
@@ -33,7 +33,7 @@ var width = $('selector').jqxLoader('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

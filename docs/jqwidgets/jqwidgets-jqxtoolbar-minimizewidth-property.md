@@ -10,13 +10,13 @@
 
 设置*最小化宽度*属性。
 
-```
+```html
 $('#Selector').jqxToolBar({ minimizeWidth: 300 });
 ```
 
 返回*最小化宽度*属性。
 
-```
+```html
 var minimizeWidth = $('#Selector').jqxToolBar('minimizeWidth');
 ```
 
@@ -31,7 +31,7 @@ var minimizeWidth = $('#Selector').jqxToolBar('minimizeWidth');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

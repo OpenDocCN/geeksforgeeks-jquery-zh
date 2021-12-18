@@ -10,13 +10,13 @@
 
 要设置*过滤延迟*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({filterDelay:300}); 
 ```
 
 要获取*过滤器延迟*属性:
 
-```
+```html
 var filterDelay = $('#jqxListBox').jqxListBox('filterDelay'); 
 ```
 
@@ -31,7 +31,7 @@ var filterDelay = $('#jqxListBox').jqxListBox('filterDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

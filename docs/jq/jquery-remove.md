@@ -5,7 +5,7 @@
 **JQuery** 中的 **remove()** 方法用于移除包括所有文本在内的所有选定元素。此方法还会移除选定元素的数据和所有事件。
 **语法:**
 
-```
+```html
 $(selector).remove()
 
 ```
@@ -13,14 +13,14 @@ $(selector).remove()
 **返回值:**将返回所选删除元素的所有数据。
 T3】例 1:
 
-```
+```html
 Input: $("p").remove()
 Output: Output will be all the elements of the paragraph get deleted.
 ```
 
 **代码 1:**
 
-```
+```html
 <html>
 
 <head>
@@ -55,7 +55,7 @@ Output: Output will be all the elements of the paragraph get deleted.
 我们还可以借助**JQuery****remove()**方法使用其类名查找并移除元素。
 **语法:**
 
-```
+```html
 $(".class_name").remove()
 
 ```
@@ -63,14 +63,14 @@ $(".class_name").remove()
 **返回值:**将返回页面上删除的所有部分，带有类名。
 T3】例 2:
 
-```
+```html
 Input: $(".geek").remove()
 Output: Here "gfg!!!" get deleted. 
 ```
 
 **代码#2:**
 
-```
+```html
 <html>
 
 <head>

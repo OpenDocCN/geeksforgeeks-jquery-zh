@@ -6,7 +6,7 @@
 
 *记号*属性用于设置或返回 bulletcharts 的记号。它接受对象类型值，默认值为
 
-```
+```html
  { 
  position: "far", 
  interval: 20,
@@ -21,7 +21,7 @@
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBulletChart({
    ticks: object
 });
@@ -38,7 +38,7 @@ $('.selector').jqxBulletChart({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

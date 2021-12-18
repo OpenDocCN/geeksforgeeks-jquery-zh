@@ -10,13 +10,13 @@
 
 *   设置*取消模板*属性:
 
-    ```
+    ```html
     $('Selector').jqxFileUpload({ cancelTemplate : string });
     ```
 
 *   返回*取消模板*属性:
 
-    ```
+    ```html
     var cancelTemplate = 
         $('Selector').jqxFileUpload('cancelTemplate');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

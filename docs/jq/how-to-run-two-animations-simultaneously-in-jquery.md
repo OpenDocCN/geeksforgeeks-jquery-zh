@@ -11,7 +11,7 @@
 
 下面的代码演示了链接动画的样子:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -59,7 +59,7 @@
 
 在上面的例子中，我们已经将三个动画链接到了 HTML 按钮元素。动画在点击时触发。以下代码集也会发生同样的情况:
 
-```
+```html
 $(document).ready( ()=>{
 
     // Event listener to listen for click
@@ -80,7 +80,7 @@ $(document).ready( ()=>{
 
 **方法 1:在选项**中使用“QUEUE”属性
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -137,7 +137,7 @@ $(document).ready( ()=>{
 
 **方法 2:** 在一个对象中传递所有 css 属性
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

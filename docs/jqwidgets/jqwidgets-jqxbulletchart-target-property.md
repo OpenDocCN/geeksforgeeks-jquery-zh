@@ -6,7 +6,7 @@
 
 *目标*属性用于设置或返回 bulletcharts 的目标。它接受对象类型值，默认值为
 
-```
+```html
 { 
  value: 85, 
  label: "Target",
@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBulletChart({
    target: object
 });

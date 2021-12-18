@@ -13,15 +13,15 @@ jQuery 是一个 Javascript 库。jQuery 中一个不引人注目的验证是一
 
 **通过包管理器安装:**
 
-*   ```
+*   ```html
     Bower: bower install jquery-validation
     ```
 
-*   ```
+*   ```html
     NuGet: Install-Package jQuery.Validation
     ```
 
-*   ```
+*   ```html
     NPM  : npm i jquery-validation 
     ```
 
@@ -46,7 +46,7 @@ jQuery 是一个 Javascript 库。jQuery 中一个不引人注目的验证是一
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

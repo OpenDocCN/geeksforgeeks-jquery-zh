@@ -14,7 +14,7 @@
 
 **示例 1:** 以下示例演示了插件的 jQuery **datetimepicker()** 方法的实例化。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en" 
       xmlns="http://www.w3.org/1999/xhtml">
@@ -96,7 +96,7 @@
 
 **在 jQuery UI Datepicker 中添加 time picker:**在上面的 HTML 代码中，我们可以为“timeFormat”、“timezonelist”和本地化添加以下设置。根据需要，程序员可以使用更多的选项。
 
-```
+```html
 <script>
 $(function(){
 
@@ -124,7 +124,7 @@ $(function(){
 
 > <脚本 src = " jquery-ui-slideraccess . js "></脚本>
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en" 
       xmlns="http://www.w3.org/1999/xhtml">
@@ -222,7 +222,7 @@ $(function(){
 
 **示例 3:** 以下示例演示了为**日期时间选择器()**添加下拉选择器。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en" 
       xmlns="http://www.w3.org/1999/xhtml">

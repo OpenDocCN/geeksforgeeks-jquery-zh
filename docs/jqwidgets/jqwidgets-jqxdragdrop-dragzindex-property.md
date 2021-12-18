@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   设置*拖动索引*属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ dragZIndex: Number });
     ```
 
 *   返回 *dragZIndex* 属性。
 
-    ```
+    ```html
     var dragZIndex = $('selector').jqxDragDrop('dragZIndex');
     ```
 
@@ -31,7 +31,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

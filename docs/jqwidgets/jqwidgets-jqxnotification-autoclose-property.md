@@ -12,13 +12,13 @@
 
 *   设置*自动关闭*属性。
 
-    ```
+    ```html
     $('Selector').jqxNotification({ autoClose : boolean });
     ```
 
 *   归还*自动丢失*财产。
 
-    ```
+    ```html
     var autoClose = $('Selector').jqxNotification('autoClose');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

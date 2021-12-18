@@ -10,13 +10,13 @@
 
 设置 ***增量搜索*** 属性:
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({incrementalSearch: true});
 ```
 
 获取 ***增量搜索*** 属性:
 
-```
+```html
 var incrementalSearch = 
     $('#treeGrid').jqxTreeGrid('incrementalSearch');
 ```
@@ -32,7 +32,7 @@ var incrementalSearch =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

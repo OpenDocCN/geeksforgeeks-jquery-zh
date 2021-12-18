@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#treeGrid").jqxTreeGrid('updateBoundData');
 ```
 
@@ -27,7 +27,7 @@ $("#treeGrid").jqxTreeGrid('updateBoundData');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

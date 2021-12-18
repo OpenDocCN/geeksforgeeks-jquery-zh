@@ -10,13 +10,13 @@
 
 *   设置*选择索引*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ selectedIndex: Number });
 ```
 
 *   返回*选择索引*属性。
 
-```
+```html
 var selectedIndex = $('selector').jqxDropDownList('selectedIndex');
 ```
 
@@ -31,7 +31,7 @@ var selectedIndex = $('selector').jqxDropDownList('selectedIndex');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   用于设置 ***提示类型*** 属性。
 
-    ```
+    ```html
     $('#jqxValidator').jqxValidator({hintType : 'label'});  
     ```
 
 *   获取 ***欣特类型*** 属性。
 
-    ```
+    ```html
     var hintType = $('#jqxValidator').jqxValidator('hintType'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

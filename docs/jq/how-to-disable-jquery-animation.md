@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 jQuery.fx.off = true|false;
 ```
 
@@ -23,7 +23,7 @@ jQuery.fx.off = true|false;
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

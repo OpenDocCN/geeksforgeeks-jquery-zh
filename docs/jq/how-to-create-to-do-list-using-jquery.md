@@ -22,7 +22,7 @@
 
     <u>下面是代码，以及上面的解释:</u>
 
-    ```
+    ```html
     <!-- Initialize the layout -->
     <!DOCTYPE html>
     <html lang="en">
@@ -109,7 +109,7 @@
 
     **下面是代码，以及上面的解释:**
 
-    ```
+    ```html
     <!-- Adding tasks in the list  -->
     <!DOCTYPE html>
     <html lang="en">
@@ -212,7 +212,7 @@
 
 **最终解决方案:**
 
-```
+```html
 <!-- To-Do List implemented using jQuery -->
 <!DOCTYPE html>
 <html lang="en">

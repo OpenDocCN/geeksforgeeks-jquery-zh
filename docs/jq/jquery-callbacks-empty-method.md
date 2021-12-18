@@ -6,7 +6,7 @@ jQuery 中的**回调. empty()方法**用于从列表中移除所有回调。它
 
 **语法:**
 
-```
+```html
 callbacks.empty()
 ```
 
@@ -20,7 +20,7 @@ callbacks.empty()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -102,7 +102,7 @@ callbacks.empty()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

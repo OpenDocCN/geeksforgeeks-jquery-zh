@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).position( options )
 ```
 
@@ -30,7 +30,7 @@ $(selector).position( options )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -115,7 +115,7 @@ $(selector).position( options )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

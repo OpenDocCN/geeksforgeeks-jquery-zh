@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```html
 $('#Tag_Cloud').on('itemClick', function(event)
    {
        var args = event.args;
@@ -35,7 +35,7 @@ $('#Tag_Cloud').on('itemClick', function(event)
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

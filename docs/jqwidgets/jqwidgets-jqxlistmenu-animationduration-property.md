@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   设置动画持续时间属性。
 
-    ```
+    ```html
     $('selector').jqxListMenu({ animationDuration: Number });
     ```
 
 *   返回动画持续时间属性。
 
-    ```
+    ```html
     var animationDuration = 
         $('selector').jqxListMenu('animationDuration');
     ```
@@ -34,7 +34,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

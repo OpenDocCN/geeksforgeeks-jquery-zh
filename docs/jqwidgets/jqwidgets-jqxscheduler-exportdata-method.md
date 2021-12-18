@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxScheduler('exportData', format);
 ```
 
@@ -27,7 +27,7 @@ $('#Selector').jqxScheduler('exportData', format);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

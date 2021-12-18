@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```html
 // Play the video
 $('#sample_video').trigger('play');
 
@@ -17,7 +17,7 @@ $('#sample_video').trigger('pause');
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -85,7 +85,7 @@ JavaScript 中的 **pause()** 方法用于暂停媒体文件的播放。在 jQue
 
 **语法:**
 
-```
+```html
 // Play the video
 $('#sample_video').get(0).play();
 
@@ -95,7 +95,7 @@ $('#sample_video').get(0).pause();
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

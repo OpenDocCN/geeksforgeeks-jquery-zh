@@ -9,7 +9,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).val(parameter)
 
 ```
@@ -18,7 +18,7 @@ $(selector).val(parameter)
 
 **示例:**
 
-```
+```html
 <html>
 <head>
     <title>jQuery Selector</title>
@@ -70,7 +70,7 @@ $(selector).val(parameter)
 
 **语法:**
 
-```
+```html
  $("#selector option:selected");
 
 ```
@@ -79,7 +79,7 @@ $(selector).val(parameter)
 
 **示例:**
 
-```
+```html
 <html>
 <head>
     <title>jQuery Selector</title>

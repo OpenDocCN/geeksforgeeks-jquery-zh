@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxTagCloud').jqxTagCloud('removeAt', index);
 ```
 
@@ -28,7 +28,7 @@ $('#jqxTagCloud').jqxTagCloud('removeAt', index);
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

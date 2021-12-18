@@ -6,7 +6,7 @@ jQuery 中的这个 **hasData()方法**用于判断一个元素是否有任何 J
 
 **语法:**
 
-```
+```html
 jQuery.hasData(element)
 
 ```
@@ -17,7 +17,7 @@ jQuery.hasData(element)
 
 *   **示例:**没有与< div >关联的数据，因此该方法返回 false。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 
@@ -59,7 +59,7 @@ jQuery.hasData(element)
 
 *   **示例:**有一个事件与< div >相关联，因此该方法返回 true。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 

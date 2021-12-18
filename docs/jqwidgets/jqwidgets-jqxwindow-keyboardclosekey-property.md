@@ -10,13 +10,13 @@
 
 设置键盘关闭键属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ keyboardCloseKey: 32 });  
 ```
 
 获取键盘关闭键属性。
 
-```
+```html
 var keyboardCloseKey = $('#jqxWindow').jqxWindow('keyboardCloseKey'); 
 ```
 
@@ -31,7 +31,7 @@ var keyboardCloseKey = $('#jqxWindow').jqxWindow('keyboardCloseKey');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

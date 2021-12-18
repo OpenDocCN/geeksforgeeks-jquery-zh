@@ -10,13 +10,13 @@
 
 设置*卡片视图*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ cardview : false});
 ```
 
 返回*卡片视图*属性:
 
-```
+```html
 var cardview = $('#Selector').jqxGrid('cardview');
 ```
 
@@ -31,7 +31,7 @@ var cardview = $('#Selector').jqxGrid('cardview');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

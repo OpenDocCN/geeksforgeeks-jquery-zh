@@ -6,7 +6,7 @@ jQuery 中的这个 **globalEval()** 方法是用来全局执行一些 JavaScrip
 
 **语法:**
 
-```
+```html
 jQuery.globalEval( code [, options ] )
 
 ```
@@ -22,7 +22,7 @@ jQuery.globalEval( code [, options ] )
 
 **示例 1:** 在本例中， **globalEval()方法**在全局上下文中执行脚本。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -56,7 +56,7 @@ jQuery.globalEval( code [, options ] )
 
 **示例 2:** 在此示例中， **globalEval()方法**在启用了内容安全策略的站点上执行带有随机数的脚本。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

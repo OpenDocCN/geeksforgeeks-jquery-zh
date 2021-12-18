@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 dropDownWidth 属性。
 
-```
+```html
 $('selector').jqxFormattedInput({ dropDownWidth: Number/String });
 ```
 
 返回 dropDownWidth 属性。
 
-```
+```html
 var dropDownWidth = $('selector').jqxFormattedInput('dropDownWidth');
 ```
 
@@ -33,7 +33,7 @@ var dropDownWidth = $('selector').jqxFormattedInput('dropDownWidth');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

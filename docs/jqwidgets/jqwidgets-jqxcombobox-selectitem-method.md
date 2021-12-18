@@ -8,7 +8,7 @@ selectItem()方法用于使用项目值选择项目。它接受对象/字符串�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('selectItem', item);
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('selectItem', item);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

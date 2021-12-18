@@ -10,7 +10,7 @@
 
     **语法:**
 
-    ```
+    ```html
     ("parent descendant")
     ```
 
@@ -26,7 +26,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
   <html>
   <head>

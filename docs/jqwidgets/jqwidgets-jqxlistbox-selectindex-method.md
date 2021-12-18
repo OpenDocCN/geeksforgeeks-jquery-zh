@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('selectIndex', Index);
 ```
 
@@ -27,7 +27,7 @@ $("#jqxListBox").jqxListBox('selectIndex', Index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

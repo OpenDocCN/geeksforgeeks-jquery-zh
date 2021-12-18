@@ -10,13 +10,13 @@
 
 设置*禁用*属性。
 
-```
+```html
 $('Selector').jqxSwitchButton({ disabled: true });
 ```
 
 使*禁用*属性。
 
-```
+```html
 var disabled = $('Selector').jqxSwitchButton('disabled');
 ```
 
@@ -33,7 +33,7 @@ var disabled = $('Selector').jqxSwitchButton('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

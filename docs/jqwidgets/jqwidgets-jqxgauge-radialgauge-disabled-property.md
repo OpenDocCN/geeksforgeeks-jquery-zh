@@ -10,13 +10,13 @@
 
 设置禁用属性。
 
-```
+```html
 $('Selector').jqxGauge({ disabled: true});  
 ```
 
 返回禁用的属性。
 
-```
+```html
 var disabled = $('Selector').jqxGauge('disabled');
 ```
 
@@ -33,7 +33,7 @@ var disabled = $('Selector').jqxGauge('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

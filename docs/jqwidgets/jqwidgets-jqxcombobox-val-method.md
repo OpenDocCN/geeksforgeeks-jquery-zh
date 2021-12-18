@@ -8,7 +8,7 @@ val()方法用于设置或返回选定的值。它接受可选的字符串类型
 
 **语法:**
 
-```
+```html
 // Get the value
 var value = $('selector').jqxComboBox('val');   or
 var value = $('selector').val();
@@ -34,7 +34,7 @@ $('selector').val('New Value');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(":button")
 ```
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -62,7 +62,7 @@ $(":button")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

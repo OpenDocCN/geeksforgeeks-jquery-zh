@@ -10,13 +10,13 @@
 
 设置*顶部*属性。
 
-```
+```html
 $('Selector').jqxTooltip({ top: Number/String });
 ```
 
 返回*顶部*属性。
 
-```
+```html
 var top = $('Selector').jqxTooltip('top');
 ```
 
@@ -32,7 +32,7 @@ var top = $('Selector').jqxTooltip('top');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

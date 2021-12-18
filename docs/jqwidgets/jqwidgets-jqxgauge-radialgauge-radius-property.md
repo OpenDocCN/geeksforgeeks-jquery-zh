@@ -10,13 +10,13 @@
 
 *   设置半径属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ radius: number });  
     ```
 
 *   返回半径属性。
 
-    ```
+    ```html
     var radius = $('Selector').jqxGauge('radius');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

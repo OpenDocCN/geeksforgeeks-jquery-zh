@@ -10,13 +10,13 @@
 
 *   设置**启用省略号**属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ enableellipsis: false});
     ```
 
 *   返回 **enableellipsis** 属性。
 
-    ```
+    ```html
     var enableellipsis = $('#Selector').jqxGrid('enableellipsis');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

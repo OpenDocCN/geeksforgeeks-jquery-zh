@@ -17,13 +17,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置抽取旋转属性。
 
-```
+```html
 $('selector').jqxComplexInput({ decimalNotation: String });
 ```
 
 返回十进制旋转属性。
 
-```
+```html
 var decN = $('selector').jqxComplexInput('decimalNotation');
 ```
 
@@ -40,7 +40,7 @@ var decN = $('selector').jqxComplexInput('decimalNotation');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -19,7 +19,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxNavigationBar('focus');
 ```
 
@@ -38,7 +38,7 @@ $('Selector').jqxNavigationBar('focus');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

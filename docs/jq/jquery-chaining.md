@@ -11,7 +11,7 @@ jQuery 是一个非常强大的 JavaScript 框架。使用 jQuery，我们可以
 **使用 JavaScript 和 jQuery 实现链接()为了更好的理解:**
 **代码#1:** 使用[上下滑动方法](https://www.geeksforgeeks.org/jquery-animation-slide-methods-with-examples/)函数进行链接-
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -51,7 +51,7 @@ https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
 
 **代码#2:** 使用 jQuery 中的[动画功能](https://www.geeksforgeeks.org/jquery-animation-slide-methods-with-examples/)进行链接效果-
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 要设置*高度*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({ height: '250px' }); 
 ```
 
 要获得*高度*属性:
 
-```
+```html
 var height = $('#jqxListBox').jqxListBox('height');
 ```
 
@@ -33,7 +33,7 @@ var height = $('#jqxListBox').jqxListBox('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>

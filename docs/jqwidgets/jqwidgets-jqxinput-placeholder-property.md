@@ -10,13 +10,13 @@
 
 设置*占位符*属性。
 
-```
+```html
 $('selector').jqxInput({ placeHolder: String });
 ```
 
 返回*占位符*属性。
 
-```
+```html
 var placeHolder = $('selector').jqxInput('placeHolder');
 ```
 
@@ -31,7 +31,7 @@ var placeHolder = $('selector').jqxInput('placeHolder');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

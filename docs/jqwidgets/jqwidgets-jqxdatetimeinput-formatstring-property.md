@@ -35,13 +35,13 @@ formatString 属性用于设置或返回日期的日期时间输入格式。它�
 
 设置 formatString 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ formatString: String });
 ```
 
 返回 formatString 属性。
 
-```
+```html
 var formatString = $('selector').jqxDateTimeInput('formatString');
 ```
 
@@ -58,7 +58,7 @@ var formatString = $('selector').jqxDateTimeInput('formatString');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置*距离*属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ distance: Number });
     ```
 
 *   返回*距离*属性。
 
-    ```
+    ```html
     var distance = $('selector').jqxDragDrop('distance');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

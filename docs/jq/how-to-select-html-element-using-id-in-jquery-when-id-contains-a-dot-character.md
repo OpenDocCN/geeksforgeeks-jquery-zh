@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $('#ID_PREFIX\\.ID_SUFFIX')
 ```
 
@@ -14,7 +14,7 @@ $('#ID_PREFIX\\.ID_SUFFIX')
 
 **示例 1:** 在本例中，我们将使用 jQuery 更改标题元素的颜色。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -76,7 +76,7 @@ $('#ID_PREFIX\\.ID_SUFFIX')
 
 **示例 2:** 在本例中，我们将选择一个 ID 包含多个点的元素，并更改其背景颜色(也带有标题)。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 *   它用于设置 cursorAt 属性。
 
-    ```
+    ```html
     $('Selector').jqxSortable({ cursorAt : object});
     ```
 
 *   它用于返回 cursorAt 属性。
 
-    ```
+    ```html
     var cursorAt = $('Selector').jqxSortable('cursorAt ');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

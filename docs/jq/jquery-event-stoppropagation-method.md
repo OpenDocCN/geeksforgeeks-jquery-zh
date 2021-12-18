@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 event.stopPropagation()
 ```
 
@@ -16,7 +16,7 @@ event.stopPropagation()
 
 **示例:**此示例说明了 event.stopPropagation()方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

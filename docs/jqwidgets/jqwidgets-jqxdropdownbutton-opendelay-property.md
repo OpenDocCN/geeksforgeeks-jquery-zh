@@ -10,13 +10,13 @@
 
 设置*打开延迟*属性。
 
-```
+```html
 $('Selector').jqxDropDownButton({openDelay: 200});
 ```
 
 要获得 *openDelay* 属性。
 
-```
+```html
 var openDelay = $('Selector').jqxDropDownButton('openDelay');
 ```
 
@@ -31,7 +31,7 @@ var openDelay = $('Selector').jqxDropDownButton('openDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

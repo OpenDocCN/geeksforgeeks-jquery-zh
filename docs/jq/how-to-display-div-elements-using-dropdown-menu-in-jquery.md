@@ -8,14 +8,14 @@
     *   **hide()方法:**这个方法用来隐藏你想要隐藏的 html 的语法或者元素。
         **语法:**
 
-        ```
+        ```html
         $(selector).hide(speed, callback);
         ```
 
     *   **show()方法:**这个方法用来显示你希望用户看到的 html 的语法或者元素。
         **语法:**
 
-        ```
+        ```html
         $(selector).show(speed, callback);
         ```
 
@@ -28,7 +28,7 @@
 
     **例 1:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -122,7 +122,7 @@
 
     **例 2:** 连同报警方法
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -218,7 +218,7 @@
 
     **语法:**
 
-    ```
+    ```html
     $(selector).css(property)
     ```
 
@@ -231,7 +231,7 @@
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

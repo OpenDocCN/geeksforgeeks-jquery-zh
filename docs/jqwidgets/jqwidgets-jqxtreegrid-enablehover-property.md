@@ -10,13 +10,13 @@
 
 *   用于设置 ***启用*** 属性。
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({enableHover: false });  
     ```
 
 *   获取 ***使能*** 属性。
 
-    ```
+    ```html
     var enableHover = $('#treeGrid').jqxTreeGrid('enableHover'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

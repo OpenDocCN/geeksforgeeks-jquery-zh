@@ -10,13 +10,13 @@
 
 设置*可拖动*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ draggable: false});  
 ```
 
 获取*可拖动*属性:
 
-```
+```html
 var draggable = $('#jqxWindow').jqxWindow('draggable'); 
 ```
 
@@ -31,7 +31,7 @@ var draggable = $('#jqxWindow').jqxWindow('draggable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

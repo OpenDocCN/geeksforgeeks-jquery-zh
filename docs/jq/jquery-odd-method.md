@@ -6,7 +6,7 @@ jQuery **odd()** 方法用于从所选元素中选择奇数索引元素。
 
 **语法:**
 
-```
+```html
 $(selector).odd()
 
 ```
@@ -15,7 +15,7 @@ $(selector).odd()
 
 **示例 1:** 本示例选择奇数索引列表元素。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -83,7 +83,7 @@ $(selector).odd()
 
 **示例 2:** 本示例选中了奇数索引复选框。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

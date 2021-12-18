@@ -6,14 +6,14 @@
 
 **语法:**
 
-```
+```html
 $("element_name") 
 
 ```
 
 **示例-1:** 本示例选择“h2”元素并为其添加边框。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -47,7 +47,7 @@ $("element_name")
 
 **示例-2:** 本示例在按钮点击时更改“h2”元素的文本颜色。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

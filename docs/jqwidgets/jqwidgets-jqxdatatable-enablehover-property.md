@@ -10,13 +10,13 @@
 
 要设置*启用悬停*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({enableHover: true });  
 ```
 
 要获取*启用悬停*属性:
 
-```
+```html
 var enableHover = $('#dataTable').jqxDataTable('enableHover');
 ```
 
@@ -31,7 +31,7 @@ var enableHover = $('#dataTable').jqxDataTable('enableHover');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

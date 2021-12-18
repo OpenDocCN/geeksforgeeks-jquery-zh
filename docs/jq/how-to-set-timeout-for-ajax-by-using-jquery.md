@@ -6,11 +6,11 @@
 在响应界面中，程序员需要在响应之前延迟 ajax 请求来完成一些任务。这可以通过使用 jQuery[**setTimeout()**](https://www.geeksforgeeks.org/java-script-settimeout-setinterval-method/)功能来实现。这个函数在给定的时间后执行给定的 Ajax 代码。
 **语法:**
 
-```
+```html
 $.ajax(page_url);
 ```
 
-```
+```html
 $.ajax(page_url,[options]);
 ```
 
@@ -24,7 +24,7 @@ $.ajax(page_url,[options]);
 
 *   **代码片段:**
 
-```
+```html
 $.ajax({
     url: "test.php",
     error: function(){
@@ -45,7 +45,7 @@ $.ajax({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <html lang="en">

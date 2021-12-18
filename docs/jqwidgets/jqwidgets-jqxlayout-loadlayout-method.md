@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxLayout').jqxLayout('loadLayout', layout);
 ```
 
@@ -29,7 +29,7 @@ $('#jqxLayout').jqxLayout('loadLayout', layout);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

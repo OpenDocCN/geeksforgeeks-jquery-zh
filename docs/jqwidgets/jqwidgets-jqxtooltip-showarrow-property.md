@@ -10,13 +10,13 @@
 
 设置*显示箭头*属性。
 
-```
+```html
 $('Selector').jqxTooltip({ showArrow: Boolean });
 ```
 
 返回*显示箭头*属性。
 
-```
+```html
 var showArrow = $('Selector').jqxTooltip('showArrow');
 ```
 
@@ -32,7 +32,7 @@ var showArrow = $('Selector').jqxTooltip('showArrow');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

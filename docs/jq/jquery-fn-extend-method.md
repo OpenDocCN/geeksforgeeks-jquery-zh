@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 jQuery.fn.extend( object )
 
 ```
@@ -21,7 +21,7 @@ jQuery.fn.extend( object )
 
 **示例 1:** 在本例中， **jQuery.fn.extend()方法**用于向 jQuery 原型对象添加两个方法，然后使用其中一个。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -77,7 +77,7 @@ jQuery.fn.extend( object )
 
 **示例 2:** 在本例中， **jQuery.fn.extend()方法**用于将更多的方法合并到 jQuery 原型对象中。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

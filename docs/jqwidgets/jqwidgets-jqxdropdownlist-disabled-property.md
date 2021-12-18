@@ -10,13 +10,13 @@ disabled 属性用于启用/禁用 jqxDropDownList 小部件。它接受布尔�
 
 设置禁用属性。
 
-```
+```html
 $('selector').jqxDropDownList({ disabled: Boolean });
 ```
 
 返回禁用的属性。
 
-```
+```html
 var autoOpen = $('selector').jqxDropDownList('disabled');
 ```
 
@@ -33,7 +33,7 @@ var autoOpen = $('selector').jqxDropDownList('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

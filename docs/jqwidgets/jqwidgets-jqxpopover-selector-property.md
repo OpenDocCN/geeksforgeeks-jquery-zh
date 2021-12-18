@@ -10,7 +10,7 @@
 
 *   设置*选择器*属性:
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({
         selector: $("#button_for_Popover")
     });
@@ -18,7 +18,7 @@
 
 *   获取*选择器*属性:
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover').jqxPopover('selector');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

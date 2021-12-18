@@ -10,7 +10,7 @@ removeAt()方法用于删除特定索引的选项卡。它接受数字类型的�
 
 **语法:**
 
-```
+```html
 $('Selector').jqxTabs('removeAt', index);
 ```
 
@@ -27,7 +27,7 @@ $('Selector').jqxTabs('removeAt', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

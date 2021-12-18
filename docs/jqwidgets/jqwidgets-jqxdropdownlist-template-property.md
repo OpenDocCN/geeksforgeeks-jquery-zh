@@ -19,13 +19,13 @@
 
 *   设置*模板*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ template: String });
 ```
 
 *   返回*模板*属性。
 
-```
+```html
 var template = $('selector').jqxDropDownList('template');
 ```
 
@@ -40,7 +40,7 @@ var template = $('selector').jqxDropDownList('template');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的 **:has()选择器**用于选择所有内部有一个或多个元�
 
 **语法:**
 
-```
+```html
 $(":has(selector)")
 ```
 
@@ -14,7 +14,7 @@ $(":has(selector)")
 
 **示例 1:** 本示例使用:has 选择器选择< h2 >跨度元素来创建实心绿色边框。
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -46,7 +46,7 @@ $(":has(selector)")
 
 **示例 2:** 本示例使用:有选择器选择元素并创建边框。
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

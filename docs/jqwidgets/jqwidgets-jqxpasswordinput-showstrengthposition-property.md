@@ -17,13 +17,13 @@ showStrengthPosition 属性用于设置或返回显示密码强度的工具提�
 
 设置 showStrengthPosition 属性。
 
-```
+```html
 $('selector').jqxPasswordInput({ showStrengthPosition: String });
 ```
 
 返回 showStrengthPosition 属性。
 
-```
+```html
 var SSP = $('selector').jqxPasswordInput('showStrengthPosition ');
 ```
 
@@ -40,7 +40,7 @@ var SSP = $('selector').jqxPasswordInput('showStrengthPosition ');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

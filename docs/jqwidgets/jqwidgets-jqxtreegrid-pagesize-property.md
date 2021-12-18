@@ -10,13 +10,13 @@
 
 *   要设置页面大小属性:
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({ pageSize: 3 });  
     ```
 
 *   获取页面大小属性:
 
-    ```
+    ```html
     var pageSize = $('#treeGrid').jqxTreeGrid('pageSize'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

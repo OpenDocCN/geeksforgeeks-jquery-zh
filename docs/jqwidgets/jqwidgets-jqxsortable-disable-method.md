@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var disable = $('#jqxSortable').jqxSortable('disable');
 ```
 
@@ -23,7 +23,7 @@ var disable = $('#jqxSortable').jqxSortable('disable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

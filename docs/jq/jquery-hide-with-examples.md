@@ -5,7 +5,7 @@
 **hide()** 是 jQuery 中用于隐藏所选元素的内置方法。
 **语法:**
 
-```
+```html
 $(selector).hide(duration, easing, call_function);
 
 ```
@@ -24,7 +24,7 @@ $(selector).hide(duration, easing, call_function);
 **代码#1:**
 在下面的代码中，没有参数用于传递给这个方法。
 
-```
+```html
 <html>
 
 <head>
@@ -76,7 +76,7 @@ $(selector).hide(duration, easing, call_function);
 **代码#2:**
 在下面的代码中，参数被传递给这个方法。
 
-```
+```html
 <html>
 
 <head>

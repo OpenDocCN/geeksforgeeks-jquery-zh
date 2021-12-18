@@ -19,7 +19,7 @@
 
 **语法:**
 
-```
+```html
 var item = $("#jqxListBox").jqxListBox('getItemByValue', Item);  
 ```
 
@@ -34,7 +34,7 @@ var item = $("#jqxListBox").jqxListBox('getItemByValue', Item);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

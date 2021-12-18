@@ -10,13 +10,13 @@
 
 设置可滚动属性。
 
-```
+```html
 $('selector').jqxTabs({ scrollable: Boolean });
 ```
 
 返回可滚动属性。
 
-```
+```html
 var scrollable = $('selector').jqxTabs('scrollable');
 ```
 
@@ -33,7 +33,7 @@ var scrollable = $('selector').jqxTabs('scrollable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

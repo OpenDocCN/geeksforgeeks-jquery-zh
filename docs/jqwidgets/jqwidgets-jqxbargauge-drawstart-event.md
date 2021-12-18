@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('.selector').on("drawStart", function () {
 });
 ```
@@ -24,7 +24,7 @@ $('.selector').on("drawStart", function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxSplitter').jqxSplitter('refresh');
 ```
 
@@ -27,7 +27,7 @@ $('#jqxSplitter').jqxSplitter('refresh');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

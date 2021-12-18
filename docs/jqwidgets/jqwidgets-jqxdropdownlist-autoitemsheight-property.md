@@ -10,13 +10,13 @@
 
 设置*自动点火*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ autoItemsHeight: Boolean });
 ```
 
 返回*自动点火*属性。
 
-```
+```html
 var autoItemsHeight = $('selector').jqxDropDownList('autoItemsHeight');
 ```
 
@@ -31,7 +31,7 @@ var autoItemsHeight = $('selector').jqxDropDownList('autoItemsHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

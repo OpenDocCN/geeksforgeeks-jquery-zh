@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```html
 $("element").prop("checked", true)
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <head>
     <title>
@@ -92,13 +92,13 @@ $("element").prop("checked", true)
 
 **语法:**
 
-```
+```html
 $("element").attr("checked", true)
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <head>
     <title>

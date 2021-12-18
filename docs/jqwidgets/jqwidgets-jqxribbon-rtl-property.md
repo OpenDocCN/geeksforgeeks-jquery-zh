@@ -10,13 +10,13 @@
 
 设置 *rtl* 属性:
 
-```
+```html
 $('selector').jqxRibbon({ rtl: Boolean });
 ```
 
 返回 *rtl* 属性:
 
-```
+```html
 var rtl = $('selector').jqxRibbon('rtl');
 ```
 
@@ -31,7 +31,7 @@ var rtl = $('selector').jqxRibbon('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

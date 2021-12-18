@@ -10,7 +10,7 @@ jQuery 属性用来做一些特定的操作。
 
     **语法:**
 
-    ```
+    ```html
     context
     ```
 
@@ -20,7 +20,7 @@ jQuery 属性用来做一些特定的操作。
 
     **语法**
 
-    ```
+    ```html
     $().jquery
     ```
 
@@ -30,7 +30,7 @@ jQuery 属性用来做一些特定的操作。
 
     **语法:**
 
-    ```
+    ```html
     jQuery.fx.off = true|false;
     ```
 
@@ -40,7 +40,7 @@ jQuery 属性用来做一些特定的操作。
 
     **语法:**
 
-    ```
+    ```html
     jQuery.support.propvalue
     ```
 
@@ -50,7 +50,7 @@ jQuery 属性用来做一些特定的操作。
 
     **语法:**
 
-    ```
+    ```html
     jQuery.fx.interval = milliseconds;
     ```
 
@@ -60,7 +60,7 @@ jQuery 属性用来做一些特定的操作。
 
     **语法:**
 
-    ```
+    ```html
     $(selector).length
     ```
 

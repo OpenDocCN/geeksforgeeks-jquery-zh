@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 minimizeButtonPosition 属性。
 
-```
+```html
 $('selector').jqxNavBar({ minimizeButtonPosition: String });
 ```
 
 返回 minimizeButtonPosition 属性。
 
-```
+```html
 var minBtnPos = $('selector').jqxNavBar('minimizeButtonPosition');
 ```
 
@@ -35,7 +35,7 @@ var minBtnPos = $('selector').jqxNavBar('minimizeButtonPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

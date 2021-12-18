@@ -10,13 +10,13 @@
 
 *   它用于设置句柄属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ handle : boolean/string });
     ```
 
 *   它用于返回句柄属性。
 
-    ```
+    ```html
     var handle = $('Selector').jqxSortable('handle');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

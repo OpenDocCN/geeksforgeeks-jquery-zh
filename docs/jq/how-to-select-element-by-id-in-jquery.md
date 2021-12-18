@@ -8,7 +8,7 @@
 
 ***语法:***
 
-```
+```html
 *document.getElementById('idname')* 
 ```
 
@@ -16,7 +16,7 @@
 
 ## *超文本标记语言*
 
-```
+```html
 *<!DOCTYPE html>
 <html>
 
@@ -54,7 +54,7 @@
 
 **语法:**
 
-```
+```html
 $("#idname");
 ```
 
@@ -62,7 +62,7 @@ $("#idname");
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@ getcolumnproperty()方法用于返回指定列的属性。它有两个参数，�
 
 **语法:**
 
-```
+```html
 var value = $('#Selector').jqxGrid(
     'getcolumnproperty', 'firstname', 'width');
 ```
@@ -45,7 +45,7 @@ var value = $('#Selector').jqxGrid(
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

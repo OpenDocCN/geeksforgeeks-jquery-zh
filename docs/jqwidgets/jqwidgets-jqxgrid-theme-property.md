@@ -10,13 +10,13 @@
 
 *   设置*主题*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ theme: 'energyblue'});
     ```
 
 *   返回*主题*属性。
 
-    ```
+    ```html
     var theme = $('#Selector').jqxGrid('theme');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的这个**类型()**方法用于确定一个对象的内部 JavaScrip
 
 **语法:**
 
-```
+```html
 jQuery.type( obj )
 
 ```
@@ -21,7 +21,7 @@ jQuery.type( obj )
 
     **例 1:** 在本例中， **type()方法**检查参数是否为数组。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -56,7 +56,7 @@ jQuery.type( obj )
 
     **例 2:** 在本例中， **type()方法**对象未定义或为空。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

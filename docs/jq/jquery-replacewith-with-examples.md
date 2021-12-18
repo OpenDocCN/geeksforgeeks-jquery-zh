@@ -6,7 +6,7 @@ replaceWith()方法是 jQuery 中的一个内置方法，用于用新的元素�
 
 **语法:**
 
-```
+```html
 $(selector).replaceWith(content, function)
 ```
 
@@ -21,7 +21,7 @@ $(selector).replaceWith(content, function)
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -72,7 +72,7 @@ $(selector).replaceWith(content, function)
 
 **例 2:** 在下面的代码中可选函数被传递。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

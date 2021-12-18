@@ -10,13 +10,13 @@
 
 *   它用于设置 width 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ width : number});
 ```
 
 *   它用于返回 width 属性。
 
-```
+```html
 var width = $('Selector').jqxLinearGauge('width');
 ```
 
@@ -31,7 +31,7 @@ var width = $('Selector').jqxLinearGauge('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

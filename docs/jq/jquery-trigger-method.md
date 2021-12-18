@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).trigger(event, param1, param2)
 ```
 
@@ -14,7 +14,7 @@ $(selector).trigger(event, param1, param2)
 
 **例 1:** 该方法触发了两个方法来增加方法的值。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -67,7 +67,7 @@ $(selector).trigger(event, param1, param2)
 ![](img/86274d944c74e489f4f19d83e4d024d1.png)
 在上例中，使用了一个**增(obj)** 函数，该函数以一个 html 元素为对象，通过使用 parseInt()函数将字符串转换为整数，将其中的数字文本的值增加一。
 
-```
+```html
 function Increase(obj) {
         var text = parseInt(obj.text(), 10);
         obj.text(text + 1);
@@ -77,7 +77,7 @@ function Increase(obj) {
 
 此外，jQuery 选择器用于选择按钮并向其附加点击事件方法，在其中我们调用**增加(obj)** 功能。
 
-```
+```html
         $("#btn1").click(function(){
             Increase($(".box-1>h1"))
         })
@@ -93,7 +93,7 @@ function Increase(obj) {
 
 **示例 2:** 本示例借助**触发器()**方法触发输入元素的焦点事件。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

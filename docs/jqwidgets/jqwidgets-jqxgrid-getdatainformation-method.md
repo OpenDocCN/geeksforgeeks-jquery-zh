@@ -8,56 +8,56 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 **语法:**
 
-```
+```html
 var datainformation = 
     $('#Selector').jqxGrid('getdatainformation');
 ```
 
 返回行数。
 
-```
+```html
 var rowscount = datainformation.rowscount;
 ```
 
 返回排序后的信息。
 
-```
+```html
 var sortinformation = datainformation.sortinformation;
 ```
 
 返回排序后的列。
 
-```
+```html
 var sortcolumn = sortinformation.sortcolumn;
 ```
 
 返回排序后的方向。
 
-```
+```html
 var sortdirection = sortinformation.sortdirection;
 ```
 
 返回分页信息。
 
-```
+```html
 var paginginformation = datainformation.paginginformation;
 ```
 
 返回页码。
 
-```
+```html
 var pagenum = paginginformation.pagenum;
 ```
 
 返回页面大小。
 
-```
+```html
 var pagesize = paginginformation.pagesize;
 ```
 
 返回页数。
 
-```
+```html
 var pagescount = paginginformation.pagescount;
 ```
 
@@ -74,7 +74,7 @@ var pagescount = paginginformation.pagescount;
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

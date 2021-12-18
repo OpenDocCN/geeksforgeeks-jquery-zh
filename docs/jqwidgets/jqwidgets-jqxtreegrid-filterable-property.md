@@ -10,13 +10,13 @@
 
 *   用于设置**可过滤**属性。
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({filterable: true});
     ```
 
 *   用于获得**可过滤**属性。
 
-    ```
+    ```html
     var filterable = $('#treeGrid').jqxTreeGrid('filterable'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置*过滤模式*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({filterMode: "advanced" });  
 ```
 
 返回*过滤模式*属性:
 
-```
+```html
 var filterMode = $('#dataTable').jqxDataTable('filterMode'); 
 ```
 
@@ -31,7 +31,7 @@ var filterMode = $('#dataTable').jqxDataTable('filterMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,12 +10,12 @@
 
 *   **用于设置 ***可编辑*** 属性。
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({ editable: true });  
     ```** 
 *   **获取 ***可编辑*** 属性。
 
-    ```
+    ```html
     var editable = $('#treeGrid').jqxTreeGrid('editable');
     ```** 
 
@@ -29,7 +29,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

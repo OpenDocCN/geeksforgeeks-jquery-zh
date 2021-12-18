@@ -10,13 +10,13 @@
 
 *   设置*约会明八*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ appointmentsMinHeight: 20 });
     ```
 
 *   归还*委任明八*财产。
 
-    ```
+    ```html
     var appointmentsMinHeight = 
         $('#Selector').jqxScheduler('appointmentsMinHeight');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

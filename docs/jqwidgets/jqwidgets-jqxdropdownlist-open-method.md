@@ -8,7 +8,7 @@ open()方法用于显示弹出列表框。它不接受任何参数，也不返�
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('open');
 ```
 
@@ -25,7 +25,7 @@ $("Selector").jqxDropDownList('open');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@ unselectItem()方法用于从 jqxComboBox 中取消选择该项。它接受对�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('unselectItem', item);
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('unselectItem', item);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

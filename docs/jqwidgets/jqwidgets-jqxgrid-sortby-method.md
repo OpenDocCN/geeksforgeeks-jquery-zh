@@ -8,7 +8,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxGrid('sortby', 'dataField', 'sortOrder');
 ```
 
@@ -30,7 +30,7 @@ $('#Selector').jqxGrid('sortby', 'dataField', 'sortOrder');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

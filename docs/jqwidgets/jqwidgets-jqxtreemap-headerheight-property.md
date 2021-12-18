@@ -10,13 +10,13 @@
 
 *   用于设置 *headerHeight* 属性:
 
-    ```
+    ```html
     $('#jqxTreeMap').jqxTreeMap({ headerHeight: 23 });  
     ```
 
 *   获取*头权**T2***属性:
 
-    ```
+    ```html
     var headerHeight = $('#jqxTreeMap').jqxTreeMap('headerHeight'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

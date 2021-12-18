@@ -6,7 +6,7 @@ jQuery 中的这个**delivered . rejectwith()**方法用于拒绝一个 delivere
 
 **语法:**
 
-```
+```html
 deferred.rejectWith(context[, args])
 ```
 
@@ -19,7 +19,7 @@ deferred.rejectWith(context[, args])
 
 **示例 1:** 在本例中，我们用两个参数拒绝延迟对象，并处理任何 failCallbacks。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -67,7 +67,7 @@ deferred.rejectWith(context[, args])
 
 **示例 2:** 在本例中，我们拒绝只有一个参数的延迟对象，并处理任何 failCallbacks。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

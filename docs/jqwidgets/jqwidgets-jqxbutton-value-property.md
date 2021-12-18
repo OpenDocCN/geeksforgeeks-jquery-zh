@@ -10,13 +10,13 @@
 
 设置*值*属性。
 
-```
+```html
 $('#jqxButton').jqxButton({value: "Button"});  
 ```
 
 获取*值*属性。
 
-```
+```html
 var value = $('#jqxButton').jqxButton('value');
 ```
 
@@ -33,7 +33,7 @@ var value = $('#jqxButton').jqxButton('value');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

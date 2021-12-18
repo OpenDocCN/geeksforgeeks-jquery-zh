@@ -10,13 +10,13 @@
 
 *   设置*轴*属性。
 
-    ```
+    ```html
     $('Selector').jqxSortable({ axis : string/number});
     ```
 
 *   返回*轴*属性。
 
-    ```
+    ```html
     var axis = $('Selector').jqxSortable('axis');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,7 +10,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 cellhover 属性。
 
-```
+```html
 $('#Selector').jqxGrid({ 
     cellhover: function (cellhtmlElement, x, y) {}
 });
@@ -18,7 +18,7 @@ $('#Selector').jqxGrid({
 
 返回 cellhover 属性。
 
-```
+```html
 var cellhover = $('#Selector').jqxGrid('cellhover');
 ```
 
@@ -35,7 +35,7 @@ var cellhover = $('#Selector').jqxGrid('cellhover');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

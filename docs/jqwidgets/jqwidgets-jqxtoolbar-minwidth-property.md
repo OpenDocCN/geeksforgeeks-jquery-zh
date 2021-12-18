@@ -10,13 +10,13 @@
 
 设置 minWidth 属性。
 
-```
+```html
 $('#Selector').jqxToolBar({ minWidth: 200 });
 ```
 
 返回最小宽度属性。
 
-```
+```html
 var minWidth = $('#Selector').jqxToolBar('minWidth');
 ```
 
@@ -33,7 +33,7 @@ var minWidth = $('#Selector').jqxToolBar('minWidth');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 element:nth-last-of-type(n|even|odd|formula)
 ```
 
@@ -19,7 +19,7 @@ element:nth-last-of-type(n|even|odd|formula)
 
 **示例 1:** 本示例使用:第 n 个最后一个类型()选择器从最后一个中选择奇数元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -64,7 +64,7 @@ element:nth-last-of-type(n|even|odd|formula)
 
 **示例 2:** 本示例使用:第 n 个最后一个类型()选择器选择最后一个元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

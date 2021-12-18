@@ -16,13 +16,13 @@
 
 *   它用于设置模式属性。
 
-```
+```html
 $('Selector').jqxButtonGroup({mode: 'radio' });
 ```
 
 *   它用于获取 mode 属性。
 
-```
+```html
 var mode = $('Selector').jqxButtonGroup('mode');
 ```
 
@@ -37,7 +37,7 @@ var mode = $('Selector').jqxButtonGroup('mode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

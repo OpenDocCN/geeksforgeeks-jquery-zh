@@ -10,13 +10,13 @@
 
 要设置可过滤属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({filterable: true});  
 ```
 
 要获取可过滤属性:
 
-```
+```html
 var filterable = $('#dataTable').jqxDataTable('filterable'); 
 ```
 
@@ -31,7 +31,7 @@ var filterable = $('#dataTable').jqxDataTable('filterable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

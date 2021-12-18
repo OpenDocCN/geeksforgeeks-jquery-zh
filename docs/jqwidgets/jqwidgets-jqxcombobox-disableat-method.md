@@ -8,7 +8,7 @@ disablet()方法用于通过使用索引号来禁用项目。它接受数字类�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('disableAt', index );
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('disableAt', index );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

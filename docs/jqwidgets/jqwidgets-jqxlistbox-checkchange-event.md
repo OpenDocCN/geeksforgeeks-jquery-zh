@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').on('checkChange', function (event) {});
 ```
 
@@ -34,7 +34,7 @@ $('selector').on('checkChange', function (event) {});
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

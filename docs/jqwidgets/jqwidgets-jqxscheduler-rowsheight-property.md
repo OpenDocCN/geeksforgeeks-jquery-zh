@@ -10,13 +10,13 @@
 
 *   设置*行高*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ rowsHeight: 30 });
     ```
 
 *   返回 *rowsHeight* 属性。
 
-    ```
+    ```html
     var rowsHeight = $('#Selector').jqxScheduler('rowsHeight');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

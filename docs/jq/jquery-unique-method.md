@@ -6,7 +6,7 @@ jQuery 中的这个 **unique()** 方法用来对 DOM 元素的数组进行排序
 
 **语法:**
 
-```
+```html
 jQuery.unique( array )
 
 ```
@@ -19,7 +19,7 @@ jQuery.unique( array )
 
 **示例 1:** 在本例中， **unique()方法**从 div 数组中移除重复元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,7 +72,7 @@ jQuery.unique( array )
 
 **示例 2:** 在本例中， **unique()方法**从 p 的数组中移除所有重复的元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

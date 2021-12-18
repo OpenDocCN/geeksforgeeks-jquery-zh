@@ -10,13 +10,13 @@ openDelay 属性用于设置或返回弹出日历显示时的动画持续时间�
 
 设置 openDelay 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ openDelay: Number });
 ```
 
 返回 openDelay 属性。
 
-```
+```html
 var openDelay = $('selector').jqxDateTimeInput('openDelay');
 ```
 
@@ -33,7 +33,7 @@ var openDelay = $('selector').jqxDateTimeInput('openDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

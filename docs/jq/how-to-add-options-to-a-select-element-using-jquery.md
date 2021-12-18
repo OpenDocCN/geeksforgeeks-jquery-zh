@@ -10,13 +10,13 @@
 
 **语法:**
 
-```
+```html
 $('#selectBox').append(`${optionText}`)
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -79,13 +79,13 @@ Option()构造函数用于创建新的选项元素。以文本和选项的值作
 
 **语法:**
 
-```
+```html
 $('#selectBox').append(new Option(optionText, optionValue))
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <head>
     <title>Adding options to a select element using jQuery?</title>
@@ -128,13 +128,13 @@ $('#selectBox').append(new Option(optionText, optionValue))
 
 **语法:**
 
-```
+```html
 $('#selectBox').append($('<option>').val(optionValue).text(optionText))
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <head>
     <title>Adding options to a select element using jQuery?</title>

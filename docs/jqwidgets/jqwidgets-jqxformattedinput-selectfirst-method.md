@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxFormattedInput('selectFirst');
 ```
 
@@ -25,7 +25,7 @@ $('Selector').jqxFormattedInput('selectFirst');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

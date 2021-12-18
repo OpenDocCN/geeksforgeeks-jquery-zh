@@ -10,13 +10,13 @@
 
 设置 *closeButtonSize* 属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ closeButtonSize: 32});
 ```
 
 获得 *closeButtonSize* 属性。
 
-```
+```html
 var cBS = $('#jqxWindow').jqxWindow('closeButtonSize'); 
 ```
 
@@ -31,7 +31,7 @@ var cBS = $('#jqxWindow').jqxWindow('closeButtonSize');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

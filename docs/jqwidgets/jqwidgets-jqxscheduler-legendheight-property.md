@@ -10,13 +10,13 @@
 
 *   设置 *legendHeight* 属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ legendHeight: 40 });
     ```
 
 *   返回 *legendHeight* 属性。
 
-    ```
+    ```html
     var legendHeight = 
         $('#Selector').jqxScheduler('legendHeight');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

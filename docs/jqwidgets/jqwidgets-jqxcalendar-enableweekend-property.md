@@ -8,7 +8,7 @@ enableWeekend 属性用于设置或返回一个值，该值指示周末是否保
 
 **语法:**
 
-```
+```html
 $('.selector').jqxCalendar({
     enableWeekend: Boolean
 });
@@ -27,7 +27,7 @@ $('.selector').jqxCalendar({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

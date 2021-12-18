@@ -7,7 +7,7 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 jQuery、CSS 和 HTML 实现
 
 **语法:**
 
-```
+```html
 $(".selector").datepicker(
    {showCurrentAtPos: 2}
 );
@@ -23,7 +23,7 @@ $(".selector").datepicker(
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

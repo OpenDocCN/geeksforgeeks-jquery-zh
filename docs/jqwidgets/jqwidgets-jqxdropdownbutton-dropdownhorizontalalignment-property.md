@@ -15,7 +15,7 @@
 
 设置*下拉水平对齐*属性。
 
-```
+```html
 $('Selector').jqxDropDownButton({ 
     dropDownHorizontalAlignment: 'right'
 }); 
@@ -23,7 +23,7 @@ $('Selector').jqxDropDownButton({
 
 获取*下拉水平对齐*属性。
 
-```
+```html
 var dropDownHorizontalAlignment = $('Selector')
       .jqxDropDownButton('dropDownHorizontalAlignment');
 ```
@@ -39,7 +39,7 @@ var dropDownHorizontalAlignment = $('Selector')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

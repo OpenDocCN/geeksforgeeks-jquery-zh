@@ -10,7 +10,7 @@
 
 设置 *imgWidth* 属性:
 
-```
+```html
 $('#jqxButton').jqxButton({
     imgWidth: 16, 
     imgSrc: 'gfg.png' 
@@ -19,7 +19,7 @@ $('#jqxButton').jqxButton({
 
 返回 *imgWidth* 属性:
 
-```
+```html
 var imgWidth = $('#jqxButton').jqxButton('imgWidth');
 ```
 
@@ -34,7 +34,7 @@ var imgWidth = $('#jqxButton').jqxButton('imgWidth');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

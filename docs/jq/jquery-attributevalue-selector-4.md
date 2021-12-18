@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $("[attribute|='value']")
 ```
 
@@ -19,7 +19,7 @@ $("[attribute|='value']")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -75,7 +75,7 @@ $("[attribute|='value']")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

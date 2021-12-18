@@ -8,7 +8,7 @@ rtl 属性用于设置或返回一个值，该值指示小部件的元素被对�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBulletChart({
     rtl: boolean
 });
@@ -27,7 +27,7 @@ $('.selector').jqxBulletChart({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

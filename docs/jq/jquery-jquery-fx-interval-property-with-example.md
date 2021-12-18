@@ -6,7 +6,7 @@ jQuery 中的 **jQuery.fx.interval 属性**用于修改动画每秒运行的帧�
 
 **语法:**
 
-```
+```html
 jQuery.fx.interval = milliseconds;
 ```
 
@@ -14,7 +14,7 @@ jQuery.fx.interval = milliseconds;
 
 **示例 1:** 本示例使用 jQuery.fx.interval 属性来更改动画发射速率。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -79,7 +79,7 @@ jQuery.fx.interval = milliseconds;
 
 **示例 2:** 本示例使用 jQuery.fx.interval 属性来更改动画发射速率。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

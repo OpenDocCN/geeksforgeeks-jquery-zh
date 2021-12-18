@@ -10,13 +10,13 @@
 
 *   设置*cookie*属性:
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({ cookies: true });  
     ```
 
 *   获取*饼干**T2***属性:
 
-    ```
+    ```html
     var cookies = $('#jqxDocking').jqxDocking('cookies');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

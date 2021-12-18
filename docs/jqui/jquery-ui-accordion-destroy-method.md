@@ -8,7 +8,7 @@ jQuery UI destroy()方法用于移除手风琴的完整功能。它将手风琴�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).button( "destroy" )
 ```
 
@@ -22,7 +22,7 @@ $( ".selector" ).button( "destroy" )
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 

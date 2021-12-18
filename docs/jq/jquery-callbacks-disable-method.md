@@ -5,7 +5,7 @@
 JQuery 中的**回调. disable()方法**用于禁止回调列表进一步执行任何其他操作。这个方法返回它所附着的回调对象(这个)
 **语法:**
 
-```
+```html
 callbacks.disable()
 ```
 
@@ -13,7 +13,7 @@ callbacks.disable()
 
 *   **示例:**本示例在添加和触发函数后禁用回调。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 
@@ -69,7 +69,7 @@ callbacks.disable()
 
 *   **示例:**这个示例提供了一个按钮，首先禁用回调，然后添加并激发方法来查看结果。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 

@@ -8,7 +8,7 @@ render()方法用于呈现 jqxBarGauge 小部件。它不接受任何参数，�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge('render');
 ```
 
@@ -25,7 +25,7 @@ $('.selector').jqxBarGauge('render');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

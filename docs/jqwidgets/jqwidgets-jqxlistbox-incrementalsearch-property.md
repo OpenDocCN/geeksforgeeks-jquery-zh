@@ -10,13 +10,13 @@
 
 要设置*增量搜索*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({incrementalSearch: false});
 ```
 
 要获取*增量搜索*属性:
 
-```
+```html
 var incrementalSearch = $('#jqxListBox').
                         jqxListBox('incrementalSearch'); 
 ```
@@ -32,7 +32,7 @@ var incrementalSearch = $('#jqxListBox').
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

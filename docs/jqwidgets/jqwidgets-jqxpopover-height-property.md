@@ -10,13 +10,13 @@
 
 *   **用于设置*高度*属性。**
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({height: 80});
     ```
 
 *   **获取*高度*属性。**
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover').jqxPopover('height');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

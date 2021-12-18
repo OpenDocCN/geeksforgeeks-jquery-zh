@@ -10,13 +10,13 @@ showCalendarButton 属性用于设置或返回日历按钮是否可见。它接�
 
 设置“显示日历”按钮属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ showCalendarButton: Number });
 ```
 
 返回 showCalendarButton 属性。
 
-```
+```html
 var showCalBtn = $('selector').jqxDateTimeInput('showCalendarButton');
 ```
 
@@ -33,7 +33,7 @@ var showCalBtn = $('selector').jqxDateTimeInput('showCalendarButton');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置 *showstatusbar* 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ showstatusbar: true});
     ```
 
 *   返回 *showstatusbar* 属性。
 
-    ```
+    ```html
     var showstatusbar = 
         $('#Selector').jqxGrid('showstatusbar');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

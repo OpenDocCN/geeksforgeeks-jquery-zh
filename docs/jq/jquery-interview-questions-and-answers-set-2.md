@@ -39,19 +39,19 @@
 
 *   创建 cookie:
 
-    ```
+    ```html
     $.dough(“cookie_name”, “cookie_value”);
     ```
 
 *   阅读 Cookie:
 
-    ```
+    ```html
     $.dough(“cookie_name”);
     ```
 
 *   删除 cookie:
 
-    ```
+    ```html
     $.dough(“cookie_name”, “remove”);
     ```
 

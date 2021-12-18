@@ -18,7 +18,7 @@ jQuery 以其座右铭**“**少写多做而闻名。**”**简单来说就是�
 
 **语法 1:**
 
-```
+```html
 <script type="text/javascript">
     $(function() {
         $("#txtDate").datepicker({ 
@@ -32,7 +32,7 @@ jQuery 以其座右铭**“**少写多做而闻名。**”**简单来说就是�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -92,7 +92,7 @@ jQuery 以其座右铭**“**少写多做而闻名。**”**简单来说就是�
 
 **语法 2:**
 
-```
+```html
 <script type="text/javascript">
     $(function() {
         $("#txtDate").datepicker({ 
@@ -106,7 +106,7 @@ jQuery 以其座右铭**“**少写多做而闻名。**”**简单来说就是�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

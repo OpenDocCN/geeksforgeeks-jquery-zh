@@ -17,7 +17,7 @@ CDN 失败的可能性很小。但这并不意味着它永远不会失败。所�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -44,13 +44,13 @@ CDN 失败的可能性很小。但这并不意味着它永远不会失败。所�
 
 **输出:**
 
-```
+```html
 CDN loaded
 ```
 
 如果我们只是从 CDN 中删除任何字母，那么我们的 CDN 将不会加载，它会给出以下输出:
 
-```
+```html
 CDN fails
 ```
 
@@ -58,7 +58,7 @@ CDN fails
 
 首先，让我们看看如何从本地机器链接 jQuery。首先，我们将从 jQuery 网站下载 jQuery 库文件，然后将它包含在我们的 HTML 代码中，如下所示。
 
-```
+```html
 <script src="jquery-3.6.0.js"></script>
 ```
 
@@ -66,7 +66,7 @@ CDN fails
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -91,7 +91,7 @@ CDN fails
 
 **输出:**
 
-```
+```html
 CDN loaded
 ```
 
@@ -109,7 +109,7 @@ CDN loaded
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -136,7 +136,7 @@ window.jQuery || document.write('<script src="jquery-3.6.0.js"><\/script>')
 
 **输出:**
 
-```
+```html
 Hey Geeks
 ```
 

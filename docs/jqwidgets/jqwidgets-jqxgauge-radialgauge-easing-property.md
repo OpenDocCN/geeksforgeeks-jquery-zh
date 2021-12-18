@@ -10,13 +10,13 @@
 
 设置宽松属性。
 
-```
+```html
 $('Selector').jqxGauge({ easing: string});  
 ```
 
 归还宽松的财产。
 
-```
+```html
 var easing = $('Selector').jqxGauge('easing');
 ```
 
@@ -33,7 +33,7 @@ var easing = $('Selector').jqxGauge('easing');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

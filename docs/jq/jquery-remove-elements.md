@@ -10,7 +10,7 @@
 
 **示例-1:** 使用 jQuery remove()方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -53,7 +53,7 @@
 
 **示例-2:** 使用 jQuery 空()方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

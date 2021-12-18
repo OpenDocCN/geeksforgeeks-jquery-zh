@@ -18,7 +18,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('updateItem', 
   { label: "Text", value: "Id1" }, "Item");
 ```
@@ -39,7 +39,7 @@ $("#jqxListBox").jqxListBox('updateItem',
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

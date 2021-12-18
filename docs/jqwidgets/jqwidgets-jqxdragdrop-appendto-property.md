@@ -10,13 +10,13 @@
 
 *   设置*附加到*属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ appendTo: String });
     ```
 
 *   返回*追加到*属性。
 
-    ```
+    ```html
     var appendTo = $('selector').jqxDragDrop('appendTo');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

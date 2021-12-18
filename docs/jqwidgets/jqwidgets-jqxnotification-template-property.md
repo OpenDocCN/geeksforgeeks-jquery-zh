@@ -20,13 +20,13 @@
 
 *   设置**模板**属性。
 
-```
+```html
 $('Selector').jqxNotification({ template : string });
 ```
 
 *   返回**模板**属性。
 
-```
+```html
 var template = $('Selector').jqxNotification('template');
 ```
 
@@ -41,7 +41,7 @@ var template = $('Selector').jqxNotification('template');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

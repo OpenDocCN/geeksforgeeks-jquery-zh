@@ -16,7 +16,7 @@ jQuery 遮罩是一个 jQuery 插件，它帮助在基本的 HTML 输入字段�
 
 **CDN 链接**
 
-```
+```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.js" 
         integrity="sha256-yE5LLp5HSQ/z+hJeCqkz9hdjNkk1jaiGG0tDCraumnA=" 
         crossorigin="anonymous"
@@ -28,7 +28,7 @@ jQuery 遮罩是一个 jQuery 插件，它帮助在基本的 HTML 输入字段�
 
 **示例:**
 
-```
+```html
 <!Doctype html>
 <html lang="en">
 

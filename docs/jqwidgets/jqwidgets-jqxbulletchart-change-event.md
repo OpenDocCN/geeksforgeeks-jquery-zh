@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').on('change', function () {
 });
 ```

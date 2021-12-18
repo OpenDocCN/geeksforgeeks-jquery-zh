@@ -10,13 +10,13 @@
 
 *   要设置*禁用的*属性:
 
-    ```
+    ```html
     $('#jqxDockPanel').jqxDockPanel({ disabled: true });  
     ```
 
 *   要禁用*属性:*
 
-    ```
+    ```html
     *var disabled = $('#jqxDockPanel').jqxDockPanel('disabled');*
     ```
 
@@ -30,7 +30,7 @@
 
 ## *超文本标记语言*
 
-```
+```html
 *<!DOCTYPE html>
 <html lang="en">
 

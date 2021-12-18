@@ -10,13 +10,13 @@
 
 设置*过滤器高度*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({filterHeight: 50 });  
 ```
 
 返回*过滤器高度*属性:
 
-```
+```html
 var filterHeight = $('#dataTable').jqxDataTable('filterHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var filterHeight = $('#dataTable').jqxDataTable('filterHeight');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

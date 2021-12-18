@@ -10,13 +10,13 @@ height 属性用于设置或返回小部件的高度。它接受数字/字符串
 
 设置高度属性。
 
-```
+```html
 $('selector').jqxTree({ height: Number/String });
 ```
 
 返回高度属性。
 
-```
+```html
 var height = $('selector').jqxTree('height');
 ```
 
@@ -33,7 +33,7 @@ var height = $('selector').jqxTree('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

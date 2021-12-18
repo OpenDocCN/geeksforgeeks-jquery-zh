@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $.noConflict();
 ```
 
@@ -20,7 +20,7 @@ $.noConflict();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -69,7 +69,7 @@ $.noConflict();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -103,7 +103,7 @@ $.noConflict();
 
 **输出:**好的，由于我们的代码中存在其他库，所以我们不能对 jQuery 代码使用$ sign，而且我们非常懒，所以我们不想每一行都写 JQuery。那么为什么不呢，为 jQuery 创建我们自己的别名。
 
-```
+```html
 5
 ```
 
@@ -113,7 +113,7 @@ $.noConflict();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -147,7 +147,7 @@ $.noConflict();
 
 **输出:**
 
-```
+```html
 5
 5
 ```
@@ -162,7 +162,7 @@ $.noConflict();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -197,6 +197,6 @@ $.noConflict();
 
 **输出:**
 
-```
+```html
 5
 ```

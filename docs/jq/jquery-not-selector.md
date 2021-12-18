@@ -6,7 +6,7 @@
 
 **语法**
 
-```
+```html
 $(":not(selector)")
 ```
 
@@ -16,7 +16,7 @@ $(":not(selector)")
 
 **示例:**更改 **p** 元素的背景色。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

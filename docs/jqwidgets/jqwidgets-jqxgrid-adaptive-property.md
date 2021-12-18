@@ -10,13 +10,13 @@
 
 设置*自适应*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ adaptive: false});
 ```
 
 返回*自适应*属性:
 
-```
+```html
 var adaptive = $('#Selector').jqxGrid('adaptive');
 ```
 
@@ -31,7 +31,7 @@ var adaptive = $('#Selector').jqxGrid('adaptive');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

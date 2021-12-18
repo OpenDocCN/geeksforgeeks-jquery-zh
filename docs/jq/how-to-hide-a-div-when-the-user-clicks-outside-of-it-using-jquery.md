@@ -8,7 +8,7 @@
 
 1.  鼠标上移事件首先在文档
 
-    ```
+    ```html
     $(document).mouseup(function (e) {
         // rest code here
     }
@@ -17,7 +17,7 @@
     上进行检查
 2.  在目标单击时调用最近的()方法。此方法返回 DOM 树中选定元素的第一个祖先。然后在结果上使用 length 属性来找出祖先的数量。如果没有祖先，则意味着单击在元素之外。
 
-    ```
+    ```html
     if ($(e.target).closest(".container").length === 0) {
         // rest code here
     }
@@ -25,13 +25,13 @@
 
 3.  The element is hidden using the hide() method.
 
-    ```
+    ```html
     $(".container").hide();
     ```
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -93,7 +93,7 @@
 
     1.  鼠标上移事件首先在文档
 
-        ```
+        ```html
         $(document).mouseup(function (e) {
             // rest code here
         }
@@ -106,7 +106,7 @@
 
         has()方法用于返回与至少一个传递给此方法的元素相匹配的所有元素。然后在结果中使用 length 属性来检查是否返回了任何元素。如果没有返回任何元素，这意味着单击在元素之外。
 
-        ```
+        ```html
         if(!container.is(e.target) && container.has(e.target).length === 0) {
             // rest code here
         }
@@ -114,13 +114,13 @@
 
     3.  The element is hidden using the hide() method.
 
-        ```
+        ```html
         $(".container").hide();
         ```
 
         **示例:**
 
-        ```
+        ```html
         <!DOCTYPE html>
         <html>
 

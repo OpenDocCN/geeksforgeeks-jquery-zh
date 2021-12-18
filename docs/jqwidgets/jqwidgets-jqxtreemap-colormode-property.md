@@ -14,13 +14,13 @@
 
 *   用于设置*颜色模式*属性:
 
-    ```
+    ```html
     $("#jqxTreeMap").jqxTreeMap({colorMode: 'autoColors'});  
     ```
 
 *   要获取*颜色模式*属性:
 
-    ```
+    ```html
     var colorMode = 
         $('#jqxTreeMap').jqxTreeMap('colorMode'); 
     ```
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

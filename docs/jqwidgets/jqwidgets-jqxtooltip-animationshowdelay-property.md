@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置动画显示属性。
 
-```
+```html
 $('Selector').jqxTooltip({ animationShowDelay: 250 });
 ```
 
 返回 animationShowDelay 属性。
 
-```
+```html
 var aniShowDelay = $('Selector').jqxTooltip('animationShowDelay');
 ```
 
@@ -34,7 +34,7 @@ var aniShowDelay = $('Selector').jqxTooltip('animationShowDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

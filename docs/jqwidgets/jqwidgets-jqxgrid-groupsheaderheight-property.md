@@ -10,13 +10,13 @@
 
 *   设置*组高度*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ groupsheaderheight: 40});
     ```
 
 *   返回*group shead height*属性。
 
-    ```
+    ```html
     var groupsheaderheight = 
         $('#Selector').jqxGrid('groupsheaderheight');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

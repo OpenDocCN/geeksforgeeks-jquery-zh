@@ -8,7 +8,7 @@ jQuery 中的 **show()方法**用于显示隐藏和选中的元素。
 
 **语法:**
 
-```
+```html
 $(selector).show( speed, easing, callback )
 ```
 
@@ -27,7 +27,7 @@ $(selector).show( speed, easing, callback )
 
 **示例 1:** 该示例显示显示:没有给定速度的内容。
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 
@@ -85,7 +85,7 @@ $(selector).show( speed, easing, callback )
 
 **示例 2:** 该示例显示显示:不满足于挥杆放松值。
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 

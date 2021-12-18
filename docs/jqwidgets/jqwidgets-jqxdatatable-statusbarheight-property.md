@@ -10,13 +10,13 @@
 
 设置*状态右侧*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({statusBarHeight: 80});  
 ```
 
 获取*状态右侧*属性:
 
-```
+```html
 var statusBarHeight = 
     $('#dataTable').jqxDataTable('statusBarHeight'); 
 ```
@@ -32,7 +32,7 @@ var statusBarHeight =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

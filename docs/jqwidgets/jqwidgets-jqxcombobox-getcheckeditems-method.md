@@ -19,7 +19,7 @@ getCheckedItems()方法用于返回选中的项。它不接受任何参数，并
 
 **语法:**
 
-```
+```html
 var items = $('selector').jqxComboBox('getCheckedItems');
 ```
 
@@ -39,7 +39,7 @@ var items = $('selector').jqxComboBox('getCheckedItems');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

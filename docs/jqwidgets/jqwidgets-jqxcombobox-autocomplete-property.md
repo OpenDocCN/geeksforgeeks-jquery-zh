@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置自动完成属性。
 
-```
+```html
 $('selector').jqxComboBox({ autoComplete: boolean });
 ```
 
 返回自动完成属性。
 
-```
+```html
 var autoComplete = $('selector').jqxComboBox('autoComplete');
 ```
 
@@ -36,7 +36,7 @@ var autoComplete = $('selector').jqxComboBox('autoComplete');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

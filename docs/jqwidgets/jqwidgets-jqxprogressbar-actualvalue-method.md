@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxProgressBar('actualValue', 50); 
 ```
 
@@ -24,7 +24,7 @@ $('Selector').jqxProgressBar('actualValue', 50);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

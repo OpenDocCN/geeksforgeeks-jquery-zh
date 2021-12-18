@@ -10,13 +10,13 @@
 
 *   设置*不透明度*属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ opacity: Number });
     ```
 
 *   返回*不透明度*属性。
 
-    ```
+    ```html
     var opacity = $('selector').jqxDragDrop('opacity');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#Selector").on("columnreordered", function (event) {
 
    // Arguments of the event
@@ -41,7 +41,7 @@ $("#Selector").on("columnreordered", function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -11,14 +11,14 @@
     **语法:**
     *   **触发所选元素的焦点事件:**
 
-        ```
+        ```html
         $(selector).focus()
 
         ```
 
     *   **给焦点事件附加一个功能:**
 
-```
+```html
 $(selector).focus(function)
 
 ```
@@ -29,7 +29,7 @@ $(selector).focus(function)
 
 **示例 1:** 在本示例中，表单输入文本字段通过使用**焦点()方法**在页面加载时获取**焦点**。这里的输入元素是通过 JQuery 选择器中的输入关键字选择的。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -81,7 +81,7 @@ $(selector).focus(function)
 
 **示例 2:** 在本示例中，表单输入文本字段通过使用**焦点()方法**在页面加载时获取**焦点**。这里输入元素是通过表单元素的 **id** 和 JQuery 选择器中自己的 **id** 选择的。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

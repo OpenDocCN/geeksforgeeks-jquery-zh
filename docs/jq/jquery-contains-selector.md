@@ -6,7 +6,7 @@ jQuery 中的 **:contains()选择器**用于选择包含指定字符串的元素
 
 **语法:**
 
-```
+```html
 $(":contains(text)")
 ```
 
@@ -14,7 +14,7 @@ $(":contains(text)")
 
 **示例 1:** 本示例使用:contains()选择器选择元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -53,7 +53,7 @@ $(":contains(text)")
 
 **示例 2:** 本示例使用:contains()选择器选择元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

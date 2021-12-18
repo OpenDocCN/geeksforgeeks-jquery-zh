@@ -10,13 +10,13 @@
 
 设置*页面高度*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({ pagerHeight: 70 });  
 ```
 
 返回*页面高度*属性:
 
-```
+```html
 var pagerHeight = $('#dataTable').jqxDataTable('pagerHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var pagerHeight = $('#dataTable').jqxDataTable('pagerHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

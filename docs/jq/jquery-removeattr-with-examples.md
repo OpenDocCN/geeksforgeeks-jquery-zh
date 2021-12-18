@@ -6,7 +6,7 @@ removeAttr()方法是 jQuery 中的一个内置方法，用于**从所选元素�
 
 **语法:**
 
-```
+```html
 $(selector).removeAttr(attribute)
 ```
 
@@ -18,7 +18,7 @@ $(selector).removeAttr(attribute)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

@@ -10,7 +10,7 @@ jQuery UI 可选*类*选项用于向元素动态添加一些额外的类。
 
 *   **用** ***类*** **选项初始化可选元素:**
 
-    ```
+    ```html
     $(".selector").selectable({
         classes: {
             "ui-selectable": "class-name"
@@ -20,14 +20,14 @@ jQuery UI 可选*类*选项用于向元素动态添加一些额外的类。
 
 *   **初始化后设置** ***类*** **选项:**
 
-    ```
+    ```html
     $( ".selector" ).selectable( "option", 
         "classes.ui-selectable", "class-name");
     ```
 
 *   **初始化后返回** ***类*** **选项:**
 
-    ```
+    ```html
     var classes = $( ".selector" ).selectable(
         "option", "classes.ui-selectable" );
     ```
@@ -42,7 +42,7 @@ jQuery UI 可选*类*选项用于向元素动态添加一些额外的类。
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

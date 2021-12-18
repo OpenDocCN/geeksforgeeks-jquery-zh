@@ -10,13 +10,13 @@
 
 用于设置 ***过滤模式*** 属性:
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({filterMode: "advanced"});  
 ```
 
 获取 ***过滤模式*** 属性:
 
-```
+```html
 var filterMode = $('#treeGrid').jqxTreeGrid('filterMode'); 
 ```
 
@@ -31,7 +31,7 @@ var filterMode = $('#treeGrid').jqxTreeGrid('filterMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

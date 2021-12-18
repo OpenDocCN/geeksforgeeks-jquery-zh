@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 minimizedTitle 属性。
 
-```
+```html
 $('selector').jqxNavBar({ minimizedTitle: String/HTML Element });
 ```
 
 返回 minimizedTitle 属性。
 
-```
+```html
 var minimizedTitle = $('selector').jqxNavBar('minimizedTitle');
 ```
 
@@ -35,7 +35,7 @@ var minimizedTitle = $('selector').jqxNavBar('minimizedTitle');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

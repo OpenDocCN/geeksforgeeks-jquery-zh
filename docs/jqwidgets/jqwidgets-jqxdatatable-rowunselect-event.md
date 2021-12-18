@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').on('rowUnselect',  
   function (event) {
 
@@ -40,7 +40,7 @@ $('Selector').on('rowUnselect',
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

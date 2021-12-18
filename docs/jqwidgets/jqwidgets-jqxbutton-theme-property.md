@@ -10,13 +10,13 @@
 
 设置*主题*属性。
 
-```
+```html
 $('selector').jqxButton({ theme: String });
 ```
 
 获取*主题*属性。
 
-```
+```html
 var theme = $('selector').jqxButton('theme');
 ```
 
@@ -31,7 +31,7 @@ var theme = $('selector').jqxButton('theme');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

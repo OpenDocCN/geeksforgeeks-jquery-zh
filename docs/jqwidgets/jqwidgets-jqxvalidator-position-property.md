@@ -10,13 +10,13 @@
 
 *   用于设置 ***位置*** 属性。
 
-    ```
+    ```html
     $('#jqxValidator').jqxValidator({ position: 'left' });  
     ```
 
 *   获得 ***位置*** 属性。
 
-    ```
+    ```html
     var position = $('#jqxValidator').jqxValidator('position'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

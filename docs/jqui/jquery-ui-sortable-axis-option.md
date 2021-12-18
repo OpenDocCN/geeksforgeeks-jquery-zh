@@ -6,7 +6,7 @@ jQuery UI 可排序*小部件轴*选项用于定义只能水平或垂直拖动�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).sortable({
   axis: "x"
 });
@@ -20,7 +20,7 @@ $( ".selector" ).sortable({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

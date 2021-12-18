@@ -10,13 +10,13 @@
 
 *   设置*showgroup sheder*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ showgroupsheader: false});
     ```
 
 *   返回*showgroup sheder*属性。
 
-    ```
+    ```html
     var showgroupsheader = 
         $('#Selector').jqxGrid('showgroupsheader');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

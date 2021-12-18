@@ -10,13 +10,13 @@
 
 *   用于设置*可编辑的*属性。
 
-```
+```html
 $('Selector').jqxDataTable({ editable: true });  
 ```
 
 *   获取*可编辑的*属性。
 
-```
+```html
 var editable = $('Selector').jqxDataTable('editable');
 ```
 
@@ -31,7 +31,7 @@ var editable = $('Selector').jqxDataTable('editable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

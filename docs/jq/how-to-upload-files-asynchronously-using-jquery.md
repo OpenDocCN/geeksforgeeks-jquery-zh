@@ -24,7 +24,7 @@
 
 *   **上传. php**
 
-    ```
+    ```html
     <?php
 
     /* Getting file name */
@@ -49,7 +49,7 @@
 
 *   **HTML 文件:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

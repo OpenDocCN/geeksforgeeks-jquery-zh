@@ -10,13 +10,13 @@
 
 *   设置*范围设置*属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ rangeOffset : number });
 ```
 
 *   返回*范围设置*属性。
 
-```
+```html
 var rangesOffset =
     $('Selector').jqxLinearGauge('rangesOffset');
 ```
@@ -32,7 +32,7 @@ var rangesOffset =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

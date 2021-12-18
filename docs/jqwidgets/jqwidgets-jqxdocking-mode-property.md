@@ -14,13 +14,13 @@
 
 *   用于设置 ***模式*** 属性:
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({ mode: 'floating' });  
     ```
 
 *   获取 ***模式*** 属性:
 
-    ```
+    ```html
     var mode = $('#jqxDocking').jqxDocking('mode');
     ```
 
@@ -35,7 +35,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

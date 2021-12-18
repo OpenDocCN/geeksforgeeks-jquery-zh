@@ -5,7 +5,7 @@
 使用 **jQuery add()** 方法将元素添加到现有的元素组中。此方法可以将元素添加到整个文档中，或者如果定义了上下文参数，则只添加到上下文元素中。
 **语法:**
 
-```
+```html
 $(selector).add(element, context_parameter)
 
 ```
@@ -17,7 +17,7 @@ $(selector).add(element, context_parameter)
 
     **jQuery 代码展示 add()方法的工作原理:**
 
-    ```
+    ```html
     <html>
 
     <head>

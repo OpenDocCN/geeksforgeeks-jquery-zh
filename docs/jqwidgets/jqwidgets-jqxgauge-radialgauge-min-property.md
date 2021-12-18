@@ -10,13 +10,13 @@
 
 设置 min 属性。
 
-```
+```html
 $('Selector').jqxGauge({ min: number });  
 ```
 
 返回最小属性。
 
-```
+```html
 var min = $('Selector').jqxGauge('min');
 ```
 
@@ -33,7 +33,7 @@ var min = $('Selector').jqxGauge('min');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

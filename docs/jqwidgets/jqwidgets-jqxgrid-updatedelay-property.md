@@ -10,13 +10,13 @@
 
 *   设置**更新延迟**属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ updatedelay: 200});
     ```
 
 *   返回**更新延迟**属性。
 
-    ```
+    ```html
     var updatedelay = $('#Selector').jqxGrid('updatedelay');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

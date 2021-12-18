@@ -8,7 +8,7 @@ destroy()方法用于销毁小部件。它不接受任何参数，也不返回�
 
 **语法:**
 
-```
+```html
 $('#jqxMenu').jqxMenu('destroy');
 ```
 
@@ -25,7 +25,7 @@ $('#jqxMenu').jqxMenu('destroy');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

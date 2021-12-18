@@ -10,13 +10,13 @@
 
 *   **用于设置*宽度*属性。**
 
-    ```
+    ```html
     $("#jqxLayout").jqxLayout({ width: 450 });
     ```
 
 *   **用于获取*宽度*属性。**
 
-    ```
+    ```html
     var width = $('#jqxLayout').jqxLayout('width');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

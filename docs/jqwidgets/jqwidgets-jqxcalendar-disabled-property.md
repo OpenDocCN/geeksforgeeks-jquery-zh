@@ -8,7 +8,7 @@ disabled 属性用于设置或返回日历的 disabled 属性。初始化日历�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxCalendar({
     disabled: Boolean
 });
@@ -27,7 +27,7 @@ $('.selector').jqxCalendar({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

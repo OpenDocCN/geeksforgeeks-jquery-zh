@@ -10,13 +10,13 @@
 
 设置拇指大小属性。
 
-```
+```html
 $('Selector').jqxSwitchButton({ thumbSize:'50%' });  
 ```
 
 获取拇指大小属性。
 
-```
+```html
 var thumbSize = $('Selector').jqxSwitchButton('thumbSize');
 ```
 
@@ -33,7 +33,7 @@ var thumbSize = $('Selector').jqxSwitchButton('thumbSize');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

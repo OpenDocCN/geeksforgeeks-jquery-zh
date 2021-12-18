@@ -10,7 +10,7 @@
 
 使用指定的源属性初始化 jqxTreeMap。
 
-```
+```html
 var Data_of_TreeMap = [{
     label: 'GeeksforGeeks',
     value: 70,
@@ -44,7 +44,7 @@ var Data_of_TreeMap = [{
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -5,7 +5,7 @@
 **事件。相关目标**是 jQuery 中的一个内置属性，用于查找鼠标移动时哪个元素被输入或退出。
 **语法:**
 
-```
+```html
 event.relatedTarget
 
 ```
@@ -15,7 +15,7 @@ event.relatedTarget
 
 **显示事件相关目标属性工作的 jQuery 代码:**
 
-```
+```html
 <html>
 
 <head>

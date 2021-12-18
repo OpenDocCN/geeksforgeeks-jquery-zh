@@ -10,13 +10,13 @@
 
 设置*高度*属性。
 
-```
+```html
 $('selector').jqxLoader({ height: Number/String });
 ```
 
 返回*高度*属性。
 
-```
+```html
 var height = $('selector').jqxLoader('height');
 ```
 
@@ -33,7 +33,7 @@ var height = $('selector').jqxLoader('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

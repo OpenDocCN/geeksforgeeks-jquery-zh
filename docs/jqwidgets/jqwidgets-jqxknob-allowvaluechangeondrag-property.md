@@ -10,13 +10,13 @@
 
 *   用于设置 *allowValueChangeOnDrag* 属性。
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({allowValueChangeOnDrag: true });
     ```
 
 *   获取 *allowValueChangeOnDrag* 属性。
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('allowValueChangeOnDrag');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

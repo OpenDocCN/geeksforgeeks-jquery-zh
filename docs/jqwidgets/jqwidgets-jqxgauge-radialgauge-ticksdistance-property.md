@@ -10,13 +10,13 @@
 
 *   设置*ticks instance*属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ ticksDistance : 20 });  
     ```
 
 *   返回*ticks instance*属性。
 
-    ```
+    ```html
     var ticksDistance = $('Selector').jqxGauge('ticksDistance');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

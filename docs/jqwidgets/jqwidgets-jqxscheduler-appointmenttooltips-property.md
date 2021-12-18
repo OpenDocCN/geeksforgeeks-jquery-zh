@@ -10,13 +10,13 @@
 
 *   设置约会工具提示属性。
 
-```
+```html
 $("Selector").jqxScheduler({ appointmentTooltips: false) });
 ```
 
 *   返回约会工具提示属性。
 
-```
+```html
 var appointmentTooltips = 
     $('Selector').jqxScheduler('appointmentTooltips');
 ```
@@ -32,7 +32,7 @@ var appointmentTooltips =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

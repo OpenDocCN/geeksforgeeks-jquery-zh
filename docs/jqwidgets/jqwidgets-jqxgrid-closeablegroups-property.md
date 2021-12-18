@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   设置 closeablegroups 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ closeablegroups: false});
     ```
 
 *   返回 closeablegroups 属性。
 
-    ```
+    ```html
     var closeablegroups = 
         $('#Selector').jqxGrid('closeablegroups');
     ```
@@ -34,7 +34,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置*卡片尺寸*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ cardsize: 2});
 ```
 
 返回*卡片大小*属性:
 
-```
+```html
 var cardsize = $('#Selector').jqxGrid('cardsize');
 ```
 
@@ -31,7 +31,7 @@ var cardsize = $('#Selector').jqxGrid('cardsize');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

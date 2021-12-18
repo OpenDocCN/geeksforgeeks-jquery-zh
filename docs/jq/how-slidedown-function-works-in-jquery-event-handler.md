@@ -6,11 +6,11 @@ jQuery 函数 [**slideDown()**](https://www.geeksforgeeks.org/jquery-slidedown-m
 
 ****语法:****
 
-```
+```html
 $('selector').slideDown();
 ```
 
-```
+```html
 $('selector').slideDown(speed, callbackFunction);
 ```
 
@@ -20,7 +20,7 @@ $('selector').slideDown(speed, callbackFunction);
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -99,7 +99,7 @@ $('selector').slideDown(speed, callbackFunction);
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 
@@ -184,7 +184,7 @@ $('selector').slideDown(speed, callbackFunction);
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

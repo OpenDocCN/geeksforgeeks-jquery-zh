@@ -19,7 +19,7 @@ getSelectedItems()方法用于在打开“多选”时返回选定的项目。�
 
 **语法:**
 
-```
+```html
 var items = $('selector').jqxComboBox('getSelectedItems');
 ```
 
@@ -39,7 +39,7 @@ var items = $('selector').jqxComboBox('getSelectedItems');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

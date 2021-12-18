@@ -10,13 +10,13 @@
 
 设置*宽度*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({width:"200px"});
 ```
 
 获取*宽度*属性。
 
-```
+```html
 var width = $('#jqxWindow').jqxWindow('width');
 ```
 
@@ -31,7 +31,7 @@ var width = $('#jqxWindow').jqxWindow('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

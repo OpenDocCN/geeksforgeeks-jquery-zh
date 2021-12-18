@@ -10,13 +10,13 @@
 
 用于设置**属性。**
 
-```
+```html
 $('#jqxWindow').jqxWindow({ modalZIndex: 99999}); 
 ```
 
 **获取**属性。****
 
-```
+```html
 **var modalZIndex = $('#jqxWindow').jqxWindow('modalZIndex');** 
 ```
 
@@ -30,7 +30,7 @@ $('#jqxWindow').jqxWindow({ modalZIndex: 99999});
 
 ## ******超文本标记语言******
 
-```
+```html
 ****<!DOCTYPE html>
 <html lang="en">
 

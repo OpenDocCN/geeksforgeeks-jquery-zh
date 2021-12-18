@@ -10,13 +10,13 @@
 
 *   用于设置 ***显示关闭按钮*** 属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ showCloseButton: true });  
 ```
 
 *   获取***显示关闭按钮*** 属性。
 
-```
+```html
 var showCloseButton = $('#jqxWindow').jqxWindow('showCloseButton'); 
 ```
 
@@ -31,7 +31,7 @@ var showCloseButton = $('#jqxWindow').jqxWindow('showCloseButton');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

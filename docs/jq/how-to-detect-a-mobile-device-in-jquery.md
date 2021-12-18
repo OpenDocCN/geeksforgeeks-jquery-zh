@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 window.matchMedia();
 ```
 
 **示例-1:** 程序在桌面上运行。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,7 +45,7 @@ window.matchMedia();
 
 **示例-2:** 程序在移动设备上运行。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   它用于设置 forceHelperSize 属性。
 
-    ```
+    ```html
     $('Selector').jqxSortable({ forceHelperSize : boolean });
     ```
 
 *   它用于返回 forceHelperSize 属性。
 
-    ```
+    ```html
     var forceHelperSize = 
         $('Selector').jqxSortable('forceHelperSize');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

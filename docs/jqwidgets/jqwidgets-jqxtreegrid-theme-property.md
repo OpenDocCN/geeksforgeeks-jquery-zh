@@ -10,13 +10,13 @@
 
 **设置主题属性:**
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({theme: 'energyblue'});
 ```
 
 **返回主题属性:**
 
-```
+```html
 var showHeader = $('#treeGrid').jqxTreeGrid('theme');
 ```
 
@@ -30,7 +30,7 @@ var showHeader = $('#treeGrid').jqxTreeGrid('theme');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

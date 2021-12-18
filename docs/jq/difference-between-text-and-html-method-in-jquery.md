@@ -8,19 +8,19 @@
 
 *   **返回文字内容:**
 
-    ```
+    ```html
     $(selector).text()
     ```
 
 *   **设置文字内容:**
 
-    ```
+    ```html
     $(selector).text(content)
     ```
 
 *   **使用功能设置文本内容:**
 
-    ```
+    ```html
     $(selector).text(function(index, currentcontent))
     ```
 
@@ -30,25 +30,25 @@
 
 *   **返回内容:**
 
-    ```
+    ```html
     $(selector).html()
     ```
 
 *   **设置内容:**
 
-    ```
+    ```html
     $(selector).html(content)
     ```
 
 *   **使用功能设置内容:**
 
-    ```
+    ```html
     $(selector).html(function(index, currentcontent))
     ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

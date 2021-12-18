@@ -10,13 +10,13 @@
 
 *   设置*本地化*属性。
 
-    ```
+    ```html
     $('Selector').jqxFileUpload({ localization : object });
     ```
 
 *   返回*本地化*属性。
 
-    ```
+    ```html
     var localization = $('Selector').jqxFileUpload('localization');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

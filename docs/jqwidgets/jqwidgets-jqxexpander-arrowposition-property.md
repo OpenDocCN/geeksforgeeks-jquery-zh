@@ -15,13 +15,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置箭头位置属性。
 
-```
+```html
 $('selector').jqxExpander({ arrowPosition: String });
 ```
 
 返回箭头位置属性。
 
-```
+```html
 var arrowPosition = $('selector').jqxExpander('arrowPosition');
 ```
 
@@ -38,7 +38,7 @@ var arrowPosition = $('selector').jqxExpander('arrowPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

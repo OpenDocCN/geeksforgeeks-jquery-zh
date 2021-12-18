@@ -41,7 +41,7 @@ jQuery Mobile 框架在“少写多做”的口头禅上更上一层楼。jQuery
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

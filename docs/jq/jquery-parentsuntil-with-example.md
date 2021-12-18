@@ -5,7 +5,7 @@
 **parentsUntil()** 是 jQuery 中的一个内置方法，用于查找 DOM 树中两个给定元素之间的所有祖先元素。文档对象模型是一个万维网联盟标准。这定义了访问 DOM 树中的元素。
 **语法:**
 
-```
+```html
 $(selector1).parentsUntil(selector2)
 
 ```
@@ -14,7 +14,7 @@ $(selector1).parentsUntil(selector2)
 **返回值:**返回两个给定元素之间的所有祖先元素。
 **jQuery 代码显示 parentsUntil()方法的工作方式:**
 
-```
+```html
 <html>
 
 <head>

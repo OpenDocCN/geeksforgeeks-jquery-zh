@@ -5,7 +5,7 @@
 **not()** 是 jQuery 中的一个内置函数，与 [filter()](https://www.geeksforgeeks.org/jquery-filter/) 方法正好相反。此函数将返回所有与具有特定“id”或“class”的选定元素不匹配的元素。
 **语法:**
 
-```
+```html
 $(selector).not(A)
 
 ```
@@ -17,7 +17,7 @@ $(selector).not(A)
 **代码#1:**
 在下面的代码中除了用类“main”以外的所有段落元素都在背景中用绿色突出显示。
 
-```
+```html
 <html>
 
 <head>
@@ -44,7 +44,7 @@ $(selector).not(A)
 **代码#2:**
 在下面所有 id 为“main”的段落元素在背景中用绿色突出显示。
 
-```
+```html
 <html>
 
 <head>

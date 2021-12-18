@@ -6,7 +6,7 @@ jQuery 中的**事件. event.isPropagationStopped()方法**用于检查是否调
 
 **语法:**
 
-```
+```html
 event.isPropagationStopped()
 ```
 
@@ -14,7 +14,7 @@ event.isPropagationStopped()
 
 **示例 1:** 本示例使用 event.isPropagationStopped()方法检查是否调用了 event.stopPropagation()。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -59,7 +59,7 @@ event.isPropagationStopped()
 
 **示例 2:** 本示例使用 event.isPropagationStopped()方法检查是否调用了 event.stopPropagation()。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 设置*禁用*属性。
 
-```
+```html
 $('Selector').jqxDropDownButton({disabled: false });
 ```
 
 使*禁用*属性。
 
-```
+```html
 var disabled = $('Selector').jqxDropDownButton('disabled');
 ```
 
@@ -31,7 +31,7 @@ var disabled = $('Selector').jqxDropDownButton('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -10,13 +10,13 @@
 
 设置*边界线宽度*属性:
 
-```
+```html
 $('Selector').jqxChart({ borderLineWidth : number});
 ```
 
 返回*边界线宽度*属性:
 
-```
+```html
 var borderLineWidth = 
     $('Selector').jqxChart('borderLineWidth');
 ```
@@ -32,7 +32,7 @@ var borderLineWidth =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置 *min* 属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ min: new $.jqx.date(0) });
     ```
 
 *   返回 *min* 属性。
 
-    ```
+    ```html
     var min = $('#Selector').jqxScheduler('min');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

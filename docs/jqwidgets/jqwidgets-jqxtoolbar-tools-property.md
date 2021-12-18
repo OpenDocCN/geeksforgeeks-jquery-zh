@@ -10,7 +10,7 @@
 
 *   设置*工具*属性。
 
-    ```
+    ```html
     $('#Selector').jqxToolBar({ 
        tools: "button button button | toggleButton | dropdownlist combobox | input" 
     });
@@ -18,7 +18,7 @@
 
 *   归还*工具*财物。
 
-    ```
+    ```html
     var tools = $('#Selector').jqxToolBar('tools');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

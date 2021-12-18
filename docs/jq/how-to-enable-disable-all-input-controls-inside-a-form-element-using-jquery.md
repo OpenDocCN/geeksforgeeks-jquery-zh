@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```html
 $(selector).prop( property, value )
 ```
 
 **例 1:** 在本例中，**。prop()** 方法用于禁用表单元素内的所有输入控件。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -101,7 +101,7 @@ $(selector).prop( property, value )
 
 **例 2:** 在本例中，**。prop()** 方法用于启用表单内的所有输入控件。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -183,7 +183,7 @@ $(selector).prop( property, value )
 
 **示例 3:** 在本例中，启用和禁用表单内的所有输入控件是按顺序进行的。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

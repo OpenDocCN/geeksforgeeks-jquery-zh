@@ -10,13 +10,13 @@
 
 设置*就绪*属性。
 
-```
+```html
 $('#dataTable').jqxDataTable({ready:function(){ // code}});
 ```
 
 返回*就绪*属性。
 
-```
+```html
 var ready = $('#dataTable').jqxDataTable('ready');
 ```
 
@@ -31,7 +31,7 @@ var ready = $('#dataTable').jqxDataTable('ready');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

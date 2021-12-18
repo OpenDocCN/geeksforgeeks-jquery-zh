@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#treeGrid").jqxTreeGrid('getColumnProperty', dataField, propertyName);
 ```
 
@@ -30,7 +30,7 @@ $("#treeGrid").jqxTreeGrid('getColumnProperty', dataField, propertyName);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

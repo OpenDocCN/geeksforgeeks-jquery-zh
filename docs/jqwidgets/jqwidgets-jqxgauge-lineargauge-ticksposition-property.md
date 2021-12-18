@@ -10,13 +10,13 @@
 
 *   它用于设置 ticksPosition 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ ticksPosition : string});
 ```
 
 *   它用于返回 ticksPosition 属性。
 
-```
+```html
 var ticksPosition = $('Selector').jqxLinearGauge('ticksPosition');
 ```
 
@@ -37,7 +37,7 @@ var ticksPosition = $('Selector').jqxLinearGauge('ticksPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

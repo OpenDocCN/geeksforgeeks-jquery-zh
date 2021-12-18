@@ -10,13 +10,13 @@
 
 设置 allowDrag 属性。
 
-```
+```html
 $('selector').jqxTree({ allowDrag: Boolean });
 ```
 
 返回 allowDrag 属性。
 
-```
+```html
 var allowDrag = $('selector').jqxTree('allowDrag');
 ```
 
@@ -33,7 +33,7 @@ var allowDrag = $('selector').jqxTree('allowDrag');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

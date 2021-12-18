@@ -6,7 +6,7 @@ jQuery 中的**回调. has()** 方法用于回答列表是否有任何附加的�
 
 **语法:**
 
-```
+```html
 callbacks.has([callback])
 
 ```
@@ -19,7 +19,7 @@ callbacks.has([callback])
 
 **示例 1:** 此示例返回“true”，因为列表中有“func”。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -68,7 +68,7 @@ callbacks.has([callback])
 
 **示例 2:** 此示例返回“false”，因为“func2”不在列表中。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

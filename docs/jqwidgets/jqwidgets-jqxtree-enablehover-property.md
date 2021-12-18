@@ -10,13 +10,13 @@
 
 设置 enableHover 属性。
 
-```
+```html
 $('selector').jqxTree({ enableHover: Boolean });
 ```
 
 返回 enableHover 属性。
 
-```
+```html
 var enableHover = $('selector').jqxTree('enableHover');
 ```
 
@@ -33,7 +33,7 @@ var enableHover = $('selector').jqxTree('enableHover');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

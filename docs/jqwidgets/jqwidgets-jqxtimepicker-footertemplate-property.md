@@ -10,13 +10,13 @@
 
 设置 *footerTemplate* 属性。
 
-```
+```html
 $('selector').jqxTimePicker({ footerTemplate: String });
 ```
 
 返回 *footerTemplate* 属性。
 
-```
+```html
 var footerTemplate = $('selector').jqxTimePicker('footerTemplate');
 ```
 
@@ -31,7 +31,7 @@ var footerTemplate = $('selector').jqxTimePicker('footerTemplate');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

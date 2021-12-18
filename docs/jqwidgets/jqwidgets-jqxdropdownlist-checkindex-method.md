@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('checkIndex', index );
 ```
 
@@ -23,7 +23,7 @@ $("Selector").jqxDropDownList('checkIndex', index );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

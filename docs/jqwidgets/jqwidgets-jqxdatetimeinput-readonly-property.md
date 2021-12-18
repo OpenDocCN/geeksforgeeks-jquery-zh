@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 readonly 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ readonly: Boolean });
 ```
 
 返回 readonly 属性。
 
-```
+```html
 var readonly = $('selector').jqxDateTimeInput('readonly');
 ```
 
@@ -33,7 +33,7 @@ var readonly = $('selector').jqxDateTimeInput('readonly');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   用于设置 *min* 属性。
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({min: 0 });
     ```
 
 *   获得 *min* 房产。
 
-    ```
+    ```html
     var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('min');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

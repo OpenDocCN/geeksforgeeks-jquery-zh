@@ -5,7 +5,7 @@
 **向下键()**是 jQuery 中的一个内置方法，用于在用户按下键盘上的某个键时触发向下键事件。如果按键保持按下状态，则每次操作系统重复按键时都会发送事件。因此，使用 keydown()方法，我们可以检测到是否有任何键正在下降。
 **语法:**
 
-```
+```html
 $(selector).keydown(function) 
 
 ```
@@ -17,7 +17,7 @@ $(selector).keydown(function)
 **代码#1:**
 下面的代码用于检查一个按键是否正在按下。
 
-```
+```html
 <title>Jquery | Keydown() </title>
     $(document).keydown(function(event) {
 
@@ -38,7 +38,7 @@ $(selector).keydown(function)
 **代码#2:**
 下面的代码用于检查从键盘上按下了哪个特定的键和事件。键码和事件。哪个将返回按下的键的 UNICODE 值，两者都是浏览器特定的。
 
-```
+```html
 <title>Jquery | Keydown() </title>
 
 $(document).keydown(function(event) {

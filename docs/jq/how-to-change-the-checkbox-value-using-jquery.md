@@ -5,7 +5,7 @@
 **复选框**用于让用户从有限的选项中选择一个或多个选项。**:复选框**选择器选择带有类型复选框的输入元素。
 **语法:**
 
-```
+```html
 $('#textboxID').val($("#checkboxID").is(':checked'));
 ```
 
@@ -14,7 +14,7 @@ $('#textboxID').val($("#checkboxID").is(':checked'));
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ $('#textboxID').val($("#checkboxID").is(':checked'));
 
 ## java 描述语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

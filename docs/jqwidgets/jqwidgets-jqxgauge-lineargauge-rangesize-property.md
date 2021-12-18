@@ -10,13 +10,13 @@
 
 *   设置 rangeSize 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ rangeSize : number/string });
 ```
 
 *   返回 rangeSize 属性。
 
-```
+```html
 var rangeSize = $('Selector').jqxLinearGauge('rangeSize ');
 ```
 
@@ -31,7 +31,7 @@ var rangeSize = $('Selector').jqxLinearGauge('rangeSize ');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

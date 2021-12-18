@@ -22,7 +22,7 @@ insertAt()方法用于向 jqxComboBox 中插入一个新项。如果新项目被
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('insertAt', Object/String, index );
 ```
 
@@ -42,7 +42,7 @@ $('selector').jqxComboBox('insertAt', Object/String, index );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

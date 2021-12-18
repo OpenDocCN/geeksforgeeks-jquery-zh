@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 showRange 属性。
 
-```
+```html
 $('selector').jqxSlider({ showRange: Boolean });
 ```
 
 返回 showRange 属性。
 
-```
+```html
 var showRange = $('selector').jqxSlider('showRange');
 ```
 
@@ -33,7 +33,7 @@ var showRange = $('selector').jqxSlider('showRange');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

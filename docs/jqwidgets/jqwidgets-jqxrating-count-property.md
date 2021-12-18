@@ -10,13 +10,13 @@
 
 设置*计数*属性。
 
-```
+```html
 $('selector').jqxRating({ count: Number });
 ```
 
 返回*计数*属性。
 
-```
+```html
 var count = $('selector').jqxRating('count');
 ```
 
@@ -31,7 +31,7 @@ var count = $('selector').jqxRating('count');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

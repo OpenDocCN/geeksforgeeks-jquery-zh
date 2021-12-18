@@ -6,7 +6,7 @@ jQuery 中的 **post()方法**使用 POST HTTP 请求从服务器加载页面，
 
 **语法:**
 
-```
+```html
  $.post( url, data, callback_function, data_type )
 ```
 
@@ -19,7 +19,7 @@ jQuery 中的 **post()方法**使用 POST HTTP 请求从服务器加载页面，
 
 **main.php**这个 PHP 文件调用在下面的例子中当按钮被按下的时候。
 
-```
+```html
 <?php
     echo "Hello Geeks!";
 ?>
@@ -27,7 +27,7 @@ jQuery 中的 **post()方法**使用 POST HTTP 请求从服务器加载页面，
 
 **示例:**这个示例使用 post()方法并调用一个 PHP 文件。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

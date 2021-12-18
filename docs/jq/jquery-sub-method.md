@@ -7,7 +7,7 @@ JQuery 中的 **sub()方法**用于将字符串显示为下标文本。此方法
 
 **语法:**
 
-```
+```html
 string.sub()
 
 ```
@@ -16,7 +16,7 @@ string.sub()
 
 *   **例 1:**
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 
@@ -56,7 +56,7 @@ string.sub()
 
 *   **例 2:**
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 

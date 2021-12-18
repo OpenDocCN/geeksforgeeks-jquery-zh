@@ -10,13 +10,13 @@
 
 设置*动画类型*属性:
 
-```
+```html
 $('selector').jqxRibbon({ animationType: String });
 ```
 
 返回*动画类型*属性:
 
-```
+```html
 var animationType = $('selector').jqxRibbon('animationType');
 ```
 
@@ -31,7 +31,7 @@ var animationType = $('selector').jqxRibbon('animationType');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

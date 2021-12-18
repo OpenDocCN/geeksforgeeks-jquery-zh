@@ -8,7 +8,7 @@ val()方法用于设置或返回 jqxBarGauge 值的数组。它接受单个参�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge('val');
 ```
 
@@ -25,7 +25,7 @@ $('.selector').jqxBarGauge('val');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

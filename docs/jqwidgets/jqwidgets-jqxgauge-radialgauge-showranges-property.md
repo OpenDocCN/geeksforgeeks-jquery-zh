@@ -10,13 +10,13 @@
 
 *   设置*显示范围*属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ showRanges: Boolean });  
     ```
 
 *   返回*显示范围*属性。
 
-    ```
+    ```html
     var showRanges = $('Selector').jqxGauge('showRanges');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

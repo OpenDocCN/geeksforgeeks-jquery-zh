@@ -10,13 +10,13 @@
 
 *   设置**显示标题**属性。
 
-    ```
+    ```html
     $('selector').jqxListMenu({ showHeader: Boolean });
     ```
 
 *   返回**显示标题**属性。
 
-    ```
+    ```html
     var showHeader = $('selector').jqxListMenu('showHeader');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

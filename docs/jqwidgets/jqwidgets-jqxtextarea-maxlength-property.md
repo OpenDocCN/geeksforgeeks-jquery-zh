@@ -10,13 +10,13 @@
 
 *   设置*最大长度*属性。
 
-    ```
+    ```html
     $('selector').jqxTextArea({ maxLength: Number });
     ```
 
 *   返回*最大长度*属性。
 
-    ```
+    ```html
     var maxLength = $('selector').jqxTextArea('maxLength');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

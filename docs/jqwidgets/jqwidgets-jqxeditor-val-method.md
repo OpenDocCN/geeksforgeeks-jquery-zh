@@ -10,13 +10,13 @@
 
 设置编辑器的值
 
-```
+```html
 $('Selector').jqxEditor('val', string);  
 ```
 
 返回编辑器的值
 
-```
+```html
 var value = $("Selector").val();
 ```
 
@@ -40,7 +40,7 @@ var value = $("Selector").val();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

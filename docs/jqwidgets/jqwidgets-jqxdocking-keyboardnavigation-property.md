@@ -10,7 +10,7 @@
 
 *   用于设置 ***键盘导航*** 属性:
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({
         keyboardNavigation: true
     });  
@@ -18,7 +18,7 @@
 
 *   获取 ***键盘导航*** 属性:
 
-    ```
+    ```html
     var keyboardNavigation = 
         $('#jqxDocking').jqxDocking('keyboardNavigation');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

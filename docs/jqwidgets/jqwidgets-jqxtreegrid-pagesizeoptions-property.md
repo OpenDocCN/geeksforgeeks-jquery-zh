@@ -10,7 +10,7 @@
 
 *   ****设置**页面大小选项**属性:****
 
-    ```
+    ```html
     **$('#treeGrid').jqxTreeGrid({ 
         pageSizeOptions: ['1', '2', '3', '4'] 
     });** 
@@ -18,7 +18,7 @@
 
 *   ****获取**页面大小选项** ***s*** 属性。：****
 
-    ```
+    ```html
     **var pageSizeOptions = 
         $('#treeGrid').jqxTreeGrid('pageSizeOptions');** 
     ```
@@ -33,7 +33,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

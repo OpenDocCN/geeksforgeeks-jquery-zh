@@ -6,7 +6,7 @@ jQuery UI 可排序小部件延迟选项用于设置以毫秒为单位的时间�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).sortable({
   delay: 150
 });
@@ -20,7 +20,7 @@ $( ".selector" ).sortable({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

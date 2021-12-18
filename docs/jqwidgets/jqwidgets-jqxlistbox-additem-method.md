@@ -20,13 +20,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 当项目类型为字符串时:
 
-```
+```html
 $("#jqxListBox").jqxListBox('addItem', 'Item');  
 ```
 
 当项目属于对象类型时:
 
-```
+```html
 $("#jqxListBox").jqxListBox('addItem', { label: 'Text' value: 'Id'} );  
 ```
 
@@ -41,7 +41,7 @@ $("#jqxListBox").jqxListBox('addItem', { label: 'Text' value: 'Id'} );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

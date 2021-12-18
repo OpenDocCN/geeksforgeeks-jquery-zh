@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('removeAt', index);
 ```
 
@@ -23,7 +23,7 @@ $('selector').jqxComboBox('removeAt', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

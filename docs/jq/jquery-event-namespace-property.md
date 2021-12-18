@@ -6,7 +6,7 @@ jQuery 中的 **event.namespace 属性**用于在事件被触发时返回自定�
 
 **语法:**
 
-```
+```html
 event.namespace
 ```
 
@@ -14,7 +14,7 @@ event.namespace
 
 **示例 1:** 本示例使用 event.namespace 属性返回和移除命名空间。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -69,7 +69,7 @@ event.namespace
 
 **示例 2:** 本示例使用 click.mySomething 命名空间来滑动切换内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').on('expandedItem', function (event) {
     var expandedItem = event.args.item;
 });
@@ -25,7 +25,7 @@ $('Selector').on('expandedItem', function (event) {
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

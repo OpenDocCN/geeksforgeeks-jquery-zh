@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $("[attribute^='value']")
 ```
 
@@ -19,7 +19,7 @@ $("[attribute^='value']")
 
 **示例 1:** 本示例使用[attribute^=value]选择器选择类名以 top 开头的元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -71,7 +71,7 @@ $("[attribute^='value']")
 
 **示例 2:** 本示例使用[attribute^=value]选择器选择类名以 top 开头的元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

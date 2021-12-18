@@ -8,7 +8,7 @@ Colorbox 是一个 jQuery 插件，它扩展了 jQuery 库以包含额外的功�
 
 **语法:**
 
-```
+```html
 $(element).colorbox({ 
     top: "Apx",
     left: "Bpx",
@@ -21,7 +21,7 @@ $(element).colorbox({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html>
 
@@ -63,7 +63,7 @@ $(element).colorbox({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html>
 
@@ -105,7 +105,7 @@ $(element).colorbox({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html>
 
@@ -149,7 +149,7 @@ $(element).colorbox({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html>
 

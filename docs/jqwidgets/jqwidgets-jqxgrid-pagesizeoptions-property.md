@@ -10,7 +10,7 @@
 
 *   设置*页面大小选项*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ 
         pagesizeoptions: ['10', '20', '30']
     });
@@ -18,7 +18,7 @@
 
 *   返回*页面大小选项*属性。
 
-    ```
+    ```html
     var pagesizeoptions = $('#Selector')
             .jqxGrid('pagesizeoptions');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

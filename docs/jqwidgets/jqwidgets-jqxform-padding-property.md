@@ -10,7 +10,7 @@
 
 设置*填充*属性。
 
-```
+```html
 $('Selector').jqxForm({ padding :  {
     left: 5, top: 5, right: 5, bottom: 5
 } });  
@@ -18,7 +18,7 @@ $('Selector').jqxForm({ padding :  {
 
 返回*填充*属性。
 
-```
+```html
 var stylesheets = $('Selector').jqxForm('padding');
 ```
 
@@ -35,7 +35,7 @@ var stylesheets = $('Selector').jqxForm('padding');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

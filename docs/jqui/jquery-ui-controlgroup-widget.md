@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $( ".my_games_control_group" ).controlgroup({
 });
 ```
@@ -25,7 +25,7 @@ $( ".my_games_control_group" ).controlgroup({
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -84,7 +84,7 @@ $( ".my_games_control_group" ).controlgroup({
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -143,7 +143,7 @@ $( ".my_games_control_group" ).controlgroup({
 
 **例 3:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -227,7 +227,7 @@ $( ".my_games_control_group" ).controlgroup({
 
 **例 4:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

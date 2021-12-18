@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxNavigationBar('invalidate');
 ```
 
@@ -27,7 +27,7 @@ $('Selector').jqxNavigationBar('invalidate');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

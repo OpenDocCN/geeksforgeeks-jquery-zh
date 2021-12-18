@@ -6,7 +6,7 @@ JQuery 中的这个**delivered . notify()**方法用于调用具有给定参数�
 
 **语法:**
 
-```
+```html
 deferred.notify(params)
 ```
 
@@ -20,7 +20,7 @@ deferred.notify(params)
 
 *   **示例:**在本例中，notify()是用参数调用的。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 
@@ -64,7 +64,7 @@ deferred.notify(params)
 
 *   **示例:**在本例中，调用 notify()时没有参数。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 

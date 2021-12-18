@@ -10,13 +10,13 @@ hasThreeStates 属性用于设置或返回具有 3 种状态的复选框-选中�
 
 设置 hasThreeStates 属性。
 
-```
+```html
 $('selector').jqxCheckBox({ hasThreeStates: Boolean });
 ```
 
 返回 hasThreeStates 属性。
 
-```
+```html
 var hasThreeStates = $('selector').jqxCheckBox('hasThreeStates');
 ```
 
@@ -30,7 +30,7 @@ var hasThreeStates = $('selector').jqxCheckBox('hasThreeStates');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

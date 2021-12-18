@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).live(event, data, function)
 ```
 
@@ -18,7 +18,7 @@ $(selector).live(event, data, function)
 
 **示例-1:** 事件发生时显示和隐藏文本。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +61,7 @@ $(selector).live(event, data, function)
 
 **示例-2:** 事件发生时插入元素并隐藏。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

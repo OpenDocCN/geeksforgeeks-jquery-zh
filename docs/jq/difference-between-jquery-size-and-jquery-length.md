@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).size()
 ```
 
@@ -16,7 +16,7 @@ $(selector).size()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -44,7 +44,7 @@ $(selector).size()
 
 **输出:**
 
-```
+```html
 5
 ```
 
@@ -52,7 +52,7 @@ $(selector).size()
 
 **JQuery.size()实现:**
 
-```
+```html
 size()->function()
 {
   return this.length; 
@@ -65,7 +65,7 @@ size()->function()
 
 **语法:**
 
-```
+```html
 $(selector).length
 ```
 
@@ -75,7 +75,7 @@ $(selector).length
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -103,7 +103,7 @@ $(selector).length
 
 **输出:**
 
-```
+```html
 5
 ```
 

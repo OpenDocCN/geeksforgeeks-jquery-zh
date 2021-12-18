@@ -10,13 +10,13 @@
 
 用于设置 ***legendPosition*** 属性:
 
-```
+```html
 $("#jqxTreeMap").jqxTreeMap({legendPosition: {x: 25, y: 25}});  
 ```
 
 获取 ***legendPosition*** 属性:
 
-```
+```html
 var baseColor = $('#jqxTreeMap').jqxTreeMap('legendPosition'); 
 ```
 
@@ -31,7 +31,7 @@ var baseColor = $('#jqxTreeMap').jqxTreeMap('legendPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

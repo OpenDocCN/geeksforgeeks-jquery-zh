@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).append(content, function(index, html))
 ```
 
@@ -26,7 +26,7 @@ $(selector).append(content, function(index, html))
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

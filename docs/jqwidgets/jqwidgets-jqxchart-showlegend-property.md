@@ -10,13 +10,13 @@
 
 *   它用于设置 showLegend 属性。
 
-```
+```html
 $('Selector').jqxChart({ showLegend : boolean});
 ```
 
 *   它用于返回 showLegend 属性。
 
-```
+```html
 var showLegend = $('Selector').jqxChart('showLegend');
 ```
 
@@ -31,7 +31,7 @@ var showLegend = $('Selector').jqxChart('showLegend');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

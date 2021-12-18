@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var getXAxisRect = chartInstance.getXAxisRect(0);
 ```
 
@@ -23,7 +23,7 @@ var getXAxisRect = chartInstance.getXAxisRect(0);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

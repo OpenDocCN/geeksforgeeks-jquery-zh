@@ -8,7 +8,7 @@ $符号只是 jQuery()函数的一个标识符。
 
 **语法:**
 
-```
+```html
 $('selector').action();
 ```
 
@@ -16,7 +16,7 @@ $('selector').action();
 
 ## 超文本标记语言
 
-```
+```html
 !DOCTYPE html>
 <html lang="en">
 
@@ -44,7 +44,7 @@ $('selector').action();
 
 **输出:**
 
-```
+```html
 true
 ```
 
@@ -54,7 +54,7 @@ true
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -91,7 +91,7 @@ true
 
 ****语法:****
 
-```
+```html
 var new_identifier = jQuery.noConflict();
 ```
 
@@ -99,7 +99,7 @@ var new_identifier = jQuery.noConflict();
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -135,6 +135,6 @@ var new_identifier = jQuery.noConflict();
 
 ****输出:****
 
-```
+```html
 This is a paragraph
 ```

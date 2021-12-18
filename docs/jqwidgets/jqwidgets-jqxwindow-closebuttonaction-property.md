@@ -10,13 +10,13 @@
 
 设置 *closeButtonAction* 属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ closeButtonAction: 'close'});  
 ```
 
 获得 *closeButtonAction* 属性。
 
-```
+```html
 var cBA = $('#jqxWindow').jqxWindow('closeButtonAction'); 
 ```
 
@@ -31,7 +31,7 @@ var cBA = $('#jqxWindow').jqxWindow('closeButtonAction');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

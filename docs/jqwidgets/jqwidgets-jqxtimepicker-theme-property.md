@@ -10,13 +10,13 @@
 
 设置主题属性。
 
-```
+```html
 $('selector').jqxTimePicker({ theme: String });
 ```
 
 返回主题属性。
 
-```
+```html
 var theme = $('selector').jqxTimePicker('theme');
 ```
 
@@ -33,7 +33,7 @@ var theme = $('selector').jqxTimePicker('theme');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

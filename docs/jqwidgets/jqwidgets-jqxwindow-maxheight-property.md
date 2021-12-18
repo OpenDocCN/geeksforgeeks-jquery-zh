@@ -10,13 +10,13 @@
 
 设置 maxHeight 属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ maxHeight: 1000 });  
 ```
 
 获取 maxHeight 属性。
 
-```
+```html
 var maxHeight = $('#jqxWindow').jqxWindow('maxHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var maxHeight = $('#jqxWindow').jqxWindow('maxHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

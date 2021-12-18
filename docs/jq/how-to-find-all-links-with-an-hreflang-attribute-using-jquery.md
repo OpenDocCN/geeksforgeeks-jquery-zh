@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```html
 jQuery( "[attribute|='value']" )
 
 $( "a[hreflang|='en']" ) 
@@ -26,7 +26,7 @@ $( "a[hreflang|='en']" )
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>
@@ -69,7 +69,7 @@ href lang = en
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>

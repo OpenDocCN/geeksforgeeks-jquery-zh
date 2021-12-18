@@ -5,7 +5,7 @@
 最接近的()是 jQuery 中的一个内置方法，它返回 DOM 树中所选元素的第一个祖先。此方法从当前元素向上遍历，搜索元素的第一个祖先。文档对象模型是一个万维网联盟标准。这定义了访问 DOM 树中的元素。
 **语法:**
 
-```
+```html
 $(selector).closest(para1, para2);
 
 ```
@@ -22,7 +22,7 @@ $(selector).closest(para1, para2);
 **Code #1:**
 In the below code, optional parameter is not passed.
 
-```
+```html
 <html>
 
 <head>
@@ -73,7 +73,7 @@ In the below code, optional parameter is not passed.
 **代码#2:**
 在下面的代码中，可选参数被传递给方法。
 
-```
+```html
 <html>
 
 <head>

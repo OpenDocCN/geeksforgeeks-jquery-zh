@@ -5,7 +5,7 @@
 JQuery 中的这个**delivered . resolve()**方法用于解析一个 delivered 对象，并使用给定的参数调用任何 done 回调。
 **语法:**
 
-```
+```html
 deferred.resolve([args])
 
 ```
@@ -20,7 +20,7 @@ deferred.resolve([args])
 
 *   **示例:**在本例中，使用参数调用 resolve()。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 
@@ -65,7 +65,7 @@ deferred.resolve([args])
 
 *   **示例:**在本例中，调用 resolve()时没有参数。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxInput({ source: Array/Function });
 ```
 
@@ -22,7 +22,7 @@ $('selector').jqxInput({ source: Array/Function });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

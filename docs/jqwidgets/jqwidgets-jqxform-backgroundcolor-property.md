@@ -10,13 +10,13 @@
 
 设置 *backgroundColor* 属性。
 
-```
+```html
 $('Selector').jqxForm({ backgroundColor:  'Color' });  
 ```
 
 返回 *backgroundColor* 属性。
 
-```
+```html
 var backgroundColor = 
     $('Selector').jqxForm('backgroundColor');
 ```
@@ -32,7 +32,7 @@ var backgroundColor =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

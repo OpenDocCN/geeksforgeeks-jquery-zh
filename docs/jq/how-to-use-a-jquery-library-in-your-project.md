@@ -15,7 +15,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -66,7 +66,7 @@ https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

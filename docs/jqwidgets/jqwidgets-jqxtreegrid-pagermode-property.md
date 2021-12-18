@@ -10,13 +10,13 @@
 
 *   设置**页面模式**属性:
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({pagerMode: "advanced" });  
     ```
 
 *   获取**页面模式**属性:
 
-    ```
+    ```html
     var pagerMode = $('#treeGrid').jqxTreeGrid('pagerMode'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

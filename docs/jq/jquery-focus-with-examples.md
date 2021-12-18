@@ -5,7 +5,7 @@
 **focus()** 是 jQuery 中的一个内置方法，用于聚焦一个元素。通过鼠标点击或选项卡导航按钮，元素变得聚焦。
 **语法:**
 
-```
+```html
 $(selector).focus(function)
 
 ```
@@ -19,7 +19,7 @@ $(selector).focus(function)
 **代码#1:**
 在下面的代码中，一个函数被传递给这个方法。
 
-```
+```html
 <html>
 
 <head>
@@ -67,7 +67,7 @@ $(selector).focus(function)
 **代码#2:**
 在下面的代码中，没有参数传递给这个方法。
 
-```
+```html
 <html>
 
 <head>

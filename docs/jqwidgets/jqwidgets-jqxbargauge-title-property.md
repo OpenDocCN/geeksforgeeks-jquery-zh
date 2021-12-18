@@ -8,7 +8,7 @@ title 属性用于设置或返回 BarGauge 的标题。该属性可以是具有�
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge({
   values: [array],
   title: {
@@ -30,7 +30,7 @@ $('.selector').jqxBarGauge({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -5,7 +5,7 @@
 **serializeArray()** 是 jQuery 中的一个内置方法，用于创建一个准备编码为 JSON 字符串的对象的 JavaScript 数组。它对表单和/或表单控件的 jQuery 集合进行操作。控件可以有几种类型。JSON 字符串是一个文本，可以将任何 JavaScript 对象转换成 JSON，并将 JSON 发送到服务器。
 **语法:**
 
-```
+```html
 $(selector).serializeArray()
 
 ```
@@ -16,7 +16,7 @@ $(selector).serializeArray()
 
 **显示 serializeArray()方法工作情况的 jQuery 代码:**
 
-```
+```html
 <html>
 
 <head>

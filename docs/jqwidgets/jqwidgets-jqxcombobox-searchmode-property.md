@@ -22,13 +22,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置搜索模式属性。
 
-```
+```html
 $('selector').jqxComboBox({ searchMode: String });
 ```
 
 返回 dropDownHeight 属性。
 
-```
+```html
 var searchMode = $('selector').jqxComboBox('searchMode');
 ```
 
@@ -48,7 +48,7 @@ var searchMode = $('selector').jqxComboBox('searchMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

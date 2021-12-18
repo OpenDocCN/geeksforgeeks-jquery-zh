@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置选择属性。
 
-```
+```html
 $('selector').jqxNavBar({ selection: Boolean });
 ```
 
 返回选择属性。
 
-```
+```html
 var selection = $('selector').jqxNavBar('selection');
 ```
 
@@ -35,7 +35,7 @@ var selection = $('selector').jqxNavBar('selection');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

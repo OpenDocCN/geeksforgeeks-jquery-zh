@@ -10,12 +10,12 @@
 
 *   **设置 *rtl* 属性。
 
-    ```
+    ```html
     $('#Selector').jqxToolBar({ rtl: true });
     ```** 
 *   **归还 *rtl* 房产。
 
-    ```
+    ```html
     var rtl = $('#Selector').jqxToolBar('rtl');
     ```** 
 
@@ -29,7 +29,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

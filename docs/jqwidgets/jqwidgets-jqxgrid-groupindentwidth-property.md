@@ -10,13 +10,13 @@
 
 *   设置 *groupindentwidth* 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ groupindentwidth: 30});
     ```
 
 *   返回 *groupindentwidth* 属性。
 
-    ```
+    ```html
     var groupindentwidth = 
         $('#Selector').jqxGrid('groupindentwidth');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -22,7 +22,7 @@
 
 设置*位置*属性。
 
-```
+```html
 $('#jqxButton').jqxButton({
     imgPosition: "left", 
     imgSrc: 'images/andrew.png' 
@@ -31,7 +31,7 @@ $('#jqxButton').jqxButton({
 
 返回*位置*属性。
 
-```
+```html
 var imgPosition = $('#jqxButton').jqxButton('imgPosition');
 ```
 
@@ -46,7 +46,7 @@ var imgPosition = $('#jqxButton').jqxButton('imgPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

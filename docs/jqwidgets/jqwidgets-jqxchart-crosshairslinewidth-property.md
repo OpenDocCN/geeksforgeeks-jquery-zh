@@ -10,13 +10,13 @@
 
 *   设置**十字准线新 idth** 属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ crosshairsLineWidth : number});
     ```
 
 *   返回**十字准线新 idth** 属性。
 
-    ```
+    ```html
     var crosshairsLineWidth = 
         $('Selector').jqxChart('crosshairsLineWidth');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

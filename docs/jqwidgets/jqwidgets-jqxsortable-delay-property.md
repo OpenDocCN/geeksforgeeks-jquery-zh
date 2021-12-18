@@ -10,13 +10,13 @@
 
 *   设置延迟属性:
 
-    ```
+    ```html
     $('Selector').jqxSortable({ delay : number });
     ```
 
 *   返回延迟属性:
 
-    ```
+    ```html
     var delay = $('Selector').jqxSortable('delay');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

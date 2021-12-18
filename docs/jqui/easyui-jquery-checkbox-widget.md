@@ -6,13 +6,13 @@
 
 **jQuery 易 UI 下载:**
 
-```
+```html
 https://www.jeasyui.com/download/index.php
 ```
 
 **语法:**
 
-```
+```html
 <input class="easyui-checkbox">
 ```
 
@@ -54,7 +54,7 @@ https://www.jeasyui.com/download/index.php
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head> 
     <!-- EasyUI specific stylesheets-->

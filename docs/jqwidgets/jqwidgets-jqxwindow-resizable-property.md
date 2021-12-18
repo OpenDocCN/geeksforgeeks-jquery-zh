@@ -10,13 +10,13 @@
 
 设置*可调整大小的*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ resizable: false });  
 ```
 
 获取*可调整大小的*属性。
 
-```
+```html
 var resizable = $('#jqxWindow').jqxWindow('resizable'); 
 ```
 
@@ -31,7 +31,7 @@ var resizable = $('#jqxWindow').jqxWindow('resizable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

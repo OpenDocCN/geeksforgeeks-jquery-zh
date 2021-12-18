@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxDocking').jqxDocking('showAllCollapseButtons');
 ```
 
@@ -27,7 +27,7 @@ $('#jqxDocking').jqxDocking('showAllCollapseButtons');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

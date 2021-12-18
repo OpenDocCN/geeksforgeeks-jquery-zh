@@ -10,25 +10,25 @@
 
 *   要设置展开的项目:
 
-    ```
+    ```html
     $('Selector').jqxNavigationBar('val', Item_Index);
     ```
 
 *   对于使用 jQuery 的 val()设置扩展项:
 
-    ```
+    ```html
     $("Selector").val(Item_Index);
     ```
 
 *   要获取展开的项目:
 
-    ```
+    ```html
     var value = $("Selector").jqxNavigationBar('val');
     ```
 
 *   要使用 jQuery 的 val()获取扩展项的索引:
 
-    ```
+    ```html
     var value = $("Selector").val();
     ```
 
@@ -49,7 +49,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

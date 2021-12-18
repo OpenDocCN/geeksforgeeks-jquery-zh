@@ -10,13 +10,13 @@
 
 *   用于设置*宽度*属性:
 
-    ```
+    ```html
     $('Selector').jqxNavigationBar({ width: 250 });
     ```
 
 *   获取*宽度**T2***属性:
 
-    ```
+    ```html
     var width = $('Selector').jqxNavigationBar('width');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxButton').jqxButton('focus'); 
 ```
 
@@ -23,7 +23,7 @@ $('#jqxButton').jqxButton('focus');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

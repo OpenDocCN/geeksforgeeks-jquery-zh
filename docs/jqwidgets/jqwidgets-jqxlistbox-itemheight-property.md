@@ -10,13 +10,13 @@
 
 要设置*项目高度*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({itemHeight: 25});
 ```
 
 要获取*项目高度*属性:
 
-```
+```html
 var itemHeight = $('#jqxListBox').jqxListBox('itemHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var itemHeight = $('#jqxListBox').jqxListBox('itemHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

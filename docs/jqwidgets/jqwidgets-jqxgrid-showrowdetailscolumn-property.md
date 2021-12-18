@@ -10,13 +10,13 @@
 
 *   设置*showrow detailscolum*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ showrowdetailscolumn: false});
     ```
 
 *   返回*showrow detailsculum*属性。
 
-    ```
+    ```html
     var showrowdetailscolumn = 
         $('#Selector').jqxGrid('showrowdetailscolumn');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

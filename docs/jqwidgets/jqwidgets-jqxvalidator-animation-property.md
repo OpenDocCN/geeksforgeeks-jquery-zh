@@ -10,13 +10,13 @@
 
 *   用于设置 ***动画*** 属性。
 
-    ```
+    ```html
     $('#jqxValidator').jqxValidator({ animation: 'fade' });  
     ```
 
 *   获取 ***动画*** 属性。
 
-    ```
+    ```html
     var animation = $('#jqxValidator').jqxValidator('animation'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -20,7 +20,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').jqxTreeGrid('getCheckedRows');
 ```
 
@@ -39,7 +39,7 @@ $('Selector').jqxTreeGrid('getCheckedRows');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

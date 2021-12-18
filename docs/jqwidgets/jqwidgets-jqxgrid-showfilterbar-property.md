@@ -12,13 +12,13 @@
 
 *   设置 *showfilterbar* 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ showfilterbar: true});
     ```
 
 *   返回 *showfilterbar* 属性。
 
-    ```
+    ```html
     var showfilterbar = 
         $('#Selector').jqxGrid('showfilterbar');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的这个**追加()方法**是用来在选中元素的末尾插入一�
 
 **语法:**
 
-```
+```html
 $(selector).append( content, function(index, html) )
 ```
 
@@ -19,7 +19,7 @@ $(selector).append( content, function(index, html) )
 
 **示例 1:** 本示例在段落和列表末尾追加内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -75,7 +75,7 @@ https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
 
 **示例 2:** 本示例在段落末尾追加内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

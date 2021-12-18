@@ -6,7 +6,7 @@ mouseup()方法是 jQuery 中的一个内置方法，当鼠标左键在选定的
 
 **语法:**
 
-```
+```html
 $(selector).mouseup(parameter)
 ```
 
@@ -18,7 +18,7 @@ $(selector).mouseup(parameter)
 
 **例 1:** 本例包含参数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -60,7 +60,7 @@ $(selector).mouseup(parameter)
 
 **程序 2:** 本例不包含参数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

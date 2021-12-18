@@ -10,13 +10,13 @@
 
 *   **要设置*taktopweighteditems*属性:**
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ takeTopWeightedItems: true });
     ```
 
 *   **要获取*taktopweighteditems*属性:**
 
-    ```
+    ```html
     var value = $('#jqxTagCloud')
         .jqxTagCloud({ 'takeTopWeightedItems' });
     ```
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

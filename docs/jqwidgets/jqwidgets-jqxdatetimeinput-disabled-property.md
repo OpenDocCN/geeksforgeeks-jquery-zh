@@ -10,13 +10,13 @@ disabled 属性用于设置或返回小部件是否被禁用。它接受布尔�
 
 设置禁用属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ disabled: Boolean });
 ```
 
 返回禁用的属性。
 
-```
+```html
 var disabled = $('selector').jqxDateTimeInput('disabled');
 ```
 
@@ -33,7 +33,7 @@ var disabled = $('selector').jqxDateTimeInput('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

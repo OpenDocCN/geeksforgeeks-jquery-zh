@@ -10,13 +10,13 @@
 
 *   设置 *ticksMinor* 属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ ticksMinor : object });  
     ```
 
 *   返回 *ticksMinor* 属性。
 
-    ```
+    ```html
     var ticksMinor = $('Selector').jqxGauge('ticksMinor');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

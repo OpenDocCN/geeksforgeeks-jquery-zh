@@ -10,13 +10,13 @@
 
 *   用于设置*滚动速度*属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ scrollSpeed : number});
     ```
 
 *   用于返回*滚动速度*属性。
 
-    ```
+    ```html
     var scrollSpeed = $('Selector').jqxSortable('scrollSpeed ')
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

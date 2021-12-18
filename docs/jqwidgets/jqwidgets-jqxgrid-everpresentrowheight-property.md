@@ -10,13 +10,13 @@
 
 设置*ever presentrowheel*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ everpresentrowheight: 35});
 ```
 
 返回*ever presentrowheel*属性:
 
-```
+```html
 var everpresentrowheight = 
     $('#Selector').jqxGrid('everpresentrowheight');
 ```
@@ -32,7 +32,7 @@ var everpresentrowheight =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

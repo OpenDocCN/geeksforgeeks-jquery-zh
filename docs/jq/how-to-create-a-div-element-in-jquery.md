@@ -8,7 +8,7 @@
 
 **示例:**本示例使用 prepend()方法在选定元素的开头创建 div 元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -56,7 +56,7 @@ https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"> 
 
 **示例 1:** 本示例使用 appendTo()方法在选定元素的末尾创建 div 元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -99,7 +99,7 @@ https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"> 
 
 **示例 2:** 本示例使用 appendTo()方法在 div 元素内创建 div 元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

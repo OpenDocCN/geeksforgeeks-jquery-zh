@@ -10,13 +10,13 @@
 
 *   它用于设置可编辑属性。
 
-```
+```html
 $('Selector').jqxGrid({ editable: true});
 ```
 
 *   它用于返回可编辑属性。
 
-```
+```html
 var editable = $('Selector').jqxGrid('editable');
 ```
 
@@ -31,7 +31,7 @@ var editable = $('Selector').jqxGrid('editable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

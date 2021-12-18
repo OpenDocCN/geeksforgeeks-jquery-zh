@@ -17,13 +17,13 @@
 
 设置*位置*属性:
 
-```
+```html
 $('selector').jqxRibbon({ position: String });
 ```
 
 返回*位置*属性:
 
-```
+```html
 var position = $('selector').jqxRibbon('position');
 ```
 
@@ -35,7 +35,7 @@ var position = $('selector').jqxRibbon('position');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

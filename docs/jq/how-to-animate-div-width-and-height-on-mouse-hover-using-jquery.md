@@ -7,21 +7,21 @@
 *   **[。animate()方法](https://www.geeksforgeeks.org/jquery-animate-with-examples/):**animate()方法用 CSS 样式改变元素的状态。
     **语法:**
 
-    ```
+    ```html
     $(selector).animate({styles}, para1, para2, para3);
     ```
 
 *   **[。mouseenter()方法](https://www.geeksforgeeks.org/jquery-mouseenter-with-examples/) :** 当鼠标指针移动到所选元素上时，mouseenter()方法工作。
     **语法:**
 
-    ```
+    ```html
     $(selector).mouseenter(function)
     ```
 
 *   **[。mouseleaf()方法](https://www.geeksforgeeks.org/jquery-mouseleave-with-examples/) :** 当鼠标指针离开所选元素时，mouseleaf()方法工作。
     **语法:**
 
-```
+```html
 $(selector).mouseleave(function)
 ```
 
@@ -34,7 +34,7 @@ $(selector).mouseleave(function)
 
 **示例 1:** 使用 jQuery 制作悬停时 div 宽度的动画。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -121,7 +121,7 @@ $(selector).mouseleave(function)
 
 **示例 2:** 使用 jQuery 制作悬停时 div 高度的动画。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).val(parameter)
 ```
 
@@ -20,7 +20,7 @@ $(selector).val(parameter)
 
 ## index.html
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

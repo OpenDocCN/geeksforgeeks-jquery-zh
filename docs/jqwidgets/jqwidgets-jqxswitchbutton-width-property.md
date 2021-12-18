@@ -10,13 +10,13 @@
 
 设置*宽度*属性。
 
-```
+```html
 $('Selector').jqxSwitchButton({width:"200px"});
 ```
 
 获取*宽度*属性。
 
-```
+```html
 var width = $('Selector').jqxSwitchButton('width');
 ```
 
@@ -33,7 +33,7 @@ var width = $('Selector').jqxSwitchButton('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -23,7 +23,7 @@ HTML、CSS、JavaScript、jQuery、Bootstrap 的基础知识。此外，用户�
 1.  **Initialize the layout:**
     First of all, let us initialize the layout of our register page using bootstrap. For the progress bar, we will use *progress* class for building progress bars from the bootstrap (irrespective of the variant/version of bootstrap used).
 
-    ```
+    ```html
     <!-- Register page for password strength indicator -->
     <!DOCTYPE html>
     <html lang="en">
@@ -150,7 +150,7 @@ HTML、CSS、JavaScript、jQuery、Bootstrap 的基础知识。此外，用户�
 
         **最终解决方案:**
 
-        ```
+        ```html
         <!-- Update progress-bar whenever input field is updated.-->
         <!DOCTYPE html>
         <html lang="en">

@@ -10,13 +10,13 @@
 
 设置 *selectionRenderer* 属性。
 
-```
+```html
 $('selector').jqxDropDownList({ selectionRenderer: Number });
 ```
 
 返回 *selectionRenderer* 属性。
 
-```
+```html
 var selectionRenderer = $('selector').jqxDropDownList('selectionRenderer');
 ```
 
@@ -31,7 +31,7 @@ var selectionRenderer = $('selector').jqxDropDownList('selectionRenderer');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

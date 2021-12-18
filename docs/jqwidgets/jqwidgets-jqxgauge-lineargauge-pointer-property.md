@@ -6,7 +6,7 @@
 
 **指针**属性用于设置或返回指针属性。即，它用于设置或返回其指针的 jqxLinearGauge 属性。它接受对象类型值，默认值如下
 
-```
+```html
 { 
   pointerType: 'default', 
   style: 
@@ -22,13 +22,13 @@
 
 *   设置*指针*属性。
 
-    ```
+    ```html
     $('Selector').jqxLinearGauge({ pointer : object });
     ```
 
 *   返回*指针*属性。
 
-    ```
+    ```html
     var pointer = $('Selector').jqxLinearGauge('pointer');
     ```
 
@@ -43,7 +43,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置 *min* 属性。
 
-```
+```html
 $('selector').jqxProgressBar({ min: Number });
 ```
 
 返回 *min* 属性。
 
-```
+```html
 var min = $('selector').jqxProgressBar('min');
 ```
 
@@ -28,7 +28,7 @@ var min = $('selector').jqxProgressBar('min');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 **设置 *rtl* 属性。**
 
-```
+```html
 $('Selector').jqxDropDownButton({rtl : true}); 
 ```
 
 **获得 *rtl* 房产。**
 
-```
+```html
 var rtl = $('Selector').jqxDropDownButton('rtl'); 
 ```
 
@@ -30,7 +30,7 @@ var rtl = $('Selector').jqxDropDownButton('rtl');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

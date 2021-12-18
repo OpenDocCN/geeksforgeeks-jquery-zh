@@ -10,13 +10,13 @@
 
 *****设置 *zIndex* 属性。*****
 
-```
+```html
 ***$('#jqxWindow').jqxWindow({ zIndex: 9999});*** 
 ```
 
  *****获得 *zIndex* 属性。*****
 
-```
+```html
 ***var zIndex = $('#jqxWindow').jqxWindow('zIndex');*** 
 ```
 
@@ -30,7 +30,7 @@
 
 ## *****超文本标记语言*****
 
-```
+```html
 ***<!DOCTYPE html>
 <html lang="en">
 

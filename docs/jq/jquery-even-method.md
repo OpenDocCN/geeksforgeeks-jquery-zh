@@ -6,7 +6,7 @@ jQuery 中的**偶()**方法用于从所选元素中选择偶索引元素。
 
 **语法:**
 
-```
+```html
 $(selector).even()
 
 ```
@@ -15,7 +15,7 @@ $(selector).even()
 
 **示例 1:** 本示例选择偶数索引列表元素。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -83,7 +83,7 @@ $(selector).even()
 
 **示例 2:** 本示例选中了偶数索引复选框。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

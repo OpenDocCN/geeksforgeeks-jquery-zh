@@ -6,7 +6,7 @@ jQuery 中的这个 **uniqueSort()** 方法用于对 DOM 元素的数组进行�
 
 **语法:**
 
-```
+```html
 jQuery.uniqueSort( array )
 
 ```
@@ -19,7 +19,7 @@ jQuery.uniqueSort( array )
 
 **示例 1:** 在本例中， **uniqueSort()方法**从 div 数组中移除重复元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -77,7 +77,7 @@ jQuery.uniqueSort( array )
 
 **示例 2:** 在本例中， **uniqueSort()方法**从 p 的数组中移除所有重复的元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

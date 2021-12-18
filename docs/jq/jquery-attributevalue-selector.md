@@ -11,14 +11,14 @@ jQuery **【属性=值】**选择器用于选择和修改具有指定属性和�
 
 **语法:**
 
-```
+```html
 $("[attribute=value]")
 
 ```
 
 **示例-1:** 本示例选择 id 为 GFG 的元素，并为其添加边框。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -53,7 +53,7 @@ $("[attribute=value]")
 
 **示例-2:** 本示例更改具有值为 GFG 的类属性的元素的文本颜色。
 
-```
+```html
 <!DOCTYPE html>
 
 <html>

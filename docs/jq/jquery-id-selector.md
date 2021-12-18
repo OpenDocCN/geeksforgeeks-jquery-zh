@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $("#id")
 ```
 
@@ -16,7 +16,7 @@ $("#id")
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -49,7 +49,7 @@ $("#id")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

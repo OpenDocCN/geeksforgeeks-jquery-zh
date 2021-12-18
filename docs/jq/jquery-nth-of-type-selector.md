@@ -5,7 +5,7 @@
 **:第 n 个类型()**是 **jQuery** 中的内置选择器，用于选择指定父元素的所有第 n 个子元素。
 **语法:**
 
-```
+```html
  parent_name : nth-of-type(n|even|odd|algebraic equation)
 ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -88,7 +88,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -143,7 +143,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -198,7 +198,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

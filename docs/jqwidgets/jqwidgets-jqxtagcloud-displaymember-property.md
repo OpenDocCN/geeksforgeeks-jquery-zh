@@ -10,13 +10,13 @@
 
 *   设置*显示成员*属性:
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ displayMember: 'Name' });
     ```
 
 *   获取*显示成员*属性:
 
-    ```
+    ```html
     var displayMember = 
         $('#jqxTagCloud').jqxTagCloud('displayMember');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

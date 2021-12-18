@@ -10,13 +10,13 @@
 
 要设置*增量搜索延迟*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({incrementalSearchDelay: 400});
 ```
 
 要获取*增量搜索延迟*属性:
 
-```
+```html
 var incSearchDel = $('#jqxListBox').jqxListBox('incrementalSearchDelay'); 
 ```
 
@@ -31,7 +31,7 @@ var incSearchDel = $('#jqxListBox').jqxListBox('incrementalSearchDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

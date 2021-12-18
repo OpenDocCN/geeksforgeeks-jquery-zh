@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#dataTable').on('filter',
 function (event)
 {
@@ -31,7 +31,7 @@ function (event)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

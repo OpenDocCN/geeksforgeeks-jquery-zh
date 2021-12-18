@@ -10,7 +10,7 @@
 
 ****语法:****
 
-```
+```html
 $(<selector>).slideToggle(<speed>,<ease_property>,<function>);
 ```
 
@@ -24,7 +24,7 @@ $(<selector>).slideToggle(<speed>,<ease_property>,<function>);
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ $(<selector>).slideToggle(<speed>,<ease_property>,<function>);
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html>
 

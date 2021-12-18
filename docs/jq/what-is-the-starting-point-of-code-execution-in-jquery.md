@@ -8,13 +8,13 @@ jQuery 从 [**$(文档)开始执行代码。ready()**](https://www.geeksforgeeks
 
 **语法:**
 
-```
+```html
 $(document).ready(function({....})); 
 ```
 
 或者
 
-```
+```html
 $(function({....}));
 ```
 
@@ -22,7 +22,7 @@ $(function({....}));
 
 **语法:**
 
-```
+```html
 $( window ).on( "load", function() { ... })
 ```
 
@@ -30,7 +30,7 @@ $( window ).on( "load", function() { ... })
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

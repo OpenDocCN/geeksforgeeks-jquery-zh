@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置内容属性。
 
-```
+```html
 $('Selector').jqxTooltip({ content: String });
 ```
 
 返回内容属性。
 
-```
+```html
 var content = $('Selector').jqxTooltip('content');
 ```
 
@@ -34,7 +34,7 @@ var content = $('Selector').jqxTooltip('content');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

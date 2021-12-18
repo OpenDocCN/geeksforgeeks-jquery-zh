@@ -10,13 +10,13 @@
 
 要设置*宽度*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({ width: '250px', height: '250px' });
 ```
 
 要获得*宽度*属性:
 
-```
+```html
 var width = $('#jqxListBox').jqxListBox('width');
 ```
 
@@ -31,7 +31,7 @@ var width = $('#jqxListBox').jqxListBox('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

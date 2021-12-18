@@ -10,13 +10,13 @@
 
 设置*高度*属性。
 
-```
+```html
 $('Selector').jqxSwitchButton({height:"400px"});
 ```
 
 获取*高度*属性。
 
-```
+```html
 var height = $('Selector').jqxSwitchButton('height');
 ```
 
@@ -31,7 +31,7 @@ var height = $('Selector').jqxSwitchButton('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

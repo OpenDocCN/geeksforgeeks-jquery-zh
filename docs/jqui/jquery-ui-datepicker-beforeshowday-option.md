@@ -12,7 +12,7 @@
 
 ****例 1:****
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -80,7 +80,7 @@
 
 ****例 2:****
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -142,7 +142,7 @@
 
 ****例 3:****
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -206,7 +206,7 @@
 
 **同样，我们也可以禁用第二个和第四个星期六。下面是禁用星期日、第二个星期六和第四个星期六的代码。**
 
-```
+```html
 function my_check(in_date) {
             var firstDay = new Date(in_date.getFullYear(), in_date.getMonth(), 1);
             var saturday2 = 14 - firstDay.getDay()

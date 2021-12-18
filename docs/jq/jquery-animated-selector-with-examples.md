@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(:animated)
 ```
 
@@ -16,7 +16,7 @@ $(:animated)
 
 **示例:**
 
-```
+```html
 <html>
     <head>
         <script src=

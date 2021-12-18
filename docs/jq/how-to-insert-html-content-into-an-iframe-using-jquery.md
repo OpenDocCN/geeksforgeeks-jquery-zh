@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).contents()
 ```
 
@@ -19,7 +19,7 @@ $(selector).contents()
     **jQuery 代码展示这种方法的工作原理:**
     **示例 1:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -78,7 +78,7 @@ $(selector).contents()
 
     **例 2:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

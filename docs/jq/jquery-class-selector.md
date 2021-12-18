@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(".class")
 ```
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -46,7 +46,7 @@ $(".class")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

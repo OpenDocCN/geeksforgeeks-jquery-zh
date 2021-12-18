@@ -10,13 +10,13 @@
 
 *   用于设置*和*属性。
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({endAngle: 360 });
     ```
 
 *   为了得到 *endAngle* 房产。
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('endAngle');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

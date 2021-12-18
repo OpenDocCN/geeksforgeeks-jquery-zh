@@ -16,7 +16,7 @@
 
 用于设置*列组*属性。
 
-```
+```html
 $('Selector').jqxDataTable({
   columnGroups: [
     { text: 'Product Details', align: 'center', 
@@ -39,7 +39,7 @@ $('Selector').jqxDataTable({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

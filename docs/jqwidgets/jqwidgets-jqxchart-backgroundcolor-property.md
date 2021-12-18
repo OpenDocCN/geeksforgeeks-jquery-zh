@@ -10,13 +10,13 @@
 
 设置*背景颜色*属性:
 
-```
+```html
 $('Selector').jqxChart({ backgroundColor : string });
 ```
 
 返回 *backgroundColor* 属性:
 
-```
+```html
 var backgroundColor = 
     $('Selector').jqxChart('backgroundColor');
 ```
@@ -32,7 +32,7 @@ var backgroundColor =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

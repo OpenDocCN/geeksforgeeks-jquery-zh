@@ -10,13 +10,13 @@
 
 设置*页面大小*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ pagesize: 10});
 ```
 
 返回*页面大小*属性:
 
-```
+```html
 var pagesize = $('#Selector').jqxGrid('pagesize');
 ```
 
@@ -31,7 +31,7 @@ var pagesize = $('#Selector').jqxGrid('pagesize');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

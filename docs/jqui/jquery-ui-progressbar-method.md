@@ -13,11 +13,11 @@ Jquery UI(用户界面)是建立在 jQuery JavaScript 库之上的 JavaScript �
 **语法:**
 progress bar()方法有两种形式，每种形式的使用取决于需求。这些措施如下
 
-```
+```html
 $(selector, context).progressbar (options)
 ```
 
-```
+```html
 $(selector, context).progressbar ("action", params)
 ```
 
@@ -30,7 +30,7 @@ $(selector, context).progressbar ("action", params)
 
 **示例:**下面是上面解释的方法的实现:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -6,7 +6,7 @@ jQuery 用户界面由图形用户界面小部件、视觉效果和使用 jQuery
 
 **语法:**
 
-```
+```html
 $(".selector").resizable({
    maxWidth: width_val
 });
@@ -22,7 +22,7 @@ $(".selector").resizable({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   设置*数据*属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ data: {key1:value1,key2,value2} });
     ```
 
 *   返回*数据*属性。
 
-    ```
+    ```html
     var data = $('selector').jqxDragDrop('data');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

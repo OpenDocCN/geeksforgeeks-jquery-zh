@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 scrollStep 属性。
 
-```
+```html
 $('selector').jqxTabs({ scrollStep: Number });
 ```
 
 返回 scrollStep 属性。
 
-```
+```html
 var scrollStep = $('selector').jqxTabs('scrollStep');
 ```
 
@@ -35,7 +35,7 @@ var scrollStep = $('selector').jqxTabs('scrollStep');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

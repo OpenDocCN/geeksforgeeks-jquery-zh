@@ -6,7 +6,7 @@ jQuery 中的 **param()方法**用于创建数组或对象的表示。这种表�
 
 **语法:**
 
-```
+```html
 $.param(object, trad)
 ```
 
@@ -17,7 +17,7 @@ $.param(object, trad)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

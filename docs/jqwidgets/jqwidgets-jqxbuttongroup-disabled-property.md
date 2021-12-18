@@ -10,13 +10,13 @@
 
 *   它用于设置禁用属性。
 
-```
+```html
 $('Selector').jqxButtonGroup({disabled: false });
 ```
 
 *   它用于获取禁用属性。
 
-```
+```html
 var disabled = $('Selector').jqxButtonGroup('disabled');
 ```
 
@@ -31,7 +31,7 @@ var disabled = $('Selector').jqxButtonGroup('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

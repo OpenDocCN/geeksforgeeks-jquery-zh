@@ -10,13 +10,13 @@
 
 *   设置**动画持续时间**属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ animationDuration : number});
     ```
 
 *   返回**动画持续时间**属性。
 
-    ```
+    ```html
     var animationDuration = $('Selector')
             .jqxChart('animationDuration ');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

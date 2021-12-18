@@ -10,13 +10,13 @@ allowNullDate 属性用于设置或返回是否允许空值作为输入值。它
 
 设置 allowNullDate 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ allowNullDate: Boolean });
 ```
 
 返回 allowNullDate 属性。
 
-```
+```html
 var allowNullDate = $('selector').jqxDateTimeInput('allowNullDate');
 ```
 
@@ -33,7 +33,7 @@ var allowNullDate = $('selector').jqxDateTimeInput('allowNullDate');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

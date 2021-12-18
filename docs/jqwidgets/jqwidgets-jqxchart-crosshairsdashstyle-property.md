@@ -10,7 +10,7 @@
 
 *   设置**十字光标样式**属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ 
         crosshairsDashStyle: string 
     });
@@ -18,7 +18,7 @@
 
 *   返回**十字光标样式**属性。
 
-    ```
+    ```html
     var crosshairsDashStyle = 
         $('Selector').jqxHeatMap('crosshairsDashStyle ');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

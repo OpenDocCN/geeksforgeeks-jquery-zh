@@ -7,7 +7,7 @@ jQuery UI Selectmenu 宽度选项用于设置选项菜单的宽度，以像素�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).selectmenu({
   width: val
 });
@@ -23,7 +23,7 @@ $( ".selector" ).selectmenu({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

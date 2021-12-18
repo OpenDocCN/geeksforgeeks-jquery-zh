@@ -6,7 +6,7 @@
 制定此解决方案的主要方面是，仅当内容在屏幕上可见时，才使内容可读，否则应保持不可访问。在这里，我们将使用 [**attr()**](https://www.geeksforgeeks.org/jquery-attr-method/) 方法来做同样的事情，该方法用于设置/获取元素的属性。
 **语法:**
 
-```
+```html
 Getter: $([selector]).attr('attribute');
 Setter: $([selector]).attr('attribute', 'value');
 ```
@@ -16,7 +16,7 @@ Setter: $([selector]).attr('attribute', 'value');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,7 +10,7 @@
 
 *   设置*标签*属性:
 
-```
+```html
 $('#jqxKnob').jqxKnob({
     labels: {
         offset: '85%',
@@ -21,7 +21,7 @@ $('#jqxKnob').jqxKnob({
 
 *   获取*标签*属性:
 
-```
+```html
 var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('labels');
 ```
 
@@ -45,7 +45,7 @@ var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('labels');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

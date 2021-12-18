@@ -10,13 +10,13 @@
 
 *   用于设置*步骤*属性。
 
-    ```
+    ```html
     $('#jqxScrollBar').jqxScrollBar({ step: 70 });
     ```
 
 *   获取*步骤*属性。
 
-    ```
+    ```html
     var step = $('#jqxScrollBar').jqxScrollBar('step');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

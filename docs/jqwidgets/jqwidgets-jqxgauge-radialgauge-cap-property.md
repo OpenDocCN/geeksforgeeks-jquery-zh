@@ -10,13 +10,13 @@
 
 *   设置*上限*属性。
 
-```
+```html
 $('Selector').jqxGauge({ cap: object });  
 ```
 
 *   返回*帽*属性。
 
-```
+```html
 var cap = $('Selector').jqxGauge('cap');
 ```
 
@@ -31,7 +31,7 @@ var cap = $('Selector').jqxGauge('cap');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

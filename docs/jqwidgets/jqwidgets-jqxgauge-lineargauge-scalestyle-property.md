@@ -10,13 +10,13 @@
 
 *   它用于设置 scaleStyle 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ scaleStyle: object});
 ```
 
 *   它用于返回 scaleStyle 属性。
 
-```
+```html
 var scaleStyle = $('Selector').jqxLinearGauge('scaleStyle');
 ```
 
@@ -31,7 +31,7 @@ var scaleStyle = $('Selector').jqxLinearGauge('scaleStyle');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

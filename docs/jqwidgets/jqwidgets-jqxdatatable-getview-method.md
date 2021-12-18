@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#dataTable").jqxDataTable('getView');
 ```
 
@@ -25,7 +25,7 @@ $("#dataTable").jqxDataTable('getView');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

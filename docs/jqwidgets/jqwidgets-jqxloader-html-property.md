@@ -10,13 +10,13 @@
 
 设置 *html* 属性。
 
-```
+```html
 $('selector').jqxLoader({ html: String });
 ```
 
 返回 *html* 属性。
 
-```
+```html
 var html = $('selector').jqxLoader('html');
 ```
 
@@ -33,7 +33,7 @@ var html = $('selector').jqxLoader('html');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

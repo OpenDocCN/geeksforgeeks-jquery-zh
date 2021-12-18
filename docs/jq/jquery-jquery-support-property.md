@@ -6,7 +6,7 @@ jQuery 中的 **jQuery.support 属性**包含用于表示不同浏览器功能�
 
 **语法:**
 
-```
+```html
 jQuery.support.propvalue
 ```
 
@@ -34,7 +34,7 @@ jQuery.support.propvalue
 
 **示例 1:** 本示例使用 jQuery.support 属性向浏览器发送文本，以创建一个 XMLHttpRequest 对象。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -77,7 +77,7 @@ jQuery.support.propvalue
 
 **示例 2:** 此示例用 cors 参数值说明了 jQuery.support 属性。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

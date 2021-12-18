@@ -5,7 +5,7 @@
 **jQuery【属性~ =值】选择器**选择名称属性包含特定字符串的所有元素。
 **语法:**
 
-```
+```html
 $("[attribute~='string']")
 ```
 
@@ -16,7 +16,7 @@ $("[attribute~='string']")
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

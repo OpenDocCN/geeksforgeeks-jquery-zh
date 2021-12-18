@@ -10,13 +10,13 @@
 
 *   **设置宽松属性。**
 
-```
+```html
 $('selector').jqxTree({ easing: String });
 ```
 
 *   **归还宽松房产。**
 
-```
+```html
 var easing = $('selector').jqxTree('easing');
 ```
 
@@ -33,7 +33,7 @@ var easing = $('selector').jqxTree('easing');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

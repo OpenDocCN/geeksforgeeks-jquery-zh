@@ -6,7 +6,7 @@ jQuery 中的这个 **parseJSON()** 方法采用一个格式良好的 JSON 字�
 
 **语法:**
 
-```
+```html
 jQuery.parseJSON( json )
 
 ```
@@ -21,7 +21,7 @@ jQuery.parseJSON( json )
 
     **例 1:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -61,7 +61,7 @@ jQuery.parseJSON( json )
 
     **例 2:** 。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>

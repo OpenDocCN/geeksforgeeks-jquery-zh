@@ -10,13 +10,13 @@
 
 *   设置*滚动条大小*属性。
 
-    ```
+    ```html
     $('selector').jqxTextArea({ scrollBarSize: Number });
     ```
 
 *   返回*禁用的*属性。
 
-    ```
+    ```html
     var scrollBarSize = $('selector').jqxTextArea('scrollBarSize');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

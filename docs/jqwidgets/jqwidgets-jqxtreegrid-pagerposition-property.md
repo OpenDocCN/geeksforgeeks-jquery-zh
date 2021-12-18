@@ -10,13 +10,13 @@
 
 *   **用于设置 ***页面位置*** 属性:**
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({ pagerPosition: 'top' }); 
     ```
 
 *   **获取 ***页面位置*** 属性:**
 
-    ```
+    ```html
     var pagerPosition = $('#treeGrid').jqxTreeGrid('pagerPosition'); 
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

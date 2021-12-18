@@ -10,13 +10,13 @@ rtl 属性用于设置或返回一个值，该值指示小部件元素是否对�
 
 设置 rtl 属性。
 
-```
+```html
 $('selector').jqxMaskedInput({ rtl: Boolean });
 ```
 
 归还 rtl 的财产。
 
-```
+```html
 var rtl = $('selector').jqxMaskedInput('rtl');
 ```
 
@@ -30,7 +30,7 @@ var rtl = $('selector').jqxMaskedInput('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -5,7 +5,7 @@
 **事件.结果**是 jQuery 中的一个内置属性，用于查找由指定事件启动的事件处理程序返回的最后一个和前一个值。
 **语法:**
 
-```
+```html
 event.result
 
 ```
@@ -15,7 +15,7 @@ event.result
 
 **显示 event.result 属性工作的 jQuery 代码:**
 
-```
+```html
 <html>
 
 <head>

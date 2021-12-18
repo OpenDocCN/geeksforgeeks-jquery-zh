@@ -10,13 +10,13 @@
 
 *   用于设置 *zIndex* 属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ zIndex : number });
     ```
 
 *   用于返回 *zIndex* 属性。
 
-    ```
+    ```html
     var zIndex = $('Selector').jqxSortable('zIndex')
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

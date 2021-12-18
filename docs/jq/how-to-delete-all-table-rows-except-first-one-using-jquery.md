@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#btn').click(function () {
     $("#rTable").find("tr:gt(0)").remove();
 });
@@ -18,7 +18,7 @@ $('#btn').click(function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

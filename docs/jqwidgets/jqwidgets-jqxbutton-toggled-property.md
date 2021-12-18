@@ -10,13 +10,13 @@
 
 设置*切换*属性。
 
-```
+```html
 $('#jqxButton').jqxToggleButton({ toggled: true }); 
 ```
 
 获取*切换的*属性。
 
-```
+```html
 var toggled = $('#jqxButton').jqxToggleButton('toggled');
 ```
 
@@ -33,7 +33,7 @@ var toggled = $('#jqxButton').jqxToggleButton('toggled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

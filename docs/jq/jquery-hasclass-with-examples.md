@@ -5,7 +5,7 @@
 **hasClass()** 是 jQuery 中的一个内置方法，它检查具有指定类名的元素是否存在。
 **语法:**
 
-```
+```html
 $(selector).hasClass(className);
 
 ```
@@ -15,7 +15,7 @@ $(selector).hasClass(className);
 **返回值:**如果搜索成功则返回真，否则返回假。
 **jQuery 代码展示此方法的工作原理:**
 
-```
+```html
 <html>
 
 <head>

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#treeGrid').on('rowBeginEdit',  function (event)
 {
   // Arguments of the event
@@ -33,7 +33,7 @@ $('#treeGrid').on('rowBeginEdit',  function (event)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

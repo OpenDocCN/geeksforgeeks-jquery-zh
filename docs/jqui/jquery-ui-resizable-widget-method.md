@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 var widget = $( ".selector" ).resizable( "widget" );
 ```
 
@@ -22,7 +22,7 @@ var widget = $( ".selector" ).resizable( "widget" );
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>  
 <html lang="en">  
    <head>  

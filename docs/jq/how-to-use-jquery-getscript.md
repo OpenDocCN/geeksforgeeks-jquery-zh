@@ -6,7 +6,7 @@ jQuery [。 **getScript()**](https://www.geeksforgeeks.org/jquery-getscript-meth
 
 **语法:**
 
-```
+```html
 $.getScript(url,[callback])
 ```
 
@@ -16,7 +16,7 @@ $.getScript(url,[callback])
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>

@@ -6,7 +6,7 @@ jQuery UI 框架类和方法明确改进了 jQuery **toggle()** 和 **toggleClas
 
 **语法:**
 
-```
+```html
 $(selector).toggleClass(className [, switch ] [,
           duration ] [, easing ] [, complete ] )
 
@@ -14,14 +14,14 @@ $(selector).toggleClass(className [, switch ] [,
 
 或者
 
-```
+```html
 $(selector).toggleClass(className [, switch ] [, options])
 
 ```
 
 或者
 
-```
+```html
 $(selector).toggleClass([state] )
 
 ```
@@ -38,7 +38,7 @@ T5】选项:
 
 **示例 1:** 以下示例演示了脚本部分的 **toggleClass()** 方法。它通过按钮点击事件在*容器*元素中添加和删除“牛顿曲线”类来显示切换效果。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -133,7 +133,7 @@ T5】选项:
 
 **示例 2:** 以下示例通过按钮点击事件向 *paraId* 元素添加和删除多个类，即“字体样式”、“填充”和“边框”，演示了 **toggleClass()** 方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var data = $('#Selector').jqxGrid('getrowdatabyid', rowid);
 ```
 
@@ -25,7 +25,7 @@ var data = $('#Selector').jqxGrid('getrowdatabyid', rowid);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的这个 **isEmptyObject()** 方法用来判断一个对象是否为�
 
 **语法:**
 
-```
+```html
 jQuery.isEmptyObject( object )
 
 ```
@@ -21,7 +21,7 @@ jQuery.isEmptyObject( object )
 
 **示例 1:** 在本例中， **isEmptyObject()方法**检查对象是否为空。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,7 +52,7 @@ jQuery.isEmptyObject( object )
 
 **示例 2:** 在本例中， **isEmptyObject()方法**还会检查对象是否为空。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

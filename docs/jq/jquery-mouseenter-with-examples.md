@@ -6,7 +6,7 @@ mouseenter()方法是 jQuery 中的一个内置方法，当鼠标指针移动到
 
 **语法:**
 
-```
+```html
 $(selector).mouseenter(function)
 ```
 
@@ -18,7 +18,7 @@ $(selector).mouseenter(function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

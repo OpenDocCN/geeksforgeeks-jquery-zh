@@ -10,13 +10,13 @@
 
 *   它用于设置填充属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ padding : values});
     ```
 
 *   它用于返回填充属性。
 
-    ```
+    ```html
     var padding = $('Selector').jqxChart('padding');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -5,7 +5,7 @@
 **first()** 是 jQuery 中的一个内置函数，用于从指定的元素中选择第一个元素。
 **语法:**
 
-```
+```html
 $(selector).first()
 
 ```
@@ -20,7 +20,7 @@ $(selector).first()
 
 **Code #1:**
 
-```
+```html
 <html>
 
 <head>
@@ -62,7 +62,7 @@ $(selector).first()
 这里也可以通过选择所选元素的**【id】**或**【类】**进行选择。
 **代码#2:**
 
-```
+```html
 <html>
 
 <head>

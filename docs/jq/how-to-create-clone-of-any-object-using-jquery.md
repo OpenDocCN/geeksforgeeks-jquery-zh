@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 // Create a clone of the object using the extend() method 
 let newObj = jQuery.extend({}, obj);
 
@@ -22,7 +22,7 @@ let newDeepObj = jQuery.extend(true, {}, obj);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@ let newDeepObj = jQuery.extend(true, {}, obj);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

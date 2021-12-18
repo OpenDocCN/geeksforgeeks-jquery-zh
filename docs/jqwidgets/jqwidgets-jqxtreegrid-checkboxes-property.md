@@ -10,13 +10,13 @@
 
 *   **用于设置 ***复选框*** 属性:**
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({checkboxes: true}); 
     ```
 
 *   **获取 ***复选框*** 属性:**
 
-    ```
+    ```html
     var checkboxes = $('#treeGrid').jqxTreeGrid('checkboxes');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

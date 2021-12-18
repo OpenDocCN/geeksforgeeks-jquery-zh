@@ -15,13 +15,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置布局属性。
 
-```
+```html
 $('selector').jqxProgressBar({ layout: String });
 ```
 
 返回布局属性。
 
-```
+```html
 var layout = $('selector').jqxProgressBar('layout');
 ```
 
@@ -38,7 +38,7 @@ var layout = $('selector').jqxProgressBar('layout');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

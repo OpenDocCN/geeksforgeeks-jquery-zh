@@ -10,7 +10,7 @@
 
 *   设置*自动播放*属性。
 
-    ```
+    ```html
     $('Selector').jqxNotification({ 
         autoCloseDelay: number/string
     });
@@ -18,7 +18,7 @@
 
 *   返回*自动播放*属性。
 
-    ```
+    ```html
     var autoCloseDelay = $('Selector')
         .jqxNotification('autoCloseDelay');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

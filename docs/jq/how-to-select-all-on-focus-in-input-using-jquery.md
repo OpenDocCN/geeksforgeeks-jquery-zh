@@ -5,12 +5,12 @@
 当用户在元素内部或在元素焦点上进行文本选择时，使用 jQuery 将 **select()事件**应用于元素。此事件仅限于某些领域。
 **语法:**
 
-```
+```html
 $("selected element").select();
 
 ```
 
-```
+```html
 //Select all Input field on focus
 $("input").select();
 //Select Input field on focus whose type="text"
@@ -23,7 +23,7 @@ $("#input-field").select();
 **示例:**
 在下面的示例中，使用 focus、focus 和 click event 选择表单的所有输入元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

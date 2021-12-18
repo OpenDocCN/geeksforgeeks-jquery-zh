@@ -10,13 +10,13 @@
 
 设置*group sexpandedbdefault*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ groupsexpandedbydefault: true});
 ```
 
 返回*group sexpandedbdefault*属性:
 
-```
+```html
 var groupsexpandedbydefault = $('#Selector')
         .jqxGrid('groupsexpandedbydefault');
 ```
@@ -32,7 +32,7 @@ var groupsexpandedbydefault = $('#Selector')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

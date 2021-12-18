@@ -10,13 +10,13 @@
 
 设置*页面大小选项*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({ pageSizeOptions: [1, 2, 3, 4] });  
 ```
 
 返回*页面大小选项*属性:
 
-```
+```html
 var pageSizeOptions = $('#dataTable').jqxDataTable('pageSizeOptions'); 
 ```
 
@@ -31,7 +31,7 @@ var pageSizeOptions = $('#dataTable').jqxDataTable('pageSizeOptions');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

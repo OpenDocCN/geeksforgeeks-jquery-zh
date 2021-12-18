@@ -10,13 +10,13 @@
 
 设置*内容*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ content: 'GFG' });  
 ```
 
 获取*内容*属性:
 
-```
+```html
 var content = $('#jqxWindow').jqxWindow('content'); 
 ```
 
@@ -31,7 +31,7 @@ var content = $('#jqxWindow').jqxWindow('content');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

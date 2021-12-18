@@ -10,13 +10,13 @@
 
 设置高度属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({height: "200px" });
 ```
 
 返回高度属性:
 
-```
+```html
 var height = $('#dataTable').jqxDataTable('height');
 ```
 
@@ -31,7 +31,7 @@ var height = $('#dataTable').jqxDataTable('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

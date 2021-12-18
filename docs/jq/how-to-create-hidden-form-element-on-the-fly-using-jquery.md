@@ -12,7 +12,7 @@ JQuery 是使 JavaScript 的使用变得容易的库。插入 **<输入类型= '
 
 **例 1:** 如果只添加一个属性，那么可以通过在 *attr()* 方法中传递两个参数来给出。第一个参数是属性的名称，第二个参数是属性的值。
 
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -51,7 +51,7 @@ integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" 
 
 **例 2:** 在 **attr()** 方法中，通过将多个属性作为属性对象传递，也可以给出多个属性。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -100,7 +100,7 @@ integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" 
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 
 <html>

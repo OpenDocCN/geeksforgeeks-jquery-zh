@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $( ".selector" ).checkboxradio({
   label: "custom label"
 });
@@ -20,7 +20,7 @@ $( ".selector" ).checkboxradio({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

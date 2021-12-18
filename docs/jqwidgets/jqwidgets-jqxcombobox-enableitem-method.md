@@ -18,7 +18,7 @@ enableItem()方法用于启用项目。它接受对象/字符串类型的单个�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('enableItem', 'Item' );
 ```
 
@@ -38,7 +38,7 @@ $('selector').jqxComboBox('enableItem', 'Item' );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

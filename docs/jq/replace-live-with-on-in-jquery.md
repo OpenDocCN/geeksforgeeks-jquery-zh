@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```html
   $( selector ).live( events, data, function handler); 
 
 ```
@@ -26,7 +26,7 @@
 
 **代码片段:**
 
-```
+```html
 $( "#container a" ).live( "click", function() {
  // some response code to the event
   alert( "GeeksforGeeks" ); 
@@ -41,7 +41,7 @@ $( "#container a" ).live( "click", function() {
 
 **代码片段:**
 
-```
+```html
 $('a').live('click', function() { 
  alert("GeeksforGeeks") 
 });
@@ -52,7 +52,7 @@ $('a').live('click', function() {
 每当任何事件被冒泡到根文档时，jQuery 检查*点击*事件，并且还检查 CSS 选择器 *a* 。
 如果两个条件都满足，那么处理程序内部的代码就会被有效地执行，使得函数非常不灵活。
 
-```
+```html
 $( "a" ).live( "click", function( event ) {
  // It cancels the default action by this method.
   event.preventDefault();
@@ -63,7 +63,7 @@ $( "a" ).live( "click", function( event ) {
 **示例 1:**
 在下面的示例中，“click”事件使用此方法与给定的“p”关联。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -109,7 +109,7 @@ $( "a" ).live( "click", function( event ) {
 **示例 2:**
 在下面的示例中，“click”事件附带给定的“p”和另一个按钮，使用这种方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -152,7 +152,7 @@ $( "a" ).live( "click", function( event ) {
 **例 3 :**
 在下面的例子中，“click”事件是附带类“div”的，使用的就是这个方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -212,14 +212,14 @@ $( "a" ).live( "click", function( event ) {
 
     **语法:**
 
-    ```
+    ```html
       $(selector).on(events, childSelector, data, function handler);
 
     ```
 
     或者
 
-    ```
+    ```html
      $( document ).on( events, selector, data, function handler ); 
 
     ```
@@ -231,7 +231,7 @@ $( "a" ).live( "click", function( event ) {
 
     **代码片段:**
 
-    ```
+    ```html
     $('#parentId').on('click', '#childId', function() {
         // Code to be written
     });
@@ -255,7 +255,7 @@ $( "a" ).live( "click", function( event ) {
 
     **代码片段:**
 
-    ```
+    ```html
     $("#container a").on("click", function () {
     // some response code to the event
       alert("GeeksforGeeks.");
@@ -263,7 +263,7 @@ $( "a" ).live( "click", function( event ) {
 
     ```
 
-    ```
+    ```html
     $(document).on('click', '.selector', function() {
       /* some response code to the event */ 
       alert("GeeksforGeeks");
@@ -271,7 +271,7 @@ $( "a" ).live( "click", function( event ) {
 
     ```
 
-    ```
+    ```html
     $("#dataTable tbody").on("click", "tr", function(event){
       alert("GeeksforGeeks");
     })
@@ -283,7 +283,7 @@ $( "a" ).live( "click", function( event ) {
 
     **事件处理程序的代码片段:**
 
-    ```
+    ```html
     function print_message() {
       alert( "GeeksforGeeks" );
     }
@@ -295,7 +295,7 @@ $( "a" ).live( "click", function( event ) {
     **示例 1 :**
     此示例显示了使用 on()方法将“click”事件附加到“div”方块。
 
-    ```
+    ```html
     <html>
 
        <head>
@@ -341,7 +341,7 @@ $( "a" ).live( "click", function( event ) {
     **例 2:**
     此例显示，使用 on()方法将“click”事件附加到“li”上。
 
-    ```
+    ```html
     <!Doctype html>
     <html lang="en">
     <head>
@@ -394,7 +394,7 @@ $( "a" ).live( "click", function( event ) {
     jQuery 将事件处理程序附加到最近的祖先元素，然后允许它从子元素中冒泡。最初，jQuery live()用于将函数处理程序附加到当前不在文档中并且可以动态生成的元素。
     一些代表团如下:*
 
-    ```
+    ```html
      $('#container a').live('click', function(e) {
       e.preventDefault();
       alert('Anchor element is  clicked');
@@ -404,7 +404,7 @@ $( "a" ).live( "click", function( event ) {
 
     将 *live()* 变为 *on()* 后，代码编写如下:
 
-    ```
+    ```html
      $('#container').on('click', 'a', function(e) {
        e.preventDefault();
        alert('Anchor element is  clicked');
@@ -412,7 +412,7 @@ $( "a" ).live( "click", function( event ) {
 
     ```
 
-    ```
+    ```html
      $('button').live('click', execute);
      function execute() {
         // code for execution
@@ -422,7 +422,7 @@ $( "a" ).live( "click", function( event ) {
 
     将 *live()* 变为 *on()* 后，上面的代码编写如下:
 
-    ```
+    ```html
       $(document).on('click', 'button', execute);
       function execute() {
         // code for execution
@@ -433,7 +433,7 @@ $( "a" ).live( "click", function( event ) {
     在上面的示例中，对文档调用了 jQuery on()。
     但是如果选择更接近选择器的元素而不是文档，性能会更好。
 
-    ```
+    ```html
      $( "#id" ).live( "click", function() {
        alert("GeeksforGeeks live event .");
      });
@@ -442,7 +442,7 @@ $( "a" ).live( "click", function( event ) {
 
     将 *live()* 变为 *on()* 后，上面的代码编写如下:
 
-    ```
+    ```html
       $( "#id" ).on( "click", function() {
         alert("GeeksforGeeks on event.");
       });

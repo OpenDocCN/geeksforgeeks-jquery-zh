@@ -10,13 +10,13 @@
 
 *   设置 *rtl* 属性:
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({rtl: true});
     ```
 
 *   获得 *rtl* 房产:
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover').jqxPopover('rtl');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBulletChart({
     labelsFormat:'c'
 });
@@ -32,7 +32,7 @@ $('.selector').jqxBulletChart({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@ checkIndex()方法用于在“checkboxes”属性为真时检查 jqxComboBox 列
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('checkIndex', 'index' );
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('checkIndex', 'index' );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

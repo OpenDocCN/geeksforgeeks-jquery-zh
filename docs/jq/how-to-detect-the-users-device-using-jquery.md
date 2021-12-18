@@ -10,7 +10,7 @@
 
     **语法:**
 
-    ```
+    ```html
     navigator.userAgent
 
     ```
@@ -20,7 +20,7 @@
 
 **示例:**本示例使用 **navigator.userAgent 属性**来识别用户的设备。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

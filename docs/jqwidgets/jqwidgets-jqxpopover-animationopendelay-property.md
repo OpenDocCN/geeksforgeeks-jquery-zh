@@ -10,13 +10,13 @@
 
 *   **用于设置*动画延迟*属性。**
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({animationOpenDelay: 'slow'});
     ```
 
 *   **获取*动画延迟*属性。**
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover')
         .jqxPopover('animationOpenDelay');
     ```
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

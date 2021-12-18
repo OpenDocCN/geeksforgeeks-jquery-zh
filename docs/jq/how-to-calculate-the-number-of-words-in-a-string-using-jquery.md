@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```html
 string.split(separator, limit)
 ```
 
@@ -17,7 +17,7 @@ string.split(separator, limit)
 
     **示例 1:** 使用 trim()方法，从字符串中删除开始和结束空格
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -63,7 +63,7 @@ string.split(separator, limit)
 
     **例 2:** 无修剪()方法
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

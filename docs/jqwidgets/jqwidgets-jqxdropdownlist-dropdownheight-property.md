@@ -10,13 +10,13 @@ dropDownHeight 属性用于设置或返回 jqxDropDownList 的列表框的高度
 
 设置 dropDownHeight 属性。
 
-```
+```html
 $('selector').jqxDropDownList({ dropDownHeight: Number });
 ```
 
 返回 dropDownHeight 属性。
 
-```
+```html
 var dropDownHeight = $('selector').jqxDropDownList('dropDownHeight');
 ```
 
@@ -33,7 +33,7 @@ var dropDownHeight = $('selector').jqxDropDownList('dropDownHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

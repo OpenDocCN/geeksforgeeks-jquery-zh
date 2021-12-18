@@ -8,7 +8,7 @@ removeAt()方法用于使用索引号从列表框中移除一个项目。它接�
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('removeAt', index);
 ```
 
@@ -25,7 +25,7 @@ $("Selector").jqxDropDownList('removeAt', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

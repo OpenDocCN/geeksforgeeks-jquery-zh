@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置小部件的值。
 
-```
+```html
 $('Selector').jqxPasswordInput('val', "value");
 ```
 
 返回小部件的值。
 
-```
+```html
 var password = $('Selector').jqxPasswordInput('val'); 
 ```
 
@@ -33,7 +33,7 @@ var password = $('Selector').jqxPasswordInput('val');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

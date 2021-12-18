@@ -12,13 +12,13 @@
 
 *   它用于设置主题属性。
 
-```
+```html
 $('Selector').jqxDropDownButton({ theme: String });
 ```
 
 *   它用于获取主题属性。
 
-```
+```html
 var theme = $('Selector').jqxDropDownButton('theme');
 ```
 
@@ -33,7 +33,7 @@ var theme = $('Selector').jqxDropDownButton('theme');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxDocking').jqxDocking('enableWindowResize', 'windowId');
 ```
 
@@ -29,7 +29,7 @@ $('#jqxDocking').jqxDocking('enableWindowResize', 'windowId');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

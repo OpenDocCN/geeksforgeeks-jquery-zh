@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 jQuery( "[attribute^='value']" )
 ```
 
@@ -21,7 +21,7 @@ jQuery( "[attribute^='value']" )
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>

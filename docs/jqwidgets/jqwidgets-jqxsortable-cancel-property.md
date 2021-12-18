@@ -10,13 +10,13 @@
 
 *   设置*取消*属性。
 
-    ```
+    ```html
     $('Selector').jqxSortable({ cancel : string});
     ```
 
 *   归还*取消*房产。
 
-    ```
+    ```html
     var cancel = $('Selector').jqxSortable('cancel');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

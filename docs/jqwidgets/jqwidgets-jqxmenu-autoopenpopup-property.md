@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 autoOpenPopup 属性。
 
-```
+```html
 $('selector').jqxMenu({ autoOpenPopup: Boolean });
 ```
 
 返回 autoOpenPopup 属性。
 
-```
+```html
 var autoOpenPopup = $('selector').jqxMenu('autoOpenPopup');
 ```
 
@@ -33,7 +33,7 @@ var autoOpenPopup = $('selector').jqxMenu('autoOpenPopup');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

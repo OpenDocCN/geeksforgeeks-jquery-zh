@@ -6,7 +6,7 @@ wrapInner()方法是 jQuery 中的一个内置方法，用于将 HTML 元素包�
 
 **语法:**
 
-```
+```html
 $(selector).wrapInner(wrap_element, function(index))
 ```
 
@@ -22,7 +22,7 @@ $(selector).wrapInner(wrap_element, function(index))
 
 **示例 1:** 本示例不包含可选参数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -64,7 +64,7 @@ $(selector).wrapInner(wrap_element, function(index))
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

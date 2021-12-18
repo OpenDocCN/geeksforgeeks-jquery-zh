@@ -6,7 +6,7 @@
 
 **方法:**首先，我们添加一个按钮，点击这个按钮，调用一个名为 fun()的函数，在这个函数中，我们选择 p 元素，使用 JQuery 中的 **[每个()函数](https://www.geeksforgeeks.org/jquery-misc-each-method/)** 迭代每个段落，并使用 Jquery 中的 **[css()方法](https://www.geeksforgeeks.org/jquery-css-method/)** 将其颜色改为红色。
 
-```
+```html
 function fun(){
     $("p").each(function(){
         $(this).css("color","red");
@@ -18,7 +18,7 @@ function fun(){
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

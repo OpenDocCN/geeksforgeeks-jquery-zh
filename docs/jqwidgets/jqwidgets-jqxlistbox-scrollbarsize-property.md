@@ -10,13 +10,13 @@
 
 要设置*滚动条大小*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({scrollBarSize: 25});
 ```
 
 要获取*滚动条大小*属性:
 
-```
+```html
 var scrollBarSize = $('#jqxListBox').jqxListBox('scrollBarSize'); 
 ```
 
@@ -31,7 +31,7 @@ var scrollBarSize = $('#jqxListBox').jqxListBox('scrollBarSize');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

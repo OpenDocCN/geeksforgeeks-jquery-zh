@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxGauge('enable');
 ```
 
@@ -25,7 +25,7 @@ $('selector').jqxGauge('enable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

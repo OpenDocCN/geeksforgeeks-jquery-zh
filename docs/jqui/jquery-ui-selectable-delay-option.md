@@ -10,7 +10,7 @@ jQuery UI 可选*延迟*选项用于添加选择开始时的时间延迟，单�
 
 *   **用延迟选项初始化可选元素:**
 
-    ```
+    ```html
     $(".selector").selectable({
        delay: "delay-time"
     });
@@ -18,13 +18,13 @@ jQuery UI 可选*延迟*选项用于添加选择开始时的时间延迟，单�
 
 *   **初始化后设置延迟选项:**
 
-    ```
+    ```html
     $( ".selector" ).selectable( "option", "delay", 150 );
     ```
 
 *   **返回** ***延迟*** **选项:**
 
-    ```
+    ```html
     var delay = $( ".selector" ).selectable( "option", "delay" );
     ```
 
@@ -38,7 +38,7 @@ jQuery UI 可选*延迟*选项用于添加选择开始时的时间延迟，单�
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

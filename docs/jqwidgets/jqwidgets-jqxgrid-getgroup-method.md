@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```html
 var group = $('#Selector').jqxGrid('getgroup', groupIndex);
 ```
 
@@ -33,7 +33,7 @@ var group = $('#Selector').jqxGrid('getgroup', groupIndex);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

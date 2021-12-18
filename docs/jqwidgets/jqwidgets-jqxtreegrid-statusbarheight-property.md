@@ -10,13 +10,13 @@
 
 **用于设置*状态右侧*属性。**
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({statusBarHeight: 15}); 
 ```
 
 **获取*状态条* t 属性。**
 
-```
+```html
 var statusBarHeight = 
     $('#treeGrid').jqxTreeGrid('statusBarHeight'); 
 ```
@@ -31,7 +31,7 @@ var statusBarHeight =
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

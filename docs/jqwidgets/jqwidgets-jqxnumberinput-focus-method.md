@@ -8,7 +8,7 @@ focus()方法用于聚焦输入字段。它不接受任何参数，也不返回�
 
 **语法:**
 
-```
+```html
 $('Selector').jqxNumberInput('focus');
 ```
 
@@ -25,7 +25,7 @@ $('Selector').jqxNumberInput('focus');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

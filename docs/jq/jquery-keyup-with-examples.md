@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).keyup(function) 
 
 ```
@@ -22,7 +22,7 @@ $(selector).keyup(function)
 **Code #1:**
 Below code is used to check if a keyboard key is released after being pressed.
 
-```
+```html
 <html>
 
 <head>
@@ -59,7 +59,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js">
 **代码:#2**
 下面的代码用于每当键盘释放一个键时改变页面的背景颜色
 
-```
+```html
 <html>
 
 <head>

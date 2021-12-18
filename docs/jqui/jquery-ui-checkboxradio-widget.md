@@ -6,7 +6,7 @@ checkboxradio 小部件可用于接收用户的输入。传统的 checkboxradio 
 
 **语法:**
 
-```
+```html
 $( "$selector" ).checkboxradio({
 });
 ```
@@ -22,7 +22,7 @@ $( "$selector" ).checkboxradio({
 
 **示例 1:** 让我们创建一个带有基本主题的简单复选框收音机，下面是它的代码。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -98,7 +98,7 @@ $( "$selector" ).checkboxradio({
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

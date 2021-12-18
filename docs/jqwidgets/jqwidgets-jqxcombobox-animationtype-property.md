@@ -16,13 +16,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 enableContainerClick 属性。
 
-```
+```html
 $('selector').jqxComboBox({ animationType: 'none' });
 ```
 
 返回 enableContainerClick 属性。
 
-```
+```html
 var animationType = $('selector').jqxComboBox('animationType');
 ```
 
@@ -42,7 +42,7 @@ var animationType = $('selector').jqxComboBox('animationType');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

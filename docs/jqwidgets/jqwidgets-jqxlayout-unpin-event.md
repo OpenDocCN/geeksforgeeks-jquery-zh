@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxLayout').on('unpin', function (event) {
   // Code Section
 });
@@ -24,7 +24,7 @@ $('#jqxLayout').on('unpin', function (event) {
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

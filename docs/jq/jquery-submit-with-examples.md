@@ -5,7 +5,7 @@
 submit()方法是 jQuery 中的一个内置方法，用于提交事件，或者在提交事件发生时附加一个要运行的函数。此方法只能应用于表单元素。
 **语法:**
 
-```
+```html
 $(selector).submit(parameters);
 ```
 
@@ -15,7 +15,7 @@ $(selector).submit(parameters);
 
 **程序 1:** jQuery 代码显示 submit()方法的工作原理
 
-```
+```html
 <html>
     <head>
         <script src=
@@ -79,7 +79,7 @@ $(selector).submit(parameters);
 
 **程序 2:**
 
-```
+```html
 <html>
     <head>
         <script src=

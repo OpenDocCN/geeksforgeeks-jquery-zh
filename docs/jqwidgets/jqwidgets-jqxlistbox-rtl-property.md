@@ -10,13 +10,13 @@
 
 要设置 *rtl* 属性:
 
-```
+```html
 $('#jqxListBox').jqxListBox({rtl : true});  
 ```
 
 要获得 *rtl* 属性:
 
-```
+```html
 var rtl = $('#jqxListBox').jqxListBox('rtl'); 
 ```
 
@@ -31,7 +31,7 @@ var rtl = $('#jqxListBox').jqxListBox('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

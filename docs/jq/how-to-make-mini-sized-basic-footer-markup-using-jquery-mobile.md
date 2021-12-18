@@ -12,7 +12,7 @@ jQuery Mobile 是一种基于网络的技术，用于制作可在所有智能手
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ jQuery Mobile 是一种基于网络的技术，用于制作可在所有智能手
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

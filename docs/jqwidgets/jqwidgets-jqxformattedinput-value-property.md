@@ -10,13 +10,13 @@ value 属性用于设置或返回 jqxFormattedInput 小部件的值。它接受�
 
 设置 value 属性。
 
-```
+```html
 $('selector').jqxFormattedInput({ value: String });
 ```
 
 返回 value 属性。
 
-```
+```html
 var value = $('selector').jqxFormattedInput('value');
 ```
 
@@ -33,7 +33,7 @@ var value = $('selector').jqxFormattedInput('value');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

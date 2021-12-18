@@ -8,7 +8,7 @@ valueChanged 事件用于在输入字段的值发生变化时触发。
 
 **语法:**
 
-```
+```html
 $('Selector').on('valueChanged', function () {  });
 ```
 
@@ -25,7 +25,7 @@ $('Selector').on('valueChanged', function () {  });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

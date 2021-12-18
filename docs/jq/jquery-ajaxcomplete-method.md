@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(document).ajaxComplete(function(event, xhr, options))
 
 ```
@@ -23,7 +23,7 @@ $(document).ajaxComplete(function(event, xhr, options))
 
 **示例-1:** 本示例通过从服务器获取数据来更改< p >元素的内容。当 AJAX 请求完成时，页面显示 **AJAX 请求完成。**。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -76,7 +76,7 @@ $(document).ajaxComplete(function(event, xhr, options))
 
 **示例-2:** 本示例通过从服务器获取数据来更改< h1 >元素的内容。当 AJAX 请求完成时，页面显示 **AJAX 请求完成。**。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

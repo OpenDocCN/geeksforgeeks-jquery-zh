@@ -10,7 +10,7 @@
 
 **语法–**
 
-```
+```html
 $(":hidden")
 ```
 
@@ -18,7 +18,7 @@ $(":hidden")
 
 **语法:**
 
-```
+```html
 $(selector).show(speed,easing,callback) 
 // All parameters are optional.
 ```
@@ -27,7 +27,7 @@ $(selector).show(speed,easing,callback)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -62,7 +62,7 @@ $(selector).show(speed,easing,callback)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>

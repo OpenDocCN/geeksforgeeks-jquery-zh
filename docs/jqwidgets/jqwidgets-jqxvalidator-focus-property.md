@@ -10,13 +10,13 @@
 
 *   ****用于设置 ***焦点*** 属性。****
 
-    ```
+    ```html
     **$('#jqxValidator').jqxValidator( { focus: false } );** 
     ```
 
 *   ****获取 ***集中*** 属性。****
 
-    ```
+    ```html
     **var focus = $('#jqxValidator').jqxValidator('focus');** 
     ```
 
@@ -30,7 +30,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ removeProp()方法是 jQuery 中的一个内置方法，用于**移除 Prop()方
 
 **语法:**
 
-```
+```html
 $(selector).removeProp(property)
 ```
 
@@ -18,7 +18,7 @@ $(selector).removeProp(property)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

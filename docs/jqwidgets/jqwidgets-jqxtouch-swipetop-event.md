@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxTouch').on('swipetop', function () { // Code section });
 ```
 
@@ -22,7 +22,7 @@ $('#jqxTouch').on('swipetop', function () { // Code section });
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 clearString 属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ clearString: String });
 ```
 
 返回 clearString 属性。
 
-```
+```html
 var clearString = $('selector').jqxDateTimeInput('clearString');
 ```
 
@@ -33,7 +33,7 @@ var clearString = $('selector').jqxDateTimeInput('clearString');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

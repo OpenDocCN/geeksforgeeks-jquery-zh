@@ -10,13 +10,13 @@
 
 *   设置*光标*属性:
 
-    ```
+    ```html
     $('Selector').jqxSortable({ cursor : string });
     ```
 
 *   返回*光标*属性:
 
-    ```
+    ```html
     var cursor = $('Selector').jqxSortable('cursor');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

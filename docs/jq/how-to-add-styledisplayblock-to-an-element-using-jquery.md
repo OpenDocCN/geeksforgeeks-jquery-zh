@@ -7,27 +7,27 @@
 *   **。css():** 为匹配元素集设置一个或多个 css 属性。
     **语法:**
 
-    ```
+    ```html
     $("div").css("display", "block")
     ```
 
     *   **。show():** 显示匹配的元素，大致相当于调用。css(“显示”、“阻止”)。
     **语法:**
 
-    ```
+    ```html
     $("div").show()
     ```
 
     *   **.attr():** Set one or more attributes for the set of matched elements.
     **Syntax:**
 
-    ```
+    ```html
     $("div").attr("style", "display:block")
     ```
 
     **例 1:** 使用**。**方法
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -74,7 +74,7 @@
 
     **例 2:** 使用**。**方法
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 
@@ -119,7 +119,7 @@
 
     **例 3:** 使用**。show()** 方法
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

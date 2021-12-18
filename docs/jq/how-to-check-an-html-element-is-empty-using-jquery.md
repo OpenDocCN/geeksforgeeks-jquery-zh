@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```html
 $('#elementSelector').is(':empty')
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -113,13 +113,13 @@ $('#elementSelector').is(':empty')
 
 **语法:**
 
-```
+```html
 $('#elementSelector').length
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

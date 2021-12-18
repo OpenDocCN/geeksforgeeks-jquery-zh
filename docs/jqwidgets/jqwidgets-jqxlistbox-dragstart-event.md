@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").on('dragStart', function (event) {
     var args = event.args;
     var label = args.label;
@@ -28,7 +28,7 @@ $("#jqxListBox").on('dragStart', function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

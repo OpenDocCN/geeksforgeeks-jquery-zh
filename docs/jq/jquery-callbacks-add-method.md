@@ -6,7 +6,7 @@ jQuery **回调. add()** 方法用于向回调列表添加回调或回调集合�
 
 **语法:**
 
-```
+```html
 callbacks.add(callbacks)
 
 ```
@@ -17,7 +17,7 @@ callbacks.add(callbacks)
 
 **例 1:** 这个方法在回调中添加一个方法 **fun1()** 并调用它。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -74,7 +74,7 @@ callbacks.add(callbacks)
 
 **示例 2:** 本示例将方法 **fun1()** 和 **fun2()** 添加到回调中，然后调用它们。请注意，第二次调用 **fire()** 方法时，它使用相同的参数“GFG_2”调用这两个函数。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

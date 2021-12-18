@@ -10,13 +10,13 @@
 
 *   **设置*TouchCrolBarSize*属性。**
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ touchScrollBarSize: 20 });
     ```
 
 *   **返回*TouchCrolBarSize*属性。**
 
-    ```
+    ```html
     var touchScrollBarSize = 
         $('#Selector').jqxScheduler('touchScrollBarSize');
     ```
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

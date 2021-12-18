@@ -10,7 +10,7 @@
 
 **jQuery Code:**
 
-```
+```html
 let isRedBackground = true;
 
 let box = $(".box");
@@ -38,7 +38,7 @@ box.contextmenu(function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -125,7 +125,7 @@ box.contextmenu(function () {
 
 ********jQuery code:********
 
-```
+```html
 ****let isBackgroundOne = true;
 let backgroundOne = "red";
 let backgroundTwo = "blue";
@@ -163,7 +163,7 @@ box.mousedown(function (event) {
 
 ## ******超文本标记语言******
 
-```
+```html
 ****<!DOCTYPE html>
 <html>
 

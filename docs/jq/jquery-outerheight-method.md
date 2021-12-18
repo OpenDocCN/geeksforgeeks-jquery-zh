@@ -6,7 +6,7 @@ jQuery 中的 **outerHeight()** 方法用于查找指定元素的外部高度。
 
 **语法:**
 
-```
+```html
 $(selector).outerHeight(includeMargin)
 ```
 
@@ -16,7 +16,7 @@ $(selector).outerHeight(includeMargin)
 
 **示例:**本示例显示元素的外部高度。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

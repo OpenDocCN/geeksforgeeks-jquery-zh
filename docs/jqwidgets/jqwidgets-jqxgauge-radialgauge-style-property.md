@@ -10,13 +10,13 @@
 
 *   设置*样式*属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ style: object });  
     ```
 
 *   返回*样式*属性。
 
-    ```
+    ```html
     var style = $('Selector').jqxGauge('style');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

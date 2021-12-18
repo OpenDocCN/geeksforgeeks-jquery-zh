@@ -8,7 +8,7 @@ destroy()方法用于销毁 jqxComboBox 小部件。它不接受任何参数，�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('destroy');
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('destroy');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

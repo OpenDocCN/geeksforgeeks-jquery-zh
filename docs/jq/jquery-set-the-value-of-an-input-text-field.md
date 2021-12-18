@@ -12,21 +12,21 @@
 
 *   **返回值属性:**
 
-    ```
+    ```html
     $(selector).val()
 
     ```
 
 *   **设置值属性:**
 
-    ```
+    ```html
     $(selector).val(value)
 
     ```
 
 *   **使用功能设置值属性:**
 
-    ```
+    ```html
     $(selector).val(function(index, curValue))
 
     ```
@@ -40,7 +40,7 @@
 
 **示例 1:** 在本示例中，输入元素的值由 **val()方法**通过从其 ID 中选择输入元素来设置。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -86,7 +86,7 @@
 
 **示例 2:** 在本示例中，输入元素的值由 **val()方法**设置，方法是从其父元素<主体>中选择输入元素，然后选择<输入>元素。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

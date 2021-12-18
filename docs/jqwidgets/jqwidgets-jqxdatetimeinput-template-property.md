@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置模板属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ template: String });
 ```
 
 返回模板属性。
 
-```
+```html
 var template = $('selector').jqxDateTimeInput('template');
 ```
 
@@ -33,7 +33,7 @@ var template = $('selector').jqxDateTimeInput('template');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

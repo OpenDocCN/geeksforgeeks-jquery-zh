@@ -10,13 +10,13 @@
 
 *   设置 *showgroupmenuitems* 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ showgroupmenuitems: false});
     ```
 
 *   返回 *showgroupmenuitems* 属性。
 
-    ```
+    ```html
     var showgroupmenuitems = 
         $('#Selector').jqxGrid('showgroupmenuitems');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

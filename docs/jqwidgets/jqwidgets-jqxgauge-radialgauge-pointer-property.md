@@ -10,13 +10,13 @@
 
 *   设置指针属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ pointer: object });  
     ```
 
 *   返回指针属性。
 
-    ```
+    ```html
     var pointer = $('Selector').jqxGauge('pointer');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 //anchor tag
 <a href="#home_section">home</a>
 
@@ -17,7 +17,7 @@
 
 **示例**:当用户点击“联系我们”链接时，会被重定向到同一页面的“联系我们”部分。
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -69,7 +69,7 @@ scrollTop()方法设置或返回选定元素的垂直滚动条位置。
 
 **语法:**
 
-```
+```html
 $(selector).scrollTop(position)
 ```
 
@@ -77,7 +77,7 @@ $(selector).scrollTop(position)
 
 **语法:**
 
-```
+```html
 <a href="#" id="home">home</a>
 
 $('#home').click(function(){
@@ -87,7 +87,7 @@ $(document).scrollTop(100) // any value you need
 
 **示例:**当用户点击页面底部的“联系我们”链接时，他将被重定向到同一页面的“主页”部分。
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

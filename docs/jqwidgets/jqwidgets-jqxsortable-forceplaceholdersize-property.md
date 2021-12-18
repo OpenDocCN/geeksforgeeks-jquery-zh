@@ -10,13 +10,13 @@
 
 *   它用于设置 forcePlaceholderSize 属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ forcePlaceholderSize : boolean });
     ```
 
 *   它用于返回 forcePlaceholderSize 属性。
 
-    ```
+    ```html
     var forcePlaceholderSize = 
         $('Selector').jqxSortable('forcePlaceholderSize');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

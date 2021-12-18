@@ -10,13 +10,13 @@
 
 设置*显示动画持续时间*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ showAnimationDuration: 200 });  
 ```
 
 获取*显示动画持续时间*属性:
 
-```
+```html
 var showAnimationDuration = $('#jqxWindow').jqxWindow('showAnimationDuration');
 ```
 
@@ -31,7 +31,7 @@ var showAnimationDuration = $('#jqxWindow').jqxWindow('showAnimationDuration');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置动画隐藏持续时间属性。
 
-```
+```html
 $('selector').jqxTree({ animationHideDuration: Number });
 ```
 
 返回 animationHideDuration 属性。
 
-```
+```html
 var anHideDur = $('selector').jqxTree('animationHideDuration');
 ```
 
@@ -33,7 +33,7 @@ var anHideDur = $('selector').jqxTree('animationHideDuration');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

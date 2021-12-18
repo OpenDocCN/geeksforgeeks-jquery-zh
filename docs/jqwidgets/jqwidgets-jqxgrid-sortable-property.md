@@ -10,13 +10,13 @@
 
 *   它用于设置可排序属性。
 
-```
+```html
 $('Selector').jqxGrid({ sortable: true});
 ```
 
 *   它用于设置返回可排序属性。
 
-```
+```html
 var sortable = $('Selector').jqxGrid('sortable');
 ```
 
@@ -31,7 +31,7 @@ var sortable = $('Selector').jqxGrid('sortable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

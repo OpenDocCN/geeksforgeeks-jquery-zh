@@ -13,7 +13,7 @@ jQuery 中的**添加元素**用于追加文档中的内容。下面列出了用
 
 **语法:**
 
-```
+```html
 $(selector).append("element_to_be_inserted")
 ```
 
@@ -23,7 +23,7 @@ $(selector).append("element_to_be_inserted")
 
 **示例:**本示例使用 append()方法添加新元素。
 
-```
+```html
 <html>
     <head>
         <title>Append Elements</title>
@@ -63,7 +63,7 @@ $(selector).append("element_to_be_inserted")
 
 **语法:**
 
-```
+```html
 $(selector).prepend("element_to_be_inserted")
 ```
 
@@ -73,7 +73,7 @@ $(selector).prepend("element_to_be_inserted")
 
 **示例:**本示例使用 prepend()方法添加新段落。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -120,7 +120,7 @@ $(selector).prepend("element_to_be_inserted")
 
 **语法:**
 
-```
+```html
 $(selector).after("element_to_be_inserted")
 ```
 
@@ -130,7 +130,7 @@ $(selector).after("element_to_be_inserted")
 
 **示例:**本示例使用 after()方法在 geeksforgeeks 图像后添加一个单词。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -171,7 +171,7 @@ $(selector).after("element_to_be_inserted")
 
 **语法:**
 
-```
+```html
 $(selector).before("element_to_be_inserted")
 ```
 
@@ -181,7 +181,7 @@ $(selector).before("element_to_be_inserted")
 
 **示例:**本示例使用 before 方法在 geeksforgeeks 图像前添加元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

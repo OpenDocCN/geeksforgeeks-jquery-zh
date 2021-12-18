@@ -6,7 +6,7 @@ JQuery 中的这个 **JQuery.when()方法**给出了一种根据零个或多个�
 
 **语法:**
 
-```
+```html
 jQuery.when(deferreds)
 ```
 
@@ -20,7 +20,7 @@ jQuery.when(deferreds)
 
 *   **Example**: In this example, the Deferred() is used to create a new object and after that then() method is called with notify and resolve method.
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head>
@@ -62,7 +62,7 @@ jQuery.when(deferreds)
 
     *   **Example**: In this example, the Deferred() method is used and the state of Deferred object is checked.
 
-        ```
+        ```html
         <!DOCTYPE HTML> 
         <html>  
         <head>

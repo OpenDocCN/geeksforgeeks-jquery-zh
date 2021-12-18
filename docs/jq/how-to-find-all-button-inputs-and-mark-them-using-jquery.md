@@ -16,7 +16,7 @@ jQuery 是一个小而快的 JavaScript 库，它的座右铭是:**“少写多�
 
 **语法:**
 
-```
+```html
 $(":button")
 ```
 
@@ -24,7 +24,7 @@ $(":button")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

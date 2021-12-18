@@ -10,13 +10,13 @@
 
 设置*启用悬停*属性。
 
-```
+```html
 $('#Selector').jqxButtonGroup({enableHover: true });
 ```
 
 返回*启用悬停*属性。
 
-```
+```html
 var enableHover = 
     $('#Selector').jqxButtonGroup('enableHover');
 ```
@@ -34,7 +34,7 @@ var enableHover =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

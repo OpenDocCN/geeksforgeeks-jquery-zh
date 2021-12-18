@@ -17,7 +17,7 @@ jQuery 是一个开源的功能丰富的 Javascript 库，旨在简化 HTML DOM 
 
 在标签部分的
 
-```
+```html
 <script src="jquery-3.6.0.min.js"></script>
 ```
 
@@ -25,7 +25,7 @@ jQuery 是一个开源的功能丰富的 Javascript 库，旨在简化 HTML DOM 
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -43,7 +43,7 @@ jQuery 是一个开源的功能丰富的 Javascript 库，旨在简化 HTML DOM 
 
 **输出:**
 
-```
+```html
 GeeksforGeeks
 ```
 
@@ -53,7 +53,7 @@ GeeksforGeeks
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -102,7 +102,7 @@ GeeksforGeeks
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

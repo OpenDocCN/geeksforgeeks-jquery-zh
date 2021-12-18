@@ -10,13 +10,13 @@
 
 *   设置 *方位变化启用*属性:
 
-    ```
+    ```html
     $('#jqxTouch').jqxTouch({orientationChangeEnabled: true});
     ```
 
 *   要获取*方向改变启用*属性:
 
-    ```
+    ```html
     var orientationChangeEnabled = $('#jqxTouch')
         .jqxTouch('orientationChangeEnabled');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

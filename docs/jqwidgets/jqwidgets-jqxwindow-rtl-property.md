@@ -10,13 +10,13 @@
 
 设置 *rtl* 属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({rtl : true});  
 ```
 
 获得 *rtl* 房产。
 
-```
+```html
 var rtl = $('#jqxWindow').jqxWindow('rtl'); 
 ```
 
@@ -31,7 +31,7 @@ var rtl = $('#jqxWindow').jqxWindow('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

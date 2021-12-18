@@ -8,7 +8,7 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 Query JavaScript 库实现�
 
 **语法:**
 
-```
+```html
 $(".selector").selectable({
     create: function( event, ui ) {}
 });
@@ -16,7 +16,7 @@ $(".selector").selectable({
 
 **将事件侦听器绑定到 selectablecreate 事件:**
 
-```
+```html
 $( ".selector" ).on( "selectablecreate", function( event, ui ) {} );
 ```
 
@@ -30,7 +30,7 @@ $( ".selector" ).on( "selectablecreate", function( event, ui ) {} );
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

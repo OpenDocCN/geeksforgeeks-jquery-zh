@@ -5,7 +5,7 @@
 JQuery 中的这个**delivered . state()**方法用来确定一个 delivered 对象的当前状态。
 **语法:**
 
-```
+```html
 deferred.state()
 
 ```
@@ -16,7 +16,7 @@ deferred.state()
 
 *   **示例:**在此示例中，延迟对象“def”的状态为待定。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 
@@ -54,7 +54,7 @@ deferred.state()
 
 *   **示例:**在本例中，延迟对象“def”的状态为待定，通过单击按钮，状态变为已解决。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 

@@ -10,13 +10,13 @@
 
 *   它用于设置不透明度属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ opacity : boolean/number});
     ```
 
 *   它用于返回不透明度属性。
 
-    ```
+    ```html
     var opacity = $('Selector').jqxSortable('opacity');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var groupable = 
     $('#Selector').jqxGrid('iscolumngroupable', 'dataField');
 ```
@@ -26,7 +26,7 @@ var groupable =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

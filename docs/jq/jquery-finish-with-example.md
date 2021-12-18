@@ -5,7 +5,7 @@
 **finish()** 是 jQuery 中的一个内置方法，用于停止当前运行的动画。
 **语法:**
 
-```
+```html
 $(selector).finish();
 
 ```
@@ -15,7 +15,7 @@ $(selector).finish();
 
 **显示 finish()方法工作的 jQuery 代码:**
 
-```
+```html
 <html>
 
 <head>

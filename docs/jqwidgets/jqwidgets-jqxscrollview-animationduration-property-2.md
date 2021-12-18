@@ -10,13 +10,13 @@
 
 *   设置*动画持续时间*属性。
 
-    ```
+    ```html
     $('selector').jqxScrollView({ animationDuration: Number });
     ```
 
 *   返回*动画持续时间*属性。
 
-    ```
+    ```html
     var animationDuration = 
         $('selector').jqxScrollView('animationDuration');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

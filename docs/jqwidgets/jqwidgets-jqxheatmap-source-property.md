@@ -10,13 +10,13 @@
 
 *   它用于设置源属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ source : array});
     ```
 
 *   它用于返回源属性。
 
-    ```
+    ```html
     var source = $('Selector').jqxHeatMap('source');
     ```
 
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

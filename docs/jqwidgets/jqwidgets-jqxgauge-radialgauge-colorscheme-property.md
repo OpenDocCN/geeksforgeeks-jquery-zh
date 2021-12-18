@@ -10,13 +10,13 @@
 
 设置颜色方案属性。
 
-```
+```html
 $('Selector').jqxGauge({ colorScheme: "scheme01"});  
 ```
 
 返回颜色方案属性。
 
-```
+```html
 var colorScheme = $('Selector').jqxGauge('colorScheme');
 ```
 
@@ -33,7 +33,7 @@ var colorScheme = $('Selector').jqxGauge('colorScheme');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

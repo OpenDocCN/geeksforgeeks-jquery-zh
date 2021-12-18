@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(":focus")
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -19,7 +19,7 @@ updateAt()方法用于更新给定索引处的项。它接受两个参数，第�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('updateAt', item, index );
 ```
 
@@ -39,7 +39,7 @@ $('selector').jqxComboBox('updateAt', item, index );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

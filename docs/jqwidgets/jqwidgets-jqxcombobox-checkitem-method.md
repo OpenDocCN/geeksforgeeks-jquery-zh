@@ -8,7 +8,7 @@ checkItem()方法用于使用项目名称检查 jqxComboBox 小部件的项目�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('checkItem', 'Item' );
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('checkItem', 'Item' );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

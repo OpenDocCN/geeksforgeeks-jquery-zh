@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(selector).length
 ```
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -68,7 +68,7 @@ $(selector).length
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

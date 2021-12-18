@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).delegate("target_elem", function() {
    $(this).after("content");
 })
@@ -22,7 +22,7 @@ $(selector).delegate("target_elem", function() {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <style>

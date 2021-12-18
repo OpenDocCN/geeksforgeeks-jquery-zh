@@ -14,7 +14,7 @@ jQuery 提供了 **GMaps** 插件，帮助程序员以多种方式使用**谷歌
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -80,7 +80,7 @@ jQuery 提供了 **GMaps** 插件，帮助程序员以多种方式使用**谷歌
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -166,7 +166,7 @@ jQuery 提供了 **GMaps** 插件，帮助程序员以多种方式使用**谷歌
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -243,7 +243,7 @@ jQuery 提供了 **GMaps** 插件，帮助程序员以多种方式使用**谷歌
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -314,7 +314,7 @@ jQuery 提供了 **GMaps** 插件，帮助程序员以多种方式使用**谷歌
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

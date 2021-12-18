@@ -10,7 +10,7 @@
 
 用于设置 ***拼贴动画持续时间*** 属性:
 
-```
+```html
 $('Selector').jqxNavigationBar({ 
     collapseAnimationDuration: 2000
 });
@@ -18,7 +18,7 @@ $('Selector').jqxNavigationBar({
 
 获取 ***拼贴动画持续时间*** 属性:
 
-```
+```html
 var collapseAnimationDuration = $('Selector')
         .jqxNavigationBar('collapseAnimationDuration');
 ```
@@ -34,7 +34,7 @@ var collapseAnimationDuration = $('Selector')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').bind('opening', function () {  }); 
 ```
 
@@ -22,7 +22,7 @@ $('Selector').bind('opening', function () {  });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

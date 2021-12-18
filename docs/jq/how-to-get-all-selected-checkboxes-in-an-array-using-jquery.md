@@ -8,7 +8,7 @@
     This method adds one or more event handlers for the selected elements and child elements.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).on(event, childSel, data, fun, map)
 
     ```
@@ -29,21 +29,21 @@
 
 *   **返回文字内容:**
 
-    ```
+    ```html
     $(selector).text()
 
     ```
 
 *   **设置文字内容:**
 
-    ```
+    ```html
     $(selector).text(content)
 
     ```
 
 *   **使用功能设置文本内容:**
 
-    ```
+    ```html
     $(selector).text(function(index, curContent))
 
     ```
@@ -62,21 +62,21 @@
     **语法:**
     *   **返回值属性:**
 
-        ```
+        ```html
         $(selector).val()
 
         ```
 
     *   **设置值属性:**
 
-        ```
+        ```html
         $(selector).val(value)
 
         ```
 
     *   **使用函数设置值属性:**
 
-```
+```html
 $(selector).val(function(index, cValue))
 
 ```
@@ -92,7 +92,7 @@ $(selector).val(function(index, cValue))
     This method adds new items at the end of array, and returns the new length.
     **Syntax:**
 
-    ```
+    ```html
     array.push(item1, item2, ..., itemN)
 
     ```
@@ -106,7 +106,7 @@ $(selector).val(function(index, cValue))
 
     **示例 1:** 本示例通过选择器选择选中的复选框，然后调用**。每一个()方法**到每一个元素，最后把它们推入数组。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -177,7 +177,7 @@ $(selector).val(function(index, cValue))
 
     **示例 2:** 该示例也执行相同的工作，但方法不同。本示例通过选择器(与前一个不同)选择选中的复选框，然后调用**。每一个()方法**到每一个元素，最后把它们推入数组。
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

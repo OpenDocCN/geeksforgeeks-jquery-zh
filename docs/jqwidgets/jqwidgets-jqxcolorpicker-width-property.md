@@ -10,13 +10,13 @@ width 属性用于设置或返回颜色选择器的宽度。它接受数字/字�
 
 设置 width 属性。
 
-```
+```html
 $("selector").jqxColorPicker({ width: 300 });
 ```
 
 返回 width 属性。
 
-```
+```html
 var width = $("selector").jqxColorPicker('width');
 ```
 
@@ -30,7 +30,7 @@ var width = $("selector").jqxColorPicker('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

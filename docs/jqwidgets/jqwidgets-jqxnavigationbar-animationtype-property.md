@@ -10,7 +10,7 @@
 
 *   用于设置 ***inoty*** 属性:
 
-    ```
+    ```html
     $('Selector').jqxNavigationBar({
         animationType: "slide" 
     });  
@@ -18,7 +18,7 @@
 
 *   获取 ***inoty*** 属性:
 
-    ```
+    ```html
     var animationType = 
         $('Selector').jqxNavigationBar('animationType');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

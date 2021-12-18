@@ -12,7 +12,7 @@ jQuery 为程序员提供了一个非常现代和高度交互的 **Highcharts** 
 
 **示例 1:** 以下示例使用**高级图表**插件演示了不同州及其人口的水平条形图。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -158,7 +158,7 @@ jQuery 为程序员提供了一个非常现代和高度交互的 **Highcharts** 
 
 **示例 2:** 以下示例演示了通过使用**高级图表**插件，单个用户在特定年份访问各种网站的 3D 饼图。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -301,7 +301,7 @@ jQuery 为程序员提供了一个非常现代和高度交互的 **Highcharts** 
 
 **示例 3:** 通过对 jQuery 代码进行如下简单更改，可以类似地实现上述示例来表示 3D 圆环饼图。输出图表如下图所示。
 
-```
+```html
 <script type="text/javascript">
 
         Highcharts.chart('containerDivID', {
@@ -352,7 +352,7 @@ jQuery 为程序员提供了一个非常现代和高度交互的 **Highcharts** 
 
 **示例 4:** 以下示例演示了非常基本的**高图表表**插件用法，显示每月费用的柱形图。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -433,7 +433,7 @@ jQuery 为程序员提供了一个非常现代和高度交互的 **Highcharts** 
 
 **示例 5:** 以下示例使用**高图表表格**插件演示折线图。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -515,7 +515,7 @@ jQuery 为程序员提供了一个非常现代和高度交互的 **Highcharts** 
 
 **示例 6:** 以下示例使用**高级图表**插件演示气泡图，该插件表示三维数据。气泡图通常以 x 值、y 值和 z(大小)值绘制图形。水平 x 和垂直 y 是数值轴，z 代表其大小。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -723,7 +723,7 @@ jQuery 为程序员提供了一个非常现代和高度交互的 **Highcharts** 
 
 **示例 7:** 以下示例演示了使用**高级图表**插件的面积图。这些类似于前面演示的折线图，不同之处在于将数据可视化为体积。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

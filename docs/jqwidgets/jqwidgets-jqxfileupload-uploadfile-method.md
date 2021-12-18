@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxFileUpload').jqxFileUpload('uploadFile', 0);
 ```
 
@@ -23,7 +23,7 @@ $('#jqxFileUpload').jqxFileUpload('uploadFile', 0);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

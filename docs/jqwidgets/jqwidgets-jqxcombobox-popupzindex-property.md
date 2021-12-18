@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置*弹出菜单*属性。
 
-```
+```html
 $('selector').jqxComboBox({ popupZIndex: Number });
 ```
 
 返回*弹出菜单*属性。
 
-```
+```html
 var popupZIndex = $('selector').jqxComboBox('popupZIndex');
 ```
 
@@ -34,7 +34,7 @@ var popupZIndex = $('selector').jqxComboBox('popupZIndex');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

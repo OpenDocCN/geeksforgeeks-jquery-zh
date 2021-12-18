@@ -6,7 +6,7 @@ jQuery 中的这个**映射()**方法用于将一个数组或对象中的所有�
 
 **语法:**
 
-```
+```html
 jQuery.map( array/object, callback )
 ```
 
@@ -21,7 +21,7 @@ jQuery.map( array/object, callback )
 
 **例 1:** 本例使用 **jQuery.map()方法**并返回数组元素的平方。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ jQuery.map( array/object, callback )
 
 **示例 2:** 本示例使用 **map()方法**将字符“A”与名称的每个字符连接起来。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

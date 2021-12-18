@@ -10,7 +10,7 @@
 
 *   **用排序回调函数初始化可排序小部件:**
 
-    ```
+    ```html
     $(".selector").selectable({
         sort: function( event, ui ) {}
     });
@@ -18,7 +18,7 @@
 
 *   **将事件侦听器绑定到排序事件:**
 
-    ```
+    ```html
     $( ".selector" ).on( "sort", function( event, ui ) {} );
     ```
 
@@ -42,7 +42,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

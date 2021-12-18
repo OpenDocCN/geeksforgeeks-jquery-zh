@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置绝对位置属性。
 
-```
+```html
 $('Selector').jqxTooltip({ absolutePositionX: Number });
 ```
 
 返回绝对位置属性。
 
-```
+```html
 var absPosX = $('Selector').jqxTooltip('absolutePositionX');
 ```
 
@@ -34,7 +34,7 @@ var absPosX = $('Selector').jqxTooltip('absolutePositionX');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

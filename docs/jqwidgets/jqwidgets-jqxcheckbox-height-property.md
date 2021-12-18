@@ -10,13 +10,13 @@ height 属性用于设置或返回 jqxCheckBox 的高度。它接受数字/字�
 
 设置高度属性。
 
-```
+```html
 $('selector').jqxCheckBox({ height: String });
 ```
 
 返回高度属性。
 
-```
+```html
 var height = $('selector').jqxCheckBox('height');
 ```
 
@@ -30,7 +30,7 @@ var height = $('selector').jqxCheckBox('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

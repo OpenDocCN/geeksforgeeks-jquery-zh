@@ -9,7 +9,7 @@
 
     **语法:**
 
-    ```
+    ```html
     $(selector).on(event, childSel, data, fun, map)
 
     ```
@@ -27,7 +27,7 @@
 
     **语法:**
 
-    ```
+    ```html
     $(selector).parents()
 
     ```
@@ -41,7 +41,7 @@
 
     **语法:**
 
-    ```
+    ```html
     $(selector).eq(index)
 
     ```
@@ -52,7 +52,7 @@
 
 **示例 1:** 本示例使用 **parents()** 和 **eq()** 方法来查找 *class='child'* 元素的第 0 级父元素，该元素是 **< div >** 元素。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -112,7 +112,7 @@
 
 **例 2:** 本例使用 **parents()** 和 **eq()方法**找到 *class='child'* 元素的第二级父元素，它是 **< body >** 元素。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

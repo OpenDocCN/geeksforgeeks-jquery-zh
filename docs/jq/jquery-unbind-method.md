@@ -7,7 +7,7 @@
 **注意:**如果没有提供参数，该方法对指定元素的所有事件处理程序起作用。
 **语法:**
 
-```
+```html
 $(selector).unbind(event, function, eventObj)
 ```
 
@@ -19,7 +19,7 @@ $(selector).unbind(event, function, eventObj)
 
 **示例 1:** 本示例描述了 unbind()方法，用于从所选元素中移除事件处理程序。
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 
@@ -71,7 +71,7 @@ $(selector).unbind(event, function, eventObj)
 
 **示例 2:** 本示例描述了 unbind()方法，用于从所选元素中移除事件处理程序。
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 

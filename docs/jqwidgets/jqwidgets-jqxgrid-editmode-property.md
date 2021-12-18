@@ -18,13 +18,13 @@
 
 *   设置*编辑模式*属性。
 
-```
+```html
 $('#Selector').jqxGrid({ editmode: 'click'});
 ```
 
 *   返回*编辑模式*属性。
 
-```
+```html
 var editmode = $('#Selector').jqxGrid('editmode');
 ```
 
@@ -39,7 +39,7 @@ var editmode = $('#Selector').jqxGrid('editmode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

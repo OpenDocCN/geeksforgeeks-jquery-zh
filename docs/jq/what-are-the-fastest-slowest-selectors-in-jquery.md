@@ -16,7 +16,7 @@ jQuery [**选择器**](https://www.geeksforgeeks.org/jquery-selectors-and-event-
 
 **语法:**
 
-```
+```html
 $(''element")
 ```
 
@@ -24,7 +24,7 @@ $(''element")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <head>
@@ -64,7 +64,7 @@ $(''element")
 
 **语法:**
 
-```
+```html
 $("#ID")
 ```
 
@@ -72,7 +72,7 @@ $("#ID")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <head>
@@ -113,7 +113,7 @@ $("#ID")
 
 **语法:**
 
-```
+```html
 $(".class")
 ```
 
@@ -121,7 +121,7 @@ $(".class")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <head>
@@ -159,7 +159,7 @@ $(".class")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 
 <head>
@@ -230,7 +230,7 @@ $(".class")
 
 **输出:**
 
-```
+```html
 ID Selector : 597 milliseconds
 Class Selector :751 milliseconds
 Element Selector : 741 milliseconds

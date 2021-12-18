@@ -19,7 +19,7 @@ getCheckedItems()方法用于获取小部件的选中项。它不接受任何参
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('getCheckedItems');
 ```
 
@@ -36,7 +36,7 @@ $("Selector").jqxDropDownList('getCheckedItems');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

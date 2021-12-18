@@ -10,13 +10,13 @@
 
 *   设置*排序依据*属性:
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ sortBy: 'value' });
     ```
 
 *   获取*排序依据*属性:
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'sortBy' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

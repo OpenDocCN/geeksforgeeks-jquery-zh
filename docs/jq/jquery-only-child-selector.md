@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(":only-child")
 ```
 
@@ -14,7 +14,7 @@ $(":only-child")
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <h1>
@@ -56,7 +56,7 @@ $(":only-child")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <h1>

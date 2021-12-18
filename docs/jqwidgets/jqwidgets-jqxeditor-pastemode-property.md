@@ -10,13 +10,13 @@
 
 设置*粘贴模式*属性。
 
-```
+```html
 $('Selector').jqxEditor({ pasteMode : "html" });  
 ```
 
 返回*粘贴模式*属性。
 
-```
+```html
 var pasteMode = $('Selector').jqxEditor('pasteMode');
 ```
 
@@ -36,7 +36,7 @@ var pasteMode = $('Selector').jqxEditor('pasteMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

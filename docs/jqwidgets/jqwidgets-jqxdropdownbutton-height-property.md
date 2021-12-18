@@ -10,13 +10,13 @@
 
 *   设置*高度*属性。
 
-    ```
+    ```html
     $('#jqxDropDownButton').jqxDropDownButton({ height: '25px' });  
     ```
 
 *   获取高度属性。
 
-    ```
+    ```html
     var height = $('#jqxDropDownButton').jqxDropDownButton('height');
     ```
 
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

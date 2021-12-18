@@ -10,13 +10,13 @@
 
 用于设置 ***显示图例*** 属性:
 
-```
+```html
 $('#jqxTreeMap').jqxTreeMap({ showLegend: true });  
 ```
 
 获取 ***显示图例*** 属性:
 
-```
+```html
 var showLegend = $('#jqxTreeMap').jqxTreeMap('showLegend'); 
 ```
 
@@ -31,7 +31,7 @@ var showLegend = $('#jqxTreeMap').jqxTreeMap('showLegend');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

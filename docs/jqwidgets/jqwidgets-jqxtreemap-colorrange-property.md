@@ -10,13 +10,13 @@
 
 *   用于设置 ***颜色范围*** 属性:
 
-    ```
+    ```html
     $("#jqxTreeMap").jqxTreeMap({colorRange: 125});
     ```
 
 *   获取 ***颜色范围*** 属性:
 
-    ```
+    ```html
     var colorRange = $('#jqxTreeMap').jqxTreeMap('colorRange'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

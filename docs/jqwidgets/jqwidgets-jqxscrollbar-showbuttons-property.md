@@ -10,13 +10,13 @@
 
 *   用于设置*显示按钮*属性。
 
-    ```
+    ```html
     $('#jqxScrollBar').jqxScrollBar({ showButtons: true });
     ```
 
 *   获取*显示按钮*属性。
 
-    ```
+    ```html
     var showButtons = 
         $('#jqxScrollBar').jqxScrollBar('showButtons');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

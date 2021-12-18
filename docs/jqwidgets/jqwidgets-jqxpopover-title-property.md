@@ -10,13 +10,13 @@
 
 *   要设置标题属性:
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({title: String});
     ```
 
 *   要获取标题属性:
 
-    ```
+    ```html
     var arrowOffsetValue = $('#jqxPopover').jqxPopover('title');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

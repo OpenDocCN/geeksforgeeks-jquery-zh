@@ -10,12 +10,12 @@
 
 *   设置属性的*附录。
 
-    ```
+    ```html
     $('Selector').jqxSortable({ appendTo : string });
     ```* 
 *   归还房产的*附件。
 
-    ```
+    ```html
     var appendTo = $('Selector').jqxSortable('appendTo');
     ```* 
 
@@ -30,7 +30,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

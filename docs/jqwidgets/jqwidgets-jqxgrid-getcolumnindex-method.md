@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var index = $('#Selector').jqxGrid('getcolumnindex', 'name');
 ```
 
@@ -23,7 +23,7 @@ var index = $('#Selector').jqxGrid('getcolumnindex', 'name');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

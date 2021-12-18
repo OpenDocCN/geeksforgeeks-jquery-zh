@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置关闭点击属性。
 
-```
+```html
 $('Selector').jqxTooltip({ closeOnClick: Boolean });
 ```
 
 返回关闭点击属性。
 
-```
+```html
 var closeOnClick = $('Selector').jqxTooltip('closeOnClick');
 ```
 
@@ -34,7 +34,7 @@ var closeOnClick = $('Selector').jqxTooltip('closeOnClick');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

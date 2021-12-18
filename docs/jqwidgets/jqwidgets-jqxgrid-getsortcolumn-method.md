@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var sortcolumn = $('#Selector').jqxGrid('getsortcolumn');
 ```
 
@@ -23,7 +23,7 @@ var sortcolumn = $('#Selector').jqxGrid('getsortcolumn');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   ****为设置 *太古民**T5】属性:*******
 
-    ```
+    ```html
     ****$('#jqxTouch').jqxTouch({swipeMin: 45});****
     ```
 
 *   ******要获得 *swipeMin* 属性:******
 
-    ```
+    ```html
     ****var swipeMin = $('#jqxTouch').jqxTouch('swipeMin');****
     ```
 
@@ -30,7 +30,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

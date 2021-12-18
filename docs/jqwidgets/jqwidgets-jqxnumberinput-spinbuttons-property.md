@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置旋转按钮属性。
 
-```
+```html
 $('selector').jqxNumberInput({ spinButtons: Boolean });
 ```
 
 返回自旋按钮属性。
 
-```
+```html
 var spinButtons = $('selector').jqxNumberInput('spinButtons');
 ```
 
@@ -33,7 +33,7 @@ var spinButtons = $('selector').jqxNumberInput('spinButtons');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

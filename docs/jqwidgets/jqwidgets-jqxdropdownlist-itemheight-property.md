@@ -10,13 +10,13 @@
 
 设置*项目高度*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ itemHeight: Number });
 ```
 
 返回*项目高度*属性。
 
-```
+```html
 var itemHeight = $('selector').jqxDropDownList('itemHeight');
 ```
 
@@ -31,7 +31,7 @@ var itemHeight = $('selector').jqxDropDownList('itemHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

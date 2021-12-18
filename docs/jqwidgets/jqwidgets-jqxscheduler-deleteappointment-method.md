@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxScheduler('deleteAppointment', appointmenId);
 ```
 
@@ -29,7 +29,7 @@ $('#Selector').jqxScheduler('deleteAppointment', appointmenId);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

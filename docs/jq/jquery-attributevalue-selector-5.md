@@ -5,7 +5,7 @@
 **【属性！= value]jquery 中的选择器**用于选择每个没有指定属性和值的元素。
 **语法:**
 
-```
+```html
 $("[attribute!='value']")
 ```
 
@@ -16,7 +16,7 @@ $("[attribute!='value']")
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -60,7 +60,7 @@ $("[attribute!='value']")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

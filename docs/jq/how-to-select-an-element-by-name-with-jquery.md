@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```html
 [name="nameOfElement"]
 ```
 
@@ -23,7 +23,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -87,7 +87,7 @@
 
 **语法:**
 
-```
+```html
 selector = document.getElementsByName('nameOfElement');
 element = $(selector);
 ```
@@ -96,7 +96,7 @@ element = $(selector);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

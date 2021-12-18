@@ -14,13 +14,13 @@ jQuery 是强大的 JavaScript 库之一，它有许多强大的方法，使得�
 
 ****语法:****
 
-```
+```html
 $('selector').eventname(function())
 ```
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -105,7 +105,7 @@ $('selector').eventname(function())
 
 ****语法:****
 
-```
+```html
  $('selector').on({
     event1:function () {
         // Code
@@ -118,7 +118,7 @@ $('selector').eventname(function())
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -206,7 +206,7 @@ $('selector').eventname(function())
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -7,7 +7,7 @@ jQuery remove()方法用于从 HTML 表中删除一个**行**。
 
 **语法:**
 
-```
+```html
 $(selector).remove(selector)
 ```
 
@@ -15,7 +15,7 @@ $(selector).remove(selector)
 
 **示例 1:** 本示例首先通过 **id 值**选择行，然后使用 **remove()方法**将其删除。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
     <head> 
@@ -101,7 +101,7 @@ $(selector).remove(selector)
 
 **示例 2:** 本示例首先选择其父元素的最后一个< tr >元素，并使用 **remove()方法**将其移除。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
     <head> 

@@ -10,13 +10,13 @@
 
 设置**灰度**属性。
 
-```
+```html
 $('Selector').jqxChart({ grayScale : boolean});
 ```
 
 返回**灰度**属性。
 
-```
+```html
 var grayScale = $('Selector').jqxChart('grayScale');
 ```
 
@@ -31,7 +31,7 @@ var grayScale = $('Selector').jqxChart('grayScale');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

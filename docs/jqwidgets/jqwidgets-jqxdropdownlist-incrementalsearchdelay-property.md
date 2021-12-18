@@ -10,13 +10,13 @@
 
 设置*增量搜索延迟*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ incrementalSearchDelay: Number });
 ```
 
 返回*增量搜索延迟*属性。
 
-```
+```html
 var ISD = $('selector').jqxDropDownList('incrementalSearchDelay');
 ```
 
@@ -31,7 +31,7 @@ var ISD = $('selector').jqxDropDownList('incrementalSearchDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

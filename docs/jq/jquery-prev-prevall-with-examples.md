@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).prev()
 
 ```
@@ -21,7 +21,7 @@ $(selector).prev()
 
 **Code #1:**
 
-```
+```html
 <html>
 
 <head>
@@ -69,7 +69,7 @@ $(selector).prev()
 **prevAll()** 是 jQuery 中的一个内置方法，用于返回所选元素的所有先前的兄弟元素。
 **语法:**
 
-```
+```html
 $(selector).prevAll()
 
 ```
@@ -82,7 +82,7 @@ $(selector).prevAll()
 
 **Code #2:**
 
-```
+```html
 <html>
 
 <head>

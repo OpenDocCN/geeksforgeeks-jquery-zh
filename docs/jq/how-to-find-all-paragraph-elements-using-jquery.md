@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $("element name")
 ```
 
@@ -23,7 +23,7 @@ $("element name")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -95,7 +95,7 @@ $("element name")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

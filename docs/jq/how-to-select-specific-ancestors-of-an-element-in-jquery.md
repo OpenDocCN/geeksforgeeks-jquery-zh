@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).parents()
 ```
 
@@ -16,7 +16,7 @@ $(selector).parents()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYpe html>
 <html>
 

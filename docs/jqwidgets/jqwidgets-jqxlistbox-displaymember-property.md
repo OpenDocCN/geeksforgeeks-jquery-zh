@@ -10,13 +10,13 @@
 
 要设置*显示成员*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({displayMember: 'firstName'});
 ```
 
 要获取*显示成员*属性:
 
-```
+```html
 var displayMember = $('#jqxListBox').jqxListBox('displayMember'); 
 ```
 
@@ -31,7 +31,7 @@ var displayMember = $('#jqxListBox').jqxListBox('displayMember');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

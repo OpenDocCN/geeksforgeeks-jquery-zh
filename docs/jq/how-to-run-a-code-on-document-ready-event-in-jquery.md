@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(document).ready(function)
 ```
 
@@ -18,7 +18,7 @@ $(document).ready(function)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYpe html>
 <html>
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var editable = $("#Selector").jqxGrid(
     'begincelledit', rowBoundIndex, "dataField");
 ```
@@ -29,7 +29,7 @@ var editable = $("#Selector").jqxGrid(
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

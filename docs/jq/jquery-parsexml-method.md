@@ -6,7 +6,7 @@ jQuery 中的这个 **parseXML()** 方法用于将一个字符串解析成一个
 
 **语法:**
 
-```
+```html
 jQuery.parseXML( data )
 ```
 
@@ -19,7 +19,7 @@ jQuery.parseXML( data )
 下面，请举例说明 jQuery 中的 **parseXML()方法**:
 **示例 1:** 在本例中， **parseXML()方法**将字符串解析为 XML 文档。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -74,7 +74,7 @@ jQuery.parseXML( data )
 
 **例 2:** 。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

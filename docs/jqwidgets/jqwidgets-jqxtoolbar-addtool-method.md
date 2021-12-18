@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxToolBar('addTool', "button", "first", false, 
    function (type, tool, menuToolIninitialization) {
     var width = 90;
@@ -43,7 +43,7 @@ $('#Selector').jqxToolBar('addTool', "button", "first", false,
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置*可分组*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ groupable: true});
 ```
 
 返回*可分组*属性:
 
-```
+```html
 var groupable = $('#Selector').jqxGrid('groupable');
 ```
 
@@ -31,7 +31,7 @@ var groupable = $('#Selector').jqxGrid('groupable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

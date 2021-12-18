@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxDragDrop').on('dragEnd', function () {
     // Code here.
 });  
@@ -25,7 +25,7 @@ $('#jqxDragDrop').on('dragEnd', function () {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

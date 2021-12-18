@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(tr:nth-child(2n)").addClass("GFG");
 ```
 
@@ -16,7 +16,7 @@ $(tr:nth-child(2n)").addClass("GFG");
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

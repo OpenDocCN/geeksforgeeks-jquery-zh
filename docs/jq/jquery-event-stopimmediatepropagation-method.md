@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 event.stopImmediatePropagation()
 
 ```
@@ -17,7 +17,7 @@ event.stopImmediatePropagation()
 
 **示例-1:** 这里，只有第一个弹出框会出现，之后这个方法会阻止另一个弹出框出现。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -76,7 +76,7 @@ event.stopImmediatePropagation()
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

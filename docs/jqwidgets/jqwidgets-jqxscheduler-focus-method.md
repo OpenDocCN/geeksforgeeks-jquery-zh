@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#Selector').jqxScheduler('focus');
 ```
 
@@ -22,7 +22,7 @@ $('#Selector').jqxScheduler('focus');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

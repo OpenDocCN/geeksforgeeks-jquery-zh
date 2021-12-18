@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   设置主题属性。
 
-    ```
+    ```html
     $('selector').jqxScrollView({ theme: Number/String });
     ```
 
 *   返回主题属性。
 
-    ```
+    ```html
     var theme = $('selector').jqxScrollView('theme');
     ```
 
@@ -33,7 +33,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

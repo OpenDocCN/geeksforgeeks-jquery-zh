@@ -10,13 +10,13 @@
 
 *   用于设置*最小颜色*属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ minColor: 'black' });
     ```
 
 *   获取 *minColor* 属性。
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'minColor' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

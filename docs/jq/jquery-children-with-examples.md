@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).children()
 
 ```
@@ -19,7 +19,7 @@ $(selector).children()
 
 **Code #1:** In the below code, all the elements directly connected to the “div” element get highlighted with the green color.
 
-```
+```html
 <html>
 
 <head>
@@ -66,7 +66,7 @@ $(selector).children()
 一个可选参数也可以用于 children()方法，以过滤对 children 元素的搜索。
 **语法:**
 
-```
+```html
 $(selector1).children("selector2")
 
 ```
@@ -80,7 +80,7 @@ $(selector1).children("selector2")
 
     **代码#2:** 在下面的代码中，在所有段落元素中，第一段的元素被选中并以绿色突出显示。
 
-    ```
+    ```html
     <html>
 
     <head>

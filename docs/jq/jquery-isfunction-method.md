@@ -6,7 +6,7 @@ jQuery 中的这个 **isFunction()** 方法用于确定其参数是否可以作�
 
 **语法:**
 
-```
+```html
 jQuery.isFunction( value )
 
 ```
@@ -21,7 +21,7 @@ jQuery.isFunction( value )
 
 **示例 1:** 在本例中， **isFunction()方法**检查一个值，看它是否是一个函数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -55,7 +55,7 @@ jQuery.isFunction( value )
 
 **示例 2:** 在本例中， **isFunction()方法**也检查一个值，看它是否是一个函数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

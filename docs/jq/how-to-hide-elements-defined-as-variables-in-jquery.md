@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <script src=
@@ -60,7 +60,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <html>
 <head>
   <style>

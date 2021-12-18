@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 /* JSON data might be in array also */
 var $json-data= '{json-index:json-values}'
 
@@ -20,7 +20,7 @@ $("selected block").text($json-object.index);
 
 或者
 
-```
+```html
 /* Parse HTML tag along with JSON data-value
  with respect to index */
 $("selected block").html( "opentag" + $json-object.index + "closetag");
@@ -34,7 +34,7 @@ $("selected block").html( "opentag" + $json-object.index + "closetag");
 
 **示例 1:** 在下面的示例中，使用了 AJAX Callback 函数将 JSON 数组解析为 HTML 块。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -164,7 +164,7 @@ https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
 
 **示例 2:** 在下面的示例中，使用 jQuery.parseJSON()方法和 JSON.parse()方法将 JSON 数据解析为一个 HTML 块。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

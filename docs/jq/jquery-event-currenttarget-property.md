@@ -7,7 +7,7 @@ jQuery 中的**事件. currentTarget 属性**用于在*事件冒泡阶段*内*�
 
 **语法:**
 
-```
+```html
 event.currentTarget
 ```
 
@@ -17,7 +17,7 @@ event.currentTarget
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ event.currentTarget
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

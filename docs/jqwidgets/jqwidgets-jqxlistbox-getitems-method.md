@@ -21,13 +21,13 @@
 
 要获取所有项目:
 
-```
+```html
 var item = $("#jqxListBox").jqxListBox('getItems');  
 ```
 
 要获得第一个项目:
 
-```
+```html
 var items = $("#jqxListBox").jqxListBox('getItems'); 
 var firstItem = items[0];  
 ```
@@ -43,7 +43,7 @@ var firstItem = items[0];
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```html
 $(":submit")
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

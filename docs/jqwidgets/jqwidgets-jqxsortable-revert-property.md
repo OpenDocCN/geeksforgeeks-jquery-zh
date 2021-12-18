@@ -10,13 +10,13 @@
 
 *   用于设置*回复*属性
 
-    ```
+    ```html
     $('Selector').jqxSortable({ revert : boolean/number });
     ```
 
 *   用于返回*回复*属性。
 
-    ```
+    ```html
     var revert = $('Selector').jqxSortable('revert')
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

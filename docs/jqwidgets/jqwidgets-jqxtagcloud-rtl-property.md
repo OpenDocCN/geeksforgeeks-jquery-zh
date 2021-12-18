@@ -10,13 +10,13 @@
 
 *   设置 *rtl* 属性:
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ rtl: true });
     ```
 
 *   获得 *rtl* 房产:
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'rtl' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

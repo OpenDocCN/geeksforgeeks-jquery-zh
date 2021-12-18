@@ -13,13 +13,13 @@
 
 **语法:**
 
-```
+```html
 $(":visible") 
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -8,13 +8,13 @@ EasyUI 是一个 HTML5 框架，用于使用基于 jQuery、React、Angular 和 
 
 **jQuery 易 UI 下载:**
 
-```
+```html
 https://www.jeasyui.com/download/index.php
 ```
 
 **语法:**
 
-```
+```html
 <input class="easyui-radiobutton">
 ```
 
@@ -56,7 +56,7 @@ https://www.jeasyui.com/download/index.php
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
 

@@ -13,7 +13,7 @@
     它给出指定选择器的父元素
     **语法:**
 
-    ```
+    ```html
     $(selector).parent();
     ```
 
@@ -21,7 +21,7 @@
     它给出了指定选择器的所有祖先元素。
     **语法:**
 
-```
+```html
 $(selector).parents();
 ```
 
@@ -29,12 +29,12 @@ $(selector).parents();
     它给出了指定选择器和参数之间的所有祖先元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).parentsUntil(selector, filter element)
 
     ```
 
-    ```
+    ```html
     $(selector).parentsUntil(element, filter element)
 
     ```
@@ -43,7 +43,7 @@ $(selector).parents();
     给出指定选择器的第一个定位的父元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).offsetParent();
     ```
 
@@ -51,19 +51,19 @@ $(selector).parents();
     it gives the first ancestor of the specified selector.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).closest(selector);
     ```
 
-    ```
+    ```html
     $(selector).closest(selector, context);
     ```
 
-    ```
+    ```html
     $(selector).closest(selection);
     ```
 
-    ```
+    ```html
     $(selector).closest(element);
     ```
 
@@ -73,7 +73,7 @@ $(selector).parents();
         它给出每个选中元素的子元素，可选地由选择器过滤。
         **语法:**
 
-        ```
+        ```html
         $(selector).children();
 
         ```
@@ -82,7 +82,7 @@ $(selector).parents();
         它给出指定元素的后代元素，由选择器、jQuery 对象或元素过滤。
         **语法:**
 
-        ```
+        ```html
         $(selector).find('selector to find');
         ```
 
@@ -92,7 +92,7 @@ $(selector).parents();
         它给出指定选择器的所有兄弟。
         **语法:**
 
-    ```
+    ```html
     $(selector).siblings();
     ```
 
@@ -100,7 +100,7 @@ $(selector).parents();
     给出指定选择器的下一个兄弟元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).next();
 
     ```
@@ -109,7 +109,7 @@ $(selector).parents();
     它给出指定选择器的所有下一个兄弟元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).nextAll();
 
     ```
@@ -118,7 +118,7 @@ $(selector).parents();
     它给出指定选择器和参数之间的所有下一个兄弟元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).nextUntil();
 
     ```
@@ -127,12 +127,12 @@ $(selector).parents();
     它给出了指定选择器的前一个同级元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).prev(selector);
 
     ```
 
-    ```
+    ```html
     $(selector).prev()
 
     ```
@@ -141,12 +141,12 @@ $(selector).parents();
     它给出了指定选择器的所有先前的兄弟元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).prevAll(selector, filter element)
 
     ```
 
-    ```
+    ```html
     $(selector).prevAll(element, filter element)
 
     ```
@@ -155,12 +155,12 @@ $(selector).parents();
     it gives all previous sibling elements between specified selector and arguments.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).prevUntil(selector, filter element)
 
     ```
 
-    ```
+    ```html
     $(selector).prevUntil(element, filter element)
 
     ```
@@ -171,7 +171,7 @@ $(selector).parents();
         它给出了指定选择器的第一个元素。
         **语法:**
 
-        ```
+        ```html
         $(selector).first();
 
         ```
@@ -180,7 +180,7 @@ $(selector).parents();
         它给出了指定选择器的最后一个元素。
         **语法:**
 
-        ```
+        ```html
         $(selector).last();
 
         ```
@@ -189,12 +189,12 @@ $(selector).parents();
         它给一个元素指定了一个指定选择器的特定索引号。
         **语法:**
 
-    ```
+    ```html
     $(selector).eq(index);
 
     ```
 
-    ```
+    ```html
     $(selector).eq( indexFromEnd );
 
     ```
@@ -203,19 +203,19 @@ $(selector).parents();
     它删除/检测与指定选择器匹配的元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).is(selector)
     ```
 
-    ```
+    ```html
     $(selector).is(function)
     ```
 
-    ```
+    ```html
     $(selector).is(selection)
     ```
 
-    ```
+    ```html
     $(selector).is(elements)
     ```
 
@@ -223,7 +223,7 @@ $(selector).parents();
     它给出了内部有一个或多个元素的所有元素，这些元素与指定的选择器相匹配。
     **语法:**
 
-    ```
+    ```html
     $(selector).has(selector);
 
     ```
@@ -232,19 +232,19 @@ $(selector).parents();
     它检查指定的选择器之一是否与参数匹配。
     **语法:**
 
-    ```
+    ```html
     .is( selector )
     ```
 
-    ```
+    ```html
     .is( function )
     ```
 
-    ```
+    ```html
     .is( selection )
     ```
 
-    ```
+    ```html
     .is( elements )
     ```
 
@@ -252,7 +252,7 @@ $(selector).parents();
     通过函数传递当前匹配集中的每个元素，生成一个包含返回值的新 jQuery 对象
     **语法:**
 
-    ```
+    ```html
     .map( callback )
     ```
 
@@ -260,12 +260,12 @@ $(selector).parents();
     it selects a subset of specified selector based on its argument index or by start and stop value.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).slice(start, end );
 
     ```
 
-    ```
+    ```html
     $(selector).slice(start);
 
     ```
@@ -276,7 +276,7 @@ $(selector).parents();
         它将所有元素添加到一组匹配的元素中，以同时操纵它们。
         **语法:**
 
-        ```
+        ```html
         $(selector).add(selector to add);
         ```
 
@@ -284,7 +284,7 @@ $(selector).parents();
         它将堆栈上的前一组元素添加到当前集合，可选地由选择器过滤。
         **语法:**
 
-        ```
+        ```html
         $(selector).addBack();
         ```
 
@@ -292,7 +292,7 @@ $(selector).parents();
         不推荐使用 1.8，它是 addBack()的别名。
         **语法:**
 
-        ```
+        ```html
         $(selector).addSelf();
         ```
 
@@ -300,7 +300,7 @@ $(selector).parents();
         它给出了指定选择器的所有直接子节点，包括文本和注释节点。
         **语法:**
 
-    ```
+    ```html
     $(selector).contents();
     ```
 
@@ -308,7 +308,7 @@ $(selector).parents();
     给出所有与指定选择器不匹配的元素。
     **语法:**
 
-    ```
+    ```html
     $(selector).not(selector);
     ```
 
@@ -316,7 +316,7 @@ $(selector).parents();
     it is most recent filtering operation in the current chain and return the set of matched elements to its previous state and it doesn’t accept any arguments.
     **Syntax:**
 
-    ```
+    ```html
     $(selector).each(callback function);
 
     ```
@@ -328,7 +328,7 @@ $(selector).parents();
 
     **例 1:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -384,7 +384,7 @@ $(selector).parents();
 
     **例 2:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

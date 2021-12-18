@@ -10,7 +10,7 @@
 
 *   设置*标记*属性:
 
-```
+```html
 $('#jqxKnob').jqxKnob({
     marks: {
         colorRemaining: { color: 'red' },
@@ -24,7 +24,7 @@ $('#jqxKnob').jqxKnob({
 
 *   获取*标记*属性:
 
-```
+```html
 var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('marks');
 ```
 
@@ -53,7 +53,7 @@ var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('marks');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

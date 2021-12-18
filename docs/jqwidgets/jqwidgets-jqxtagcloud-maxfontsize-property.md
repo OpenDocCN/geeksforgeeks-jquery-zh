@@ -10,13 +10,13 @@
 
 *   用于设置 *maxFontSize* 属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ maxFontSize: 40 });
     ```
 
 *   获取 *maxFontSize* 属性。
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'maxFontSize' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

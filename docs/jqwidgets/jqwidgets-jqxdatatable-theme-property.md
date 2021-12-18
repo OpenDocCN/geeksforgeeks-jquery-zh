@@ -10,13 +10,13 @@
 
 设置*主题*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({theme: true});  
 ```
 
 获取*主题*属性:
 
-```
+```html
 var showToolbar = $('#dataTable').jqxDataTable('theme');
 ```
 
@@ -31,7 +31,7 @@ var showToolbar = $('#dataTable').jqxDataTable('theme');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

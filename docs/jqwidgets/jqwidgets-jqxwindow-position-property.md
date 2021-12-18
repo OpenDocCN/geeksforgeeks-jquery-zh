@@ -18,13 +18,13 @@
 
 设置位置属性:
 
-```
+```html
 $('#jqxWindow').jqxWindow({ position: { x: 300, y: 400 }});  
 ```
 
 获取位置属性:
 
-```
+```html
 var position = $('#jqxWindow').jqxWindow('position'); 
 ```
 
@@ -39,7 +39,7 @@ var position = $('#jqxWindow').jqxWindow('position');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

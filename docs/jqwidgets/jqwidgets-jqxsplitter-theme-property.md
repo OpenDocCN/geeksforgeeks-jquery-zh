@@ -10,13 +10,13 @@
 
 *   **设置*主题*属性:**
 
-    ```
+    ```html
     $('#jqxSplitter').jqxSplitter({ theme: 'energyblue' });
     ```
 
 *   **获取*主题*属性:**
 
-    ```
+    ```html
     var disabled = $('#jqxSplitter').jqxSplitter('theme');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

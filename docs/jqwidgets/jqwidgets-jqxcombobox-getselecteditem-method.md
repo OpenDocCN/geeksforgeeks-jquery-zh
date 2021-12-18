@@ -19,7 +19,7 @@ getSelectedItem()方法用于获取所选项。它不接受任何参数，并返
 
 **语法:**
 
-```
+```html
 var item = $('selector').jqxComboBox('getSelectedItem');
 ```
 
@@ -39,7 +39,7 @@ var item = $('selector').jqxComboBox('getSelectedItem');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

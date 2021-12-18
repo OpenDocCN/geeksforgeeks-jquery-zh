@@ -10,7 +10,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   设置 alwaysShowNavigationArrows 属性。
 
-    ```
+    ```html
     $('selector').jqxListMenu({ 
         alwaysShowNavigationArrows: Boolean 
     });
@@ -18,7 +18,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   返回 alwaysShowNavigationArrows 属性。
 
-    ```
+    ```html
     var nav = $('selector')
       .jqxListMenu('alwaysShowNavigationArrows');
     ```
@@ -36,7 +36,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
     ## 超文本标记语言
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

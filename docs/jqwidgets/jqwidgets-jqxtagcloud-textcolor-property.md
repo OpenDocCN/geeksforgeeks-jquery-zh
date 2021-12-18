@@ -10,13 +10,13 @@
 
 *   用于设置*文本颜色*属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ textColor: 'red' });
     ```
 
 *   获取*文本颜色*属性。
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'textColor' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

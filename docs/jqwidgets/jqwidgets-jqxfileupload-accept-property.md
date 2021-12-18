@@ -10,13 +10,13 @@
 
 *   设置*接受*属性:
 
-    ```
+    ```html
     $('Selector').jqxFileUpload({ accept : string });
     ```
 
 *   返回*接受*属性:
 
-    ```
+    ```html
     var accept = $('Selector').jqxFileUpload('accept');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

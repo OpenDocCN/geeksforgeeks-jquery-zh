@@ -6,7 +6,7 @@ jQuery 中的 **get()方法**用于获取选择器指定的 DOM 元素。
 
 **语法**
 
-```
+```html
 $(selector).get(index)
 ```
 
@@ -14,7 +14,7 @@ $(selector).get(index)
 
 **示例 1:** 本示例使用 get()方法获取选择器指定的元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +61,7 @@ $(selector).get(index)
 
 **示例 2:** 本示例使用 get()方法获取选择器指定的元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

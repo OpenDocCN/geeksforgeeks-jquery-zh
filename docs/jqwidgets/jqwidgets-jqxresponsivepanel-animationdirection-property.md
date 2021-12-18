@@ -17,7 +17,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   设置动画方向属性。
 
-    ```
+    ```html
     $('selector').jqxResponsivePanel({ 
         animationDirection: String 
     });
@@ -25,7 +25,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   返回动画方向属性。
 
-    ```
+    ```html
     var animationDirection = $('selector')
         .jqxResponsivePanel('animationDirection');
     ```
@@ -43,7 +43,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

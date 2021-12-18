@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```html
 var cell = $("#Selector").jqxGrid(
     'getcell', rowBoundIndex, "dataField");
 ```
@@ -37,7 +37,7 @@ var cell = $("#Selector").jqxGrid(
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

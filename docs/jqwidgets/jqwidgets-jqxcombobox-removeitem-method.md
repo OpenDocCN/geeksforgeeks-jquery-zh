@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('removeItem', "List Item");
 ```
 
@@ -26,7 +26,7 @@ $('selector').jqxComboBox('removeItem', "List Item");
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

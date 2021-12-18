@@ -10,13 +10,13 @@
 
 *   **用于设置 *开关*属性:**
 
-    ```
+    ```html
     $('#jqxTouch').jqxTouch({swipeDelay: 999});
     ```
 
 *   **要获得 *swipeDelay* 属性:**
 
-    ```
+    ```html
     var swipeMin = $('#jqxTouch').jqxTouch('swipeDelay');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

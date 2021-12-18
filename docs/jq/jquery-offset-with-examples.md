@@ -5,19 +5,19 @@
 offset()方法是 jQuery 中的一个内置方法，用于设置或返回所选元素的偏移坐标。
 **语法:**
 
-```
+```html
 $(selector).offset()
 ```
 
 *   **参数:**参数不需要。
 
-```
+```html
 $(selector).offset({top:value, left:value})
 ```
 
 *   **参数:**设置偏移量时需要该参数。
 
-```
+```html
 $(selector).offset( function(index, offset) )
 ```
 
@@ -29,7 +29,7 @@ $(selector).offset( function(index, offset) )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -81,7 +81,7 @@ $(selector).offset( function(index, offset) )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
    <head>

@@ -6,7 +6,7 @@ jQuery 中的这个**delivered . always()**方法用于添加处理程序，当 
 
 **语法:**
 
-```
+```html
 deferred.always( alwaysCallbacks [, alwaysCallbacks] )
 ```
 
@@ -19,7 +19,7 @@ deferred.always( alwaysCallbacks [, alwaysCallbacks] )
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -77,7 +77,7 @@ deferred.always( alwaysCallbacks [, alwaysCallbacks] )
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

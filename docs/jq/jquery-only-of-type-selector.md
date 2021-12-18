@@ -5,14 +5,14 @@
 **:唯一类型选择器**是 jQuery 中的一个内置选择器，用于选择其父元素的唯一子元素。
 **语法:**
 
-```
+```html
 $("parent_name : only-of-type")
 
 ```
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@ $("parent_name : only-of-type")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

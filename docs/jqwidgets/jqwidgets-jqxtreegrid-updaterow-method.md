@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").jqxTreeGrid('updateRow', Row_Id, new_Data)
 ```
 
@@ -30,7 +30,7 @@ $("Selector").jqxTreeGrid('updateRow', Row_Id, new_Data)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   用于设置 ***可调整大小的*** 属性。
 
-    ```
+    ```html
     $("#jqxLayout").jqxLayout({ resizable: true });
     ```
 
 *   获取 ***可调整大小的*** 属性。
 
-    ```
+    ```html
     var contextMenu = $('#jqxLayout').jqxLayout('resizable');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

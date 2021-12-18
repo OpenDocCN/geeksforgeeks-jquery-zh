@@ -8,7 +8,7 @@ uncheckItem()方法用于取消选中项目。它接受对象/字符串类型的
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('uncheckItem', 'Item' );
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('uncheckItem', 'Item' );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

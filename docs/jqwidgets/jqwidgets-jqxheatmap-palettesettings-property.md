@@ -10,13 +10,13 @@
 
 *   它用于设置 paletteSettings 属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ paletteSettings : object });
     ```
 
 *   它用于返回 paletteSettings 属性。
 
-    ```
+    ```html
     var paletteSettings = 
         $('Selector').jqxHeatMap('paletteSettings');
     ```
@@ -38,7 +38,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

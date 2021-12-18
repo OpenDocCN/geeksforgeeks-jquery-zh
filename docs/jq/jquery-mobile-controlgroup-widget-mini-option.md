@@ -6,7 +6,7 @@ jQuery Mobile 是一种基于网络的技术，用于制作可在所有智能手
 
 **语法:**
 
-```
+```html
 $( ".selector" ).controlgroup({
    mini: boolean
 });
@@ -22,7 +22,7 @@ $( ".selector" ).controlgroup({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

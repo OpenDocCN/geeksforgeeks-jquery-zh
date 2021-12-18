@@ -10,13 +10,13 @@
 
 *   设置*最大*属性。
 
-    ```
+    ```html
     $('Selector').jqxLinearGauge({ max : number});
     ```
 
 *   归还*最大*财产。
 
-    ```
+    ```html
     var max = $('Selector').jqxLinearGauge('max');
     ```
 
@@ -28,7 +28,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

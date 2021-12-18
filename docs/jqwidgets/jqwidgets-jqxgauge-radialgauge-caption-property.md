@@ -10,13 +10,13 @@
 
 *   设置*标题*属性。
 
-```
+```html
 $('Selector').jqxGauge({ caption: object });  
 ```
 
 *   返回*标题*属性。
 
-```
+```html
 var caption= $('Selector').jqxGauge('caption');
 ```
 
@@ -31,7 +31,7 @@ var caption= $('Selector').jqxGauge('caption');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

@@ -6,7 +6,7 @@ jQuery 中的**isimmediatepropagationtop()方法**用于检查该方法是为事
 
 **语法:**
 
-```
+```html
 $(selector).isImmediatePropagationStopped()
 
 ```
@@ -17,7 +17,7 @@ $(selector).isImmediatePropagationStopped()
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -71,7 +71,7 @@ $(selector).isImmediatePropagationStopped()
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

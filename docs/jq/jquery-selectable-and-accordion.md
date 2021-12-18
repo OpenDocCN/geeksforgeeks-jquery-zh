@@ -10,11 +10,11 @@
     **Syntax:**
     The selectable() method has two forms and the use of each form depends on the requirement. These are as follows :-
 
-    ```
+    ```html
     $(selector, context).selectable (options);
     ```
 
-    ```
+    ```html
     $(selector, context).selectable ("action", [params]);
     ```
 
@@ -37,7 +37,7 @@
     *   **Default Functionality –**
         **Code :**
 
-        ```
+        ```html
         <!doctype html>
         <html lang="en">
         <head>
@@ -99,7 +99,7 @@
     *   **Grid Display –**
         **Code :**
 
-        ```
+        ```html
         <!doctype html>
         <html lang="en">
         <head>
@@ -194,11 +194,11 @@
     **语法:**
     使用手风琴法的语法如下
 
-    ```
+    ```html
     $(selector).accordion (options)
     ```
 
-    ```
+    ```html
     $(selector).accordion ("action", params)
     ```
 
@@ -215,7 +215,7 @@
     *   **Default Functionality –**In default functionality, the one section of the accordion is always open.
         **Code :**
 
-        ```
+        ```html
         <!doctype html>
         <html lang="en">
         <head>
@@ -282,7 +282,7 @@
     *   **Collapsible Content –**To remove the default functionality, the collapsible option is set to true.
         **Code :**
 
-        ```
+        ```html
         <!doctype html>
         <html lang="en">
         <head>

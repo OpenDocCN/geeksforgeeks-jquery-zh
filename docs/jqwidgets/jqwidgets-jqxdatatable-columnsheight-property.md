@@ -10,13 +10,13 @@
 
 设置*列亮度*属性:
 
-```
+```html
 $('Selector').jqxDataTable({columnsHeight: 50});  
 ```
 
 要获取*列标题*属性:
 
-```
+```html
 var columnsHeight = $('Selector').jqxDataTable('columnsHeight'); 
 ```
 
@@ -31,7 +31,7 @@ var columnsHeight = $('Selector').jqxDataTable('columnsHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

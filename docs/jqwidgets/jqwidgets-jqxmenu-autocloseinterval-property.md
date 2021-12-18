@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 autoCloseInterval 属性。
 
-```
+```html
 $('selector').jqxMenu({ autoCloseInterval: Number });
 ```
 
 返回 autoCloseInterval 属性。
 
-```
+```html
 var autoCloseInterval = $('selector').jqxMenu('autoCloseInterval');
 ```
 
@@ -33,7 +33,7 @@ var autoCloseInterval = $('selector').jqxMenu('autoCloseInterval');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

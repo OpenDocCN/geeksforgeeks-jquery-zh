@@ -10,13 +10,13 @@
 
 *   用于设置*箭头偏移值*属性。
 
-    ```
+    ```html
     $('#jqxPopover').jqxPopover({arrowOffsetValue: 10});
     ```
 
 *   获取*箭头偏移值*属性。
 
-    ```
+    ```html
     var arrowOffsetValue = 
         $('#jqxPopover').jqxPopover('arrowOffsetValue'); 
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

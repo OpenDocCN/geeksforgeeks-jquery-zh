@@ -8,13 +8,13 @@
 
 *   **语法:**
 
-    ```
+    ```html
     $(selector).filter(criteria, function(index))
     ```
 
 *   **例:**
 
-    ```
+    ```html
     <!DOCTYPE html> 
     <html> 
 
@@ -79,13 +79,13 @@
 
 *   **语法:**
 
-    ```
+    ```html
     $(".class1.class2.class3...")
     ```
 
 *   **例:**
 
-    ```
+    ```html
     <!DOCTYPE html> 
     <html> 
 

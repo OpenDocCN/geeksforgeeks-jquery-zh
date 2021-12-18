@@ -10,13 +10,13 @@
 
 设置*页面位置*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({ pagerPosition: 'both' });
 ```
 
 获取*页面位置*属性:
 
-```
+```html
 var hasThreeStates = $('#dataTable').jqxDataTable('pagerPosition');
 ```
 
@@ -31,7 +31,7 @@ var hasThreeStates = $('#dataTable').jqxDataTable('pagerPosition');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('.selector').jqxBarGauge('refresh');
 ```
 
@@ -23,7 +23,7 @@ $('.selector').jqxBarGauge('refresh');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

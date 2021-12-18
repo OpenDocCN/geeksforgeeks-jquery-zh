@@ -10,13 +10,13 @@
 
 设置*弹出菜单*属性。
 
-```
+```html
 $('selector').jqxInput({ popupZIndex: Number });
 ```
 
 返回*弹出菜单*属性。
 
-```
+```html
 var popupZIndex = $('selector').jqxInput('popupZIndex');
 ```
 
@@ -31,7 +31,7 @@ var popupZIndex = $('selector').jqxInput('popupZIndex');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').on('bindingComplete', function (event) {});
 ```
 
@@ -23,7 +23,7 @@ $('selector').on('bindingComplete', function (event) {});
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

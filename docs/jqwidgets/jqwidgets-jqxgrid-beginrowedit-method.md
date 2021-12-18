@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#Selector").jqxGrid('beginrowedit', rowBoundIndex);
 ```
 
@@ -27,7 +27,7 @@ $("#Selector").jqxGrid('beginrowedit', rowBoundIndex);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

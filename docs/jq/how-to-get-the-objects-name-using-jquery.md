@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 // Select the required element
 let selectedElem = $("elemToSelect");
 
@@ -26,7 +26,7 @@ console.log("The name of this element is:",
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

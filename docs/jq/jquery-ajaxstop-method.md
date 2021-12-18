@@ -5,7 +5,7 @@
 **ajaxStop()** 方法用于指定当 **AJAX 请求完成时要运行的函数。**
 **语法:**
 
-```
+```html
 $(document).ajaxStop(function())
 
 ```
@@ -20,7 +20,7 @@ $(document).ajaxStop(function())
 
 **示例-1:** 本示例通过从服务器获取数据来更改< p >元素的内容。请求完成后，页面显示 **AJAX 请求停止**。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ $(document).ajaxStop(function())
 
 **示例-2:** 本示例通过从服务器获取数据来更改< h1 >元素的内容。请求完成后，页面显示 **AJAX 请求停止**。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

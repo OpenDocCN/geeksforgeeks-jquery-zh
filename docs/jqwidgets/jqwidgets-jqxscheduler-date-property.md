@@ -10,7 +10,7 @@
 
 *   设置*日期*属性。
 
-    ```
+    ```html
     $("#Selector").jqxScheduler({ 
         date: new $.jqx.date('todayDate') 
     });
@@ -18,7 +18,7 @@
 
 *   返回*日期*属性。
 
-    ```
+    ```html
     var date = $('#Selector').jqxScheduler('date');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

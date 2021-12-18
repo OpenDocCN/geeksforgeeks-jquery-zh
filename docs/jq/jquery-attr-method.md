@@ -8,25 +8,25 @@ jQuery 中的 **attr()方法**用于**设置**或**返回**所选元素的属性
 
 *   要返回属性值:
 
-    ```
+    ```html
     $(selector).attr(attribute)
     ```
 
 *   设置属性和值:
 
-    ```
+    ```html
     $(selector).attr(attribute, value)
     ```
 
 *   使用函数设置属性和值:
 
-    ```
+    ```html
     $(selector).attr(attribute, function(index, currentvalue))
     ```
 
 *   要设置多个属性和值:
 
-    ```
+    ```html
     $(selector).attr({attribute:value, attribute:value, ...})
     ```
 
@@ -40,7 +40,7 @@ jQuery 中的 **attr()方法**用于**设置**或**返回**所选元素的属性
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -91,7 +91,7 @@ jQuery 中的 **attr()方法**用于**设置**或**返回**所选元素的属性
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -142,7 +142,7 @@ jQuery 中的 **attr()方法**用于**设置**或**返回**所选元素的属性
 
 **示例-3:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -195,7 +195,7 @@ jQuery 中的 **attr()方法**用于**设置**或**返回**所选元素的属性
 
 **示例-4:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

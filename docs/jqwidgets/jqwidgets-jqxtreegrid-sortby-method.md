@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").jqxTreeGrid('sortBy', dataField, sortOrder);
 ```
 
@@ -30,7 +30,7 @@ $("Selector").jqxTreeGrid('sortBy', dataField, sortOrder);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

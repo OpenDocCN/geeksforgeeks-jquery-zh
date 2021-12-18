@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#treeGrid').on('sort', function (event) {
     var args = event.args;
     // column's data field.
@@ -33,7 +33,7 @@ $('#treeGrid').on('sort', function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

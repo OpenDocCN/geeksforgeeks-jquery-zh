@@ -10,13 +10,13 @@
 
 设置*过滤延迟*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ filterDelay: Number });
 ```
 
 返回*过滤延迟*属性。
 
-```
+```html
 var filterDelay = $('selector').jqxDropDownList('filterDelay');
 ```
 
@@ -31,7 +31,7 @@ var filterDelay = $('selector').jqxDropDownList('filterDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

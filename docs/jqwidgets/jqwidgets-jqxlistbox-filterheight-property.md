@@ -10,13 +10,13 @@
 
 要设置*过滤器高度*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({filterHeight:30}); 
 ```
 
 要获取*过滤器高度*属性:
 
-```
+```html
 var filterHeight = $('#jqxListBox').jqxListBox('filterHeight'); 
 ```
 
@@ -33,7 +33,7 @@ var filterHeight = $('#jqxListBox').jqxListBox('filterHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

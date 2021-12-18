@@ -10,13 +10,13 @@
 
 设置动画设置持续时间属性。
 
-```
+```html
 $('selector').jqxTree({ animationShowDuration: Number });
 ```
 
 返回 animationShowDuration 属性。
 
-```
+```html
 var anDur = $('selector').jqxTree('animationShowDuration');
 ```
 
@@ -33,7 +33,7 @@ var anDur = $('selector').jqxTree('animationShowDuration');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

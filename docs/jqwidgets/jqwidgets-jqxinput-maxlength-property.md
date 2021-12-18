@@ -10,13 +10,13 @@
 
 设置*最大长度*属性。
 
-```
+```html
 $('selector').jqxInput({ maxLength: Number });
 ```
 
 返回*最大长度*属性。
 
-```
+```html
 var maxLength = $('selector').jqxInput('maxLength');
 ```
 
@@ -31,7 +31,7 @@ var maxLength = $('selector').jqxInput('maxLength');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

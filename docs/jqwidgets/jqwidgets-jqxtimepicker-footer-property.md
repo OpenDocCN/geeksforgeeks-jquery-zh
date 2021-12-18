@@ -10,13 +10,13 @@
 
 设置*页脚*属性。
 
-```
+```html
 $('selector').jqxTimePicker({ footer: Boolean });
 ```
 
 返回*页脚*属性。
 
-```
+```html
 var footer = $('selector').jqxTimePicker('footer');
 ```
 
@@ -28,7 +28,7 @@ var footer = $('selector').jqxTimePicker('footer');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

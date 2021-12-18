@@ -10,13 +10,13 @@
 
 设置 ***自动加载元素*** 属性:
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({autoShowLoadElement: false});  
 ```
 
 获取 ***自动加载元素*** 属性:
 
-```
+```html
 var autoShowLoadElement = 
     $('#treeGrid').jqxTreeGrid('autoShowLoadElement'); 
 ```
@@ -32,7 +32,7 @@ var autoShowLoadElement =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

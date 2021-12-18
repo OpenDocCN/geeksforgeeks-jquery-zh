@@ -10,13 +10,13 @@
 
 设置*显示标题*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({showHeader: false});
 ```
 
 获取*显示标题*属性:
 
-```
+```html
 var showHeader = $('#dataTable').jqxDataTable('showHeader');
 ```
 
@@ -31,7 +31,7 @@ var showHeader = $('#dataTable').jqxDataTable('showHeader');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

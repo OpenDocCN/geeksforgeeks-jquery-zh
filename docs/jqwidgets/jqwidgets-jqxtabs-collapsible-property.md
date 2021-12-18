@@ -10,13 +10,13 @@
 
 设置*可折叠*属性。
 
-```
+```html
 $('selector').jqxTabs({ collapsible: Boolean });
 ```
 
 返回*可折叠*属性。
 
-```
+```html
 var collapsible = $('selector').jqxTabs('collapsible');
 ```
 
@@ -31,7 +31,7 @@ var collapsible = $('selector').jqxTabs('collapsible');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

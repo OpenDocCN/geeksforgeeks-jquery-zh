@@ -6,7 +6,7 @@ replaceAll()方法是 jQuery 中的一个内置方法，用于用新的 HTML 元
 
 **语法:**
 
-```
+```html
 $(content).replaceAll(selector)
 ```
 
@@ -21,7 +21,7 @@ $(content).replaceAll(selector)
 
 **程序:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

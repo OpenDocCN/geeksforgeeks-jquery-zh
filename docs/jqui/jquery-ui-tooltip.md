@@ -12,7 +12,7 @@ jQuery 用户界面中的工具提示小部件不同于传统的工具提示，�
 
 **语法:**
 
-```
+```html
 $( "#div_tooltip" ).tooltip({
 });
 ```
@@ -31,7 +31,7 @@ $( "#div_tooltip" ).tooltip({
 工具提示是可添加的，它将覆盖用 title 属性编写的父字符串。这给了我们一个优势，因为我们可以通过使用脚本来更改工具提示，就像同一个元素可以在不同的需求下显示不同的工具提示字符串一样。让我们试试。在这里，我们将标题定义为“欢迎来到 geeksforgeeks”，它在 javascript 代码中被覆盖。
 **例 1:**
 
-```
+```html
 <html>
 
 <head>
@@ -76,7 +76,7 @@ $( "#div_tooltip" ).tooltip({
 
 **例 2:**
 
-```
+```html
 <html>
 
 <head>
@@ -120,7 +120,7 @@ $( "#div_tooltip" ).tooltip({
 
 **例 3:**
 
-```
+```html
 <html>
 
 <head>
@@ -166,7 +166,7 @@ $( "#div_tooltip" ).tooltip({
 
 **例 4:**
 
-```
+```html
 <html>
 
 <head>
@@ -223,7 +223,7 @@ $( "#div_tooltip" ).tooltip({
 
     检查这条线
 
-    ```
+    ```html
     position: { my: "left center", at: "right top" } 
     ```
 
@@ -231,7 +231,7 @@ $( "#div_tooltip" ).tooltip({
 
     **例 5:**
 
-    ```
+    ```html
     <html>
 
     <head>
@@ -283,7 +283,7 @@ $( "#div_tooltip" ).tooltip({
     对于显示和隐藏选项，使用以下示例中的几种效果。
     **例 6:**
 
-    ```
+    ```html
     <html>
 
     <head>

@@ -6,7 +6,7 @@ undelegate()方法是 jQuery 中的一个内置方法，用于从所选元素中
 
 **语法:**
 
-```
+```html
 $(selector).undelegate(selector, event, function)
 ```
 
@@ -22,7 +22,7 @@ $(selector).undelegate(selector, event, function)
 
 **示例 1:** 本示例不包含任何参数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -78,7 +78,7 @@ $(selector).undelegate(selector, event, function)
 
 **例 2:** 本例包含所有参数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

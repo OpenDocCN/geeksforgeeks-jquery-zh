@@ -10,13 +10,13 @@
 
 设置*值成员*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ valueMember: String });
 ```
 
 返回*值成员*属性。
 
-```
+```html
 var valueMember = $('selector').jqxDropDownList('valueMember');
 ```
 
@@ -31,7 +31,7 @@ var valueMember = $('selector').jqxDropDownList('valueMember');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

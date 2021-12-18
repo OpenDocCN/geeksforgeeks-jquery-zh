@@ -10,13 +10,13 @@
 
 *   设置*悬停启用*属性:
 
-    ```
+    ```html
     $('#jqxTreeMap').jqxTreeMap({ hoverEnabled: true });  
     ```
 
 *   要获取*悬停启用的*属性:
 
-    ```
+    ```html
     var hoverEnabled = $('#jqxTreeMap').jqxTreeMap('hoverEnabled'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

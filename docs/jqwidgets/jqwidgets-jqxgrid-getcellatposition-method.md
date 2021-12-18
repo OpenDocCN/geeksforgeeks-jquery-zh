@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```html
 var cell = $("#Selector").jqxGrid('getcellatposition', left, top);
 ```
 
@@ -34,7 +34,7 @@ var cell = $("#Selector").jqxGrid('getcellatposition', left, top);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

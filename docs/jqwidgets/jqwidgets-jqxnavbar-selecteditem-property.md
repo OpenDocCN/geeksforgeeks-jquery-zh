@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 selectedItem 属性。
 
-```
+```html
 $('selector').jqxNavBar({ selectedItem: Number });
 ```
 
 返回 selectedItem 属性。
 
-```
+```html
 var selectedItem = $('selector').jqxNavBar('selectedItem');
 ```
 
@@ -35,7 +35,7 @@ var selectedItem = $('selector').jqxNavBar('selectedItem');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

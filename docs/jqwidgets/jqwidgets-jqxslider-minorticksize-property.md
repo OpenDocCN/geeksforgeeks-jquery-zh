@@ -10,13 +10,13 @@ minorTickSize 属性用于设置或返回滑块小部件的次要刻度的大小
 
 设置 minorTickSize 属性。
 
-```
+```html
 $('selector').jqxSlider({ minorTickSize: Number });
 ```
 
 返回 minorTickSize 属性。
 
-```
+```html
 var minorTickSize = $('selector').jqxSlider('minorTickSize');
 ```
 
@@ -33,7 +33,7 @@ var minorTickSize = $('selector').jqxSlider('minorTickSize');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

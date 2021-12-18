@@ -10,13 +10,13 @@
 
 *   设置*范围*属性。
 
-    ```
+    ```html
     $('Selector').jqxGauge({ ranges: array });  
     ```
 
 *   返回*范围*属性。
 
-    ```
+    ```html
     var ranges = $('Selector').jqxGauge('ranges');
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

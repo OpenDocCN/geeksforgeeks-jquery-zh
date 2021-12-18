@@ -10,13 +10,13 @@
 
 设置禁用属性。
 
-```
+```html
 $('Selector').jqxEditor({ disabled: Boolean});  
 ```
 
 返回禁用的属性。
 
-```
+```html
 var disabled = $('Selector').jqxEditor('disabled'); 
 ```
 
@@ -36,7 +36,7 @@ var disabled = $('Selector').jqxEditor('disabled');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

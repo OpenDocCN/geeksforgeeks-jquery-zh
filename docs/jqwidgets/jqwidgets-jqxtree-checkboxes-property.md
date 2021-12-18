@@ -10,13 +10,13 @@
 
 设置复选框属性。
 
-```
+```html
 $('selector').jqxTree({ checkboxes: Boolean });
 ```
 
 返回复选框属性。
 
-```
+```html
 var checkboxes = $('selector').jqxTree('checkboxes');
 ```
 
@@ -33,7 +33,7 @@ var checkboxes = $('selector').jqxTree('checkboxes');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

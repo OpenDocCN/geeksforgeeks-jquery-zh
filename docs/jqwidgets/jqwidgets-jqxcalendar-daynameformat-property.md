@@ -16,7 +16,7 @@ dayNameFormat 属性用于设置或返回一周中各天的名称格式。它接
 
 **语法:**
 
-```
+```html
 $('.selector').jqxCalendar({
     dayNameFormat: String
 });
@@ -35,7 +35,7 @@ $('.selector').jqxCalendar({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

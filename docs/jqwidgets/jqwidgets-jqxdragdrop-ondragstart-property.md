@@ -10,13 +10,13 @@
 
 设置 *onDragStart* 属性。
 
-```
+```html
 $('selector').jqxDragDrop({ onDragStart:  });
 ```
 
 返回 *onDragStart* 属性。
 
-```
+```html
 var onDragStart = $('selector').jqxDragDrop('onDragStart');
 ```
 
@@ -28,7 +28,7 @@ var onDragStart = $('selector').jqxDragDrop('onDragStart');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

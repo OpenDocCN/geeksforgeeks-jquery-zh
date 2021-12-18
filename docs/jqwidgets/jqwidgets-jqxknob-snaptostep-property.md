@@ -10,13 +10,13 @@
 
 *   用于设置*快照步骤*属性。
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({snapToStep: true });
     ```
 
 *   获得*快照步骤*属性。
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('snapToStep');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

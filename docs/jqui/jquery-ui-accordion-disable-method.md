@@ -8,7 +8,7 @@ jQuery UI disable()方法用于完全禁用手风琴。它将 acordion 元素完
 
 **语法:**
 
-```
+```html
 $( ".selector" ).accordion( "disable" )
 ```
 
@@ -22,7 +22,7 @@ $( ".selector" ).accordion( "disable" )
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 

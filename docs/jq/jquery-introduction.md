@@ -23,7 +23,7 @@ jQuery 以其“少写多做”的哲学而闻名这个哲学可以进一步阐�
 
 **任何 jQuery 函数的基本语法为:**
 
-```
+```html
 $(selector).action()
 ```
 
@@ -33,7 +33,7 @@ $(selector).action()
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

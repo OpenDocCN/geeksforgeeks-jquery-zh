@@ -10,13 +10,13 @@
 
 *   为设置 ***禁用*** 属性。
 
-    ```
+    ```html
     $('#treeGrid').jqxTreeGrid({ disabled:true });
     ```
 
 *   因获得 ***伤残*** 房产。
 
-    ```
+    ```html
     var disabled = $('#treeGrid').jqxTreeGrid('disabled');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

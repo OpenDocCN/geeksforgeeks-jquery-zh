@@ -10,13 +10,13 @@
 
 使用指定的 maxWidth 属性初始化 maxWidth 窗口:
 
-```
+```html
 $('#jqxWindow').jqxWindow({ maxWidth: 1000 });  
 ```
 
 获取 maxWidth 属性:
 
-```
+```html
 var maxWidth = $('#jqxWindow').jqxWindow('maxWidth'); 
 ```
 
@@ -31,7 +31,7 @@ var maxWidth = $('#jqxWindow').jqxWindow('maxWidth');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

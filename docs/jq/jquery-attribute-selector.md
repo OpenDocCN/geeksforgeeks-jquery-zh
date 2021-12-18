@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $("[attribute_name]")
 
 ```
@@ -17,7 +17,7 @@ $("[attribute_name]")
 
 **示例-1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -68,7 +68,7 @@ $("[attribute_name]")
 
 **示例-2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 *   设置*系列组*属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ seriesGroups: object});
     ```
 
 *   返回*系列组*属性。
 
-    ```
+    ```html
     var seriesGroups = 
         $('Selector').jqxChart('seriesGroups ');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

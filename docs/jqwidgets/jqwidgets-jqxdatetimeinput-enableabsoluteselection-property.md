@@ -10,13 +10,13 @@ enableAbsoluteSelection 属性用于使用户在键入或选择文本输入字�
 
 设置“启用绝对选择”属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ enableAbsoluteSelection: Boolean });
 ```
 
 返回“启用绝对选择”属性。
 
-```
+```html
 var EAS = $('selector').jqxDateTimeInput('enableAbsoluteSelection');
 ```
 
@@ -33,7 +33,7 @@ var EAS = $('selector').jqxDateTimeInput('enableAbsoluteSelection');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

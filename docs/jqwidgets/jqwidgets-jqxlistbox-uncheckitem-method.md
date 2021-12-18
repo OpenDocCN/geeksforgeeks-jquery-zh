@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('uncheckItem', item );
 ```
 
@@ -27,7 +27,7 @@ $("#jqxListBox").jqxListBox('uncheckItem', item );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

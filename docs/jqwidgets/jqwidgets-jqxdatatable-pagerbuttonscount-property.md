@@ -10,13 +10,13 @@
 
 设置*页面按钮显示*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({pagerButtonsCount: 3 });  
 ```
 
 返回*页面按钮显示*属性:
 
-```
+```html
 var pagerButtonsCount = $('#dataTable')
         .jqxDataTable('pagerButtonsCount'); 
 ```
@@ -32,7 +32,7 @@ var pagerButtonsCount = $('#dataTable')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

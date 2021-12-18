@@ -14,13 +14,13 @@
 
 *   **语法:**
 
-    ```
+    ```html
     $('selectedTextarea').attr('placeholder', 'Placeholder text');
     ```
 
 *   **例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -74,14 +74,14 @@
 
 *   **语法:**
 
-    ```
+    ```html
     selectedTextarea = $('selectedTextarea')[0];
     selectedTextarea.placeholder = "Placeholder text";
     ```
 
 *   **例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

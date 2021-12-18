@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxTimePicker({ unfocusable: false });
 ```
 
@@ -23,7 +23,7 @@ $('selector').jqxTimePicker({ unfocusable: false });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

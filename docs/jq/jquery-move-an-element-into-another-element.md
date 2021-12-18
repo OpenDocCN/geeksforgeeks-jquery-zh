@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).append( content, function(index, html) )
 ```
 
@@ -21,7 +21,7 @@ $(selector).append( content, function(index, html) )
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 
@@ -92,7 +92,7 @@ $(selector).append( content, function(index, html) )
 
 **语法:**
 
-```
+```html
 $(selector).prepend(content, function)
 ```
 
@@ -103,7 +103,7 @@ $(selector).prepend(content, function)
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 

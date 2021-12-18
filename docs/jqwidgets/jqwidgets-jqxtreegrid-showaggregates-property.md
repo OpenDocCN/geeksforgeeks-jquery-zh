@@ -10,13 +10,13 @@
 
 用于设置 ***显示聚合*** 属性。
 
-```
+```html
 $('Selector').jqxTreeGrid({showAggregates: true}); 
 ```
 
 为获得 ***显示聚合*** 属性。
 
-```
+```html
 var showAggregates = $('Selector').jqxTreeGrid('showAggregates'); 
 ```
 
@@ -31,7 +31,7 @@ var showAggregates = $('Selector').jqxTreeGrid('showAggregates');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

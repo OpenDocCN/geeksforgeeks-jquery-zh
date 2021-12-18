@@ -10,7 +10,7 @@
 
 *   设置*垂直滚动条大步长*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ 
         verticalscrollbarlargestep: 300
     });
@@ -18,7 +18,7 @@
 
 *   返回*垂直滚动条大步长*属性。
 
-    ```
+    ```html
     var verticalscrollbarlargestep = $('#Selector')
         .jqxGrid('verticalscrollbarlargestep');
     ```
@@ -36,7 +36,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

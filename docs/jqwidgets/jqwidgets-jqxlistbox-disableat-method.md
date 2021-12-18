@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('disableAt', index);
 ```
 
@@ -27,7 +27,7 @@ $("#jqxListBox").jqxListBox('disableAt', index);
 
 ## 超文本标记语言
 
-```
+```html
 <html>
     <head>
         <link rel="stylesheet" 

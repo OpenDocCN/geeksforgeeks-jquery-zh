@@ -10,13 +10,13 @@
 
 *   设置*高度*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({height:"400px"});
 ```
 
 *   获取*高度*属性。
 
-```
+```html
 var height = $('#jqxWindow').jqxWindow('height');
 ```
 
@@ -31,7 +31,7 @@ var height = $('#jqxWindow').jqxWindow('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

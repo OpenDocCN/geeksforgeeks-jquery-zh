@@ -10,13 +10,13 @@
 
 设置*可排序*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({sortable: true});  
 ```
 
 返回*可排序的*属性:
 
-```
+```html
 var sortable = $('#dataTable').jqxDataTable('sortable'); 
 ```
 
@@ -31,7 +31,7 @@ var sortable = $('#dataTable').jqxDataTable('sortable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

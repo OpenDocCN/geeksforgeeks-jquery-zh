@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 selector.hide | show | toggle( "explode", {arguments}, speed );
 ```
 
@@ -19,7 +19,7 @@ selector.hide | show | toggle( "explode", {arguments}, speed );
 
 **示例:**使用带爆炸效果的按钮隐藏和显示 Div。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

@@ -6,7 +6,7 @@ jQuery 中的 **fadeToggle()方法**在 fadeIn()和 fadeOut()方法之间切换�
 
 **语法:**
 
-```
+```html
 $(selector).fadeToggle(speed, easing, callback)
 ```
 
@@ -25,7 +25,7 @@ $(selector).fadeToggle(speed, easing, callback)
 
 **示例 1:** 本示例在给定速度下显示 fadeToggle()方法效果。速度可以用毫秒来设定。
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 
@@ -85,7 +85,7 @@ $(selector).fadeToggle(speed, easing, callback)
 
 **示例 2:** 本示例显示了带有挥杆放松的 fadeToggle()方法效果。缓和用于设置动画不同点的元素速度。
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
     <head> 

@@ -10,13 +10,13 @@
 
 *   对于设置 *禁用*属性:
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({ disabled:true });  
     ```
 
 *   要禁用*属性:*
 
-    ```
+    ```html
     *var disabled = $('#jqxDocking').jqxDocking('disabled');*
     ```
 
@@ -30,7 +30,7 @@
 
 ## *超文本标记语言*
 
-```
+```html
 *<!DOCTYPE html>
 <html lang="en">
 

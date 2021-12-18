@@ -18,13 +18,13 @@
 
 设置*选择模式*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({selectionMode: "singleRow" });  
 ```
 
 获取*启用浏览选择*属性。
 
-```
+```html
 var selectionMode = $('#dataTable').jqxDataTable('selectionMode'); 
 ```
 
@@ -39,7 +39,7 @@ var selectionMode = $('#dataTable').jqxDataTable('selectionMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

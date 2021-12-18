@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 var column = $('#Selector').jqxGrid('getcolumn', 'columndatafield');
 ```
 
@@ -40,7 +40,7 @@ var column = $('#Selector').jqxGrid('getcolumn', 'columndatafield');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

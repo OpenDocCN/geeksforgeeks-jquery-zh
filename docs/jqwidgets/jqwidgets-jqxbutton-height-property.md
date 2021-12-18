@@ -10,13 +10,13 @@
 
 设置*高度*属性。
 
-```
+```html
 $('#jqxButton').jqxButton({ height: '25px' }); 
 ```
 
 获取*高度*属性。
 
-```
+```html
 var height = $('#jqxButton').jqxButton('height');
 ```
 
@@ -33,7 +33,7 @@ var height = $('#jqxButton').jqxButton('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

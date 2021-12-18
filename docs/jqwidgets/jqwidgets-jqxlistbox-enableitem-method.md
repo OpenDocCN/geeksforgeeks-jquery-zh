@@ -18,7 +18,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('enableItem', Item);  
 ```
 
@@ -33,7 +33,7 @@ $("#jqxListBox").jqxListBox('enableItem', Item);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>

@@ -19,7 +19,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 pc 和移动设备制作基于
 
 **语法:**
 
-```
+```html
 var items = $('Selector').jqxTree('getItems');
 ```
 
@@ -36,7 +36,7 @@ var items = $('Selector').jqxTree('getItems');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

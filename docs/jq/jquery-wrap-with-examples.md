@@ -6,7 +6,7 @@ wrap()方法是 jQuery 中的一个内置方法，用于将指定的元素环绕
 
 **语法:**
 
-```
+```html
 $(selector).wrap(element, function)
 ```
 
@@ -21,7 +21,7 @@ $(selector).wrap(element, function)
 
 **例 1:** 本例不接受可选参数。
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -63,7 +63,7 @@ $(selector).wrap(element, function)
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

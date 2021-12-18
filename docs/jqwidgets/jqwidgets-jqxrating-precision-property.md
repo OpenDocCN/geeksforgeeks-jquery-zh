@@ -10,13 +10,13 @@
 
 设置*精度*属性。
 
-```
+```html
 $('selector').jqxRating({ precision: Number });
 ```
 
 返回*精度*属性。
 
-```
+```html
 var precision = $('selector').jqxRating('precision');
 ```
 
@@ -31,7 +31,7 @@ var precision = $('selector').jqxRating('precision');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

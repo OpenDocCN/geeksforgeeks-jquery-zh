@@ -6,7 +6,7 @@
 
 ***背景*** 属性用于设置或返回*背景*属性，即用于设置线性标尺的背景样式。它接受对象类型值，默认值如下
 
-```
+```html
 { 
    borderRadius: 15, 
    style:  { stroke: '#cccccc', fill: 'default-gradient'}, 
@@ -20,13 +20,13 @@
 
 *   设置*背景*属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ background : object });  
 ```
 
 *   返回*背景*属性。
 
-```
+```html
 var background = $('Selector').jqxLinearGauge('background');
 ```
 
@@ -41,7 +41,7 @@ var background = $('Selector').jqxLinearGauge('background');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <!DOCTYPE html>

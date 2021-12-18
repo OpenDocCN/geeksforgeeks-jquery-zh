@@ -10,19 +10,19 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 返回从给定数据源加载的每一行。
 
-```
+```html
 var rows = $('#Selector').jqxGrid('getboundrows');
 ```
 
 返回从给定数据源加载的第一行。
 
-```
+```html
 var rowData = rows[0];
 ```
 
 返回第一行的标识。
 
-```
+```html
 var rowID = rowData.uid;
 ```
 
@@ -39,7 +39,7 @@ var rowID = rowData.uid;
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ scrollLeft()方法是 jQuery 中的一个内置方法，用于返回或设置滚
 
 **语法:**
 
-```
+```html
 $(selector).scrollLeft(position)
 ```
 
@@ -18,7 +18,7 @@ $(selector).scrollLeft(position)
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -68,7 +68,7 @@ $(selector).scrollLeft(position)
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

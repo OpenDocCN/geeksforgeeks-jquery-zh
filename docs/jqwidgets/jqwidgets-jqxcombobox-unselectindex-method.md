@@ -8,7 +8,7 @@ unselectIndex()方法用于通过使用索引号来取消选择该项。jqxCombo
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('unselectIndex', index);
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('unselectIndex', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

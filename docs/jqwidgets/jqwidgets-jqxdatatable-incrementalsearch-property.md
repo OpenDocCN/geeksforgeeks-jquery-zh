@@ -10,13 +10,13 @@
 
 设置*增量搜索*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({incrementalSearch: true });
 ```
 
 返回*增量搜索*属性:
 
-```
+```html
 var incrementalSearch = $('#dataTable')
             .jqxDataTable('incrementalSearch');
 ```
@@ -32,7 +32,7 @@ var incrementalSearch = $('#dataTable')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -12,13 +12,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置“显示关闭按钮”属性。
 
-```
+```html
 $('selector').jqxTabs({ showCloseButtons: Boolean });
 ```
 
 返回 showCloseButtons 属性。
 
-```
+```html
 var showCloseButtons = $('selector').jqxTabs('showCloseButtons');
 ```
 
@@ -35,7 +35,7 @@ var showCloseButtons = $('selector').jqxTabs('showCloseButtons');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

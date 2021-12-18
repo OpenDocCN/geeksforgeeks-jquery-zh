@@ -10,13 +10,13 @@
 
 设置*主题*属性。
 
-```
+```html
 $('Selector').jqxEditor({ theme: 'energyblue'});  
 ```
 
 返回*主题*属性。
 
-```
+```html
 var theme = $('Selector').jqxEditor('theme');
 ```
 
@@ -37,7 +37,7 @@ var theme = $('Selector').jqxEditor('theme');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

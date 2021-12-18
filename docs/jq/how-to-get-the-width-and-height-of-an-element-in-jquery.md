@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $("param").width()
 $("param").height()
 ```
@@ -15,7 +15,7 @@ $("param").height()
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYpe html>
 <html>
 

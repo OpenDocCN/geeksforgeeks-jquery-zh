@@ -10,13 +10,13 @@
 
 *   要设置*可调整大小的*属性:
 
-    ```
+    ```html
     $('#jqxSplitter').jqxSplitter({ resizable: true });
     ```
 
 *   要获取*可调整大小的*属性:
 
-    ```
+    ```html
     var disabled = $('#jqxSplitter').jqxSplitter('resizable');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

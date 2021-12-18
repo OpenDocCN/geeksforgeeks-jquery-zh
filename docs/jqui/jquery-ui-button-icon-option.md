@@ -6,7 +6,7 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 HTML、CSS 和 jQuery 实现
 
 **语法:**
 
-```
+```html
 $( ".selector" ).button({
   icon: "ui-icon-gear"
 });
@@ -22,7 +22,7 @@ $( ".selector" ).button({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

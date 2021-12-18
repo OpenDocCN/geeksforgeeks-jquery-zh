@@ -10,7 +10,7 @@
 
 **用于设置 ***选择模式*** 属性。**
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({
     selectionMode: "multipleRows" 
 }); 
@@ -18,7 +18,7 @@ $('#treeGrid').jqxTreeGrid({
 
 **获取 ***选择模式*** 属性。**
 
-```
+```html
 var selectionMode = 
     $('#treeGrid').jqxTreeGrid('selectionMode'); 
 ```
@@ -33,7 +33,7 @@ var selectionMode =
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

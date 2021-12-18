@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('selector').jqxWindow('isOpen');
 ```
 
@@ -23,7 +23,7 @@ $('selector').jqxWindow('isOpen');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

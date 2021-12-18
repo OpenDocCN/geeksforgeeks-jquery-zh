@@ -10,13 +10,13 @@
 
 ****设置*宽度*属性。****
 
-```
+```html
 **$('Selector').jqxDropDownButton({ width: '250px'});** 
 ```
 
 ****获取*宽度*属性。****
 
-```
+```html
 **var width = $('Selector').jqxDropDownButton('width');**
 ```
 
@@ -30,7 +30,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
   <head>

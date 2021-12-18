@@ -15,13 +15,13 @@
 
 设置*切换模式*属性。
 
-```
+```html
 $('selector').jqxTree({ toggleMode: Boolean });
 ```
 
 返回*至*属性。
 
-```
+```html
 var toggleMode = $('selector').jqxTree('toggleMode');
 ```
 
@@ -36,7 +36,7 @@ var toggleMode = $('selector').jqxTree('toggleMode');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

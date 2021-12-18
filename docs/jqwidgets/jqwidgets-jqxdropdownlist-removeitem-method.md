@@ -8,7 +8,7 @@ removeItem()方法用于从列表框中移除项。它接受对象/字符串类�
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('removeItem', item);
 ```
 
@@ -25,7 +25,7 @@ $("Selector").jqxDropDownList('removeItem', item);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

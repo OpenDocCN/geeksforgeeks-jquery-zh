@@ -15,7 +15,7 @@
 
 *   设置*面板*属性:
 
-    ```
+    ```html
     $('#jqxSplitter').jqxSplitter({ 
         panels: [{ size: 200 },{ min: 50 }]
     });
@@ -23,7 +23,7 @@
 
 *   获取*面板*属性:
 
-    ```
+    ```html
     var disabled = $('#jqxSplitter').jqxSplitter('panels');
     ```
 
@@ -38,7 +38,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

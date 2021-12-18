@@ -6,7 +6,7 @@
 **使用 unbind()方法:**这是 jQuery 中的一种内置方法，用于移除任何选定的事件处理程序。
 **语法:**
 
-```
+```html
 $(selector).unbind(event, function, eventObj)
 ```
 
@@ -20,7 +20,7 @@ $(selector).unbind(event, function, eventObj)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 
@@ -79,7 +79,7 @@ $(selector).unbind(event, function, eventObj)
 **使用 off()方法:**用于移除附带 on()方法的事件处理程序。
 **语法:**
 
-```
+```html
 $(selector).off(event, selector, function(eventObj), map)
 ```
 
@@ -93,7 +93,7 @@ $(selector).off(event, selector, function(eventObj), map)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 

@@ -10,13 +10,13 @@
 
 设置*仪表板*属性:
 
-```
+```html
 $('#jqxButton').jqxButton({imgHeight: 16, imgSrc: 'gfg.png' }); 
 ```
 
 返回*仪表板*属性:
 
-```
+```html
 var imgHeight = $('#jqxButton').jqxButton('imgHeight');
 ```
 
@@ -31,7 +31,7 @@ var imgHeight = $('#jqxButton').jqxButton('imgHeight');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

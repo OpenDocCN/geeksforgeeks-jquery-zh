@@ -10,13 +10,13 @@
 
 设置 ranges 属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ ranges : array });
 ```
 
 返回范围的属性。
 
-```
+```html
 var ranges = $('Selector').jqxLinearGauge('ranges');
 ```
 
@@ -31,7 +31,7 @@ var ranges = $('Selector').jqxLinearGauge('ranges');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

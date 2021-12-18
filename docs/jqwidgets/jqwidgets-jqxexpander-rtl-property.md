@@ -10,13 +10,13 @@
 
 设置 *rtl* 属性。
 
-```
+```html
 $('selector').jqxExpander({ rtl: Boolean });
 ```
 
 归还 *rtl* 房产。
 
-```
+```html
 var rtl = $('selector').jqxExpander('rtl');
 ```
 
@@ -31,7 +31,7 @@ var rtl = $('selector').jqxExpander('rtl');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

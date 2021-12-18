@@ -10,13 +10,13 @@ closeDelay 属性用于设置或返回“关闭”动画的延迟。它接受数
 
 设置 closeDelay 属性。
 
-```
+```html
 $('selector').jqxDropDownList({ closeDelay: Number });
 ```
 
 返回 closeDelay 属性。
 
-```
+```html
 var closeDelay = $('selector').jqxDropDownList('closeDelay');
 ```
 
@@ -33,7 +33,7 @@ var closeDelay = $('selector').jqxDropDownList('closeDelay');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

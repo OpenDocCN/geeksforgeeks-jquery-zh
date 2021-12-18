@@ -8,7 +8,7 @@ enableAt()方法用于按索引启用禁用的项目。它接受数字类型的�
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('enableAt', index );
 ```
 
@@ -28,7 +28,7 @@ $('selector').jqxComboBox('enableAt', index );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置*关闭动画持续时间*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ closeAnimationDuration: 200 });  
 ```
 
 获取 *closeAnimationDuration* 属性。
 
-```
+```html
 var closeAniDur = $('#jqxWindow').jqxWindow('closeAnimationDuration'); 
 ```
 
@@ -31,7 +31,7 @@ var closeAniDur = $('#jqxWindow').jqxWindow('closeAnimationDuration');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

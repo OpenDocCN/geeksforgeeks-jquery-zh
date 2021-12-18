@@ -10,13 +10,13 @@
 
 用于设置***modalBackgroundZIndex***属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ modalBackgroundZIndex: 99999});  
 ```
 
 为获得***modalBackgroundZIndex*****属性。**
 
-```
+```html
 var modalBackgroundZIndex = 
     $('#jqxWindow').jqxWindow('modalBackgroundZIndex'); 
 ```
@@ -31,7 +31,7 @@ var modalBackgroundZIndex =
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

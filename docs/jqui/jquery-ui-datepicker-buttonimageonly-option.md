@@ -6,7 +6,7 @@ jQuery UI 由 GUI 小部件、视觉效果和使用 jQuery 实现的主题组成
 
 **语法:**
 
-```
+```html
 $( ".selector" ).datepicker({
   buttonImageOnly: true/false
 });
@@ -22,7 +22,7 @@ $( ".selector" ).datepicker({
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

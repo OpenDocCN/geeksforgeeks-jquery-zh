@@ -6,7 +6,7 @@ jQuery UI 可排序小部件类选项用于指定需要添加到小部件元素�
 
 **语法:**
 
-```
+```html
  $( ".selector" ).sortable({
   classes: {
     "ui-sortable": "highlight"
@@ -22,7 +22,7 @@ jQuery UI 可排序小部件类选项用于指定需要添加到小部件元素�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

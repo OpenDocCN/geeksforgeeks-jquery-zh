@@ -8,7 +8,7 @@ un **选择事件**用于用户取消选择某个项目时触发。
 
 **语法:**
 
-```
+```html
 $('Selector').on('unselect', function () {  });
 ```
 
@@ -25,7 +25,7 @@ $('Selector').on('unselect', function () {  });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

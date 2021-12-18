@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('Selector').on('valueChanged', function (event) {  });
 ```
 
@@ -23,7 +23,7 @@ $('Selector').on('valueChanged', function (event) {  });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

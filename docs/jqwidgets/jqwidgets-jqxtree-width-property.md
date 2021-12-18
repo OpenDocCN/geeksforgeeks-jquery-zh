@@ -10,13 +10,13 @@
 
 设置*宽度*属性。
 
-```
+```html
 $('selector').jqxTree({ width: Number/String });
 ```
 
 返回*宽度*属性。
 
-```
+```html
 var width = $('selector').jqxTree('width');
 ```
 
@@ -33,7 +33,7 @@ var width = $('selector').jqxTree('width');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

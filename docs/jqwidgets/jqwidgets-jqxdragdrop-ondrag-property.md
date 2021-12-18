@@ -10,13 +10,13 @@
 
 *   设置 *onDrag* 属性。
 
-    ```
+    ```html
     $('selector').jqxDragDrop({ onDrag: function(data, pos) { } });
     ```
 
 *   返回 *onDrag* 属性。
 
-    ```
+    ```html
     var onDrag = $('selector').jqxDragDrop('onDrag');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

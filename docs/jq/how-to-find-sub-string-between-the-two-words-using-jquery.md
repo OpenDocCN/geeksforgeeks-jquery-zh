@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 string.match( *regexp* )
 ```
 
@@ -20,7 +20,7 @@ string.match( *regexp* )
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -88,7 +88,7 @@ string.match( *regexp* )
 
     **语法:**
 
-    ```
+    ```html
     string.split( *separator*, *limit* )
     ```
 
@@ -100,7 +100,7 @@ string.match( *regexp* )
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

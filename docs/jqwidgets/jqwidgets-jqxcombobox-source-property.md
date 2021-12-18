@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置源属性。
 
-```
+```html
 $('selector').jqxComboBox({ source: Array });
 ```
 
 返回源属性。
 
-```
+```html
 var source = $('selector').jqxComboBox('source');
 ```
 
@@ -36,7 +36,7 @@ var source = $('selector').jqxComboBox('source');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

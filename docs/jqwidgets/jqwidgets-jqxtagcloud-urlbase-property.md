@@ -10,7 +10,7 @@
 
 *   用于设置 *urlBase* 属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ 
         urlBase: 'https://www.geeksforgeeks.org/' 
     });
@@ -18,7 +18,7 @@
 
 *   获取 *urlBase* 属性。
 
-    ```
+    ```html
     var value = 
         $('#jqxTagCloud').jqxTagCloud({ 'urlBase' });
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

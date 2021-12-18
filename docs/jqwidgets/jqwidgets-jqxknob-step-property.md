@@ -10,12 +10,12 @@
 
 *   **用于设置 ***步骤*** 属性:
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({step: value });
     ```** 
 *   **获取*T2 步*属性:
 
-    ```
+    ```html
     var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('step');
     ```** 
 
@@ -29,7 +29,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

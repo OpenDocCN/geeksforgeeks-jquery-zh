@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#treeGrid').on('rowClick',  function (event)
 {
 // Arguments of the event
@@ -35,7 +35,7 @@ var clickEvent = args.originalEvent;
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

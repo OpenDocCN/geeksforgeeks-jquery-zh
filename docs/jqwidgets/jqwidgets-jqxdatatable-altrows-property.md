@@ -10,13 +10,13 @@
 
 要设置*或*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({altRows: true});  
 ```
 
 要获得*或*属性:
 
-```
+```html
 var altRows = $('#dataTable').jqxDataTable('altRows'); 
 ```
 
@@ -31,7 +31,7 @@ var altRows = $('#dataTable').jqxDataTable('altRows');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

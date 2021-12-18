@@ -10,13 +10,13 @@
 
 *   它用于设置可过滤属性。
 
-```
+```html
 $('Selector').jqxGrid({ filterable: true});
 ```
 
 *   它用于返回可筛选属性。
 
-```
+```html
 var filterable = $('Selector').jqxGrid('filterable');
 ```
 
@@ -31,7 +31,7 @@ var filterable = $('Selector').jqxGrid('filterable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

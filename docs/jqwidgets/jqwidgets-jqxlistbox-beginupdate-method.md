@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('beginUpdate'); 
 ```
 
@@ -23,7 +23,7 @@ $("#jqxListBox").jqxListBox('beginUpdate');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

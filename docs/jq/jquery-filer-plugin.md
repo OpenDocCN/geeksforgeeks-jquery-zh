@@ -11,7 +11,7 @@ jQuery 提供了一个快速的 **jQuery Filer** 上传器插件，方便文件�
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE>
 <html lang="html">
 
@@ -80,7 +80,7 @@ jQuery 提供了一个快速的 **jQuery Filer** 上传器插件，方便文件�
 
 ## java 描述语言
 
-```
+```html
 $(document).ready(function() {
 
     $('#filer_input').filer({
@@ -101,7 +101,7 @@ $(document).ready(function() {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE>
 <html lang="html">
 

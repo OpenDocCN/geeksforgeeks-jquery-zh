@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("element_selected").contextmenu(function () {
    alert("Message to be displayed");
 });
@@ -16,7 +16,7 @@ $("element_selected").contextmenu(function () {
 
 运筹学
 
-```
+```html
 $("element_selected").on('contextmenu', function () {
   alert("Message to be displayed");
 });
@@ -26,7 +26,7 @@ $("element_selected").on('contextmenu', function () {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <!-- Getting the jQuery library -->

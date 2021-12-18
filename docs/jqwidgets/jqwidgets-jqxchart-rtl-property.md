@@ -10,13 +10,13 @@
 
 *   它用于设置 rtl 属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ rtl : boolean });
     ```
 
 *   它是用来归还 rtl 财产的。
 
-    ```
+    ```html
     var rtl = $('Selector').jqxChart('rtl');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 *   它用于设置 legendSettings 属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ legendSettings : object });
     ```
 
 *   它用于返回 legendSettings 属性。
 
-    ```
+    ```html
     var legendSettings = 
         $('Selector').jqxHeatMap('legendSettings');
     ```
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

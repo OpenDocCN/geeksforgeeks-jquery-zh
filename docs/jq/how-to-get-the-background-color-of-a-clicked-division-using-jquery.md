@@ -10,7 +10,7 @@ jQuery 中的 [**css()** 方法](https://www.geeksforgeeks.org/jquery-css-method
 
 **语法:**
 
-```
+```html
 $(".box").click(function () {
 
   // Get the current background color
@@ -33,7 +33,7 @@ $(".box").click(function () {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
   <script src=

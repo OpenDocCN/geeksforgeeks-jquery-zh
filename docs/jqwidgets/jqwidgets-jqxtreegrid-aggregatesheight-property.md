@@ -10,13 +10,13 @@
 
 要设置 aggregatesHeight 属性:
 
-```
+```html
 $('#treeGrid').jqxTreeGrid({aggregatesHeight: 30});  
 ```
 
 要获取 aggregatesHeight 属性:
 
-```
+```html
 var aggregatesHeight = 
     $('#treeGrid').jqxTreeGrid('aggregatesHeight');
 ```
@@ -32,7 +32,7 @@ var aggregatesHeight =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

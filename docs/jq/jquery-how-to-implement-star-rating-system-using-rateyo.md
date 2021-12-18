@@ -8,7 +8,7 @@
 
 1.  **Installation:**
 
-    ```
+    ```html
     1.  # NPM
          $ npm install rateYo
     2. #Bower
@@ -18,7 +18,7 @@
 
     您还可以使用谷歌托管/微软托管的内容交付网络(CDN)来包含 jQuery 的版本。
 
-    ```
+    ```html
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.2/jquery.rateyo.min.css">
 
@@ -28,19 +28,19 @@
 
 2.  在 html 页面的头部添加所需的样式表。
 
-    ```
+    ```html
     <link rel="stylesheet" type="text/css" href="jquery.rateyo.min.css"> 
     ```
 
 3.  创建一个 div 作为星级容器。
 
-    ```
+    ```html
     <div id="rateYo"></div>
     ```
 
 4.  在 html 页面的正文部分添加需要的样式表，链接 rateYo 插件的 javaScript 文件，执行各种功能。
 
-    ```
+    ```html
     <script type="text/javascript" src="jquery.min.js"></script>
 
     <script type="text/javascript" src="jquery.rateyo.min.js"></script>
@@ -48,13 +48,13 @@
 
 5.  调用一个插件，将一个基本星级渲染到你创建的 rateYo div 中。
 
-    ```
+    ```html
     $("#rateYo").rateYo();
     ```
 
 **例**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

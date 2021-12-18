@@ -10,13 +10,13 @@
 
 设置*标题*属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ title: 'Company Name' });  
 ```
 
 获取*标题*属性:
 
-```
+```html
 var title = $('#jqxWindow').jqxWindow('title'); 
 ```
 
@@ -31,7 +31,7 @@ var title = $('#jqxWindow').jqxWindow('title');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

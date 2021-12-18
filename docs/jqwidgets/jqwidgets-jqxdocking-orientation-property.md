@@ -10,7 +10,7 @@
 
 *   用于设置 ***方位*** 属性:
 
-    ```
+    ```html
     $('#jqxDocking').jqxDocking({ 
         orientation: 'horizontal' 
     });  
@@ -18,7 +18,7 @@
 
 *   获取 ***方位*** 属性:
 
-    ```
+    ```html
     var vertical = 
         $('#jqxDocking').jqxDocking('orientation');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

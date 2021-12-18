@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(".selector").dialog (
    resize: function( event, ui ) {
        console.log('resized')
@@ -27,7 +27,7 @@ $(".selector").dialog (
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang = "en">
    <head>

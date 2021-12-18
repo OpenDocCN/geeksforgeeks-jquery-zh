@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).has(element)
 ```
 
@@ -19,7 +19,7 @@ $(selector).has(element)
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 
 <head>

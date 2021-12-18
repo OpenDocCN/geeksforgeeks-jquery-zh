@@ -10,13 +10,13 @@
 
 *   ****设置*开关最大值*属性:****
 
-    ```
+    ```html
     **$('#jqxTouch').jqxTouch({swipeMax: 300});**
     ```
 
 *   ****获取*swipeMax**T2***属性:****
 
-    ```
+    ```html
     **var swipeMin = $('#jqxTouch').jqxTouch('swipeMax');**
     ```
 
@@ -30,7 +30,7 @@
 
 ## ****超文本标记语言****
 
-```
+```html
 **<!DOCTYPE html>
 <html lang="en">
 

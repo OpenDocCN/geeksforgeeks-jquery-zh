@@ -10,13 +10,13 @@
 
 *   设置 *enablebrowserselection* 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ enablebrowserselection: true});
     ```
 
 *   返回 *enablebrowserselection* 属性。
 
-    ```
+    ```html
     var enablebrowserselection = $('#Selector')
             .jqxGrid('enablebrowserselection');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

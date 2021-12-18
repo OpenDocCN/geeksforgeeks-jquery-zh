@@ -10,13 +10,13 @@
 
 *   用于设置 ***最大*** 属性:
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({max: value });
     ```
 
 *   获取***max***T5 属性:
 
-    ```
+    ```html
     var allowValueChangeOnClick = $('#jqxKnob').jqxKnob('max');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

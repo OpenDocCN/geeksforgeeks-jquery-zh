@@ -10,7 +10,7 @@
 
 ****语法:****
 
-```
+```html
 $('#jqxDocking').jqxDocking('showCollapseButton', 'windowId');
 ```
 
@@ -30,7 +30,7 @@ $('#jqxDocking').jqxDocking('showCollapseButton', 'windowId');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

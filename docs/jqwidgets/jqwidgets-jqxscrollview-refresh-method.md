@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").jqxScrollView('refresh');
 ```
 
@@ -25,7 +25,7 @@ $("Selector").jqxScrollView('refresh');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

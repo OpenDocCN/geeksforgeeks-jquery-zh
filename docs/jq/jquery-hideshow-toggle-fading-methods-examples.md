@@ -8,13 +8,13 @@ jQuery 提供了一个非常简单的界面来实现各种惊人的效果。jQue
 
 *   **jQuery hide() :** 隐藏要隐藏的语法或 html 元素。
 
-    ```
+    ```html
     $(selector).hide(speed, callback);
     ```
 
 *   **jQuery show() :** 显示您希望用户看到的语法或 html 元素。
 
-    ```
+    ```html
     $(selector).show(speed, callback);
     ```
 
@@ -38,7 +38,7 @@ jQuery toggle()方法以这样一种方式显示或隐藏元素:如果元素最�
 
 **语法:**
 
-```
+```html
 $(selector).toggle(speed, callback);
 ```
 
@@ -56,7 +56,7 @@ $(selector).toggle(speed, callback);
 1.  **jQuery fadeIn() Method :**
     **Syntax :**
 
-    ```
+    ```html
     $(selector).fadeIn(speed, callback);
     ```
 
@@ -68,7 +68,7 @@ $(selector).toggle(speed, callback);
 2.  **jQuery fadeOut() Method :**
     **Syntax :**
 
-    ```
+    ```html
     $(selector).fadeOut(speed, callback);
     ```
 
@@ -80,7 +80,7 @@ $(selector).toggle(speed, callback);
 3.  **jQuery fadeToggle() Method :**
     **Syntax :**
 
-    ```
+    ```html
     $(selector).fadeToggle(speed, callback);
     ```
 
@@ -92,7 +92,7 @@ $(selector).toggle(speed, callback);
 4.  **jQuery fadeTo() Method :**
     **Syntax :**
 
-    ```
+    ```html
     $(selector).fadeTo(speed, opacity, callback);
     ```
 

@@ -6,13 +6,13 @@
 
 **下载 jQuery 的 EasyUI:**
 
-```
+```html
 https://www.jeasyui.com/download/index.php
 ```
 
 **语法:**
 
-```
+```html
 var a = $(".selector").searchbox ({
 
 });
@@ -54,7 +54,7 @@ var a = $(".selector").searchbox ({
 
 ## **超文本标记语言**
 
-```
+```html
 <!doctype html> 
 <html> 
 

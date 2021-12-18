@@ -7,7 +7,7 @@ jQuery UI 选择菜单位置选项用于设置选择菜单在选项列表中的�
 
 **语法:**
 
-```
+```html
 $( ".selector" ).selectmenu({
   position: { my : "left+10 center", at: "right center" }
 });
@@ -23,7 +23,7 @@ $( ".selector" ).selectmenu({
 
 ## 超文本标记语言
 
-```
+```html
 <!doctype html>
 <html lang="en">
 

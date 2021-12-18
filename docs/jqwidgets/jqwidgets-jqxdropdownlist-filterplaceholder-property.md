@@ -10,13 +10,13 @@
 
 设置*过滤器占位符*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ filterPlaceHolder: Number });
 ```
 
 返回*过滤器占位符*属性。
 
-```
+```html
 var filterPlaceHolder = $('selector').jqxDropDownList('filterPlaceHolder');
 ```
 
@@ -31,7 +31,7 @@ var filterPlaceHolder = $('selector').jqxDropDownList('filterPlaceHolder');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -8,7 +8,7 @@ loadFromSelect()方法用于从“选择”标记加载列表项。它接受字�
 
 **语法:**
 
-```
+```html
 $("Selector").jqxDropDownList('loadFromSelect', 'select');
 ```
 
@@ -25,7 +25,7 @@ $("Selector").jqxDropDownList('loadFromSelect', 'select');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

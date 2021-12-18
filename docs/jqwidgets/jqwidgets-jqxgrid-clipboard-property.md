@@ -10,13 +10,13 @@
 
 设置*剪贴板*属性:
 
-```
+```html
 $('#Selector').jqxGrid({ clipboard: false});
 ```
 
 返回*剪贴板*属性:
 
-```
+```html
 var clipboard = $('#Selector').jqxGrid('clipboard');
 ```
 
@@ -31,7 +31,7 @@ var clipboard = $('#Selector').jqxGrid('clipboard');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

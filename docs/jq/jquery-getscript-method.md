@@ -6,7 +6,7 @@ jQuery 中的 **getScript()方法**用于使用 **AJAX HTTP GET 请求**运行�
 
 **语法:**
 
-```
+```html
 $(selector).getScript(url, success(response, status))
 ```
 
@@ -24,7 +24,7 @@ $(selector).getScript(url, success(response, status))
 
 **示例 1:** 本示例显示了来自 AJAX HTTP GET 请求接收到的 JavaScript 的警报消息。
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -65,7 +65,7 @@ $(selector).getScript(url, success(response, status))
 
 **示例 2:** 本示例使用 getScript()方法显示警报消息。
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
     <head> 

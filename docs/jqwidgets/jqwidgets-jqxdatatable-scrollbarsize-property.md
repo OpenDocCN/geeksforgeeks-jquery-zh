@@ -10,13 +10,13 @@
 
 设置*滚动条大小*属性:
 
-```
+```html
 $('#dataTable').jqxDataTable({scrollBarSize: 30});  
 ```
 
 获取*滚动条大小*属性:
 
-```
+```html
 var scrollBarSize = $('#dataTable').jqxDataTable('scrollBarSize'); 
 ```
 
@@ -31,7 +31,7 @@ var scrollBarSize = $('#dataTable').jqxDataTable('scrollBarSize');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

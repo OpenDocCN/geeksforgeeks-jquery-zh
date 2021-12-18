@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#dataTable").jqxDataTable('hideColumn','Column_Name');
 ```
 
@@ -29,7 +29,7 @@ $("#dataTable").jqxDataTable('hideColumn','Column_Name');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

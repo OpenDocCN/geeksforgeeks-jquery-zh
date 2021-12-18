@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $('#jqxScrollBar').jqxScrollBar('setPosition', index); 
 ```
 
@@ -29,7 +29,7 @@ $('#jqxScrollBar').jqxScrollBar('setPosition', index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

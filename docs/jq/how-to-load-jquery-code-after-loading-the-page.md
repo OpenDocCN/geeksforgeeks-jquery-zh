@@ -7,13 +7,13 @@
 
 **语法:**
 
-```
+```html
 $(window).on('load', functionTobeLoaded() )
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -63,13 +63,13 @@ $(window).on('load', functionTobeLoaded() )
 
 **语法:**
 
-```
+```html
 $(document).ready( functionTobeLoaded() )
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

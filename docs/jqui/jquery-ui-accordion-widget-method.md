@@ -6,7 +6,7 @@ jQuery UI 小部件()方法用于返回当前 jQuery 手风琴元素的实例。
 
 **语法:**
 
-```
+```html
 var a = $( ".selector" ).accordion( "enable" )
 ```
 
@@ -22,7 +22,7 @@ var a = $( ".selector" ).accordion( "enable" )
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 

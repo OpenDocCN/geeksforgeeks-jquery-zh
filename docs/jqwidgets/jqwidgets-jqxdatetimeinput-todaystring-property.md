@@ -10,13 +10,13 @@
 
 将*设置为*属性。
 
-```
+```html
 $('selector').jqxDateTimeInput({ todayString: String });
 ```
 
 返回*到系统时间*属性。
 
-```
+```html
 var todayString = $('selector').jqxDateTimeInput('todayString');
 ```
 
@@ -31,7 +31,7 @@ var todayString = $('selector').jqxDateTimeInput('todayString');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

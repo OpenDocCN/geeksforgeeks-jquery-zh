@@ -10,13 +10,13 @@
 
 *   设置*利他*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ altrows: false});
     ```
 
 *   返回*利他*属性。
 
-    ```
+    ```html
     var altrows = $('#Selector').jqxGrid('altrows'); 
     ```
 
@@ -33,7 +33,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

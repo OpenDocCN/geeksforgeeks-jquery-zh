@@ -10,13 +10,13 @@
 
 设置*样式表*属性。
 
-```
+```html
 $('Selector').jqxEditor({ stylesheets: array });  
 ```
 
 返回*样式表*属性。
 
-```
+```html
 var stylesheets = $('Selector').jqxEditor('stylesheets');
 ```
 
@@ -36,7 +36,7 @@ var stylesheets = $('Selector').jqxEditor('stylesheets');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

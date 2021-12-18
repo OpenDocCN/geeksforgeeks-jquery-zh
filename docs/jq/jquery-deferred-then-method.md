@@ -6,7 +6,7 @@ JQuery 中的这个**delivered . then()**方法用于添加处理程序，当 de
 
 **语法:**
 
-```
+```html
 deferred.then(doneCallbacks[, failCallbacks][, progressCallbacks])
 
 ```
@@ -23,7 +23,7 @@ deferred.then(doneCallbacks[, failCallbacks][, progressCallbacks])
 
 *   **示例:**在本例中，使用 notify 和 resolve 方法调用了 then()方法。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 
@@ -75,7 +75,7 @@ deferred.then(doneCallbacks[, failCallbacks][, progressCallbacks])
 
 *   **示例:**在本例中，使用 notify 和 reject 方法调用了 then()方法。
 
-    ```
+    ```html
     <!DOCTYPE HTML> 
     <html>  
     <head> 

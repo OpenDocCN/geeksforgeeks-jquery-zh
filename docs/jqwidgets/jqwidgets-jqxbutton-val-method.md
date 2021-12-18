@@ -10,25 +10,25 @@
 
 设置值。
 
-```
+```html
 $("#jqxButton").jqxButton('val', "New Value");
 ```
 
 返回值。
 
-```
+```html
 var value = $("#jqxButton").jqxButton('val');
 ```
 
 使用 jQuery 的 val()设置值。
 
-```
+```html
 $("#jqxButton").val("New Value");
 ```
 
 使用 jQuery 的 val()返回值。
 
-```
+```html
 var value = $("#jqxButton").val();
 ```
 
@@ -43,7 +43,7 @@ var value = $("#jqxButton").val();
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

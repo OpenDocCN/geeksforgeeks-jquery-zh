@@ -10,13 +10,13 @@
 
 *   用于设置*最小字体大小*属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ minFontSize: 25 });
     ```
 
 *   获取 *minFontSize* 属性。
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'minFontSize' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

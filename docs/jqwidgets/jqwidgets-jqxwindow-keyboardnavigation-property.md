@@ -10,13 +10,13 @@
 
 设置键盘导航属性:
 
-```
+```html
 $('#jqxWindow').jqxWindow({ keyboardNavigation: true });  
 ```
 
 获取键盘导航属性:
 
-```
+```html
 var keyboardNavigation = $('#jqxWindow').jqxWindow('keyboardNavigation'); 
 ```
 
@@ -31,7 +31,7 @@ var keyboardNavigation = $('#jqxWindow').jqxWindow('keyboardNavigation');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

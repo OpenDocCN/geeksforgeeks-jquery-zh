@@ -10,13 +10,13 @@
 
 *   设置*标签*属性:
 
-    ```
+    ```html
     $('#jqxTreeMap').jqxTreeMap({ legendLabel: "TreeMap" });  
     ```
 
 *   要获取 *legendLabel* 属性:
 
-    ```
+    ```html
     var legendLabel = $('#jqxTreeMap').jqxTreeMap('legendLabel'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

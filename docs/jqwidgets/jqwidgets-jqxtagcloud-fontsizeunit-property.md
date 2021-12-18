@@ -10,13 +10,13 @@
 
 *   用于设置*字体大小单位*属性。
 
-    ```
+    ```html
     $('#jqxTagCloud').jqxTagCloud({ fontSizeUnit: 'px' });
     ```
 
 *   用于获得 *fontSizeUnit* 房产。
 
-    ```
+    ```html
     var value = $('#jqxTagCloud').jqxTagCloud({ 'fontSizeUnit' });
     ```
 
@@ -31,7 +31,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

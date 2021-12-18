@@ -10,13 +10,13 @@ showPasswordIcon 属性用于设置或返回是否显示/隐藏密码图标。�
 
 设置“显示密码图标”属性。
 
-```
+```html
 $('selector').jqxPasswordInput({ showPasswordIcon: Boolean });
 ```
 
 返回“显示密码图标”属性。
 
-```
+```html
 var SPI = $('selector').jqxPasswordInput('showPasswordIcon');
 ```
 
@@ -33,7 +33,7 @@ var SPI = $('selector').jqxPasswordInput('showPasswordIcon');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

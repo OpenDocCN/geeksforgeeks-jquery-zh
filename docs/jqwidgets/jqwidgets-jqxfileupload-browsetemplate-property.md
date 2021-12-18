@@ -10,13 +10,13 @@
 
 *   设置*浏览模板*属性:
 
-    ```
+    ```html
     $('Selector').jqxFileUpload({ browseTemplate : string });
     ```
 
 *   返回*浏览模板*属性:
 
-    ```
+    ```html
     var browseTemplate = 
         $('Selector').jqxFileUpload('browseTemplate');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

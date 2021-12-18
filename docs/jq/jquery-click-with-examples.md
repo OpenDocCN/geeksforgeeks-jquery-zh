@@ -5,7 +5,7 @@
 **click()** 是 jQuery 中的一个内置方法，它启动 click 事件或附加一个函数，以便在 click 事件发生时运行。
 **语法:**
 
-```
+```html
 $(selector).click(function);
 
 ```
@@ -18,7 +18,7 @@ $(selector).click(function);
 **代码#1:**
 在下面的代码中，没有函数被传递给这个方法。
 
-```
+```html
 <html>
 
 <head>
@@ -59,7 +59,7 @@ $(selector).click(function);
 **代码#2:**
 在下面的代码中，函数被传递给这个方法。
 
-```
+```html
 <html>
 
 <head>

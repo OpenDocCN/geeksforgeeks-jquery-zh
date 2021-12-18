@@ -5,7 +5,7 @@
 **分离()**是 jQuery 中的一个内置方法，它从 DOM 树中移除选定的元素，包括其所有文本和子节点，但保留数据和事件。文档对象模型是一个万维网联盟标准。这定义了访问 DOM 树中的元素。
 **语法:**
 
-```
+```html
 $(selector).detach()
 
 ```
@@ -18,7 +18,7 @@ $(selector).detach()
 **Code #1:**
 In the below code, all the paragraph element will detached.
 
-```
+```html
 <html>
 
 <head>

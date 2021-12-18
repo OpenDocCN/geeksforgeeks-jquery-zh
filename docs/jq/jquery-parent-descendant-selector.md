@@ -5,7 +5,7 @@
 **jQuery 父代后代选择器**选择特定(父)元素的后代元素。
 **语法:**
 
-```
+```html
 $("parent descendant")
 ```
 
@@ -13,7 +13,7 @@ $("parent descendant")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

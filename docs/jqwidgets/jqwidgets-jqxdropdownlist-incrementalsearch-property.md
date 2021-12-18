@@ -10,13 +10,13 @@
 
 设置*增量搜索*属性。
 
-```
+```html
 $('selector').jqxDropDownList({ incrementalSearch: Number });
 ```
 
 返回*增量搜索*属性。
 
-```
+```html
 var incrementalSearch = $('selector').jqxDropDownList('incrementalSearch');
 ```
 
@@ -31,7 +31,7 @@ var incrementalSearch = $('selector').jqxDropDownList('incrementalSearch');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

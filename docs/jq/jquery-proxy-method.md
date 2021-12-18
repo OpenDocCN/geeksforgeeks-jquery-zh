@@ -6,11 +6,11 @@
 
 **语法:**
 
-*   ```
+*   ```html
     $(selector).proxy(function, context)
     ```
 
-*   ```
+*   ```html
     $(selector).proxy(context, name)
     ```
 
@@ -22,7 +22,7 @@
 
 **示例 1:** 本示例显示 h3 元素的上下文。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -77,7 +77,7 @@
 
 **示例 2:** 本示例调用 objPerson 对象并显示其内容。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

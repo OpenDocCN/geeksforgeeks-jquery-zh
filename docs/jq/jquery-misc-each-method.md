@@ -6,7 +6,7 @@ jQuery 中的**每()方法**用于为每个匹配的元素指定要运行的函�
 
 **语法:**
 
-```
+```html
 $(selector).each(function(index, element))
 ```
 
@@ -17,7 +17,7 @@ $(selector).each(function(index, element))
 
 **示例 1:** 本示例使用每个()方法显示每个段落元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -71,7 +71,7 @@ $(selector).each(function(index, element))
 
 **示例 2:** 本示例使用每个()方法显示段落元素。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

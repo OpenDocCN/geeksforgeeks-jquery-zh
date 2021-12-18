@@ -10,7 +10,7 @@ jQuery UI 可排序**停止**事件用于在列表项排序停止时触发。
 
 用 stop 回调函数初始化可排序的小部件。
 
-```
+```html
 $(".selector").selectable({
     stop: function( event, ui ) {}
 });
@@ -18,7 +18,7 @@ $(".selector").selectable({
 
 将事件侦听器绑定到游击手事件。
 
-```
+```html
 $( ".selector" ).on( "sortstop", function( event, ui ) {} );
 ```
 
@@ -44,7 +44,7 @@ $( ".selector" ).on( "sortstop", function( event, ui ) {} );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

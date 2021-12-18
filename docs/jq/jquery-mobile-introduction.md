@@ -43,7 +43,7 @@ jQuery mobile 框架将“少写多做”的口头禅更上一层楼:jQuery Mobi
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

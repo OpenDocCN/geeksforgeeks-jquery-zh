@@ -10,13 +10,13 @@
 
 *   **设置*方向*属性:**
 
-    ```
+    ```html
     $('#jqxSplitter').jqxSplitter({ orientation: 'horizontal' });
     ```
 
 *   **要获得*方向*属性:**
 
-    ```
+    ```html
     var disabled = $('#jqxSplitter').jqxSplitter('orientation');
     ```
 
@@ -30,7 +30,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

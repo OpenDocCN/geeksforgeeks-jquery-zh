@@ -10,13 +10,13 @@
 
 设置标签属性。
 
-```
+```html
 $('Selector').jqxLinearGauge({ labels : object});
 ```
 
 返回标签属性。
 
-```
+```html
 var labels = $('Selector').jqxLinearGauge('labels');
 ```
 
@@ -31,7 +31,7 @@ var labels = $('Selector').jqxLinearGauge('labels');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

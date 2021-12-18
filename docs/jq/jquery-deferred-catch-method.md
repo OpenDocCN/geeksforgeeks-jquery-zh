@@ -6,7 +6,7 @@ jQuery 中的**delivered . catch()**方法用于添加当延迟对象被拒绝�
 
 **语法:**
 
-```
+```html
 deferred.catch(failedFilter)
 
 ```
@@ -19,7 +19,7 @@ deferred.catch(failedFilter)
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -67,7 +67,7 @@ deferred.catch(failedFilter)
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

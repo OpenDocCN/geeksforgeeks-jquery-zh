@@ -6,7 +6,7 @@ jQuery 中的这个 **isXMLDoc()** 方法用于检查 DOM 节点是否在 XML �
 
 **语法:**
 
-```
+```html
 jQuery.isXMLDoc( node )
 ```
 
@@ -20,7 +20,7 @@ jQuery.isXMLDoc( node )
 
 **例 1:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -62,7 +62,7 @@ jQuery.isXMLDoc( node )
 
 **例 2:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

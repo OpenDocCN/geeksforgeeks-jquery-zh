@@ -10,7 +10,7 @@
 
 *   设置 **enableAxisTextAnimation** 属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ 
         enableAxisTextAnimation: boolean
     });
@@ -18,7 +18,7 @@
 
 *   返回 **enableAxisTextAnimation** 属性。
 
-    ```
+    ```html
     var enableAxisTextAnimation = $('Selector')
             .jqxChart('enableAxisTextAnimation');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

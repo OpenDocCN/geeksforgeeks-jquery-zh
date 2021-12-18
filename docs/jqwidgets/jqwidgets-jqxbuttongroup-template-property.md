@@ -19,13 +19,13 @@
 
 *   设置*模板*属性。
 
-    ```
+    ```html
     $("#jqxButtonGroup").jqxButtonGroup({ template: 'primary'});
     ```
 
 *   获取*模板*属性。
 
-    ```
+    ```html
     var template = $('#jqxButtonGroup').jqxButtonGroup('template');
     ```
 
@@ -41,7 +41,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

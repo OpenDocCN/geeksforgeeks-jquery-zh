@@ -10,13 +10,13 @@
 
 *   用于设置 ***起始角*** 属性:
 
-    ```
+    ```html
     $('#jqxKnob').jqxKnob({startAngle: value });
     ```
 
 *   获取 ***起始角*** 属性:
 
-    ```
+    ```html
     var allowValueChangeOnClick = 
         $('#jqxKnob').jqxKnob('startAngle');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

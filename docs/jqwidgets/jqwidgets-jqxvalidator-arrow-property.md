@@ -10,13 +10,13 @@
 
 *   用于设置 ***箭头*** 属性。
 
-    ```
+    ```html
     $('#jqxValidator').jqxValidator( { arrow: false } );  
     ```
 
 *   获取 ***箭头*** 属性。
 
-    ```
+    ```html
     var arrow = $('#jqxValidator').jqxValidator('arrow'); 
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

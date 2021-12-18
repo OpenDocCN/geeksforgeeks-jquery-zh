@@ -6,7 +6,7 @@ jQuery UI **手风琴小部件实例方法**用于获取手风琴的实例对象
 
 **语法:**
 
-```
+```html
 var a = $( ".selector" ).accordion( "instance" )
 ```
 
@@ -20,7 +20,7 @@ var a = $( ".selector" ).accordion( "instance" )
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

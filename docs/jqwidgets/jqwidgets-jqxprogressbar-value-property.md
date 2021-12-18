@@ -10,13 +10,13 @@
 
 设置 value 属性。
 
-```
+```html
 $('selector').jqxProgressBar({ value: Number });
 ```
 
 返回 value 属性。
 
-```
+```html
 var value = $('selector').jqxProgressBar('value');
 ```
 
@@ -30,7 +30,7 @@ var value = $('selector').jqxProgressBar('value');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

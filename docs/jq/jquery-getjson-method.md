@@ -8,7 +8,7 @@ jQuery 中的 **getJSON()方法**使用 GET HTTP 请求从服务器获取 JSON �
 
 **语法:**
 
-```
+```html
 $(selector).getJSON(url,data,success(data,status,xhr))
 ```
 
@@ -37,7 +37,7 @@ $(selector).getJSON(url,data,success(data,status,xhr))
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

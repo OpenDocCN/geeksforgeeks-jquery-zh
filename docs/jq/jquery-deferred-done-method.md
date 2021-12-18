@@ -6,7 +6,7 @@ jQuery 中的这个**delivered . done()**方法是用来添加处理程序的，
 
 **语法:**
 
-```
+```html
 deferred.done(Callbacks [, Callbacks])
 ```
 
@@ -21,7 +21,7 @@ deferred.done(Callbacks [, Callbacks])
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -70,7 +70,7 @@ deferred.done(Callbacks [, Callbacks])
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

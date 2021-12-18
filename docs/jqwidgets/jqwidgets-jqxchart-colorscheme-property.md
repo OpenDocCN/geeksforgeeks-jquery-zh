@@ -10,13 +10,13 @@
 
 *   设置**配色方案**属性。
 
-    ```
+    ```html
     $('Selector').jqxHeatMap({ colorScheme : string });
     ```
 
 *   返回**配色方案**属性。
 
-    ```
+    ```html
     var colorScheme =
         $('Selector').jqxHeatMap('colorScheme');
     ```
@@ -32,7 +32,7 @@
 
     ## 超文本标记语言
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html lang="en">
 

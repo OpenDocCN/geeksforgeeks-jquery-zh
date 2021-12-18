@@ -10,13 +10,13 @@
 
 设置模式容量属性。
 
-```
+```html
 $('#jqxWindow').jqxWindow({ modalOpacity: 0.7});  
 ```
 
 获取模态能力属性。
 
-```
+```html
 var modalOpacity = $('#jqxWindow').jqxWindow('modalOpacity'); 
 ```
 
@@ -31,7 +31,7 @@ var modalOpacity = $('#jqxWindow').jqxWindow('modalOpacity');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

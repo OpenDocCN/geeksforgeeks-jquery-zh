@@ -7,7 +7,7 @@
 
 <center>**jQuery selectors:**</center>
 
-```
+```html
  $("selector-name")
 ```
 
@@ -17,7 +17,7 @@
     In this example, when the user clicks on button, the **<h1>** element gets hidden.
     Code :-
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -53,7 +53,7 @@
     在本例中，当用户双击按钮时，带有 **id = "gfg"** 的元素被隐藏。
     代码:-
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -89,7 +89,7 @@
     In this example, when the user clicks on button, the element with **class = “GFG”** gets hidden.
     Code :-
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -149,7 +149,7 @@ jQuery has various methods to get the value of an attribute and set the attribut
 
     **Example :**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

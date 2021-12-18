@@ -8,7 +8,7 @@
 
 **代码片段:**下面是方法**的实现字数()。**
 
-```
+```html
 function wordCount( field ) {
     var number = 0;
 
@@ -30,7 +30,7 @@ function wordCount( field ) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

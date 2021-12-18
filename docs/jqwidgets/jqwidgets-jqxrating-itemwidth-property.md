@@ -10,13 +10,13 @@
 
 设置*项目宽度*属性。
 
-```
+```html
 $('selector').jqxRating({ itemWidth: Number });
 ```
 
 返回*物品宽度*属性。
 
-```
+```html
 var itemWidth = $('selector').jqxRating('itemWidth');
 ```
 
@@ -31,7 +31,7 @@ var itemWidth = $('selector').jqxRating('itemWidth');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

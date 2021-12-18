@@ -15,7 +15,7 @@
     This method traverses only a single level down to DOM tree.
     **Example:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 
@@ -65,7 +65,7 @@
     jQuery find() method returns descendant elements of the selected element and all the way down to last descendant.
     **Example-2:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

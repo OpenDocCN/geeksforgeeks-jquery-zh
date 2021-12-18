@@ -10,7 +10,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置 enableBrowserBoundsDetection 属性。
 
-```
+```html
 $('selector').jqxDropDownList({ 
     enableBrowserBoundsDetection: Boolean 
 });
@@ -18,7 +18,7 @@ $('selector').jqxDropDownList({
 
 返回 enableBrowserBoundsDetection 属性。
 
-```
+```html
 var EBBD = $('selector').jqxDropDownList(
      'enableBrowserBoundsDetection');
 ```
@@ -36,7 +36,7 @@ var EBBD = $('selector').jqxDropDownList(
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

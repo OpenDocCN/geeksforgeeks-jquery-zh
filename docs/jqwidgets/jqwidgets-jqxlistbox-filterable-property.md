@@ -10,13 +10,13 @@
 
 要设置*可过滤*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({filterable:true}); 
 ```
 
 要获得*可过滤的*属性:
 
-```
+```html
 var filterable = $('#jqxListBox').jqxListBox('filterable'); 
 ```
 
@@ -33,7 +33,7 @@ var filterable = $('#jqxListBox').jqxListBox('filterable');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

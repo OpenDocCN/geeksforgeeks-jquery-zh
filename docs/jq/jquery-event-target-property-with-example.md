@@ -5,7 +5,7 @@
 **事件目标**是 jQuery 中的一个内置属性，用于查找哪个 DOM 元素将启动该事件。
 **语法:**
 
-```
+```html
 event.target
 
 ```
@@ -15,7 +15,7 @@ event.target
 
 **显示事件工作的 jQuery 代码. target Property 属性:**
 
-```
+```html
 <html>
 
 <head>

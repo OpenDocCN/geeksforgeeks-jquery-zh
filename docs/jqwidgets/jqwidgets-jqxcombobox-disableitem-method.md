@@ -18,7 +18,7 @@ disableItem()方法用于禁用 jqxComboBox 小部件中的一个项目。它接
 
 **语法:**
 
-```
+```html
 $('selector').jqxComboBox('disableItem', 'Item' );
 ```
 
@@ -38,7 +38,7 @@ $('selector').jqxComboBox('disableItem', 'Item' );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

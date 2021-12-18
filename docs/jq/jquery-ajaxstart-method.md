@@ -5,7 +5,7 @@
 **ajaxStart()** 方法用于指定当 **AJAX 请求启动时要运行的函数。**
 **语法:**
 
-```
+```html
 $(document).ajaxStart(function())
 
 ```
@@ -20,7 +20,7 @@ $(document).ajaxStart(function())
 
 **示例-1:** 本示例通过从服务器获取数据来更改< p >元素的内容。当请求开始时，页面显示 **AJAX 请求开始**。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -72,7 +72,7 @@ $(document).ajaxStart(function())
 
 **示例-2:** 本示例通过从服务器获取数据来更改< h1 >元素的内容。当请求开始时，页面显示 **AJAX 请求开始**。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

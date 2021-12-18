@@ -8,7 +8,7 @@ JavaScript 语句总是一行一行地执行。但是，由于 JQuery 效果需�
 
 **语法:**
 
-```
+```html
  $(selector).effect_function(speed, callback);
 ```
 
@@ -17,7 +17,7 @@ JavaScript 语句总是一行一行地执行。但是，由于 JQuery 效果需�
 
 **示例-1:** 我们定义一个 div，并在 div 下面添加一个按钮。现在，我们使用一个简单的 JQuery 代码使按钮允许 div 隐藏。
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -86,7 +86,7 @@ JavaScript 语句总是一行一行地执行。但是，由于 JQuery 效果需�
 **示例-2:** 现在我们在**中添加回调函数 slideToggle()**
 查看代码和区别:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

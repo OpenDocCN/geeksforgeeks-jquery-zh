@@ -10,13 +10,13 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 *   设置 boxSize 属性。
 
-    ```
+    ```html
     $('selector').jqxRadioButton({ boxSize: String });
     ```
 
 *   返回 boxSize 属性。
 
-    ```
+    ```html
     var boxSize = $('selector').jqxRadioButton('boxSize');
     ```
 
@@ -33,7 +33,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

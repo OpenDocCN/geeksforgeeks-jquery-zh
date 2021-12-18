@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 document.getElementById("your-element-id").outerHTML)
 
 ```
@@ -17,7 +17,7 @@ document.getElementById("your-element-id").outerHTML)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -44,7 +44,7 @@ document.getElementById("your-element-id").outerHTML)
 
 **输出:**
 
-```
+```html
 <div id="demo">
     <p>This is the text inside</p>
 </div>
@@ -54,7 +54,7 @@ document.getElementById("your-element-id").outerHTML)
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -80,6 +80,6 @@ document.getElementById("your-element-id").outerHTML)
 
 **输出:**
 
-```
+```html
 <p id="demo">This is the text inside</p>
 ```

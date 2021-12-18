@@ -16,13 +16,13 @@
 
 *   设置*ever presentrowport*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ everpresentrowposition: 'top'});
     ```
 
 *   返回*ever presentrowport*属性。
 
-    ```
+    ```html
     var everpresentrowposition = 
         $('#Selector').jqxGrid('everpresentrowposition');
     ```
@@ -40,7 +40,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

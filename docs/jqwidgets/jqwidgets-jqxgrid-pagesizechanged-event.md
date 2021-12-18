@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("Selector").on("pagesizechanged", function (event) {
 
    // Arguments of the event
@@ -36,7 +36,7 @@ $("Selector").on("pagesizechanged", function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

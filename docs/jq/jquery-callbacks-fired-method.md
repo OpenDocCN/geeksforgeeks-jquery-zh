@@ -6,7 +6,7 @@ jQuery **回调. fired()方法**用于检查回调是否已经被调用过至少
 
 **语法:**
 
-```
+```html
 callbacks.fired()
 ```
 
@@ -16,7 +16,7 @@ callbacks.fired()
 
 **示例 1:** 此示例返回 true，因为 fire()方法至少被调用过一次。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 
@@ -76,7 +76,7 @@ callbacks.fired()
 
 **示例 2:** 此示例返回 false，因为还没有调用 fire()方法。
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

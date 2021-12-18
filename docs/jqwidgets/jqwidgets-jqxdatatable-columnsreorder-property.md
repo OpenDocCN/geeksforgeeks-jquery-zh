@@ -10,13 +10,13 @@
 
 用于设置*列顺序*属性。
 
-```
+```html
 $('#dataTable').jqxDataTable({columnsReorder: true });
 ```
 
 获取*列顺序*属性。
 
-```
+```html
 var columnsReorder = $('#dataTable').jqxDataTable('columnsReorder');
 ```
 
@@ -31,7 +31,7 @@ var columnsReorder = $('#dataTable').jqxDataTable('columnsReorder');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
    <head>

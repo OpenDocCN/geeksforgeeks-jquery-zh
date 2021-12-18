@@ -10,14 +10,14 @@
 
 设置小部件的值。
 
-```
+```html
 $('Selector').jqxDateTimeInput('val', Date);  // or
 $('Selector').val(Date);
 ```
 
 返回小部件的值。
 
-```
+```html
 var date = $('Selector').jqxDateTimeInput('val', Date); // or
 var date = $('Selector').val(Date);
 ```
@@ -33,7 +33,7 @@ var date = $('Selector').val(Date);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,7 +10,7 @@ jQuery UI 可排序**更新**事件用于在用户停止排序且 DOM 位置发�
 
 用更新回调函数初始化可排序的小部件。
 
-```
+```html
 $(".selector").selectable({
    update: function( event, ui ) {}
 });
@@ -18,7 +18,7 @@ $(".selector").selectable({
 
 将[事件监听器](https://www.geeksforgeeks.org/javascript-addeventlistener-with-examples/)绑定到可排序的更新事件。
 
-```
+```html
 $( ".selector" ).on( "sortupdate", function( event, ui ) {} );
 ```
 
@@ -44,7 +44,7 @@ $( ".selector" ).on( "sortupdate", function( event, ui ) {} );
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

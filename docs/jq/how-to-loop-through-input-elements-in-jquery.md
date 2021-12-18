@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#id input[type=text]").each(function() {
     //... your code
 });
@@ -18,7 +18,7 @@ $("#id input[type=text]").each(function() {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
 
@@ -75,7 +75,7 @@ $("#id input[type=text]").each(function() {
 
 **语法:**
 
-```
+```html
 $('#id *').filter(':input').each(function () {
      //..your code
 });
@@ -85,7 +85,7 @@ $('#id *').filter(':input').each(function () {
 
 ## 超文本标记语言
 
-```
+```html
 <html>
 <head>
 

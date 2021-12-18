@@ -5,7 +5,7 @@
 这是一个 **jQuery 选择器**，用于选择其**父元素**的**第一个子元素**。
 **语法:**
 
-```
+```html
 $(":first-child")
 ```
 
@@ -14,7 +14,7 @@ $(":first-child")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <h1>
@@ -58,7 +58,7 @@ $(":first-child")
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <h1>

@@ -20,7 +20,7 @@ jQuery Mobile 是一种基于网络的技术，用于制作可在所有智能手
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -83,7 +83,7 @@ jQuery Mobile 是一种基于网络的技术，用于制作可在所有智能手
 </html>
 ```
 
-```
+```html
 Output:
 ```
 

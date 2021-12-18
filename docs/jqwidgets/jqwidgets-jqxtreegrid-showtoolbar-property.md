@@ -10,13 +10,13 @@
 
 **用于设置 ***显示工具栏*** 属性。**
 
-```
+```html
 $('Selector').jqxTreeGrid({showToolbar: true}); 
 ```
 
 **获取 ***显示工具栏*** 属性。**
 
-```
+```html
 var showToolbar = $('Selector').jqxTreeGrid('showToolbar'); 
 ```
 
@@ -30,7 +30,7 @@ var showToolbar = $('Selector').jqxTreeGrid('showToolbar');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

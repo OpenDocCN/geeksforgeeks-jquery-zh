@@ -5,7 +5,7 @@
 **innerWidth** 是 jQuery 中的一个内置方法，用于返回第一个匹配元素的宽度。
 **语法:**
 
-```
+```html
 $(selector).innerWidth()
 
 ```
@@ -15,7 +15,7 @@ $(selector).innerWidth()
 **返回值:**返回选择器的宽度。
 **显示 innerWidth()工作方式的 jQuery 代码:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

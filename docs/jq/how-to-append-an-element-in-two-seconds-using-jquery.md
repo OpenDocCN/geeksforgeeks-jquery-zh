@@ -11,7 +11,7 @@
 
 **示例 1:** 在本例中，< div >元素使用 **append()方法**被追加到<主体>元素中。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
 
@@ -79,7 +79,7 @@
 
 **示例 2:** 在本示例中，使用 **appendTo()方法**将< div >元素追加到< p >元素中。
 
-```
+```html
 <!DOCTYPE HTML> 
 <html> 
 

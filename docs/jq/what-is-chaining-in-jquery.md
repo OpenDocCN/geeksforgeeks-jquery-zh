@@ -12,7 +12,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <head>
   <script src=
@@ -52,7 +52,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <head>
     <!-- jQuery library -->

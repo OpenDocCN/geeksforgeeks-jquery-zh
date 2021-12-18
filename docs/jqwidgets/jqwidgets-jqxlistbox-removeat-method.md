@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#jqxListBox").jqxListBox('removeAt', Index);
 ```
 
@@ -27,7 +27,7 @@ $("#jqxListBox").jqxListBox('removeAt', Index);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

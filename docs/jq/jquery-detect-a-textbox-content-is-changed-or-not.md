@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $(selector).on(event, childSel, data, fun, map)
 
 ```
@@ -23,7 +23,7 @@ $(selector).on(event, childSel, data, fun, map)
 
 **示例-1:** 在此示例中，出现警告框，提示**“文本内容已更改！”**当输入的文本发生变化时。
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 
@@ -74,7 +74,7 @@ $(selector).on(event, childSel, data, fun, map)
 *   有东西粘贴到输入框。
 *   发生 propertychange。
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 

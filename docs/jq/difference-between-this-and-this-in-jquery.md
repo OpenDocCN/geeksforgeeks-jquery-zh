@@ -10,7 +10,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -46,7 +46,7 @@
 
 **输出:**
 
-```
+```html
 The object's value for name:
 
 hrithik
@@ -56,7 +56,7 @@ hrithik
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -92,7 +92,7 @@ hrithik
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -132,7 +132,7 @@ hrithik
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -170,7 +170,7 @@ hrithik
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,13 +10,13 @@
 
 设置悬停不透明度属性。
 
-```
+```html
 $('Selector').jqxNotification({ hoverOpacity : number});
 ```
 
 返回悬停不透明度属性。
 
-```
+```html
 var hoverOpacity = 
     $('Selector').jqxNotification('hoverOpacity');
 ```
@@ -32,7 +32,7 @@ var hoverOpacity =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

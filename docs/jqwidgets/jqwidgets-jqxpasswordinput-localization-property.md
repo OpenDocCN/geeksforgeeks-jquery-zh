@@ -8,7 +8,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 其默认值为–
 
-```
+```html
 { 
     passwordStrengthString: "Password strength", 
     tooShort: "Too short", 
@@ -23,7 +23,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置本地化属性。
 
-```
+```html
 $('selector').jqxPasswordInput({ localization: Object });
 ```
 
@@ -40,7 +40,7 @@ $('selector').jqxPasswordInput({ localization: Object });
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

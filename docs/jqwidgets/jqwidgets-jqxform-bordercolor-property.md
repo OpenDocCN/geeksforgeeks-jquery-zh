@@ -10,13 +10,13 @@
 
 **设置*边框颜色*属性。**
 
-```
+```html
 $('Selector').jqxForm({ borderColor :  'Color' }); 
 ```
 
 **返回*边界颜色*属性。**
 
-```
+```html
 var borderColor = $('Selector').jqxForm('borderColor');
 ```
 
@@ -32,7 +32,7 @@ var borderColor = $('Selector').jqxForm('borderColor');
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -10,14 +10,14 @@
 
 *   设置*扩展持续时间*属性:
 
-    ```
+    ```html
     $('Selector').jqxNavigationBar({
                        expandAnimationDuration: 2000});
     ```
 
 *   获取*扩展持续时间*属性:
 
-    ```
+    ```html
     var expandAnimationDuration = $('Selector').jqxNavigationBar(
                         'expandAnimationDuration');
     ```
@@ -33,7 +33,7 @@
 
 ## **超文本标记语言**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

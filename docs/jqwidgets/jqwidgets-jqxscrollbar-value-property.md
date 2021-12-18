@@ -10,13 +10,13 @@
 
 *   设置*值*属性:
 
-    ```
+    ```html
     $('#jqxScrollBar').jqxScrollBar({ value: 300 });
     ```
 
 *   要获取*值*属性:
 
-    ```
+    ```html
     var value = $('#jqxScrollBar').jqxScrollBar('value');
     ```
 
@@ -31,7 +31,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

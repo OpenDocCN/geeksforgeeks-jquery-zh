@@ -10,7 +10,7 @@
 
 要设置*拖动*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({ dragEnd: function (dragItem, dropItem) 
 {
     // dragItem is the item that is to be dragged.
@@ -23,7 +23,7 @@ $("#jqxListBox").jqxListBox({ dragEnd: function (dragItem, dropItem)
 
 要获取*拖动*属性:
 
-```
+```html
 var dragEnd = $('#jqxListBox').jqxListBox('dragEnd'); 
 ```
 
@@ -38,7 +38,7 @@ var dragEnd = $('#jqxListBox').jqxListBox('dragEnd');
 
 ## 超文本标记语言
 
-```
+```html
 <html>
   <head>
     <link rel="stylesheet" 

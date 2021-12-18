@@ -10,13 +10,13 @@
 
 *   设置*垂直滚动条步骤*属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ verticalscrollbarstep: 10});
     ```
 
 *   返回*垂直滚动条步骤*属性。
 
-    ```
+    ```html
     var verticalscrollbarstep = $('#Selector')
         .jqxGrid('verticalscrollbarstep');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

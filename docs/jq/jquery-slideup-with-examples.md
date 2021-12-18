@@ -5,7 +5,7 @@
 **slideUp()** 是 jQuery 中的一个内置方法，用来隐藏选中的元素。
 **语法:**
 
-```
+```html
 $(selector).slideUp(speed);
 
 ```
@@ -19,7 +19,7 @@ $(selector).slideUp(speed);
 **代码#1:**
 在下面的代码中，没有参数传递给这个方法。
 
-```
+```html
 <html>
 
 <head>
@@ -63,7 +63,7 @@ $(selector).slideUp(speed);
 **代码#2:**
 在下面的代码中，超速参数被传递给这个方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

@@ -10,13 +10,13 @@
 
 设置*高度*属性。
 
-```
+```html
 $('selector').jqxInput({ height: Number });
 ```
 
 返回*高度*属性。
 
-```
+```html
 var height = $('selector').jqxInput('height');
 ```
 
@@ -31,7 +31,7 @@ var height = $('selector').jqxInput('height');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

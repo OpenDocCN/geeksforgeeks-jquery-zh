@@ -10,13 +10,13 @@
 
 要设置*hasthreadestes*属性:
 
-```
+```html
 $("#jqxListBox").jqxListBox({hasThreeStates:true}); 
 ```
 
 要获得*hasthreadestes*属性:
 
-```
+```html
 var hasThreeStates = $('#jqxListBox').jqxListBox('hasThreeStates'); 
 ```
 
@@ -33,7 +33,7 @@ var hasThreeStates = $('#jqxListBox').jqxListBox('hasThreeStates');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>

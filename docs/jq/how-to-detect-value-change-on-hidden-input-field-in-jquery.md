@@ -13,7 +13,7 @@
 
 **示例 1:** 以下示例使用 jQuery 的内置 **bind()** 方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -71,7 +71,7 @@ integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
 
 **示例 2:** 以下示例使用 jQuery 的内置 **change()** 方法。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

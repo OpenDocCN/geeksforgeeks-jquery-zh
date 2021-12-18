@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```html
 $("#Selector").on('cellselect', function (event) {
 
    // Arguments of the event
@@ -42,7 +42,7 @@ $("#Selector").on('cellselect', function (event) {
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@ jQuery 中的这个 **parseHTML()** 方法用来将一个字符串解析成一�
 
 **语法:**
 
-```
+```html
 jQuery.parseHTML(data [, context ] [, keepScripts ])
 
 ```
@@ -21,7 +21,7 @@ jQuery.parseHTML(data [, context ] [, keepScripts ])
 
 **示例 1:** 在本例中，**解析 HTML()方法**将一个字符串解析成一个 DOM 节点数组。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -57,7 +57,7 @@ jQuery.parseHTML(data [, context ] [, keepScripts ])
 
 **示例 2:** 在本例中，**解析 HTML()方法**使用 HTML 字符串创建一个 DOM 节点数组，并将其插入 div。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

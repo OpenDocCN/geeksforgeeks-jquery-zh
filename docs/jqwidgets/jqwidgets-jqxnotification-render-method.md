@@ -8,7 +8,7 @@ render()方法用于呈现通知。它不接受任何参数，也不返回值。
 
 **语法:**
 
-```
+```html
 $('Selector').jqxNotification('render');
 ```
 
@@ -23,7 +23,7 @@ $('Selector').jqxNotification('render');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

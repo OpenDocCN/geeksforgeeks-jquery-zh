@@ -10,13 +10,13 @@
 
 设置*contentTransitionDuration*属性。
 
-```
+```html
 $('selector').jqxTabs({ contentTransitionDuration: Number });
 ```
 
 返回*contentTransitionDuration*属性。
 
-```
+```html
 var CTD = $('selector').jqxTabs('contentTransitionDuration');
 ```
 
@@ -31,7 +31,7 @@ var CTD = $('selector').jqxTabs('contentTransitionDuration');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -12,28 +12,28 @@
 3.  **[什么是 jQuery 选择器？举一些例子。](https://www.geeksforgeeks.org/jquery-selectors-and-event-methods/)**
     jQuery 选择器用于选择 HTML 元素，并允许您以我们想要的方式操作 HTML 元素。它在一个变量参数上选择 HTML 元素，如它们的名称、类、id、类型、属性、属性值等。jQuery 中的所有选择器都是使用特殊符号选择的，即美元符号和括号:
 
-    ```
+    ```html
     $("selector-name")
     ```
 
     *   **元素选择器:**元素选择器根据名称选择元素。
         T3】例:
 
-```
+```html
 $("h1")
 ```
 
 *   **Id 选择器:**Id 选择器根据元素的 Id 选择元素。
     **例:**
 
-    ```
+    ```html
     $("#gfg")
     ```
 
     *   **Class Selector:** The class selector selects the element on the basis of its class.
     **Example:**
 
-    ```
+    ```html
     $(".GFG")
     ```
 

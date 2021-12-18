@@ -10,13 +10,13 @@
 
 用于设置 ***页面按钮*** 属性:
 
-```
+```html
 $('Selector').jqxTreeGrid({pagerButtonsCount: 3 });  
 ```
 
 获取 ***页面按钮搜索*** 属性:
 
-```
+```html
 var pagerButtonsCount = 
     $('Selector').jqxTreeGrid('pagerButtonsCount'); 
 ```
@@ -32,7 +32,7 @@ var pagerButtonsCount =
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

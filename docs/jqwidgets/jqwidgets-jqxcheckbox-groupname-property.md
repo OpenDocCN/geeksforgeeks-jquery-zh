@@ -10,13 +10,13 @@ groupName 属性用于设置或返回组的名称。如果我们设置了这个�
 
 设置 groupName 属性。
 
-```
+```html
 $('selector').jqxCheckBox({ groupName: "Panel" });
 ```
 
 返回 groupName 属性。
 
-```
+```html
 var groupName = $('selector').jqxCheckBox('groupName');
 ```
 
@@ -30,7 +30,7 @@ var groupName = $('selector').jqxCheckBox('groupName');
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```html
 $("Element:nth-child(Index/even/odd/equation)")
 ```
 
@@ -16,7 +16,7 @@ $("Element:nth-child(Index/even/odd/equation)")
 
     **示例:**
 
-    ```
+    ```html
     <!DOCTYPE html>
     <html>
 

@@ -10,7 +10,7 @@
 
 *   设置 **columnSeriesOverlap** 属性。
 
-    ```
+    ```html
     $('Selector').jqxChart({ 
         columnSeriesOverlap : boolean 
     });
@@ -18,7 +18,7 @@
 
 *   返回 **columnSeriesOverlap** 属性。
 
-    ```
+    ```html
     var columnSeriesOverlap = $('Selector')
             .jqxChart('columnSeriesOverlap');
     ```
@@ -34,7 +34,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

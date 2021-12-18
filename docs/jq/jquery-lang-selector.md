@@ -7,13 +7,13 @@
 
 **语法:**
 
-```
+```html
 $(":lang(language)")
 ```
 
 **示例:**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 

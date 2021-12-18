@@ -12,7 +12,7 @@ jQWidgets 是一个 JavaScript 框架，用于为 PC 和移动设备制作基于
 
 设置动画隐藏延迟属性。
 
-```
+```html
 $('selector').jqxRadioButton({ 
     animationHideDelay: Number 
 });
@@ -20,7 +20,7 @@ $('selector').jqxRadioButton({
 
 返回动画隐藏延迟属性。
 
-```
+```html
 var AHD = $('selector')
     .jqxRadioButton('animationHideDelay');
 ```
@@ -38,7 +38,7 @@ var AHD = $('selector')
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 

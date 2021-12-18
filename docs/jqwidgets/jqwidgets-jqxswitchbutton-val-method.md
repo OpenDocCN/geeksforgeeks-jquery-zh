@@ -10,25 +10,25 @@
 
 去获取价值。
 
-```
+```html
 var value = $("Selector").jqxSwitchButton('val');
 ```
 
 使用 jQuery 的 val()获取值。
 
-```
+```html
 var value = $("Selector").val();
 ```
 
 设定值。
 
-```
+```html
 $("Selector").jqxSwitchButton('val', true);
 ```
 
 使用 jQuery 的 val()设置值。
 
-```
+```html
 $("Selector").val(true);
 ```
 
@@ -45,7 +45,7 @@ $("Selector").val(true);
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

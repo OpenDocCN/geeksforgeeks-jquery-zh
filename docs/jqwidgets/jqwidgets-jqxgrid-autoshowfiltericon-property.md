@@ -10,13 +10,13 @@
 
 *   它用于设置 autoshowfiltericon 属性。
 
-    ```
+    ```html
     $('#Selector').jqxGrid({ autoshowfiltericon: false});
     ```
 
 *   它用于返回 autoshowfiltericon 属性。
 
-    ```
+    ```html
     var autoshowfiltericon = 
         $('#Selector').jqxGrid('autoshowfiltericon');
     ```
@@ -32,7 +32,7 @@
 
 ## 超文本标记语言
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
